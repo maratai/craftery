@@ -1,7 +1,7 @@
 # Game Development
 
 ## General
-- Jason Gregory. *Game Engine Architecture*, 3rd ed. 2019.
+- Jason Gregory. *Game Engine Architecture*, 3rd ed. 2019. So very aspirational, but I like poking at some of the topics as a hobbyist.
   - 1 Introduction
       - 1.1 Structure of a Typical Game Team
       - 1.2 What is a Game?
