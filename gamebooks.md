@@ -5,4 +5,5 @@
 - Todd Johnson. *Slammers Down!* in the world of David Drake's Hammer's Slammers. **to-read**
 
 # Fighting Fantasy gamebooks
-- Robin Waterfield. *Rebel Planet*. #18. **partly played, to-read**
+- Jim Bambra and Stephen Hand. #40 *Dead of Night*. Fantasy demon-hunter, slightly dark. **partly played, to-read**
+- Robin Waterfield. #18 *Rebel Planet*. Space opera. **partly played, to-read**
