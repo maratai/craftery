@@ -1,7 +1,10 @@
 # Music
 I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace Education generally.
 
-## Musicology
+# Csound
+- Richard Boulanger, ed. *The Csound Book: Perspecxtives in Software Synthesis, Sound Design, SIgnal Processing, and Programming*. 2000. It's been a while since I played around with Csound; very exciting! **to-read**
+
+# Musicology
 - Brent Auerbach. *Musical Motives: A Theory and Method for Analyzing Shape in Music*.
   - Part I: The Grounds for a Discipline of Motivic Analysis
   - 1 Introduction to Motives
