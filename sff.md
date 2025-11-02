@@ -1,4 +1,4 @@
-**Nota bene**: Categories are for my own organizational purposes. I'm not interested in flamewars about subsubsubgenres.
+**Nota bene**: Categories are for my own organizational purposes. I'm not interested in flamewars about subsubsubgenres, thanks.
 
 # Military Fantasy
 - Miles Cameron. The Traitor Son Cycle #1 *The Red Knight*. **currently reading**
