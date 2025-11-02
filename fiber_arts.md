@@ -1,11 +1,20 @@
 # Ply Magazine
 - *Cotton*. Spring 2016. **to-read**
+  - Chitra Balasubramaniam. "Khadi: the Freedom Cloth."
+  - Glenna Dean. "Cotton Farming in New Mexico Prehistory."
+  - Carson Demers. "Ergo Neo - Sit and Spin."
+  - Louie Garcia. "Cotton Spinning and Sprang in the Pueblo Southwest."
   - Stephenie Gaustad. "Cotton Lessons."
   - Eileen Hallman. "Charkha Tips and Tricks."
+  - Jill Holbrook. "Spin It! Cotton Cactus Flower Shirt."
+  - Carol James. "The Arizona Openwork (Tonto) Shirt Project."
+  - Kristen Merritt. "Spin It! Cotton on a Spindle."
+  - Allen Nansubuga. "Cotton Spinning in Uganda."
   - Ric Rao. "Prep It! Dyeing Cotton Naturally."
   - Joan S. Ruane. "Prep It! Carding Cotton Lint and Making a Puni."
   - Joan S. Ruane. "Spin It! Cotton on a Wheel."
+  - Patricia Santangelo. "Weave It! Your First Handspun Cotton."
   - Irene Laughing Cloud Schmoller. "Cotton: the Miracle Fiber."
   - Susan Sullivan. "Prep It! Blending Cotton."
   - Kay Toombs. "Who's That Spinner? Spinning with Tenacity."
-  - more TK
+  - ?. "Hot Button - Boiling Cotton."
