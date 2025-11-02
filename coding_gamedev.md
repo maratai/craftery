@@ -24,3 +24,11 @@
       - 3.5 Memory Architure
   - 4 Parallelism and Concurrent Programming
       - (more TK)
+
+## Unity and C#
+I'm not currently pursuing Unity (other than as a learning source of ~pseudocode in some instances) but you never know!
+
+- Paris Buttfield-Addison, Jon Manning, and Tim Nugent. *Unity Development Cookbook: Real-Time Solutions from Game Development to AI*, 2nd ed. 2023.
+- Casey Hardman. *Game Programming with Unity and C#: A Complete Beginner's Guide*, 2nd ed. 2024.
+- Joseph Hocking. *Unity in Action*, 3rd ed. 2022.
+##
