@@ -24,6 +24,7 @@
       - 3.5 Memory Architure
   - 4 Parallelism and Concurrent Programming
       - (more TK)
+- Matt Hackett. *How to Make a Video Game All by Yourself: 10 Steps, Just You and a Computer*. This will *not* teach you the coding or design end; it's rather about scoping and planning a one-person indie videogame project. It's small, succinct, excellent. [Various print and ebook purchase options](https://www.valadria.com/how-to-make-a-video-game-all-by-yourself/). **Recommended**.
 
 ## Unity and C#
 I'm not currently pursuing Unity (other than as a learning source of ~pseudocode in some instances) but you never know!
