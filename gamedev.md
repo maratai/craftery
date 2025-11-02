@@ -1,7 +1,7 @@
 # Game Development
 
 ## General
-- Jason Gregory. *Game Engine Architecture*, 3rd ed.
+- Jason Gregory. *Game Engine Architecture*, 3rd ed. 2019.
   - 1 Introduction
       - 1.1 Structure of a Typical Game Team
       - 1.2 What is a Game?
@@ -14,4 +14,13 @@
       - 2.1 Version Control
       - 2.2 Compilers, Linkers and IDEs
       - 2.3 Profiling Tools
-      - (TK)
+      - 2.4 Memory Leak and Corruption Deetection
+      - 2.5 Other Tools
+  - 3 Fundamentals of Software Engineering for Games
+      - 3.1 C++ Review and Best Practices
+      - 3.2 Catching and Handling Errors
+      - 3.3 Data, Code and Memory Layout
+      - 3.4 Computer Hardware Fundamentals
+      - 3.5 Memory Architure
+  - 4 Parallelism and Concurrent Programming
+      - (more TK)
