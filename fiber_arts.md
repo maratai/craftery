@@ -1,6 +1,10 @@
 # Fiber
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
 
+## Lacemaking: Needle Lace
+My main interest is needle lace so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
+- DMC Library. *Needle-Made Laces: 1st Series*. I own this is hardcopy, but it's in the public domain and readily available online. **Recommended**.
+
 # Ply Magazine
 - *Cotton*. Spring 2016. **to-read**
   - Chitra Balasubramaniam. "Khadi: the Freedom Cloth."
