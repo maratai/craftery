@@ -1,5 +1,8 @@
 # Art Instruction
 
+# Comics, Graphic Novels, Sequential Art
+- Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
+
 # Composition
 The visual art and design kind, not the music kind! (Probably.)
 
