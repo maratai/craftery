@@ -3,7 +3,8 @@
 
 ## Lacemaking: Needle Lace
 My main interest is needle lace so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
-- DMC Library. *Needle-Made Laces: 1st Series*. I own this is hardcopy, but it's in the public domain and readily available online. **Recommended**.
+- DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
+- *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
 
 # Ply Magazine
 - *Cotton*. Spring 2016. **to-read**
