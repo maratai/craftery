@@ -1,3 +1,6 @@
+# Fiber
+- Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas).
+
 # Ply Magazine
 - *Cotton*. Spring 2016. **to-read**
   - Chitra Balasubramaniam. "Khadi: the Freedom Cloth."
