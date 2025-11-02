@@ -1,4 +1,11 @@
 # Ply Magazine
 - *Cotton*. Spring 2016. **to-read**
-- - Irene Laughing Cloud Schmoller. "Cotton: the Miracle Fiber."
-- - Stephenie Gaustad. "Cotton Lessons."
+  - Stephenie Gaustad. "Cotton Lessons."
+  - Eileen Hallman. "Charkha Tips and Tricks."
+  - Ric Rao. "Prep It! Dyeing Cotton Naturally."
+  - Joan S. Ruane. "Prep It! Carding Cotton Lint and Making a Puni."
+  - Joan S. Ruane. "Spin It! Cotton on a Wheel."
+  - Irene Laughing Cloud Schmoller. "Cotton: the Miracle Fiber."
+  - Susan Sullivan. "Prep It! Blending Cotton."
+  - Kay Toombs. "Who's That Spinner? Spinning with Tenacity."
+  - more TK
