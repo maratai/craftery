@@ -2,3 +2,6 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 
 # Command and Control (etc)
 - Martin Van Creveld. *Command in War*. Creveld's *Logistics* is excellent so I am looking forward to digging in. **currently reading**
+
+# Special Forces
+- Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
