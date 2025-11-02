@@ -1,6 +1,8 @@
 Books concern fiction and prose writing unless otherwise specified.
 
 # Characterization, Character Creation
+- Tami D. Cowden. *Fallen Heroes: Sixteen Master Villain Archetypes*. *See* notes on *The Complete Writer's Guide to Heroes and Heroines* by Cowden et al., below. **Recommended** (with the same caveats).
+- Tami D. Cowden, Caro LaFever, and Sue Viders. *The Complete Writer's Guide to Heroes and Heroines: Sixteen Master Archetypes*. Extremely useful if you start from a general archetype and then get more specific rather than the other way around. The authors are quite clear that these are intended as a starting point. Note that this is slanted toward romance genres. **Recommended** (*see* caveats).
 - Paul Tomlinson. *Character Creation: A Guide to Archetypes, Motivation and Emotion for Writers and Actors*. Idiosyncratic stylized/dramatized Jungian approach but the only characterization book that works wholesale *for me*. I don't claim it works for anyone else. **Recommended** (*see* caveats). **currently reading**
   - 1 Inner Conflict
   - 2 Shadow and Denied Self
