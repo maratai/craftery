@@ -31,4 +31,9 @@ I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace 
   - Part I: Conventional Theme Types
   - The Sentence
     - (more TK)
+- Jenefer Robinson, ed. *Music and Meaning*. Essay/chapter list TK.
        
+### Musicology: Schenekerian Analysis
+- Oswald Jonas. *Introduction to the Theory of Heinrich Schenker*.
+
+
