@@ -6,4 +6,5 @@
 
 # Fighting Fantasy gamebooks
 - Jim Bambra and Stephen Hand. #40 *Dead of Night*. Fantasy demon-hunter, slightly dark. **partly played, to-read**
+- Jonathan Green. *YOU Are the Hero: A History of Fighting Fantasy Gamebooks*. Something completely different! A Kickstarter-funded, loving homage. **to-read**
 - Robin Waterfield. #18 *Rebel Planet*. Space opera. **partly played, to-read**
