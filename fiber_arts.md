@@ -29,3 +29,7 @@ My main interest is needle lace so I tend not to track e.g. crochet or bobbin la
 # Spinning and Handspun
 - Sarah Anderson. *The Spinner's Book of Yarn Designs*. Excellent and inspirational. Comes with reference cards. Focuses mostly on wools and similar animal fibers. **Recommended**.
 - Sarah Lamb. *The Practical Spinner's Guide: Silk*. Terrific reference. **Recommended**.
+
+# Workbench: The Do-It-Yourself Magazine
+As far as I can tell, this magazine focused on DIY projects for white people yearning toward a 1950s existence based on the marketing implications of the cover images, but the *plans* for projects often look intriguing. These projects aren't confined to fiber tools but that's my current interest.
+- March/April 1983. My specific interest is the "Spinning Wheel" (scaled-down, of course) plans and instructions by Lance R. Skidmore, which requires significant woodworking expertise. Opinions on r/Handspinning were that the plans looked quite plausible although I don't (yet) know anyone who's attempted a test build.
