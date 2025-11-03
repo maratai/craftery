@@ -29,6 +29,9 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 # Patterns: General
 
 ## Patterns: Clothing
+- Helen Joseph Armstrong. *Patternmaking for Fashion Design*, 5th ed. **to-read**
+- Jo Barnfield and Andrew Richards. *The Pattern Making Primer*. For beginners. **to-read**
+- Simon Crompton. *The Finest Menswear in the World: The Craftsmanship of Luxury*. Honestly, I keep this more as a character design (outfit) reference. It's a beautiful coffee table type book, though.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. 1988. A superlative book in terms of explanations and diagrams despite the stick-figure nature of the figures. Includes a bit of sociocultural context as well as adaptations for "modern" (USAn?) wear. **Recommended**.
 
 # Ply Magazine
