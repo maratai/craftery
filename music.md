@@ -11,7 +11,7 @@ Take it as read that I'm aware of the issues of the term/framing of "ethnomusico
 
 # Instruments: Instruction
 
-## Instructions: Guqin
+## Instruments: Guqin
 - Juni L. Yeung. *Standards of the Guqin: An English Language Introduction to the Chinese Seven-Stringed Zither*, 4th ed. The notation conventions alone are fascinating.
 
 # Musicology
