@@ -31,6 +31,11 @@ The visual art and design kind, not the music kind! (Probably.)
 ## Figure Drawing: Gesture Drawing
 - Michael Hampton. *Gesture Drawing: Dynamic Movement and Form*. **to-read**
 
+# Paints and Pigments
+Caveat that I have zero background in *chemistry*.
+
+- Nick Neddo. *The Organic Artist: Make Your Own Paint, Paper, Pigments, Prints, and More from Nature*.
+
 # References
 
 ## References: Architecture
