@@ -7,3 +7,6 @@ Some of these resources will be a bit out of field.
 
 # Animation Principles and Theory
 - Ellen Besen, illus. Bryce Hallett. *Animation Unleashed*. Terrific overview; the illustrations are integral to the text. **Recommended**.
+
+# Animation Timing
+- Harold Whitaker and John Halas. Updated by Tom Sito. *Timing for Animation*, 3rd ed. 2021. **to-read**
