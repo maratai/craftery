@@ -11,12 +11,15 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Virginia D. McGlynn, illus. Walter J. McGlynn. *Knitting Illustrated for Beginners and Others*. Terrific instructional booklet. It's no one else's fault that I bounced off knitting after trying it for a few years! **Recommended**.
 
 # Lacemaking, General
+- Annette Feldman. *Handmade Lace and Patterns*. 1975. This is getting destashed in a friend's direction. It looks fine as an instructional text, but the focus is on crochet, hairpin lace, knitting, and tatting (brief). I have more useful books on tatting and I don't practice the other techniques, so this will do better with someone who will appreciate it!
 - Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. 1991. Frankly, this book is classist as fuck and I despise the author (I'm sure the feeling would be mutual), but this is nevertheless an excellent *reference* on lace (etc) styles, with many black-and-white photos.
 
 ## Lacemaking: Needle Lace
 My main interest is needle lace because of the low supply/tool requirement (fabric, needle, thread) so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
 
 - Hazel Blomkamp. *Needle Lace Techniques for Hand Embroidery*. I picked up a used hardcopy at some trouble but happily (?), there's at least one digital edition available now (for Amazon Kindle IIRC). Terrific, beautiful diagrams. **Recommended**.
+- Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
+- Pat Earnshaw. *Youghal and Other Irish Laces*. More of a survey of types and examples than an instructional text, but the photos are lovely.
 - Jacquelin Peter. *A Practical Guide to Needle Lace*. Probably one of the better in-print contemporary guides to needle lace techniques. This is translated into English from the French; I've seen comments that some of the translations are awkward, but I don't have the expertise to tell. **Recommended**.
 - DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
 - *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
