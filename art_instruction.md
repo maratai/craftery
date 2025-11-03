@@ -1,7 +1,10 @@
 # Art Instruction
 
+Note that the **Comics (etc)** category contains books that overlaps with other categories, but which pertain specifically to the format.
+
 # Comics, Graphic Novels, Sequential Art
 - Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
+- Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
 
 # Composition
