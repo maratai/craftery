@@ -42,4 +42,4 @@ Caveat that I have zero background in *chemistry*.
 - Margaret Fletcher. Illus. Robbie Polley. *Architectural Styles: A Visual Guide*. Beautiful and well-organized. **Recommended**.
 
 # Sculpture
-- Susie Benes. *Exposed Sculpture: The Art of Creating Animals in Wire and Clay*. I don't have sculpture aspirations (most clays make me *throw up*; I can't handle something about the smell + texture) but this is gorgeous to page through, with photos in full color.
+- Susie Benes. *Exposed Sculpture: The Art of Creating Animals in Wire and Clay* and *Sculpting Horses in Air Dry Clay*. I don't have sculpture aspirations (most clays make me *throw up*; I can't handle something about the smell + texture) but this is gorgeous to page through, with photos in full color.
