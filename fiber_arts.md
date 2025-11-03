@@ -10,12 +10,21 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 # Knitting
 - Virginia D. McGlynn, illus. Walter J. McGlynn. *Knitting Illustrated for Beginners and Others*. Terrific instructional booklet. It's no one else's fault that I bounced off knitting after trying it for a few years! **Recommended**.
 
+# Lacemaking, General
+- Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. 1991. Frankly, this book is classist as fuck and I despise the author (I'm sure the feeling would be mutual), but this is nevertheless an excellent *reference* on lace (etc) styles, with many black-and-white photos.
+
 ## Lacemaking: Needle Lace
 My main interest is needle lace because of the low supply/tool requirement (fabric, needle, thread) so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
 
 - Hazel Blomkamp. *Needle Lace Techniques for Hand Embroidery*. I picked up a used hardcopy at some trouble but happily (?), there's at least one digital edition available now (for Amazon Kindle IIRC). Terrific, beautiful diagrams. **Recommended**.
+- Jacquelin Peter. *A Practical Guide to Needle Lace*. Probably one of the better in-print contemporary guides to needle lace techniques. This is translated into English from the French; I've seen comments that some of the translations are awkward, but I don't have the expertise to tell. **Recommended**.
 - DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
 - *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
+
+# Patterns: General
+
+## Patterns: Clothing
+- John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. 1988. A superlative book in terms of explanations and diagrams despite the stick-figure nature of the figures. Includes a bit of sociocultural context as well as adaptations for "modern" (USAn?) wear. **Recommended**.
 
 # Ply Magazine
 - *Cotton*. Spring 2016. **to-read**
@@ -56,7 +65,8 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 ## Spinning Wheel Construction and Design
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels* and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
 
-# Weaving
+# Weaving: General
+- Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
 
 ## Weaving: Rigid Heddle Looms
 - Syne Mitchell. *Inventive Weaving on a Little Loom*.
