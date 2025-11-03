@@ -44,6 +44,7 @@ Take it as read that I'm aware of the issues of the term/framing of "ethnomusico
   - Part I: Conventional Theme Types
   - The Sentence
     - (more TK)
+- William E. Caplin. *Cadence: A Study of Closure in Tonal Music*.
 - Jenefer Robinson, ed. *Music and Meaning*. Essay/chapter list TK.
        
 ### Musicology: Schenekerian Analysis
