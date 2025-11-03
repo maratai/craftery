@@ -28,6 +28,9 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 
 # Patterns: General
 
+## Patterns: Bags and Gear
+- Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gears*. 1981. While the discussion of e.g. *materials* is dated (in that often modern "technical" fabrics not invented at the time of writing aren't covered!), this is an excellent book on everything from materials, *weight* (important for this type of gear!), techniques, patterns, and modifications one can make. **Recommended**.
+
 ## Patterns: Clothing
 - Helen Joseph Armstrong. *Patternmaking for Fashion Design*, 5th ed. **to-read**
 - Jo Barnfield and Andrew Richards. *The Pattern Making Primer*. For beginners. **to-read**
