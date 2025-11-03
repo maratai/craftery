@@ -4,7 +4,8 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
 
 ## Lacemaking: Needle Lace
-My main interest is needle lace so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
+My main interest is needle lace because of the low supply/tool requirement (fabric, needle, thread) so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
+
 - Hazel Blomkamp. *Needle Lace Techniques for Hand Embroidery*. I picked up a used hardcopy at some trouble but happily (?), there's at least one digital edition available now (for Amazon Kindle IIRC). Terrific, beautiful diagrams. **Recommended**.
 - DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
 - *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
