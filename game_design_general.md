@@ -3,6 +3,7 @@ General game design that might apply to video games, TTRPGs, board games, etc.
 # Game Design: General
 - Johan Huizinga. *Homo Ludens: A Study of the Play-Element in Culture*. If you need to write about game design and theory in an *academic* sense, this book is impossible to escape.
 - Durgan A. Nallar. *Playful Structure: A Game Design Methodology: Theory and Practice*. **to-read**
+- Lewis Pulsipher. *Game Design: How to Create Video and Tabletop Games, Start to Finish*. **Recommended**.
 - Tynan Sylvester. *Designing Games: A Guide to Engineering Experiences*. **to-read**
 - Evan Torner, Emma Leigh Waldron, and Aaron Trammell, eds. *Analog Game Studies, Volume 2*. I have read some but not all of the essays.
   - Kevin Autenrieth. "Rule Explicitness Between Classic, Modern, and Computer Games."
@@ -29,3 +30,8 @@ General game design that might apply to video games, TTRPGs, board games, etc.
   - Devin Wilson. "The Eurogame as Heterotopia." **Recommended**.
   - Peter Wonica. "Learning to Evaluate Analog Games for Education."
 - Jeff Warrender. *You Said This Would Be Fun: What Makes a Game Good and How to Make a Good Game*. Foreword by Ben Maddox. **to-read**
+
+# Game Development: Business and Finances
+Note that as of this writing (2025-11-03), any traditionally printed books pertaining to fulfillment/logistics, especially touching on the USA, is likely to be dated due to the rapidly evolving tariff and trade war situations.
+
+- Michael Futter. *The Gamedev Budgeting Handbook: How to Finish Your Game in Time and On Budget!*. 2018.
