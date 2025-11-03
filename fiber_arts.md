@@ -82,6 +82,7 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels* and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
 
 # Weaving: General
+- Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
 
 ## Weaving: Card Weaving
