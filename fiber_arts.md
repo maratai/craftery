@@ -1,6 +1,6 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
-# Fiber
+# Fiber Reference
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
 
 ## Lacemaking: Needle Lace
@@ -32,6 +32,7 @@ My main interest is needle lace so I tend not to track e.g. crochet or bobbin la
 
 # Spinning and Handspun
 - Sarah Anderson. *The Spinner's Book of Yarn Designs*. Excellent and inspirational. Comes with reference cards. Focuses mostly on wools and similar animal fibers. **Recommended**.
+- Stephenie Gaustad. *The Practical Spinner's Guide: Cotton, Flax, Hemp*. Great reference. **Recommended**.
 - Sarah Lamb. *The Practical Spinner's Guide: Silk*. Terrific reference. **Recommended**.
 
 # Workbench: The Do-It-Yourself Magazine
