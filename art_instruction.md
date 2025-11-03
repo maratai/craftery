@@ -7,6 +7,9 @@ Note that the **Comics (etc)** category contains books that overlaps with other 
 - Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
 
+## Comics: Lettering
+- Nate Piekos. *The Essential Guide to Comic Book Lettering*. **Recommended**.
+
 ## Comics: Software
 - Inko Ai Takita and Liz Staley. *Learn Clip Studio Paint*, 3rd ed. 2021.
 
