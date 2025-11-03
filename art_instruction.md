@@ -7,6 +7,9 @@ Note that the **Comics (etc)** category contains books that overlaps with other 
 - Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
 
+## Comics: Software
+- Inko Ai Takita and Liz Staley. *Learn Clip Studio Paint*, 3rd ed. 2021.
+
 # Composition
 The visual art and design kind, not the music kind! (Probably.)
 
@@ -20,3 +23,8 @@ The visual art and design kind, not the music kind! (Probably.)
 
 ## Figure Drawing: Gesture Drawing
 - Michael Hampton. *Gesture Drawing: Dynamic Movement and Form*. **to-read**
+
+# References
+
+## References: Architecture
+- Margaret Fletcher. Illus. Robbie Polley. *Architectural Styles: A Visual Guide*. Beautiful and well-organized. **Recommended**.
