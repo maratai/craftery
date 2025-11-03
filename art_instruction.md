@@ -18,6 +18,9 @@ The visual art and design kind, not the music kind! (Probably.)
 
 - Marcos Mateu-Mestre. *Framed Ink: Drawing and Composition for Visual Storytellers*, *Framed Ink Vol. 2: Frame Format, Energy, and Composition for Visual Storytellers*. **to-read**
 
+# Fashion Illustration
+- Robyn Neild. *Sketch Your Style: A Guided Sketchbook for Drawing Your Dream Wardrobe*. Activity-book style where you draw in the book. This looks fun but is getting destashed because I have limited shelf space (and other books that address my needs better).
+
 # Figure Drawing: General
 - Dongho Kim. *Character Drawing*. Emphasizes character *design* use cases.
 - Rockhe Kim. *Rockhe Kim's Anatomy Drawing Class*. Looks excellent although I've only worked through a tiny portion. IIRC Kim's books are originally in Korean but also available in English translation.
