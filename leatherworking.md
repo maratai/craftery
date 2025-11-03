@@ -1,2 +1,3 @@
 # Leatherworking
 - Valerie Michael. *The Leatherworking Handbook*. This is a good text and has especially useful details on gusset construction. **Recommended**.
+- Studio Tac Creative. *Leather Crafting Starter Book: Tools, Techniques, and 16 Step-by-Step Projects for Beginners*. If you get a single *introductory* book on leatherworking and can source it, this is the one. A beautiful example of technical writing, photos/diagrams included. This is a Japanese instructional text in English translation. There probably exists a Japanese instructional crafts text that has terrible technical writing, somewhere. I've yet to run across an example. **Recommended**.
