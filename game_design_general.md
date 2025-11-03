@@ -2,6 +2,7 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 
 # Game Design and Ludology: General
 - Johan Huizinga. *Homo Ludens: A Study of the Play-Element in Culture*. If you need to write about game design and theory in an *academic* sense, this book is impossible to escape.
+- Richard Lemarchand. Foreword by Amy Hennig. *A Playful Production Process: For Game Designers (And Everyone)*. 2021.
 - Durgan A. Nallar. *Playful Structure: A Game Design Methodology: Theory and Practice*. **to-read**
 - Lewis Pulsipher. *Game Design: How to Create Video and Tabletop Games, Start to Finish*. **Recommended**.
 - Tynan Sylvester. *Designing Games: A Guide to Engineering Experiences*. **to-read**
