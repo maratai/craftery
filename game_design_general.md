@@ -38,4 +38,5 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 # Game Development: Business and Finances
 Note that as of this writing (2025-11-03), any traditionally printed books pertaining to fulfillment/logistics, especially touching on the USA, is likely to be dated due to the rapidly evolving tariff and trade war situations.
 
-- Michael Futter. *The Gamedev Budgeting Handbook: How to Finish Your Game in Time and On Budget!*. 2018.
+- Michael Futter. *The Gamedev Business Handbook: How to Build the Business You'll Build Games With!*, 2017, and *The Gamedev Budgeting Handbook: How to Finish Your Game in Time and On Budget!*, 2018. Otherwise known as "please do a math BEFORE you start your company." **Recommended**.
+- Richard Hill-Whittall. *The Indie Game Developer Handbook*. 2015. Large portions of this book are dated (link rot, discussions of specific software platforms, etc) but the developer diary portions are still of interest.
