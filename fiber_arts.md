@@ -1,8 +1,9 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
 # Embroidery
-- Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, i'ts 80% satin stitch by volume.
+- Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, it's 80% satin stitch by volume.
 - Sarah Homfray. *Silk Shading*. I will be destashing this in a friend's direction. If you know anything about color and some embroidery stitches, this is nothing new. Lovely photos though, and a reasonable reference/starting point for a beginner.
+- Shuji Tamura. *The Techniques of Japanese Embroidery*. Superlative. **Recommended**.
 
 # Fiber Reference
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
@@ -20,7 +21,8 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 - Hazel Blomkamp. *Needle Lace Techniques for Hand Embroidery*. I picked up a used hardcopy at some trouble but happily (?), there's at least one digital edition available now (for Amazon Kindle IIRC). Terrific, beautiful diagrams. **Recommended**.
 - Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
 - Pat Earnshaw. *Youghal and Other Irish Laces*. More of a survey of types and examples than an instructional text, but the photos are lovely.
-- Jacquelin Peter. *A Practical Guide to Needle Lace*. Probably one of the better in-print contemporary guides to needle lace techniques. This is translated into English from the French; I've seen comments that some of the translations are awkward, but I don't have the expertise to tell. **Recommended**.
+- Jules and Kaethe Liot, eds. *Teneriffe Lace*.
+- Jacqueline Peter. *A Practical Guide to Needle Lace*. Probably one of the better in-print contemporary guides to needle lace techniques. This is translated into English from the French; I've seen comments that some of the translations are awkward, but I don't have the expertise to tell. **Recommended**.
 - DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
 - *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
 
@@ -70,6 +72,9 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 
 # Weaving: General
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
+
+## Weaving: Card Weaving
+- Candace Crockett. *Card Weaving*.
 
 ## Weaving: Rigid Heddle Looms
 - Syne Mitchell. *Inventive Weaving on a Little Loom*.
