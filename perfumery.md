@@ -1,0 +1,2 @@
+# Perfumery Textbooks
+- Günther Ohloff, Wilhelm Pickenhagen, Philip Kraft, and Fanny Grau. *Scent and Chemistry: The Molecular World of Odors*, 2nd ed. This is a professional perfumery textbook. As someone who avoided taking chemistry for reasons that made an unfortunate amount of sense at the time despite being *interested* (e.g. a chemistry teacher at my high school who was fired for "inappropriate contact with students"), this is over my head but fun to browse.
