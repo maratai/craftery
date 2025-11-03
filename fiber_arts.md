@@ -1,7 +1,14 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
+# Embroidery
+- Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, i'ts 80% satin stitch by volume.
+- Sarah Homfray. *Silk Shading*. I will be destashing this in a friend's direction. If you know anything about color and some embroidery stitches, this is nothing new. Lovely photos though, and a reasonable reference/starting point for a beginner.
+
 # Fiber Reference
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
+
+# Knitting
+- Virginia D. McGlynn, illus. Walter J. McGlynn. *Knitting Illustrated for Beginners and Others*. Terrific instructional booklet. It's no one else's fault that I bounced off knitting after trying it for a few years! **Recommended**.
 
 ## Lacemaking: Needle Lace
 My main interest is needle lace because of the low supply/tool requirement (fabric, needle, thread) so I tend not to track e.g. crochet or bobbin lace instructional materials. Sorry!
@@ -35,6 +42,9 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 - Sarah Anderson. *The Spinner's Book of Yarn Designs*. Excellent and inspirational. Comes with reference cards. Focuses mostly on wools and similar animal fibers. **Recommended**.
 - Stephenie Gaustad. *The Practical Spinner's Guide: Cotton, Flax, Hemp*. Great reference. **Recommended**.
 - Sarah Lamb. *The Practical Spinner's Guide: Silk*. Terrific reference. **Recommended**.
+
+## Spinning Wheel Construction
+- Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*. Wonderful discussion of the physics/engineering considerations. **Recommended**.
 
 # Weaving
 
