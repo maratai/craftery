@@ -38,13 +38,23 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Kay Toombs. "Who's That Spinner? Spinning with Tenacity."
   - ?. "Hot Button - Boiling Cotton."
 
-# Spinning and Handspun
+# Spinning and Handspun: General
 - Sarah Anderson. *The Spinner's Book of Yarn Designs*. Excellent and inspirational. Comes with reference cards. Focuses mostly on wools and similar animal fibers. **Recommended**.
+- Marion L. Channing. *The Magic of Spinning*. 1971. Largely concerns wheel spinning but there's a brief discussion of e.g. drop spindles. This is a slim volume that came with my secondhand treadle wheel (Ashford Traveller) and which I treasure because the instructional material is extremely well written. I often find for hand crafts like handspinning on a treadle wheel, older/out of print texts are *better* at explaining nuances because they were (probably) written during a period when those were more widespread skills. Of course, the nautral consequence as current hobbyists get into these crafts is that the price of out of print books inevitably creeps upward. Personally, I secured half my stash of books on the topic by haunting library discard sales, as these books are often de-acquisitioned because they're not circulating in a public library context. **Recommended**.
+- Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning: Building Exactly the Yarn You Want*. Many people swear by this book. It does look excellent, with clear explanations. It's possibly more nerdy about yarn that I will ever be (I like randomness in my spinning, which I do recreationally) and the author is pretty clear that it's *strongly* oriented toward mostly wool yarns mostly for knitting with a side of crochet. As someone whose use cases are usually hand-sewing, embroidery, or needle lace, and who neither knits nor crochets, my reaction to the thought of DELIBERATELY creating very "springy" handspun for *those* endeavors is OH HECK NO. So this isn't a book I reference much, although I imagine others get a lot out of it!
+
+## Spinning Cotton, Flax, Hemp, Ramie, Cellulose Fibers etc
+Spinning cotton is one of my interests since it's one of the most readily available local fibers (I live in Louisiana), and ramie is "ancestral" as it's commonly used in Korea: I'm Korean-American, lived in S Korea for half my childhood, and my mother's parents *were originally textile merchants*.)
+
 - Stephenie Gaustad. *The Practical Spinner's Guide: Cotton, Flax, Hemp*. Great reference. **Recommended**.
+- Olive and Harry Linder, updated by Joan S. Ruane. *Hand-Spinning Cotton*. Good reference in a slim volume. **Recommended**.
+- Joan Shepard Ruane. *Beginning Cotton Spinning on a Wheel*. Terrific cotton-spinning information that's often missing in books that focus on spinning wools. **Recommended**.
+
+## Spinning Silk
 - Sarah Lamb. *The Practical Spinner's Guide: Silk*. Terrific reference. **Recommended**.
 
-## Spinning Wheel Construction
-- Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*. Wonderful discussion of the physics/engineering considerations. **Recommended**.
+## Spinning Wheel Construction and Design
+- Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels* and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
 
 # Weaving
 
