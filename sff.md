@@ -51,6 +51,9 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Tanya Huff. *A Confederation of Valor*. Omnibus of *Valor's Choice* and the *Better Part of Valor*.
 - Timothy Zahn. *Heir to the Empire*. **to-read**
 
+# Science Fantasy
+- Tamsyn Muir. *Gideon the Ninth*. **Recommended**.
+
 # Science Fiction
 - C. J. Cherryh. Alliance-Union series. Most of these are **to-read**.
   - *Forty Thousand in Gehenna*. **Recommended**.
@@ -63,6 +66,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Parke Godwin. *Waiting for the Galactic Bus*.
 - Marvin Kaye and Parke Godwin. *The Masters of Solitude*.
 - Marvin Kaye and Parke Godwin. *Wintermind*.
+- Susan R. Matthews. *An Exchange of Hostages*. *A Prisoner of Conscience*. *Hours of Judgment*. *Colony Fleet*. *The Devil and Deep Space*. Thanks to Vicki.
 
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
