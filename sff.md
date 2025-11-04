@@ -4,6 +4,7 @@
 - Ann Turnbull. *The Wolf King*. **Recommended**.
 
 # Fantasy
+- Leigh Bardugo. *Six of Crows*. **to-read**
 - Tanith Lee. *Tales from the Flat Earth: The Lords of Darkness*. SFBC omnibus edition of *Night's Master*, *Death's Master*, and *Delusion's Master*. Thanks to Six; I am looking forward to this. Lee's sensuous prose and decadent worldbuilding have no equal. (Uh, no relation!)
 
 # Collections (single-author)
@@ -28,6 +29,9 @@
 
 # Military Science Fiction
 - Timothy Zahn. *Heir to the Empire*. **to-read**
+
+# Space Opera
+- Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
 
 # Space opera
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
