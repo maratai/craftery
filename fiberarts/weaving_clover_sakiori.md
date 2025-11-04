@@ -1,0 +1,10 @@
+# Weaving on a Clover Sakiori Loom
+This appears NOT to be a rigid heddle loom but I lack loom jargon expertise.
+
+The Clover Sakiori is a Japanese tabletop loom. It has an unbelievably easy warping setup based on the reeds, with what I think of affectionately as typically beautifully overengineered Japanese design and terrific documentation; I don't read Japanese but the pictures + diagrams are extraordinarily clear. I'm US-based so tariffs are a vexed situation (November 2025), but these tend to run ~$200 USD plus international shipping off eBay. I do also own a Lojan Flex rigid heddle loom, but I like the ease of warping so much better on the Clover Sakiori. I'm also that extremely boring person who just wants to plainweave forever; if I want to embellish fabric, I will embroider.
+
+I half-assed the warp and it shows, but at the level of "can I set this up at all," the answer is yes. Also, catten is unlikely to be a HARSH critic of a tiny little catten blankie to shed all over, so.
+
+(photos TK)
+
+[This YouTube playlist](https://www.youtube.com/playlist?list=PL-HlpMcbILt2PGkQRB6qKtaIv6W8rR40I) shows the warping method in action.
