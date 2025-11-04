@@ -1,6 +1,9 @@
 # Music
 I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace Education generally.
 
+# Composition
+- Alan Belkin. *Musical Composition: Craft and Art*. Prerequisites: (Western) music notation, music theory (at least through harmonic progressions, Roman numeral analysis). **Recommended**.
+
 # Csound
 - Richard Boulanger, ed. *The Csound Book: Perspecxtives in Software Synthesis, Sound Design, SIgnal Processing, and Programming*. 2000. It's been a while since I played around with Csound; very exciting! **to-read**
 
@@ -13,6 +16,11 @@ Take it as read that I'm aware of the issues of the term/framing of "ethnomusico
 
 ## Instruments: Guqin
 - Juni L. Yeung. *Standards of the Guqin: An English Language Introduction to the Chinese Seven-Stringed Zither*, 4th ed. The notation conventions alone are fascinating.
+
+# MIDI production
+
+## MIDI-based orchestration and orchestral mockups
+- Paul Gilreath. *The Guide to MIDI Orchestration*, 4th ed. 2010. Some of the computer-based technical discussions are dated, but also, orchestration.
 
 # Musicology
 - Brent Auerbach. *Musical Motives: A Theory and Method for Analyzing Shape in Music*.
