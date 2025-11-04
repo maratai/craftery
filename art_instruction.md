@@ -36,6 +36,11 @@ Caveat that I have zero background in *chemistry*.
 
 - Nick Neddo. *The Organic Artist: Make Your Own Paint, Paper, Pigments, Prints, and More from Nature*.
 
+# Photography
+I realize photography, like a number of these topics, is a huge subject area; I only dip my toe in the shallows.
+
+- George Barr. *Why Photographs Work: 52 Great Images: Who Made Them, What Makes Them Special and Why*.
+
 # References
 
 ## References: Architecture
