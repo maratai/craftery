@@ -58,6 +58,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
   - *Tripoint*.
 - C. J. Cherryh. *Rider at the Gate* and *Cloud's Rider*. Finisterre series. Both alien science fiction *and* a send-up of the Magical Horse Companion fantasy trope.
 - Wesley Chu. *The Lives of Tao*.
+- Parke Godwin. *Waiting for the Galactic Bus*.
 - Marvin Kaye and Parke Godwin. *The Masters of Solitude*.
 - Marvin Kaye and Parke Godwin. *Wintermind*.
 
