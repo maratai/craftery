@@ -37,6 +37,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Naomi Novik. *The Summer War*. Beautiful and heartbreaking/heart-stirring novella about curses and family and Faerie. Library book. **Recommended**.
 - Naomi Novik. *Spinning Silver*. **Recommended**.
 - Naomi Novik. *Uprooted*. **Recommended**.
+- K. J. Parker. *The Two of Swords*, vol.s 1-3.
 
 # Historical Fantasy
 - Parke Godwin. *Firelord* and *Beloved Exile*. I've only read the former, which is **recommended**.
@@ -76,6 +77,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
 - James S. A. Corey. *The Mercy of Gods*. The Captive's War (series in progress). **Recommended**.
 - N. T. Narbutovskih. *Steel in the Blood*.
+- Alastair Reynods. *The Revenger*.
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
 
 # Urban Fantasy
