@@ -1,5 +1,8 @@
 **Nota bene**: Categories are for my own organizational purposes. I'm not interested in flamewars about subsubsubgenres, thanks. Also, I'm a *very slow* reader.
+
 # Arthurian Fantasy
+Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
+
 - Kate Hawks. *The Lovers: The Legend of Trystan and Yseult*.
 
 # Children's Fantasy
@@ -29,6 +32,7 @@
 - Naomi Novik. *The Summer War*. Beautiful and heartbreaking/heart-stirring novella about curses and family and Faerie. Library book. **Recommended**.
 
 # Historical Fantasy
+- Parke Godwin. *Firelord* and *Beloved Exile*. I've only read the former, which is **recommended**.
 - Parke Godwin. *The Last Rainbow*.
 - Parke Godwin. *The Tower of Beowulf*.
 
@@ -49,6 +53,7 @@
   - *Tripoint*.
 - C. J. Cherryh. *Rider at the Gate* and *Cloud's Rider*. Finisterre series. Both alien science fiction *and* a send-up of the Magical Horse Companion fantasy trope.
 - Wesley Chu. *The Lives of Tao*.
+- Marvin Kaye and Parke Godwin. *The Masters of Solitude*.
 
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
