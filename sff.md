@@ -45,4 +45,5 @@
 
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
+- James S. A. Corey. *The Mercy of Gods*. The Captive's War (series in progress). **Recommended**.
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
