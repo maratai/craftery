@@ -32,6 +32,35 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
   - Peter Wonica. "Learning to Evaluate Analog Games for Education."
 - Jeff Warrender. *You Said This Would Be Fun: What Makes a Game Good and How to Make a Good Game*. Foreword by Ben Maddox. **to-read**
 
+## Game Design and Ludology: Interactive Fantasy: The Journal of Role-Playing and Story-Making Systems
+- Issue 2.
+  - Greg Costikyan. "I Have No Words and I Must Design." Also [available online as a PDF](http://www.costik.com/nowords2002.pdf). **Recommended**.
+  - Alan Cox with Malcolm Campbell. "Multi-User Dungeons."
+  - Nicole Frein. "Cahutauqua and hte Art of Interactive Education."
+  - Nathan Gribble. "THe Munckin Examined."
+  - Andrew P. Malcolm. "Role-plying and Dyslexia."
+  - Paul Mason. "Trend vs Dogma."
+  - Phil Masters. "On the Vocabulary of Role-Playing."
+  - David Millions. "Gaming in My Classroom."
+  - Andrew Rilstone. "Crossing the Line."
+  - Andrew Rilstone, Greg Stafford, and James Wallis. "Freud and Campbell."
+  - Wayne. "Play-by-Mail.
+  - REVIEWS
+    - Castle Falkenstein
+    - Devil's Children
+    - Grace Under Pressure
+    - HÔL
+    - Karma
+    - Khaotic
+    - Nephilim (US, French)
+    - Shattered Dreams
+    - Simulation & Gaming
+    - Theatrix
+    - The Unspeakable Oath
+    - Weather the Cuckoo Likes
+    - The Whispering Vault
+    - three poetry systems
+
 ## Game Design and Ludology: Videogames
 - Patrick Jagoda. *Experimental Games: Critique, Play, and Design in the Age of Gamification*. 2020.
 
