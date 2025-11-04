@@ -38,6 +38,8 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Naomi Novik. *Spinning Silver*. **Recommended**.
 - Naomi Novik. *Uprooted*. **Recommended**.
 - K. J. Parker. *The Two of Swords*, vol.s 1-3.
+- Patrick Rothfuss. *The Name of the Wind*.
+- Brandon Sanderson. *Shadows of Self*. Mistborn tie-in (?).
 
 # Historical Fantasy
 - Parke Godwin. *Firelord* and *Beloved Exile*. I've only read the former, which is **recommended**.
