@@ -1,5 +1,8 @@
 # Tabletop Roleplaying Games
 
+- *Dialect: A Game About Language and How It Dies*.
+- *The Epic of Dreams: Basilisk Edition*. A rare example of modulo arithmetic in game mechanics.
+
 # FATE
 - *FATE Core System*.
 - *FATE Space Toolkit*.
