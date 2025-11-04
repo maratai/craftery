@@ -41,6 +41,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Parke Godwin. *Lord of Sunset*.
 - Parke Godwin. *Sherwood* and *Robin and the King*.
 - Parke Godwin. *The Tower of Beowulf*.
+- Naomi Novik. *His Majesty's Dragon*. *League of Dragons*. Temeraire series. **Recommended**.
 
 # Military Fantasy
 - Miles Cameron. The Traitor Son Cycle #1 *The Red Knight*. **currently reading** (well, after I snatch it back from Joe).
@@ -71,6 +72,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
 - James S. A. Corey. *The Mercy of Gods*. The Captive's War (series in progress). **Recommended**.
+- N. T. Narbutovskih. *Steel in the Blood*.
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
 
 # Urban Fantasy
