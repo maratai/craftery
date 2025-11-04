@@ -7,6 +7,12 @@ I half-assed the warp and it shows, but at the level of "can I set this up at al
 
 ![Clover Sakiori warping in progress](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-01-clover-01.jpg?raw=true)
 
-(photos TK)
+![Clover Sakiori weaving WIP](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-01-clover-02.jpg?raw=true)
+
+![Clover Sakiori with marginally less janky tie-ups on the warp](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-04-clover-01.jpg?raw=true)
+
+![Clover Sakiori weaving WIP, closer view](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-04-clover-02.jpg?raw=true)
+
+![Clover Sakiori manual excerpt in Japanese, showing various warping length layouts](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-01-clover-03.jpg?raw=true)
 
 [This YouTube playlist](https://www.youtube.com/playlist?list=PL-HlpMcbILt2PGkQRB6qKtaIv6W8rR40I) shows the warping method in action.
