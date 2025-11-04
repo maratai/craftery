@@ -91,6 +91,12 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 ## Weaving: Rigid Heddle Looms
 - Syne Mitchell. *Inventive Weaving on a Little Loom*.
 
+## Weaving: Saori Looms
+I'm acquiring a Saori WX60 since the two-shaft design isn't a significant downside for me (I *like* plainweave), it's a highly portable folding floor loom (under 30 lbs), and they come with a *lot* of quality of life adjustments and add-ons that accommodate various disabilities/physical types. They're from Japan and are unfortunately spendy, but this felt like the right loom for *me*. As far as the freewheeling Saori weaving *philosophy*, I don't mind it but it's really the loom's physical setup and attributes that I'm after.
+
+- Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
+- ???. *Beginners' Saori Clothing Design* and *Intermediate Saori Clothing Design*.
+
 # Workbench: The Do-It-Yourself Magazine
 As far as I can tell, this magazine focused on DIY projects for white people yearning toward a 1950s existence based on the marketing implications of the cover images, but the *plans* for projects often look intriguing. These projects aren't confined to fiber tools but that's my current interest.
 - March/April 1983. My specific interest is the "Spinning Wheel" (scaled-down, of course) plans and instructions by Lance R. Skidmore, which requires significant woodworking expertise. Opinions on r/Handspinning were that the plans looked quite plausible although I don't (yet) know anyone who's attempted a test build.
