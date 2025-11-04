@@ -1,5 +1,8 @@
 **Nota bene**: Categories are for my own organizational purposes. I'm not interested in flamewars about subsubsubgenres, thanks. Also, I'm a *very slow* reader.
 
+# Alien Science Fiction
+- Adrian Tchaikovsky. *Children of Time* and *Children of Ruin*.
+
 # Arthurian Fantasy
 Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 
@@ -8,6 +11,10 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 # Children's Fantasy
 - Diana Wynne Jones. *The Chronicles of Chrestomanci, Volume I*, omnibus of *Charmed Live* and *The Lives of Christopher Chant*. **Recommended** for the first one; Jones' oeuvre is fine but *Charmed Life* is the one I imprinted on.
 - Ann Turnbull. *The Wolf King*. **Recommended**.
+
+# Children's Science Fiction
+- William Sleator. *House of Stairs*. Probably his best-known book today. **Recommended**.
+- William Sleator. *Singularity*. Not the best known, but my favorite, and a bravura feat of prose and telescoped storytelling. **Recommended**.
 
 # Collections (single-author)
 - K. J. Parker. *Academic Exercises*. This only contains one of my favorite short stories in the entire world ("A Small Price to Pay for Birdsong"), so needless to say, I'm not rational about this. That said, Parker's oeuvre is 8000% clever asshole guile "hero" protagonists of dubious moral orientation by volume. I adore this, but YMMV. **Recommended**.
