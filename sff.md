@@ -34,6 +34,8 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 # Historical Fantasy
 - Parke Godwin. *Firelord* and *Beloved Exile*. I've only read the former, which is **recommended**.
 - Parke Godwin. *The Last Rainbow*.
+- Parke Godwin. *Lord of Sunset*.
+- Parke Godwin. *Sherwood* and *Robin and the King*.
 - Parke Godwin. *The Tower of Beowulf*.
 
 # Military Fantasy
