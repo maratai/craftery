@@ -88,6 +88,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - N. T. Narbutovskih. *Steel in the Blood*.
 - Alastair Reynods. *The Revenger*.
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
+- A. D. Sui. *The Dragonfly Gambt*. Novella.
 
 # Urban Fantasy
 - Simon R. Green. *Something from the Nightside*. Nightside series. **Recommended**.
