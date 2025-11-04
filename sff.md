@@ -29,6 +29,7 @@
 - Django Wexler. The Shadow Campaigns #1 *The Thousand Names*. Finally tracked down a copy! **to read**
 
 # Military Science Fiction
+- John G. Hemry. *A Just Determination*, *Burden of Proof*. Paul Sinclair (series). Hemry (US Navy officer, retired) now writes as Jack Campbell (e.g. The Lost Fleet series, which I enjoyed a lot). A less common *space lawyer* take on military science fiction. **to-read**
 - Timothy Zahn. *Heir to the Empire*. **to-read**
 
 # Space Opera
