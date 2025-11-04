@@ -35,10 +35,13 @@
 
 # Science Fiction
 - C. J. Cherryh. Alliance-Union series. Most of these are **to-read**.
+  - *Forty Thousand in Gehenna*. **Recommended**.
   - *Heavy Time* and *Hellburner*.
   - *Merchanter's Luck*.
+  - *Rimrunners*.
   - *Tripoint*.
-- C. J. Cherryn. *Rider at the Gate* and *Cloud's Rider*. Finisterre series. Both alien science fiction *and* a send-up of the Magical Horse Companion fantasy trope.
+- C. J. Cherryh. *Rider at the Gate* and *Cloud's Rider*. Finisterre series. Both alien science fiction *and* a send-up of the Magical Horse Companion fantasy trope.
+- Wesley Chu. *The Lives of Tao*.
 
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
