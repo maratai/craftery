@@ -5,7 +5,7 @@
 
 # Fantasy
 - Leigh Bardugo. *Six of Crows*. **to-read**
-- Jim Butcher. 8Furies of Calderon*. Codex Alera (series). **to-read**
+- Jim Butcher. *Furies of Calderon*. Codex Alera (series). **to-read**
 - Tanith Lee. *Tales from the Flat Earth: The Lords of Darkness*. SFBC omnibus edition of *Night's Master*, *Death's Master*, and *Delusion's Master*. Thanks to Six; I am looking forward to this. Lee's sensuous prose and decadent worldbuilding have no equal. (Uh, no relation!)
 - Naomi Novik. *The Summer War*. Beautiful and heartbreaking/heart-stirring novella about curses and family and Faerie. Library book. **Recommended**.
 
