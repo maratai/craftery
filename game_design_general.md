@@ -32,8 +32,11 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
   - Peter Wonica. "Learning to Evaluate Analog Games for Education."
 - Jeff Warrender. *You Said This Would Be Fun: What Makes a Game Good and How to Make a Good Game*. Foreword by Ben Maddox. **to-read**
 
-# Game Design and Ludology: Videogames
+## Game Design and Ludology: Videogames
 - Patrick Jagoda. *Experimental Games: Critique, Play, and Design in the Age of Gamification*. 2020.
+
+# Game Design and Pedagogy
+- Mindy Capaldi, ed. *Teaching Mathematics Through Games*. (Also listed under Math: Pedagogy.)
 
 # Game Development: Business and Finances
 Note that as of this writing (2025-11-03), any traditionally printed books pertaining to fulfillment/logistics, especially touching on the USA, is likely to be dated due to the rapidly evolving tariff and trade war situations.
