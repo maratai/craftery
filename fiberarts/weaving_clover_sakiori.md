@@ -5,6 +5,8 @@ The Clover Sakiori is a Japanese tabletop loom. It has an unbelievably easy warp
 
 I half-assed the warp and it shows, but at the level of "can I set this up at all," the answer is yes. Also, catten is unlikely to be a HARSH critic of a tiny little catten blankie to shed all over, so.
 
+![Clover Sakiori warping in progress](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-01-clover-01.jpg?raw=true)
+
 (photos TK)
 
 [This YouTube playlist](https://www.youtube.com/playlist?list=PL-HlpMcbILt2PGkQRB6qKtaIv6W8rR40I) shows the warping method in action.
