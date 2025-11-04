@@ -6,6 +6,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Kate Hawks. *The Lovers: The Legend of Trystan and Yseult*.
 
 # Children's Fantasy
+- Diana Wynne Jones. *The Chronicles of Chrestomanci, Volume I*, omnibus of *Charmed Live* and *The Lives of Christopher Chant*. **Recommended** for the first one; Jones' oeuvre is fine but *Charmed Life* is the one I imprinted on.
 - Ann Turnbull. *The Wolf King*. **Recommended**.
 
 # Collections (single-author)
@@ -44,6 +45,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 
 # Military Science Fiction
 - John G. Hemry. *A Just Determination*, *Burden of Proof*. Paul Sinclair (series). Hemry (US Navy officer, retired) now writes as Jack Campbell (e.g. The Lost Fleet series, which I enjoyed a lot). A less common *space lawyer* take on military science fiction. **to-read**
+- Tanya Huff. *A Confederation of Valor*. Omnibus of *Valor's Choice* and the *Better Part of Valor*.
 - Timothy Zahn. *Heir to the Empire*. **to-read**
 
 # Science Fiction
@@ -56,8 +58,12 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - C. J. Cherryh. *Rider at the Gate* and *Cloud's Rider*. Finisterre series. Both alien science fiction *and* a send-up of the Magical Horse Companion fantasy trope.
 - Wesley Chu. *The Lives of Tao*.
 - Marvin Kaye and Parke Godwin. *The Masters of Solitude*.
+- Marvin Kaye and Parke Godwin. *Wintermind*.
 
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
 - James S. A. Corey. *The Mercy of Gods*. The Captive's War (series in progress). **Recommended**.
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
+
+# Urban Fantasy
+- Simon R. Green. *Something from the Nightside*. Nightside series. **Recommended**.
