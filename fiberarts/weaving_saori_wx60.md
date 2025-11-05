@@ -12,7 +12,7 @@ WIP, more TK.
 
 Two hours in, I have most? of the frame assembled. I am slow for various health reasons (I keep losing my balance and almost falling over), but at least this is something I'm not being MARKED on while I'm running a fever.
 
-!(Two hours of progress: Saori WX60 frame)[https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-05-saori-02.jpg?raw=true]
+![Two hours of progress: Saori WX60 frame](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-05-saori-02.jpg?raw=true)
 
 ## Resources
 Note that these are resources specific to Saori looms. For general weaving, *see* [Fiber Arts](https://github.com/maratai/craftery/blob/main/fiber_arts.md).
