@@ -5,5 +5,8 @@ As of November 4, 2025, I have attained a Saori WX60 loom. This is a 2-harness f
 Regarding portability: I live in Louisiana so the thought of a loom I can *evacuate* in case of flood or hurricane, by being able to quickly fold it up and shuck it into a car, is very appealing!
 
 ## Resources
+Note that these are resources specific to Saori looms. For general weaving, *see* (Fiber Arts)[https://github.com/maratai/craftery/blob/main/fiber_arts.md].
+
 - [Assembling a Saori WX60](https://centeringwithfiber.blogspot.com/2012/04/introducing-new-saori-wx60-all-wood.html). Includes a ton of photographs. Jill of Saori Santa Cruz cited three hours. I am not experienced so it will likely take me longer.
 - [Saori Global](https://www.saoriglobal.com/saori-looms-resources) has more information on their range of looms. I'm in the USA. They are made in Japan, so imports to the USA are priced accordingly; they are also somewhat uncommon (as floor looms go) on the secondhand market in the USA, particularly in my region (Louisiana). Their loom designs offer a lot of possible adjustments/accommodations for people with various disabilities, which is one attraction for me.
+- Misao Jo and Kenzo Jo. *Saori: Self-Innovation through Free Weaving*. Philosophy of Saori weaving (discovery-based learning) as well as practical setup instructions.
