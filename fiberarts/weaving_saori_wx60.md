@@ -4,6 +4,12 @@ As of November 4, 2025, I have attained a Saori WX60 loom. This is a 2-harness f
 
 Regarding portability: I live in Louisiana so the thought of a loom I can *evacuate* in case of flood or hurricane, by being able to quickly fold it up and shuck it into a car, is very appealing!
 
+## Assembly
+
+WIP, more TK.
+
+![Unboxing begins!](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-05-saori-01.jpg?raw=true)
+
 ## Resources
 Note that these are resources specific to Saori looms. For general weaving, *see* [Fiber Arts](https://github.com/maratai/craftery/blob/main/fiber_arts.md).
 
