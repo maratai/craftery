@@ -3,9 +3,12 @@
 Note that the **Comics (etc)** category contains books that overlaps with other categories, but which pertain specifically to the format.
 
 # Comics, Graphic Novels, Sequential Art
-- Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
 - Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
+
+## Comics: Figure Drawing
+- Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
+- Syu Itadori, Kishi Ueno, KiKi, and GomTang. *Manga Muscles: An Artist's Guide to Drawing Powerful Male Bodies*. This includes exaggerated physiques common in comics (etc) but less so in real life! **to-read**
 
 ## Comics: Lettering
 - Nate Piekos. *The Essential Guide to Comic Book Lettering*. **Recommended**.
