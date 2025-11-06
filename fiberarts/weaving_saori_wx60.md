@@ -14,6 +14,18 @@ Two hours in, I have most? of the frame assembled. I am slow for various health 
 
 ![Two hours of progress: Saori WX60 frame](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-05-saori-02.jpg?raw=true)
 
+Jill of Saori Santa Cruz, my husband, and Merileemakes helped me debug the assembly; my husband and I disassembled and reassembled it. I then resumed except for a CATroach infestation! More seriously, I paused so I didn't drop something on my catten, who is very dim.
+
+![cat helpfully posing with the loom](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-06-saori-01.jpg?raw=true)
+
+![cat really helpful posing with the loom](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-06-saori-02.jpg?raw=true)
+
+Currently attempting to warp this with the included ready-made warp and hoping I'm not irrevocably foxing it up!
+
+![warping a Saori loom in progress](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-06-saori-03.jpg?raw=true)
+
+![closer view of the dent/reed and heddles WIP](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-06-saori-04.jpg?raw=true)
+
 ## Resources
 Note that these are resources specific to Saori looms. For general weaving, *see* [Fiber Arts](https://github.com/maratai/craftery/blob/main/fiber_arts.md).
 
