@@ -3,6 +3,9 @@
 # Alien Science Fiction
 - Adrian Tchaikovsky. *Children of Time* and *Children of Ruin*.
 
+# Anthologies (multiple authors)
+- George Damtsios, Roger Rovento, and Marios Dimitriadis, eds.. *The Metal Chapters: Volume Two*. Nota bene: One of my short stories, "Echoes Down an Endless Hall," is included. An extremely cool concept anthology in which the selected stories were also done as metal songs - for mine, music/lyrics by Roger Rovento, performed by Xelyruth.
+
 # Arthurian Fantasy
 Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 
@@ -47,7 +50,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - K. J. Parker. *The Two of Swords*, vol.s 1-3.
 - Patrick Rothfuss. *The Name of the Wind*.
 - Brandon Sanderson. *Shadows of Self*. Mistborn tie-in (?).
-- Brandon Sanderson. The Stormlight Archive. #2 *Words of Radiance*. #3 *Oathbringer*. #4 *Rhythm of War*. We're missing #1 because it was a flood casualty.
+- Brandon Sanderson. The Stormlight Archive. #2 *Words of Radiance*. #3 *Oathbringer*. #4 *Rhythm of War*. #5 *Wind and Truth*. We're missing #1 because it was a flood casualty.
 
 # Historical Fantasy
 - Parke Godwin. *Firelord* and *Beloved Exile*. I've only read the former, which is **recommended**.
