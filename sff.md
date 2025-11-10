@@ -52,6 +52,9 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Brandon Sanderson. *Shadows of Self*. Mistborn tie-in (?).
 - Brandon Sanderson. The Stormlight Archive. #2 *Words of Radiance*. #3 *Oathbringer*. #4 *Rhythm of War*. #5 *Wind and Truth*. We're missing #1 because it was a flood casualty.
 
+# High Fantasy
+- Tad Williams. Memory, Sorrow, and Thorn. #1 *The Dragonbone Chair*. #2 *Stone of Farewell*. #3 *To Green Angel Tower*.
+
 # Historical Fantasy
 - Parke Godwin. *Firelord* and *Beloved Exile*. I've only read the former, which is **recommended**.
 - Parke Godwin. *The Last Rainbow*.
