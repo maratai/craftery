@@ -3,10 +3,14 @@ Cartoons, comics, graphic novels, manga/manhwa/manhua, sequential art generally.
 # Fantasy
 - Tsugumi Ohba, writer. Takeshi Obata, artist. Trans. Stephen Paul. *Platinum End* vols. 1-10.
 
+# Horror
+- Alex de Campi, writer. Erica Henderson, artist. *Dracula, Motherf**ker!* **Recommended**.
+
 # Historical
 - Takashi Mononari. *Sun Tzu's Art of War: Manga Edition: The Full Story Behind Sun Tzu's Masterpiece!* **to read**
 
 # Military
+- Alex de Campi and Khai Krumbhaar, eds. *True War Stories: Tales of Deployment from Vietnam to Today*. **Recommended**.
 - Maximilian Uriarte. *Terminal Lance Ultimate Omnibus*. Military-typical humor and often NSFW; not for the faint of heart. **Recommended**.
 
 # Science fantasy
