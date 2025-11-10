@@ -1,6 +1,7 @@
 Cartoons, comics, graphic novels, manga/manhwa/manhua, sequential art generally.
 
 # Fantasy
+- Rann. *Memento Mori* vols. 1-3. I'm told this is incomplete at three volumes and my French is not very good, so mainly I admire the art.
 - Tsugumi Ohba, writer. Takeshi Obata, artist. Trans. Stephen Paul. *Platinum End* vols. 1-10.
 
 # Horror
