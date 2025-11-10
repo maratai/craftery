@@ -34,6 +34,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
   - "The Sun and I."
   - "One Little Room an Everywhere."
   - "Blue and Gold."
+- Roger Zelazny. *Unicorn Variations*. I think "Home Is the Hangman" is the only one in here I've read! **to-read**
 
 # Fantasy
 - Leigh Bardugo. *Six of Crows*. **to-read**
