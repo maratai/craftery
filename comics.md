@@ -5,6 +5,7 @@ Cartoons, comics, graphic novels, manga/manhwa/manhua, sequential art generally.
 
 # Horror
 - Alex de Campi, writer. Erica Henderson, artist. *Dracula, Motherf**ker!* **Recommended**.
+- Alex de Campi, writer. Erica Henderson, artist. *Parasocial*. Absolutely brutal and beautiful. This had me sobbing wildly in the parking lot of a pharmacy (complimentary). **Recommended**.
 
 # Historical
 - Takashi Mononari. *Sun Tzu's Art of War: Manga Edition: The Full Story Behind Sun Tzu's Masterpiece!* **to read**
