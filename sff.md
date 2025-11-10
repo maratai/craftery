@@ -75,6 +75,7 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 
 # Science Fantasy
 - Tamsyn Muir. *Gideon the Ninth*. **Recommended**.
+- Roger Zelazny. Chronicles of Amber. #1 *Nine Princes in Amber*. **Recommended**.
 
 # Science Fiction
 - C. J. Cherryh. Alliance-Union series. Most of these are **to-read**.
