@@ -79,7 +79,8 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - Sarah Lamb. *The Practical Spinner's Guide: Silk*. Terrific reference. **Recommended**.
 
 ## Spinning Wheel Construction and Design
-- Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels* and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
+- Carson Cooper. *Guide to Making Spinning WHeels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*, *Guide to Making Spinning Wheel Flyers and Wheels*, and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
+- Richard and Myrna Schneider. *A No-Lathe Saxony-Style Spinning Wheel Construction Manual*. Note that several power tools are *strongly* recommended. Also: *A Small Upright Spinning Wheel Construction Manual*. Requires a wood lathe. Note that I don't have woodworking (or lathe) expertise, so I'm reading these in a spirit of inquiry; I can't evaluate any of this.
 
 # Weaving: General
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
