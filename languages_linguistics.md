@@ -1,4 +1,4 @@
-There's no attempt at thoroughness here. I've given languages first by their English/romanized name and then, when I can, in their own.
+There's no attempt at thoroughness here. I've given languages first by their English/romanized name and then, when I can, in their own; among other things, I cannot remember how to "alphabetize" a mix of writing systems (and only know how to alphabetize, er, Hangeul outside of English).
 
 # Welsh (Cymraeg)
 Dw i'n caru dysgu Cymraeg!
