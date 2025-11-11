@@ -25,3 +25,5 @@ History and allied disciplines.
   - Shim Se-jung. "Masterpieces of Daily Life: Everyday Ceramics."
   - Shin Byung-ju. "Korea's Unrivaled Recordkeeping Culture."
   - Shin Yoo-hang. "Korea's Beautiful Butterflies."
+- Vol. 17, No. 1. Spring 2003.
+  - TK
