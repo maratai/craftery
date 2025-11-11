@@ -59,10 +59,33 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Kay Toombs. "Who's That Spinner? Spinning with Tenacity."
   - ?. "Hot Button - Boiling Cotton."
 - *Suspended Spindle*. Issue 25, Summer 2019.
+  - Adan Akerman. "Whorlicity."
+  - Kate Boyd. "Guest Teacher: I was more excited than the kids."
+  - Alan Dewey and Millissa Ellison Dewey. "The Restorer's Toolbag! Tips, tricks, tweaks, and fixes."
   - Brenda Dunse. "Choosing a Spindle."
+  - Sissel Ellevseth. "Spindling Like a Viking."
   - Abby Franquemont. "Ode to a Weighted Stick."
+  - Amelia Garripoli. "Hooked."
+  - Stephenie Gaustad. "Spindle Dynamics."
   - Terri Guerette. "A Roster of Suspended Spindles."
+  - Deborah Held. "Spin It! Winding a Turkish Cop."
   - Mary L. Henze. "Words to Spindle By."
+  - Molly Inzeo. "Spindling While Alive: Making yarn one yard at a time."
+  - Ed Jenkins and Evanita Montalvo. "Person of Interest."
+  - Wanda Jenkins. "Great Woods that Make Great Spindles." **to-read**
+  - Christopher Kale. "Spin It! Ply on teh Fly? What and Why?" **to-read**
+  - Rebecca Lamperd. "Spin It! Winding a Tidy Cop."
+  - Sukrita Mahon. "Spin It! Worsted and Woollen on a Drop Spindle."
+  - Amy Manko. "Sheep on the Edge - Florida Cracker."
+  - Millissa Meyer. "Spinning in the Subway."
+  - Evanita Montalvo. "Spin It! Across a Flock of Turkish Spindles."
+  - Rachael Prest. "A Range of Turkish Spindles."
+  - Becca Roy. "Translating from Wheel to Spindle."
+  - Joanne Seiff. "Spin It! The Messy Cop (and Center-Pull Ball)."
+  - Rachel Theall. "Dealgan: An army of gnomes."
+  - Diana Twiss. "Spin It! So Many Ways to Ply." **to-read**
+  - ?. "Butterfly."
+  - ?. "Half-Hich."
   - ?. "Tip Jar - How Do You Store Your Suspended Spindles?"
   - ?. "Whorls."
  
