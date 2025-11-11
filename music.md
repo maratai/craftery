@@ -55,7 +55,13 @@ Take it as read that I'm aware of the issues of the term/framing of "ethnomusico
 - William E. Caplin. *Cadence: A Study of Closure in Tonal Music*.
 - Jenefer Robinson, ed. *Music and Meaning*. Essay/chapter list TK.
        
-### Musicology: Schenekerian Analysis
+## Musicology: Schenekerian Analysis
 - Oswald Jonas. *Introduction to the Theory of Heinrich Schenker*.
 
+# Music Theory
+## Music Theory: ABRSM
+- Eric Taylor. *Music Theory in Practice, Grade 5*. Irregular time divisions, tenor clef, ornaments etc.
+- *The Theory of Music, Grade 4: Integrated Course and Workbook*. Tetrachords, intervals, transposition, form etc.
 
+
+#
