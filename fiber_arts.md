@@ -39,6 +39,32 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. 1988. A superlative book in terms of explanations and diagrams despite the stick-figure nature of the figures. Includes a bit of sociocultural context as well as adaptations for "modern" (USAn?) wear. **Recommended**.
 
 # Ply Magazine
+- *Cloth*. Issue 26, Autumn 2019. **to-read**
+  - Sylvia Becker. "Prep It! Farm to Table."
+  - Michelle Boyd. "Warp and Weft Twist Direction: Does it make a difference?"
+  - Meagan Condon. "Why So Heavy?"
+  - Sissel Ellevseth. "It Takes a Village: Spinning, time, and Vikings."
+  - Karen Everitt. "Spin It! Basuketto Tunic."
+  - Susan Fricks. "Spin It! Twist and Shout Scarf."
+  - Susan Fricks. "Weave It! Twist and Shout Scraf." 
+  - Stephenie Gaustad. "Fabric & Choice."
+  - Devin Helmen. "Person of Interest - Sara Lamb."
+  - Jennifer Lackey. "Historic Coverlets: An overview."
+  - Jennifer Lackey. "Spin It! Overshot: Intense spinning for intense cloth."
+  - Jennifer Lackey. "Weave It! Heidi's Car Seat Blankie."
+  - Carol Leonard. "When Yarn and Cloth Disagree."
+  - Carol G. McFadden. "The Behavior of Color: Knitted, woven, crocheted, and stitched cloth."
+  - Rachel Anne MacGillivray. "Fabric & Fibre."
+  - Judith MacKenzie. "William Morris: For the love of thread."
+  - Lilly Marsh. "Follow the Fiber - Hudson Valley Textile Project - Regional Clothmaking."
+  - Susan Pandorf. "Knit It! Everything Old Is New Again Shawl."
+  - Cal Patch. "Crochet It: Basuketto Tunic."
+  - Cal Patch. "S vs. Z for Crochet."
+  - James Perry. "Spin It! Longwools for Lace."
+  - Joanne Seiff. "The Mad Felter: Cloth for the spinner, cloth for the user."
+  - Beth Smith. "Prep It! Sampling for Weaving."
+  - Sarah Swett. "Loose of Limb, Light of Heart."
+  - ?. "SCENE."
 - *Cotton*. Spring 2016. **to-read**
   - Chitra Balasubramaniam. "Khadi: the Freedom Cloth."
   - Glenna Dean. "Cotton Farming in New Mexico Prehistory."
