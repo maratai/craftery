@@ -58,6 +58,13 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Susan Sullivan. "Prep It! Blending Cotton."
   - Kay Toombs. "Who's That Spinner? Spinning with Tenacity."
   - ?. "Hot Button - Boiling Cotton."
+- *Suspended Spindle*. Issue 25, Summer 2019.
+  - Brenda Dunse. "Choosing a Spindle."
+  - Abby Franquemont. "Ode to a Weighted Stick."
+  - Terri Guerette. "A Roster of Suspended Spindles."
+  - Mary L. Henze. "Words to Spindle By."
+  - ?. "Tip Jar - How Do You Store Your Suspended Spindles?"
+  - ?. "Whorls."
  
 # Sewing: Traditional
 - Asian Art Museum of San Francisco and The Museum of Korean Embroidery, Seoul, Korea 1995. *Profusion of Color: Korean Costumes and Wrapping Cloths of the Choson Dynasty*. The wrapping cloths in question are *bojagi* (Romanization).
