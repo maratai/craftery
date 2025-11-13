@@ -2,6 +2,9 @@
 
 Note that the **Comics (etc)** category contains books that overlaps with other categories, but which pertain specifically to the format.
 
+# Character Design
+- Randy Bishop. *Beyond Anatomy: Proportion, Power, and Personality*. "An artist's guide to bridging the gap between anatomy and character." I am excited for this!
+
 # Comics, Graphic Novels, Sequential Art
 - Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
@@ -9,6 +12,8 @@ Note that the **Comics (etc)** category contains books that overlaps with other 
 ## Comics: Figure Drawing
 - Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
 - Syu Itadori, Kishi Ueno, KiKi, and GomTang. *Manga Muscles: An Artist's Guide to Drawing Powerful Male Bodies*. This includes exaggerated physiques common in comics (etc) but less so in real life! **to-read**
+
+- Masters of Anatomy. *Clothing of Body Language*. Excited for this!
 
 ## Comics: Lettering
 - Nate Piekos. *The Essential Guide to Comic Book Lettering*. **Recommended**.
