@@ -138,6 +138,20 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - Carson Cooper. *Guide to Making Spinning WHeels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*, *Guide to Making Spinning Wheel Flyers and Wheels*, and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
 - Richard and Myrna Schneider. *A No-Lathe Saxony-Style Spinning Wheel Construction Manual*. Note that several power tools are *strongly* recommended. Also: *A Small Upright Spinning Wheel Construction Manual*. Requires a wood lathe. Note that I don't have woodworking (or lathe) expertise, so I'm reading these in a spirit of inquiry; I can't evaluate any of this.
 
+# Spin Off magazine
+- Summer 2001.
+  - Alden Amos. "Yarn Grist: An Excerpt from *The Alden Amos Big Book of Handspinning*."
+  - Elaine Boaz. "Spindle-Spun Tunic."
+  - Pam DeLuco. "The Chácara of the Ngöbe Woman."
+  - Peter Fowler. "Viking Sails."
+  - Priscilla A. Gibson-Roberts. "Old World Crochet."
+  - Brinda Gill. "Spinning Threads of Freedom: Mahatma Gandhi's Message."
+  - Liz Gipson. "Adventures on the Trail of Fiber."
+  - Susan McFarland. "Today's Drumcarders."
+  - Bill Ralph. "The Home Textile Tool Museum."
+  - Dustin Wedekind. "Three Ombré Handspun Scarves."
+  - more TK
+
 # Weaving: General
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
