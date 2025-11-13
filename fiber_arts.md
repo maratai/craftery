@@ -142,15 +142,18 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - Summer 2001.
   - Alden Amos. "Yarn Grist: An Excerpt from *The Alden Amos Big Book of Handspinning*."
   - Elaine Boaz. "Spindle-Spun Tunic."
+  - Rita Buchanan. "A Closer Look: Setting Twist." **to-read**
   - Pam DeLuco. "The Chácara of the Ngöbe Woman."
   - Peter Fowler. "Viking Sails."
   - Priscilla A. Gibson-Roberts. "Old World Crochet."
   - Brinda Gill. "Spinning Threads of Freedom: Mahatma Gandhi's Message."
   - Liz Gipson. "Adventures on the Trail of Fiber."
+  - Maryanne Ladensack. "Essentials: Niddy-noddy, doffer, and diz--oh, my!"
+  - Sara Lamb. "Spinning Silk for Weaving." **to-read**
   - Susan McFarland. "Today's Drumcarders."
   - Bill Ralph. "The Home Textile Tool Museum."
   - Dustin Wedekind. "Three Ombré Handspun Scarves."
-  - more TK
+  - John Yerkovich. "Old World Crochet Bags."
 
 # Weaving: General
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
