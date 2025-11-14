@@ -1,5 +1,9 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
+# Dyeing
+- Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
+- - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*.
+
 # Embroidery
 - Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, it's 80% satin stitch by volume.
 - Sarah Homfray. *Silk Shading*. I will be destashing this in a friend's direction. If you know anything about color and some embroidery stitches, this is nothing new. Lovely photos though, and a reasonable reference/starting point for a beginner.
@@ -121,7 +125,7 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 # Spinning and Handspun: General
 - Sarah Anderson. *The Spinner's Book of Yarn Designs*. Excellent and inspirational. Comes with reference cards. Focuses mostly on wools and similar animal fibers. **Recommended**.
 - Marion L. Channing. *The Magic of Spinning*. 1971. Largely concerns wheel spinning but there's a brief discussion of e.g. drop spindles. This is a slim volume that came with my secondhand treadle wheel (Ashford Traveller) and which I treasure because the instructional material is extremely well written. I often find for hand crafts like handspinning on a treadle wheel, older/out of print texts are *better* at explaining nuances because they were (probably) written during a period when those were more widespread skills. Of course, the nautral consequence as current hobbyists get into these crafts is that the price of out of print books inevitably creeps upward. Personally, I secured half my stash of books on the topic by haunting library discard sales, as these books are often de-acquisitioned because they're not circulating in a public library context. **Recommended**.
-- Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*. Notable for the inclusion of **plans for a DIY spinning wheel** based on PVC pipe and similar lower-cost hardware store supplies; I don't know of anyone who's done a test build to ascertain how well it works. Library book. **Recommended**.
+- Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*. Notable for the inclusion of **plans for a DIY spinning wheel** based on PVC pipe and similar lower-cost hardware store supplies; I don't know of anyone who's done a test build to ascertain how well it works. **Recommended**.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning: Building Exactly the Yarn You Want*. Many people swear by this book. It does look excellent, with clear explanations. It's possibly more nerdy about yarn that I will ever be (I like randomness in my spinning, which I do recreationally) and the author is pretty clear that it's *strongly* oriented toward mostly wool yarns mostly for knitting with a side of crochet. As someone whose use cases are usually hand-sewing, embroidery, or needle lace, and who neither knits nor crochets, my reaction to the thought of DELIBERATELY creating very "springy" handspun for *those* endeavors is OH HECK NO. So this isn't a book I reference much, although I imagine others get a lot out of it!
 
 ## Spinning Cotton, Flax, Hemp, Ramie, Cellulose Fibers etc
