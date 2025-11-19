@@ -44,6 +44,34 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. 1988. A superlative book in terms of explanations and diagrams despite the stick-figure nature of the figures. Includes a bit of sociocultural context as well as adaptations for "modern" (USAn?) wear. **Recommended**.
 
 # Ply Magazine
+- *Bulky*. Summer 2016.
+  - Sylvia Becker. "Build! Get bulky from your comfort zone."
+  - Sylvia Becker. "Prep It! Pre-Drafting with a Diz."
+  - Bren Boone. "Spin It! Bulky."
+  - Michelle Boyd. "The Truth About Take-Up: Using brake band tension to change your grist, or not."
+  - Carson Demers. "Ergo Neo - Bulky Spinning."
+  - Julia Farwell Clay. "Knit It! Shappo Hat."
+  - Jacey Boggs Faulkner. "Drafting Thicker."
+  - Jacey Boggs Faulkner. "Spin It! Thick and Thin."
+  - Stephenie Gaustaud. "Bulky."
+  - Stephenie Gaustaud. "Bulky Yarns for Knitting Sketches."
+  - Sarah Jean Harrison. "Guilded! Etobicoke Handweavers and Spinners."
+  - Vickie Hauff. "Making the Leap Back to Bulky."
+  - Christopher Kale. "Knit It! Monster Satchel."
+  - Christopher Kale. "Spin It! Monster Satchel."
+  - Ashley Martineau. "Behind the Curtain: SpinOlution." **to-read**
+  - Kim McKenna. "Knit It! Sodalite Cowl."
+  - Kim McKenna. "Spin It! Bulky Singles."
+  - Jillian Moreno. "Fat Color."
+  - James Perry. "Spin Thick vs. Ply Up."
+  - Esther Rodgers. "The Bulkiest Yarn."
+  - Esther Rodgers. "Spin It! Lightweight Bulky."
+  - Deborah Robson. "The Long and Short of Bulky Yarns."
+  - Beth Smith. "Big Crimpin': Sneaky, surprising Cormo."
+  - Beth Smith. "Use Your Yarn."
+  - Amy Tyler. "Spin It! Lumberjack Yarn."
+  - Brittany Wilson. "Knit It! Coincide Cowl."
+
 - *Cloth*. Issue 26, Autumn 2019. **to-read**
   - Sylvia Becker. "Prep It! Farm to Table."
   - Michelle Boyd. "Warp and Weft Twist Direction: Does it make a difference?"
