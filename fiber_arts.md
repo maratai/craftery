@@ -217,6 +217,7 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 
 # Weaving: General
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
+- Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
 
 ## Weaving: Card Weaving
