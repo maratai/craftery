@@ -2,7 +2,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 
 # Dyeing
 - Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
-- - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*.
+- Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*.
 
 # Embroidery
 - Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, it's 80% satin stitch by volume.
