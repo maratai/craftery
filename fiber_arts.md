@@ -10,6 +10,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Shuji Tamura. *The Techniques of Japanese Embroidery*. Superlative. **Recommended**.
 
 # Fiber Reference
+- Cheryl Kolander. *A Silkworker's Notebook*. Sumptuously illustrated. **Recommended**.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
 
 # Knitting
