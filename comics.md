@@ -18,5 +18,9 @@ Cartoons, comics, graphic novels, manga/manhwa/manhua, sequential art generally.
 - Alex de Campi and Khai Krumbhaar, eds. *True War Stories: Tales of Deployment from Vietnam to Today*. **Recommended**.
 - Maximilian Uriarte. *Terminal Lance Ultimate Omnibus*. Military-typical humor and often NSFW; not for the faint of heart. **Recommended**.
 
+## Romance: Villainess
+- Seikan, art. Story, Nekota. Character design, Asahiko. *The Villainess and the Demon Knight*, vols. 1-4.
+- Touya and Yoimachi, original story and illustration. Art by Ren Sakura. Adaptation by Shiori Shiono. *The Villainess's Guide to (Not) Falling in Love*.
+
 # Science fantasy
 - Joss Whedon, writer. Karl Moline, penciller. Andy Owens, inker. Dave Stewart and Michelle Madsen, colorists. Michelle Madsen, letterer. *Fray: Future Vampire Slayer*. **Recommended**.
