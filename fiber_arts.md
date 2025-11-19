@@ -160,6 +160,24 @@ Spinning cotton is one of my interests since it's one of the most readily availa
   - Dustin Wedekind. "Three Ombré Handspun Scarves."
   - John Yerkovich. "Old World Crochet Bags."
 
+- Fall 2025.
+  - Heavenly Bressser. "The Tipping Point: Supported-Spindle Tips."
+  - Karen Elting Brock. "Spinning in the Himalayas."
+  - Roy Clemes. "Getting the Most from Your Drumcarder: Create Four Fiber Preps with the Same Fiber." **to-read**
+  - Stephanie Ford. "Dogwood Scraf: Handcarding a Blend for Warp."
+  - Micki Hair. "Cut and Sew Handspun Jersey, Revisited."
+  - Deborah Held. "Ready to Buy a Blending Board? Read This First."
+  - Ladianne Henderson. "My Crewel and Unusual Adventure."
+  - Ladianne Henderson. "Retro Botanical Crewelwork Tote."
+  - Riley Kleve. "Find Your Flicker." **to-read**
+  - Gail McCaskill. "Why Give It a Flick? It Might Be the Pre-Paration Tool You Need." **to-read**
+  - Sandi Rosner. "Millefiori Pullover."
+  - A. Sabine Schröder-Gravendyck. "What Is Lambswool?"
+  - Pamela K. Scultz. "Handknits Versus Machine: A 400-Year-Old Argument."
+  - Amy Tyler. "Anatomy of Hand Combs."
+  - Amy Tyler. "Zero-Waste Spinning: Creating Textured Yarns from Combing Waste and More."
+  - Rowena Zuercher. "Processing Milkweed Using Thrift-Store Tools." **to-read**
+
 # Weaving: General
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
