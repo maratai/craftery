@@ -160,6 +160,15 @@ Spinning cotton is one of my interests since it's one of the most readily availa
   - Dustin Wedekind. "Three Ombré Handspun Scarves."
   - John Yerkovich. "Old World Crochet Bags."
 
+- Winter 2020.
+  - Heavenly Bresser. "Wild Silk: Blending Beyond Bombyx." **to-read**
+  - Deborah Held. "Jefferson Farms: The Search for Wild Luxury."
+  - Deborah Held. "Not Your Typical Alpaca: Hwo to Spin Paco-Vicuña Fiber."
+  - Galina A. Khmeleva. "A Lesson in Handspun Lace Repair." **to-read**
+  - Hannah Maxson. "Spinning the Steppe: Camel Fiber and Firebox Spindles."
+  - Cecil, Ron, and Theresa Miskin. "American Bison: Modern Fiber from a Native Species."
+  - more TK
+
 - Fall 2025.
   - Heavenly Bressser. "The Tipping Point: Supported-Spindle Tips."
   - Karen Elting Brock. "Spinning in the Himalayas."
