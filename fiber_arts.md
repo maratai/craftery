@@ -98,6 +98,7 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Beth Smith. "Prep It! Sampling for Weaving."
   - Sarah Swett. "Loose of Limb, Light of Heart."
   - ?. "SCENE."
+    
 - *Cotton*. Spring 2016. **to-read**
   - Chitra Balasubramaniam. "Khadi: the Freedom Cloth."
   - Glenna Dean. "Cotton Farming in New Mexico Prehistory."
@@ -117,6 +118,18 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Susan Sullivan. "Prep It! Blending Cotton."
   - Kay Toombs. "Who's That Spinner? Spinning with Tenacity."
   - ?. "Hot Button - Boiling Cotton."
+
+- *Planning*. Winter 2017.
+  - Jill Graham. "Knit It! Twined Mittens."
+  - Jill Graham. "Spin It! Traditional Swedish Twined Knitting."
+  - Jennifer Green. "Teaching: How to plan a fiber class."
+  - Donna Kay. "Prep It! Control Cards and Samples."
+  - Amy King. "Prep It! Dirt Is Heavy."
+  - Christina Pappas. "The Way Back: Finding time for fiber again."
+  - Melanie Parrott. "Building a Fiber Nook."
+  - Patsy Sue Sawistoski. "Planning a Substitute Yarn."
+  - more TK
+
 - *Suspended Spindle*. Issue 25, Summer 2019.
   - Adan Akerman. "Whorlicity."
   - Kate Boyd. "Guest Teacher: I was more excited than the kids."
