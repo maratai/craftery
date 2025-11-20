@@ -1,5 +1,7 @@
 History and allied disciplines.
 
+**Nota bene**: Military history is lumped with **Military** instead for my ease of reference.
+
 # History
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
 - Anne Green. *Gloves: An Intimate History*. **to-read**
