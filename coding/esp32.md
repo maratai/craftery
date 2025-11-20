@@ -14,7 +14,7 @@ I'm new to ESP32, microcontrollers, assembler, all of it. Consider this an ongoi
 - [VoidNoi's BadCard on Github](https://github.com/VoidNoi/BadCard/)
 
 ## Forth for ESP32?
-Another goal unlikely to be realized. I was unable to figure out how to compile and flash a working binary for ESP32Forth, which I *think* doesn't innately support ESP32-S3 (as opposed to ESP32-S2).
+Another goal unlikely to be realized. I was unable to figure out how to compile and flash a working binary for [ESP32Forth](https://esp32forth.appspot.com/ESP32forth.html), which I *think* doesn't innately support ESP32-S3 (as opposed to ESP32-S2).
 
 - [A Beginner's Guide to Forth by J. V. Noble](https://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm)
 - [Forth Lessons](https://wiki.laptop.org/go/Forth_Lessons)
