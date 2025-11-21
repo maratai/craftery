@@ -7,3 +7,6 @@ Excludes TTRPGs (Tabletop RPGs) not because I don't like them but because they d
 - Daniele Pecorini and Tong Shu. *The Game of Wei-Chi*.
 - Arthur Smith. *The Game of Go: The National Game of Japan*.
 - Kano Yoshinori 9-dan. *Graded Go Problems for Beginners, 30-kyu to 25-kyu*, Volume One.
+
+# Puzzle Games
+- Tom Brinton. *Paper Apps: Galaxy*. Extremely cute solo survival/tactical puzzle game with roguelike vibes. There's a print and play version too.
