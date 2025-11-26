@@ -7,5 +7,8 @@ Anything related to making them go!
 - [VIA Usage Guide from Keebio](https://docs.keeb.io/via)
 
 # Keyboards I Have Used, not a complete list
-- Logitech. So much Logitech.
-- Royal Kludge RK89 is my daily driver.
+- **iClever**. Often finicky but they have a range of folding/ultraportable keyboards.
+- **Keychron** is much beloved by many but I got two units with stuck key issues and gave up.
+- **Kinesis** has a bunch of ergonomic keyboards. The contoured ones (Advantage etc) are a learning curve but they're terrific.
+- **Logitech**. So much Logitech. A lot of affordable + reliable keyboards.
+- **Royal Kludge** RK89 is my daily driver.
