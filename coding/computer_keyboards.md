@@ -2,6 +2,11 @@
 
 Anything related to making them go!
 
+## Charachorder
+- [Official Charachorder Guide](https://docs.charachorder.com/)
+
+## VIA
+
 - [How to Use VIA (Beginners' Guide) from Epomaker](https://epomaker.com/blogs/guides/how-to-use-via-for-beginners)
 - [How to Use VIA to Program Your Keyboard (from Keychron)](https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
 - [VIA Usage Guide from Keebio](https://docs.keeb.io/via)
@@ -34,4 +39,4 @@ My bias is toward mechanical keyboards and I type *hard*; I learned to touch typ
 - I mostly have 2.4GHz wireless for the "extra" computing devices (Micro Journal, rpi) because I lose the dongles and USB-A is a Problem on fucking MacBook Pro. :] I do find that, unlike Bluetooth, these tend to just work.
 - For "full-sized" or even "mostly full" keyboards, I cannot cope with ortholinear layouts. For ickle thumb-typing keyboards, it's fine.
 - I type in QWERTY (US) but did at one point achieve 40 wpm in Dvorak because, uh, boredom and/or grad school procrastination. But in real life, QWERTY.
-- I have not yet tried a chording keyboard. I'm intrigued by them, though.
+- I have not yet tried a chording keyboard. I'm intrigued by them, though, and I have one on order.
