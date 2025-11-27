@@ -14,4 +14,13 @@ My second treadle wheel, bought for $100 USD off FaceBook Marketplace locally (I
 ## Ashford Traveller
 My first treadle wheel, secondhand off eBay with a *lot* of extras (lazy kate, niddy noddy, Turkish spindle, a ton of fiber). Mine's single treadle, Scotch tension. Currently set up for plying. Technically "portable" but not in a casual stroll way, more like car transport.
 
+## Athena Capricorn
+Travel spinning wheel on order.
+
+## Louët S90
+Travel spinning wheel, purchased secondhand, awaiting.
+
+## Pocket Wheel
+Travel spinning wheel on order.
+
 more TK
