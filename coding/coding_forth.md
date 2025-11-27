@@ -13,6 +13,10 @@ Forth is my current hobby programming language.
 - [Forth Language overview](https://www.forthlang.org/).
 - [Gforth](https://gforth.org/).
 
+## Forth via Dusk OS
+- [Dusk OS](https://duskos.org/)
+Note to self: ./dusk
+
 ## Forth on M5Stack Cardputer v.1.1
 - The [M5Stack Cardputer v.1.1](https://shop.m5stack.com/products/m5stack-cardputer-with-m5stamps3-v1-1) uses an ESP32-S3.
 - ryu10's [MSCardForth on Github](https://github.com/ryu10/M5CardForth) - You can flash this firmware with the help of (a) [M5Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro) followed by (b) [M5Launcher](https://github.com/bmorcelli/Launcher).
