@@ -13,6 +13,9 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Cheryl Kolander. *A Silkworker's Notebook*. Sumptuously illustrated. **Recommended**.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
 
+# Fiber Supply
+- [IxChel](https://ixchel.com.au/). Based in Australia. I'm a happy repeat customer.
+
 # Knitting
 - Virginia D. McGlynn, illus. Walter J. McGlynn. *Knitting Illustrated for Beginners and Others*. Terrific instructional booklet. It's no one else's fault that I bounced off knitting after trying it for a few years! **Recommended**.
 
