@@ -7,6 +7,7 @@ Forth is my current hobby programming language.
 # Forth: Online Resources
 - [4tH](https://thebeez.home.xs4all.nl/4tH/)
 - [durexforth on Github](https://github.com/jkotlinski/durexforth) - "A modern Forth for Commodore 64."
+- [eForth on Github](https://github.com/chochain/eforth)
 - [ESP32Forth](https://esp32forth.appspot.com/ESP32forth.html) - I had no luck building this successfully for ESP32-**S3**, which I don't think is supported "out of the box"; I want to see if I can debug whatever I'm foxing up at some point.
 - [Forth, Inc.](https://www.forth.com/)
 - [Forth Language overview](https://www.forthlang.org/).
