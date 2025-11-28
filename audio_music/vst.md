@@ -4,6 +4,7 @@
 - I own a distressing number of VSTs and these are the ones that I have *installed* at present.
 - Take it as read that "ethnic" (like "ethnomusicology") is a troubled descriptor but it's also the term one ends up with in the industry.
 - Assume these are Kontakt libraries unless otherwise stated.
+- If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
 
 # 8dio
@@ -136,10 +137,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Freak**. Modulation effect.
 - **Lo-Fi Glow**.
 - **The Maverick**. Grand piano.
-- **Passive EQ**.
-- **Pharlight**. Soundscapes and granular synthesis.
+- **Passive EQ**. Tube EQ.
+- **Pharlight**. Soundscapes and vocal-based granular synthesis.
 - **Rammfire**. Amp.
 - **Raum**. Reverb.
+- **RC 24**. Hall reverb.
 - **RC 48**. Hall reverb.
 - **Reflektor**. Convolution reverb.
 - **Replika XT**. Delay.
