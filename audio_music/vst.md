@@ -193,8 +193,22 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Samulnori Percussion**. Korean folk drums!
 
 # Sonuscore
-- **Elysion**. Synths.
+- **Elysion 2**. Synths.
+
+# Soundiron
+- **Artillery Shell Cello**.
+- **Blazer - Retro Anime FX**.
+- **ClickClickBang**. Sampled M1 Garand Rifle!
+- **High School Drum Corps**.
 
 # Spitfire Audio
 - **Albion Solstice**. One of my go-tos for folk/hybrid.
 - **Aperture Strings**. A good workhorse orchestral strings sketching tool.
+
+# Steven Slate
+- **Steve Slate Drums 5**.
+
+# Zero-G
+- **Ethera Gold 2.5**. Cinematic solo vocals, male and female.
+- **Ethera Gold Atlantis**. Cinematic solo female vocals.
+- **World Studio Percussion**.
