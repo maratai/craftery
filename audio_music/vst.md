@@ -184,6 +184,11 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Pacific Woodwinds**. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
 - **Vista II Small Ensemble Strings**.
 
+# Sample Logic
+- **Drum Fury**.
+- **Morphestra 2**. Hybrid.
+- **World Fury**. Hybrid.
+
 # Soniccouture
 - **Samulnori Percussion**. Korean folk drums!
 
