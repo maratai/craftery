@@ -223,8 +223,12 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 - **Originals - Drumline**. Marching band drums.
 - **Originals - Epic Choir**.
 - **Originals - Epic Strings**. Great for sketching and/or layering.
-- **Origials - Intimate Strings**. As above.
-- more TK 
+- **Originals - Firewood Piano**. I like this for a "warm," more character-ful acoustic piano.
+- **Originals - Intimate Strings**. As above.
+- **Peter Gregson - Electric Cellist**.
+- **Resonate**. Reverb.
+- **Spitfire Solo Strings**.
+- **Spitfire Symphonic Brass**.
 
 # Steven Slate
 - **Steve Slate Drums 5**.
