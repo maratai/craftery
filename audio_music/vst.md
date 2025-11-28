@@ -38,6 +38,11 @@
 - **ERA II Vocal Codex**.
 - **Whistler**.
 
+# Cinesamples
+- **Apocalyptica**. Solo electric cello.
+- **Drums of War 1**. Cinematic percussion.
+- **Drums of War 2**. Cinematic percussion.
+
 # Cinematic Studio
 - **Cinematic Strings Monster Staccatos**.
 
@@ -73,6 +78,7 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
 # Heavyocity
+- **Analog Hybrid Drums**.
 - **Damage**. Cinematic percussion.
 - **Damage 2**. Cinematic percuussion.
 - **Machina**. Sound design.
@@ -85,9 +91,10 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Stroh Violin**. Great "sound design" solo violin.
 - **Tokyo Scoring Strings**. Quite dry, extremely crisp studio strings.
 
-# Keepforest
+# Keep Forest
 - **AizerX - Free Edition**. Sound design IIRC.
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
+- **Berserkr Pro - Tribal Punk Folk Drums**.
 - **Evolution Devastator Deathmatch**. Sound design.
 - **Evolution Devastator Warzone**. Sound design.
 - **Evolution Dragon**. Sound design.
@@ -106,7 +113,15 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**.
 - **Ashlight**. Sound design.
-- **Concrete Sun**.
+- **Bite**. Bitcrusher.
+- **Bounce**. MassiveX.
+- **Choral**. Chorus effect.
+- **Concrete Sun**. Japanese hip-hop + traditional instruments.
+- **Dirt**. Distortion effect.
 - **East Asia**. Listen, they have Korean folk/traditional instruments in here too!
 - **The Maverick**. Piano.
 - **Valves Pro**. Brasses.
+
+# Spitfire Audio
+- **Albion Solstice**. One of my go-tos for folk/hybrid.
+- **Aperture Strings**. A good workhorse orchestral strings sketching tool.
