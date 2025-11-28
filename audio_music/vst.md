@@ -20,6 +20,8 @@
 - **Modern Scoring Strings**.
 
 # Audio Imperia
+- **Cerberus**. Cinematic percussion.
+- **Jaeger**. Orchestral strings + Merethe Solvedt's soprano legato vocals.
 - **Talos**. Orchestral brass.
 
 # Audio Ollie
@@ -56,8 +58,12 @@ Terrific solo strings.
 # Fallout Music Group
 - **Steampunk**. Sound design.
 
+# Fever Audio
+- **Fever Dreams**. Terrific solo vocals with sound design patches as well.
+
 # Fracture Sounds
 The "Textural" series is free and terrific for sound design/atmosphere/ambience.
+- **Gentle Brass**.
 - **Textural Cello**.
 - **Textural Viola**.
 - **Textural Violin**.
@@ -67,6 +73,8 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
 # Heavyocity
+- **Damage**. Cinematic percussion.
+- **Damage 2**. Cinematic percuussion.
 - **Machina**. Sound design.
 - **Novo**. Processed orchestral strings.
 - **Symphonic Destruction**. Processed orchestral/sound design.
@@ -98,5 +106,7 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**.
 - **Ashlight**. Sound design.
+- **Concrete Sun**.
+- **East Asia**. Listen, they have Korean folk/traditional instruments in here too!
 - **The Maverick**. Piano.
 - **Valves Pro**. Brasses.
