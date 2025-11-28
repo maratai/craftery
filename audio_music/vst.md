@@ -4,6 +4,7 @@
 - I own a distressing number of VSTs and these are the ones that I have *installed* at present.
 - Take it as read that "ethnic" (like "ethnomusicology") is a troubled descriptor but it's also the term one ends up with in the industry.
 - Assume these are Kontakt libraries unless otherwise stated.
+- I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
 
 # 8dio
 - **Catmosphere**.
@@ -67,11 +68,14 @@ Terrific solo strings.
 - **Fever Dreams**. Terrific solo vocals with sound design patches as well.
 
 # Fracture Sounds
-The "Textural" series is free and terrific for sound design/atmosphere/ambience.
-- **Gentle Brass**.
-- **Textural Cello**.
-- **Textural Viola**.
-- **Textural Violin**.
+The "Blueprint" series is free; within that, the "Textural" series is terrific for sound design/atmosphere/ambience.
+- **Blueprint Epic Grand**.
+- **Blueprint Gentle Brass**.
+- **Blueprint Greenhead Chimes**.
+- **Blueprint Music Box**.
+- **Blueprint Textural Cello**.
+- **Blueprint Textural Viola**.
+- **Blueprint Textural Violin**.
 
 # Have Audio
 - **Balkan Clarinet**.
@@ -91,12 +95,16 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Stroh Violin**. Great "sound design" solo violin.
 - **Tokyo Scoring Strings**. Quite dry, extremely crisp studio strings.
 
+# iZotope
+- **Neoverb**. Reverb.
+- **Ozone 10 Standard**. Mastering.
+
 # Keep Forest
 - **AizerX - Free Edition**. Sound design IIRC.
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
 - **Berserkr Pro - Tribal Punk Folk Drums**.
-- **Evolution Devastator Deathmatch**. Sound design.
-- **Evolution Devastator Warzone**. Sound design.
+- **Evolution - Devastator Deathmatch**. Sound design.
+- **Evolution - Devastator Warzone**. Sound design.
 - **Evolution Dragon**. Sound design.
 - **Ferrum: Modern Trailer Percussion - Free Edition**.
 - **Risenge - Free Edition**.
@@ -112,15 +120,25 @@ The "Textural" series is free and terrific for sound design/atmosphere/ambience.
 - **Action Strikes**.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**.
-- **Ashlight**. Sound design.
+- **Ashlight**. Sound design and soundscapes.
 - **Bite**. Bitcrusher.
 - **Bounce**. MassiveX.
 - **Choral**. Chorus effect.
 - **Concrete Sun**. Japanese hip-hop + traditional instruments.
 - **Dirt**. Distortion effect.
 - **East Asia**. Listen, they have Korean folk/traditional instruments in here too!
+- **Enhanced EQ**.
+- **Freak**. Modulation effect.
+- **Lo-Fi Glow**.
 - **The Maverick**. Piano.
+- **Passive EQ**.
+- **Pharlight**. Soundscapes and granular synthesis.
+- **Rammfire**. Amp.
+- **Raum**. Reverb.
 - **Valves Pro**. Brasses.
+
+# Sonuscore
+- **Elysion**. Synths.
 
 # Spitfire Audio
 - **Albion Solstice**. One of my go-tos for folk/hybrid.
