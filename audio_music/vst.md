@@ -23,7 +23,7 @@
 # Audio Imperia
 - **Cerberus**. Cinematic percussion.
 - **Jaeger**. Orchestral strings + Merethe Solvedt's soprano legato vocals.
-- **Talos**. Orchestral brass.
+- **Talos**. Cinematic/epic brass.
 
 # Audio Ollie
 - **LA Modern Percussion**.
@@ -73,9 +73,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Gentle Brass**.
 - **Blueprint Greenhead Chimes**.
 - **Blueprint Music Box**.
+- **Blueprint Short Strings**.
 - **Blueprint Textural Cello**.
 - **Blueprint Textural Viola**.
 - **Blueprint Textural Violin**.
+- **Blueprint Toy Piano**.
 
 # Have Audio
 - **Balkan Clarinet**.
@@ -87,7 +89,8 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Damage 2**. Cinematic percuussion.
 - **Machina**. Sound design.
 - **Novo**. Processed orchestral strings.
-- **Symphonic Destruction**. Processed orchestral/sound design.
+- **Sonara**. Processed vocals.
+- **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
 
 # Impact Soundworks
 - **Special Reserve Colossal Hybrid Drums**.
@@ -98,6 +101,8 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 # iZotope
 - **Neoverb**. Reverb.
 - **Ozone 10 Standard**. Mastering.
+- **Tonal Balance Control 2**. Mastering.
+- **VocalSynth 2**. Vocal processing/effects.
 
 # Keep Forest
 - **AizerX - Free Edition**. Sound design IIRC.
@@ -130,12 +135,26 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Enhanced EQ**.
 - **Freak**. Modulation effect.
 - **Lo-Fi Glow**.
-- **The Maverick**. Piano.
+- **The Maverick**. Grand piano.
 - **Passive EQ**.
 - **Pharlight**. Soundscapes and granular synthesis.
 - **Rammfire**. Amp.
 - **Raum**. Reverb.
+- **RC 48**. Hall reverb.
+- **Reflektor**. Convolution reverb.
+- **Replika XT**. Delay.
+- **Rise and Hit**. Cinematic hits.
+- **Session Horns Pro**.
+- **Solid Dynamic FX**.
+- **Solid EQ FX**.
+- **Straylight**. Soundscapes, sound design.
+- **Super 8**. Vintage analog polysynths.
+- **Supercharger**. Tube compressor.
+- **Transient Master FX**.
 - **Valves Pro**. Brasses.
+
+# Soniccouture
+- **Samulnori Percussion**. Korean folk drums!
 
 # Sonuscore
 - **Elysion**. Synths.
