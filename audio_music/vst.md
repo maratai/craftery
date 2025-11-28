@@ -1,6 +1,8 @@
 # VSTs
 
-**Nota bene**: I own a distressing number of VSTs and these are the ones that I have *installed* at present.
+## Notes
+- I own a distressing number of VSTs and these are the ones that I have *installed* at present.
+- Take it as read that "ethnic" (like "ethnomusicology") is a troubled descriptor but it's also the term one ends up with in the industry.
 
 # 8dio
 - **Catmosphere**.
@@ -29,3 +31,41 @@
 - **ERA II Medieval Legends**. Period instruments.
 - **ERA II Vocal Codex**.
 - **Whistler**.
+
+# Cinematic Studio
+- **Cinematic Strings Monster Staccatos**.
+
+# EastWest
+- **EW Ancient Kingdom**.
+- **EW Gypsy**. "Ethnic," various.
+- **EW Hollywood Fantasy Brass**.
+- **EW Voices of Passion**. Operatic solo vocals.
+- **EW Voices of the Empire**. "Ethnic" solo vocals.
+
+# Embertone
+Terrific solo strings.
+- **Embertone Fischer Viola**.
+- **Embertone Joshua Bell Violin**.
+- **Friedlander Violin 1.5**.
+
+# Fallout Music Group
+- **Steampunk**. Sound design.
+
+# Have Audio
+- **Balkan Clarinet**.
+- **Nordisk Kontrabass**. Terrific "sound design" string bass.
+
+# Heavyocity
+- **Machina**. Sound design.
+- **Symphonic Destruction**. Processed orchestral/sound design.
+
+# Impact Soundworks
+- **Special Reserve Colossal Hybrid Drums**.
+- **Super Audio Boy**. Chiptunes etc.
+- **Stroh Violin**. Great "sound design" solo violin.
+- **Tokyo Scoring Strings**. Quite dry, extremely crisp studio strings.
+
+# Keepforest
+- **AizerX - Free Edition**. Sound design IIRC.
+- **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
+- **Evolution: Devastator Warzone**. Sound design.
