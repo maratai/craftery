@@ -63,6 +63,9 @@ Terrific solo strings.
 - **Embertone Joshua Bell Violin**.
 - **Friedlander Violin 1.5**.
 
+# Eventide
+- **Articulate**. Mixing/mastering.
+
 # Fallout Music Group
 - **Steampunk**. Sound design.
 
@@ -214,12 +217,14 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
 - **Albion Solstice**. One of my go-tos for folk/hybrid.
 - **Aperture Strings**. A good workhorse orchestral strings sketching tool.
+- **Kepler Orchdestra**.
 - **Originals - Cimbalom**.
 - **Originals - Cinematic Frozen Strings**.
 - **Originals - Drumline**. Marching band drums.
 - **Originals - Epic Choir**.
 - **Originals - Epic Strings**. Great for sketching and/or layering.
-- **Originals - Intimate Strings**. As above.
+- **Origials - Intimate Strings**. As above.
+- more TK 
 
 # Steven Slate
 - **Steve Slate Drums 5**.
