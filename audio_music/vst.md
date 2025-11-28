@@ -19,6 +19,9 @@
 # Audiobro
 - **Modern Scoring Strings**.
 
+# Audio Imperia
+- **Talos**. Orchestral brass.
+
 # Audio Ollie
 - **LA Modern Percussion**.
 - **Nashville Scoring Strings**.
@@ -53,12 +56,19 @@ Terrific solo strings.
 # Fallout Music Group
 - **Steampunk**. Sound design.
 
+# Fracture Sounds
+The "Textural" series is free and terrific for sound design/atmosphere/ambience.
+- **Textural Cello**.
+- **Textural Viola**.
+- **Textural Violin**.
+
 # Have Audio
 - **Balkan Clarinet**.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
 # Heavyocity
 - **Machina**. Sound design.
+- **Novo**. Processed orchestral strings.
 - **Symphonic Destruction**. Processed orchestral/sound design.
 
 # Impact Soundworks
@@ -75,3 +85,18 @@ Terrific solo strings.
 - **Evolution Dragon**. Sound design.
 - **Ferrum: Modern Trailer Percussion - Free Edition**.
 - **Risenge - Free Edition**.
+
+# Loot Audio
+- **Balvi Cello**.
+
+# Musical Sampling
+- **Midnight Tenor Sax**.
+
+# Native Instruments
+- **Accent Pianos**.
+- **Action Strikes**.
+- **Action Strings 2**. Preprogrammed patterns, can be edited.
+- **Amati Viola**.
+- **Ashlight**. Sound design.
+- **The Maverick**. Piano.
+- **Valves Pro**. Brasses.
