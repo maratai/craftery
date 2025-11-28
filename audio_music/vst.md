@@ -6,6 +6,7 @@
 - Assume these are Kontakt libraries unless otherwise stated.
 - If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
+- More TK
 
 # 8dio
 - **Catmosphere**.
@@ -154,6 +155,25 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Supercharger**. Tube compressor.
 - **Transient Master FX**.
 - **Valves Pro**. Brasses.
+
+# Norrland Samples
+- Norrland Solo Trumpet. Free and great!
+
+# Orchestral Tools
+I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase!
+- **Benjamin Wallfisch Strings**.
+- **Berlin Brass**.
+- **Berlin Harpsichord**.
+- **Berlin Solo Strings**.
+- **Berlin Strings**. My go-to for orchestral strings.
+- **Berlin Woodwinds**.
+- **Igudesman Solo Violin**.
+- **Manifold**.
+- **Metropolis Ark 1**. Orchestral; I reach for the brasses *a lot*.
+- **Modus - Jeff Russo**. Eclectic orchestral scoring.
+- **Monolith - Richard Harvey**. Percussion.
+- **Rotary**. Brass.
+- **Tom Holkenborg's Brass**.
 
 # Soniccouture
 - **Samulnori Percussion**. Korean folk drums!
