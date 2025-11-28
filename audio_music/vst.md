@@ -160,7 +160,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Norrland Solo Trumpet. Free and great!
 
 # Orchestral Tools
-I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase!
+I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
 - **Benjamin Wallfisch Strings**.
 - **Berlin Brass**.
 - **Berlin Harpsichord**.
@@ -207,6 +207,18 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 
 # Steven Slate
 - **Steve Slate Drums 5**.
+
+# Vienna Symphonic Library
+Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vienna Instruments Pro.
+- **Hello Free Violin Runs**.
+- **Hello Free Harp Glissandos**.
+- **Hello Free Small Percussion**.
+- **Studio Solo Voices**. Terrific for passage work.
+- **Studio Special Brass**.
+- **Studio Whistler**.
+- **Synchron Duality Strings**.
+- **Synchron Solo Strings**.
+- **Synchron Woodwinds**.
 
 # Zero-G
 - **Ethera Gold 2.5**. Cinematic solo vocals, male and female.
