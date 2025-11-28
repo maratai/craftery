@@ -3,6 +3,7 @@
 ## Notes
 - I own a distressing number of VSTs and these are the ones that I have *installed* at present.
 - Take it as read that "ethnic" (like "ethnomusicology") is a troubled descriptor but it's also the term one ends up with in the industry.
+- Assume these are Kontakt libraries unless otherwise stated.
 
 # 8dio
 - **Catmosphere**.
@@ -36,6 +37,7 @@
 - **Cinematic Strings Monster Staccatos**.
 
 # EastWest
+Uses their own VST host (Opus etc).
 - **EW Ancient Kingdom**.
 - **EW Gypsy**. "Ethnic," various.
 - **EW Hollywood Fantasy Brass**.
@@ -68,4 +70,8 @@ Terrific solo strings.
 # Keepforest
 - **AizerX - Free Edition**. Sound design IIRC.
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
-- **Evolution: Devastator Warzone**. Sound design.
+- **Evolution Devastator Deathmatch**. Sound design.
+- **Evolution Devastator Warzone**. Sound design.
+- **Evolution Dragon**. Sound design.
+- **Ferrum: Modern Trailer Percussion - Free Edition**.
+- **Risenge - Free Edition**.
