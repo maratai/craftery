@@ -19,3 +19,13 @@
 # Audio Ollie
 - **LA Modern Percussion**.
 - **Nashville Scoring Strings**.
+
+# Best Service
+- **Chris Hein Solo Cello**.
+- **Chris Hein Solo Contrasbass**.
+- **Chris Hein Solo Viola**.
+- **Chris Hein Solo Violin**.
+- **Dark Era**.
+- **ERA II Medieval Legends**. Period instruments.
+- **ERA II Vocal Codex**.
+- **Whistler**.
