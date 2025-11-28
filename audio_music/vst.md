@@ -119,6 +119,9 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 # Loot Audio
 - **Balvi Cello**.
 
+# MixWave
+- **SpiritBox: Mike Stringer**. Effects.
+
 # Musical Sampling
 - **Midnight Tenor Sax**.
 
@@ -201,9 +204,22 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **ClickClickBang**. Sampled M1 Garand Rifle!
 - **High School Drum Corps**.
 
+# Soundtoys
+- **Crystallizer**.
+- **Decapitator**.
+- **Little Alter Boy**. Pitch/formant shifting.
+- more TK
+
 # Spitfire Audio
+Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
 - **Albion Solstice**. One of my go-tos for folk/hybrid.
 - **Aperture Strings**. A good workhorse orchestral strings sketching tool.
+- **Originals - Cimbalom**.
+- **Originals - Cinematic Frozen Strings**.
+- **Originals - Drumline**. Marching band drums.
+- **Originals - Epic Choir**.
+- **Originals - Epic Strings**. Great for sketching and/or layering.
+- **Originals - Intimate Strings**. As above.
 
 # Steven Slate
 - **Steve Slate Drums 5**.
