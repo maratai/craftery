@@ -200,6 +200,31 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - ?. "Half-Hich."
   - ?. "Tip Jar - How Do You Store Your Suspended Spindles?"
   - ?. "Whorls."
+
+- *Warmth*. Issue 31, Winter 2020.
+  - Sara Boan. "Spin It! The Toasted Hat."
+  - Michelle Boyd. "Warm Up Your Worsteds."
+  - Maggie Casey. "Spin It! Warm Winter's Night Scarf."
+  - Iris Chinook. "Fibersheds: Supporting local fiber, ourselves, and the earth."
+  - Carol Christiansen. "Getting a Good Night's Sleep Under Shetland's Pile Bedcovers."
+  - Meagan Condon. "The Color of Woolen and Worsted."
+  - Meagan Condon. "How to Create a Warm Yarn."
+  - Sehila Craft. "Reusing and Repairing: Recycling warmth."
+  - Sasha Duerr. "Prep It! Kitchen Dyeing: Warm winter hues with compost colors." **to-read**
+  - Stephenie Gaustaud. "A Recipe for Warmth."
+  - Jennifer Lackey. "Sloss Furnaces: Still warming a community."
+  - Judith MacKenzie. "Qiviut: The Gift of Warmth."
+  - Jillian Moreno. "Person of Interest: Maggie Casey."
+  - James Perry. "Fine and Woollen."
+  - Deborah Robson. "Sheep Are Warm, but Which Is Warmest?"
+  - Joanne Seiff. "Tips for Staying Comfortable and Possibly Even Warm."
+  - Rachel Simmons. "Knit It! Remember Me Mittens."
+  - Rachel Simmons. "Spin It! Remember Me Mittens."
+  - Judy Steinkoenig. "Weave It! Warm Winter's Night Scarf."
+  - Emily Wohlscheid. "Spin It! The Warming Yarn."
+  - Patsy Sue Zawistoski. "Keeping the Heat: The warmest felt."
+  - Nell Ziroli. "Knit It! The Toasted Hat."
+  - ?. "6 Warm Yarns, 6 Warm Spinners."
  
 # Sewing: Traditional
 - Asian Art Museum of San Francisco and The Museum of Korean Embroidery, Seoul, Korea 1995. *Profusion of Color: Korean Costumes and Wrapping Cloths of the Choson Dynasty*. The wrapping cloths in question are *bojagi* (Romanization).
