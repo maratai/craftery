@@ -144,6 +144,14 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Patsy Sue Sawistoski. "Planning a Substitute Yarn."
   - Hannah Merritt Woods. "Planning by the Pound." **to-read**
 
+- *Singles*. Issue 11, Winter 2015.
+  - Johanna Carter. "Who's That Spinner?"
+  - Carson Demers. "Ergo Neo: Giving the spindle a turn."
+  - Jacey Baggs Faulkner. "The rules: spinning singles yarns."
+  - Melissa Yoder Riches. "Spin It! Color-changing Singles."
+  - Beth Smith. "Singles: Fiber matters."
+  - more TK
+
 - *Suspended Spindle*. Issue 25, Summer 2019.
   - Adan Akerman. "Whorlicity."
   - Kate Boyd. "Guest Teacher: I was more excited than the kids."
