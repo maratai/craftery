@@ -145,12 +145,29 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Hannah Merritt Woods. "Planning by the Pound." **to-read**
 
 - *Singles*. Issue 11, Winter 2015.
+  - Sylvia Becker. "Knit It! Bad Girl Scarf."
+  - Sylvia Becker. "Spin It! Good Girl Gone Bad."
+  - Deborah Behm. "Spin It! Singles for Tapestry Weaving."
+  - Deborah Behm. "Weave It! Tapestry Bag."
+  - Kathryn Benavides. "Knit It! Ondulant Scarf."
+  - Kathryn Benavides. "Spin It! Ondulant Scarf."
   - Johanna Carter. "Who's That Spinner?"
   - Carson Demers. "Ergo Neo: Giving the spindle a turn."
   - Jacey Baggs Faulkner. "The rules: spinning singles yarns."
+  - Stephenie Gaustaud. "Taming the Wild Single."
+  - Franklin Habit. "Lazy Kate's Guide to Thoroughly Unsatisfying Spinning." **to-read**
+  - Grace Shalom Hopkins. "Journal of a Singles Yarn Sock."
+  - Susanna IC. "Knit It! Nebel Hat and Cowl."
+  - Susanna IC. "Knit It! Veila Scarf."
+  - Katherine Johnson. "Single and Free."
+  - Ann Krieg. "Spin It! Veita and Nebel."
+  - Carol G. McFadden. "Weaving wiht Singles: A test of abrasion."
+  - Anne Michow. "Weave It! Weaving on a Peg Loom."
+  - Jillian Moreno. "The Race is On: Singles vs. 2-Ply Yarn."
   - Melissa Yoder Riches. "Spin It! Color-changing Singles."
   - Beth Smith. "Singles: Fiber matters."
-  - more TK
+  - Sue Tye and Jill Sanders. "Follow the Fiber - Sue & Jill Make No Mistakes."
+  - Elizabeth Watt. "The Bias Point."
 
 - *Suspended Spindle*. Issue 25, Summer 2019.
   - Adan Akerman. "Whorlicity."
