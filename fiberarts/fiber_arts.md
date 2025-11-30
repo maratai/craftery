@@ -339,6 +339,20 @@ Spinning cotton is one of my interests since it's one of the most readily availa
   - Amy Tyler. "Zero-Waste Spinning: Creating Textured Yarns from Combing Waste and More."
   - Rowena Zuercher. "Processing Milkweed Using Thrift-Store Tools." **to-read**
 
+- Winter 2025
+  - Nilda Callañaupa Alvarez and Linda Ligon. "A Cusco Spin-In: From Alpaca to Yarn in a Day."
+  - Silvia Harding. "Equinox Cowl."
+  - Dr. Annamarie Hatcher. "Wool or Hair: Should Handspinners Care?"
+  - Andrea Lui. "Makers Space."
+  - Kim McKenna. "An Artist's Appraoch to Carding Color: Build Palettes with Value Keys."
+  - Leslie Ordal. "From the Archives: KCL Woods."z
+  - Sandi Rosner. "Eph Jensen Livestock: Maintaining a Family Tradition of Sheep Ranching in Utah."
+  - Karen Selk. "In Search of Wild Silk: Eri - *Sami ricini*."
+  - Diana Twiss. "En Plein Air Half-Mitts."
+  - Amy Tyler. "Textured Yarn Tutorial: Adding Locks as an Intermittent Third Ply."
+  - Rebecca Winter. "Woven Shadows with Naturally Colored Cotton."
+  - Rowena Zuercher. "Time Traveling wiht Swiss Valais Blacknose Sheep."
+
 # Weaving: General
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
