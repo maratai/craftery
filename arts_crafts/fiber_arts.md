@@ -248,6 +248,36 @@ I'm acquiring a Saori WX60 since the two-shaft design isn't a significant downsi
 - Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
 - ???. *Beginners' Saori Clothing Design* and *Intermediate Saori Clothing Design*.
 
+# Weft: The Magazine for Handweavers
+**Note:** I'm a beginning weaver with two-harness lomos, so I'm reading pretty narrowly/selectively while I skill up!
+
+- *Plain Weave*. Issue 1, Summer 2025.
+  - Kathy Broughton. "Plain Weave, a New Look at the Simplest Weave." **to-read**
+  - Kris Bruland. "Using Software to Spice Up Plain Weave." **to-read**
+  - Kelly Casanova. "Stashbusting Shawl."
+  - Tien Chiu. "What Is Rhythm?"
+  - Natalie Drummond. "PrimaVerde Scarf."
+  - Melissa Weaver Dunning. "Amazing Plain Weave Selvedges." **to-read**
+  - Tegan Frisino. "Texture and Plain Weave."
+  - Laura Fry. "Those Pesky 'Permanent' Creases."
+  - Laura Fry. "The Twisting and Turning of Tracking."
+  - Felicia Lo. "The Minimalist: Double-width doubleweave blanket."
+  - Felicia Lo. "Plain Weave, Double Width."
+  - Janet Phillips. "Deflected Doubel-weave: The mystery."
+  - Janet Phillips. "Warp-Faced, Weft-Faced, and Balanced."
+  - Rachel Smith. "Twist Direction: Effects in the finished fabric."
+  - Robin Spady. "The Language of Weaving: Plain Weave and Tabby." **to-read**
+  - Justin Squizzero. "Plain Subversion."
+  - Jane Stafford. "Colour and Weave."
+  - Jane Stafford. "A Life with Plain Weave."
+  - Katie Strano. "Combining Different Fibers in a Plain Weave Cloth."
+  - Astrid Tauber. "Will Those Denting Marks Wash Out?"
+  - Sarah Truscott. "Sweeping Spaces Table Runner."
+  - Jette Vandermeiden. "Finding the Elusive Plain Weave."
+  - Jette Vandermeiden. "Get Sett!"
+  - Jay Warner. "Predicting the Future: Draw-in, take-up, and shrinkage in Plain Weave Cloth." **Recommended**.
+  - WEFT in-house. "Putting Plain Weave to the Test." **to-read**
+
 # Workbench: The Do-It-Yourself Magazine
 As far as I can tell, this magazine focused on DIY projects for white people yearning toward a 1950s existence based on the marketing implications of the cover images, but the *plans* for projects often look intriguing. These projects aren't confined to fiber tools but that's my current interest.
 - March/April 1983. My specific interest is the "Spinning Wheel" (scaled-down, of course) plans and instructions by Lance R. Skidmore, which requires significant woodworking expertise. Opinions on r/Handspinning were that the plans looked quite plausible although I don't (yet) know anyone who's attempted a test build.
