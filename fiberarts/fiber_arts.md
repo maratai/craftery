@@ -221,6 +221,32 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - ?. "Tip Jar - How Do You Store Your Suspended Spindles?"
   - ?. "Whorls."
 
+- *Texture*. Issue 10, Autumn 2015.
+  - Angel Benedetti. "Who's That Spinner? Adventures of an International Art Yarn Nomad."
+  - Lexi Boeger. "Spin It! 21st Century Feather Yarn."
+  - Suzy Brown. "Microtexture."
+  - Carson Demers. "Ergo Neo - Texture Therapy."
+  - Jacey Faulkner. "Texture Through Fiber Prep."
+  - Jacey Faulkner. "Texture Through Plying."
+  - Steph Gorin. "Texture Through Corespinning."
+  - Franklin Habit. "Lazy Kate's Guide to Thoroughly Unsatisfying Spinning."
+  - Sony Hartley. "Fabric Corespinning." **to-read**
+  - Tracy Hudson. "Texture on a Spindle."
+  - Jillian Moreno. "28 Years of Texture: The inspiring influence of Diane Varney's *Spinning Designer Yarns*."
+  - Melissa Nasby. "Spin It! Wire Corespinning." **to-read**
+  - Christina Pappas. "Ancient Texture."
+  - Denise Prince. "Handspun & SAORI (TM)."
+  - Melissa Ricks. "Texture in Weaving - Weaving in a Circle." **to-read**
+  - Esther Rodgers. "Texture Through Inspiration."
+  - Cirilia Rose. "Texture in Knitting - Swatch Theory."
+  - Linda Scharf. "Spin It! 21st Century Metal-Wrapped Yarn." **to-read**
+  - Maja Siska. "Knit It! Thelatog Hoodie."
+  - Maja Siska. "Spin It! Thelatog Hoodie."
+  - Vithard Villumsen. "Spin It! Growing Yarn." **to-read**
+  - Brittany Wilson. "Prep It! Tweed for Texture."
+  - ?. "Guilded - South West Art Yarn (SWAY) Guild."
+  - ?. "Stealth Reviews - Majacraft Fusion Engine Carder."
+
 - *Warmth*. Issue 31, Winter 2020.
   - Sara Boan. "Spin It! The Toasted Hat."
   - Michelle Boyd. "Warm Up Your Worsteds."
@@ -314,6 +340,7 @@ Spinning cotton is one of my interests since it's one of the most readily availa
   - Rowena Zuercher. "Processing Milkweed Using Thrift-Store Tools." **to-read**
 
 # Weaving: General
+- Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
