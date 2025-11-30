@@ -144,6 +144,26 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Patsy Sue Sawistoski. "Planning a Substitute Yarn."
   - Hannah Merritt Woods. "Planning by the Pound." **to-read**
 
+- *Semi-*. Issue 18, Autumn 2017.
+  - Mary Berry. "Weave It! Semi- Weaving."
+  - Michelle Boyd. "Worsted, Semi-, Woollen: When semi- yarns are the better choice."
+  - Carson Demers. "Ergo Neo - Variety Is the Spice of Spinning."
+  - Melanie Duarte. "The Semi- Spectrum Across Plies and Knit Structure."
+  - Stephenie Gaustaud. "Prep It! Cloud in Your Hand."
+  - Ekaterina Gorges. "Semi-supported, Semi-suspended, Semi-Russian."
+  - Susan Hector. "Guilded - Old Town Fiber Arts Guild."
+  - Debbie Held. "Spin It! Semi-shiny: How spinning from the fold can add luster."
+  - Amy King. "Prep It! Changing Your Fiber Orientation: Going from a worsted to a woolen prep."
+  - Amy King. "Spin It! Semi-sweet Cowl."
+  - Benjamin Krudwig. "Knit It! Peak Hat."
+  - Benjamin Krudwig. "Spin It! Peak Hat (Semi-woolen vs. Woolen)."
+  - Rachel Anne MacGillivray. "Trio of Tunics: A semi- study of drape and wear."
+  - Jillian Moreno. "Spinning in the in-between: How prep and draft combine to affect color, grist, yarn, and fabric." **to-read**
+  - Kara Perpelitz. "Extreme Semi-: When fibre type shines through." **to-read**
+  - Esther Rodgers. "Prep It! Turn Your Top Into a Fauxlag."
+  - Beth Smith. "A Semi- Primer."
+  - ?. "Hot Button: Caling Yarn 'Semi-.'"
+
 - *Singles*. Issue 11, Winter 2015.
   - Sylvia Becker. "Knit It! Bad Girl Scarf."
   - Sylvia Becker. "Spin It! Good Girl Gone Bad."
