@@ -123,15 +123,26 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - ?. "Hot Button - Boiling Cotton."
 
 - *Planning*. Winter 2017.
+  - Michelle Boyd. "Secrets of a Fibre Whisperer: Planning based on fiber and crimp." **to-read**
+  - Stephenie Gaustad. "Art in Calculation."
   - Jill Graham. "Knit It! Twined Mittens."
   - Jill Graham. "Spin It! Traditional Swedish Twined Knitting."
   - Jennifer Green. "Teaching: How to plan a fiber class."
+  - Laura Halfpenny. "What if the Lights Went Out?" **to-read**
+  - Sony Hartley. "Inspired to Spin."
+  - Christopher Kale. "Knit It! Briarcrest Shawl."
+  - Christopher Kale. "Spin It! Briarcrest Shawl."
+  - Michelle Kaston. "A Custom Studio Space." **to-read**
   - Donna Kay. "Prep It! Control Cards and Samples."
+  - Lisa V. Kennedy. "Follow the Fiber - The Wild Alaskan Mountain Goat."
   - Amy King. "Prep It! Dirt Is Heavy."
+  - Ashley Martineau. "Make It! A Plan for Using Unplanned Yarn."
+  - Carol G. McFadden. "Preparing for a Sheep-to-shawl Competition."
   - Christina Pappas. "The Way Back: Finding time for fiber again."
   - Melanie Parrott. "Building a Fiber Nook."
+  - Natalie Redding. "Patchwork of Success: Planning a more positive you."
   - Patsy Sue Sawistoski. "Planning a Substitute Yarn."
-  - more TK
+  - Hannah Merritt Woods. "Planning by the Pound." **to-read**
 
 - *Suspended Spindle*. Issue 25, Summer 2019.
   - Adan Akerman. "Whorlicity."
@@ -142,6 +153,7 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
   - Abby Franquemont. "Ode to a Weighted Stick."
   - Amelia Garripoli. "Hooked."
   - Stephenie Gaustad. "Spindle Dynamics."
+  - Terri Guerette. "Prep It! The Ultimate Spinning Toolbag." **to-read**
   - Terri Guerette. "A Roster of Suspended Spindles."
   - Deborah Held. "Spin It! Winding a Turkish Cop."
   - Mary L. Henze. "Words to Spindle By."
