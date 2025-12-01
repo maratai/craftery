@@ -19,7 +19,15 @@ I don't know that I even recommend this (completely nondestructive) ~modificatio
 
 ![warping in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-03.jpg)
 
+![fully warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-04.jpg)
+
+![weaving achieved](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-05.jpg)
+
+![the "feather" in neutral position](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-07.jpg)
+
 ![closer view of the "feather"](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-02.jpg)
+
+![the "feather" tilted one way to create a shed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-08.jpg)
 
 **Note #1:** Clover (with the Sakiori loom) and Saori (with the, well, Saori loom) are, as far as I know, completely different companies but I keep confusing myself. I only heard of Saori this year, when I started looking into a floor loom; I first heard of Clover in the context of their tatting shuttles.
 
