@@ -10,7 +10,7 @@ Regarding portability: I live in Louisiana so the thought of a loom I can *evacu
 
 WIP, more TK.
 
-![Unboxing begins!](https://github.com/maratai/craftery/blob/main/fiberarts/2025-11-05-saori-01.jpg?raw=true)
+![Unboxing begins!](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-05-saori-01.jpg?raw=true)
 
 Two hours in, I have most? of the frame assembled. I am slow for various health reasons (I keep losing my balance and almost falling over), but at least this is something I'm not being MARKED on while I'm running a fever.
 
