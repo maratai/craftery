@@ -389,6 +389,15 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Palmy Weigle.. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
 
+# Supplies
+- [Eugene Textile Center](https://www.eugenetextilecenter.com/) - US-based supplier. Their used books and fiber tools on the online store often have delicious finds.
+- [Feral Scene](https://feralscene.com/) - Semi-local to me (they're in Texas, I'm in Louisiana). Their art batts for spinning are great.
+- [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - Incredibly beautiful art batts, also semi-local to me (they're in Texas).
+- [IxChel](https://ixchel.com.au/) - supplies spinning fibers (*amazing*), plus yarns and tools. They're in Australia.
+- [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
+- [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving).
+- MORE TK
+
 ## Weaving: Card Weaving
 - Candace Crockett. *Card Weaving*.
 
