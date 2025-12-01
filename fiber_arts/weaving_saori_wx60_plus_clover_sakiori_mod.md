@@ -2,7 +2,9 @@
 
 This is a *nondestructive* loom modification. I didn't, ultimately, find it very satisfying to weave on but it does work jankily.
 
-**Note:** pics TK.
+Proof that it works:
+
+![woven object WIP on this mod](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-01-weaving-01.jpg)
 
 ## Overview
 
