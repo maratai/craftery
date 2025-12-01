@@ -15,6 +15,8 @@ I don't know that I even recommend this (completely nondestructive) ~modificatio
 - using a ready-made warp and directly warping by "snapping" the warp threads into the Clover Sakiori reed and its plastic fins (a [YouTube video](https://www.youtube.com/watch?v=gcEJlakK_48&t=20s) that shows this: ) - this is super easy, and was the main reason I wanted to try this)
 - the beater that the reed's attached to on the Saori WX60 still works!
 
+![setup](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-01.jpg)
+
 **Note #1:** Clover (with the Sakiori loom) and Saori (with the, well, Saori loom) are, as far as I know, completely different companies but I keep confusing myself. I only heard of Saori this year, when I started looking into a floor loom; I first heard of Clover in the context of their tatting shuttles.
 
 This effectively turns the Saori WX60 into a giant frame (???) for a...table loom? I apologize if I'm botching the terminology but the weird thing the Clover Sakiori "feather" does is that you tilt it forward by hand to create the shed one way, and you tilt it backwards, also by hand, to create the shed the other way. (So I guess it acts like a two-harness as well.)
