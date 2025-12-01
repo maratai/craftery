@@ -1,5 +1,7 @@
 # Saori WX60
 
+**Note**: Dec. 1, 2025 - reorganizing files, images will be broken for a bit until I fix the links.
+
 As of November 4, 2025, I have attained a Saori WX60 loom. This is a 2-harness folding floor loom, under 30 pounds so I can transport it , and I bought the set of wheels for it to so I can take it to the patio on a nice day. Since I *prefer* plainweave, this should be congenial. I bought the loom from [Saori Santa Cruz](https://www.saorisantacruz.com/). Highly recommended; Jill is terrific and includes a number of her own tutorials for reference, which are extensive and very much appreciated. I'm about to begin assembly later today (November 5, 2025) - wish me luck!
 
 Regarding portability: I live in Louisiana so the thought of a loom I can *evacuate* in case of flood or hurricane, by being able to quickly fold it up and shuck it into a car, is very appealing!
