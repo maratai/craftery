@@ -15,6 +15,8 @@ I don't know that I even recommend this (completely nondestructive) ~modificatio
 - using a ready-made warp and directly warping by "snapping" the warp threads into the Clover Sakiori reed and its plastic fins (a [YouTube video](https://www.youtube.com/watch?v=gcEJlakK_48&t=20s) that shows this: ) - this is super easy, and was the main reason I wanted to try this)
 - the beater that the reed's attached to on the Saori WX60 still works!
 
+## Photos
+
 ![setup](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-01.jpg)
 
 ![warping in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-29-saori-mod-03.jpg)
