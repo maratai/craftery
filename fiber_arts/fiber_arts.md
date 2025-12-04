@@ -404,6 +404,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*. Primarily concerned with cotton and linen warps.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
+- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
