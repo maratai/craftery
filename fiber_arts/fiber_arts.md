@@ -34,6 +34,11 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 - DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
 - *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
 
+# Nalbinding
+I'm a raw beginner but interested in learning.
+
+- Ulrike Claßen-Büttner. *Nalbinding: What in the World Is That?: History and Technique of an Almost Forgotten Handcraft*.
+
 # Patterns: General
 
 ## Patterns: Bags and Gear
@@ -383,13 +388,6 @@ Spinning cotton is one of my interests since it's one of the most readily availa
   - Rebecca Winter. "Woven Shadows with Naturally Colored Cotton."
   - Rowena Zuercher. "Time Traveling wiht Swiss Valais Blacknose Sheep."
 
-# Weaving: General
-- Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
-- Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
-- Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
-- Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
-- ? (will look up later). *Opening a Door to Two-Harness Techniques*.
-
 # Supplies
 - [Eugene Textile Center](https://www.eugenetextilecenter.com/) - US-based supplier. Their used books and fiber tools on the online store often have delicious finds.
 - [Feral Scene](https://feralscene.com/) - Semi-local to me (they're in Texas, I'm in Louisiana). Their art batts for spinning are great.
@@ -400,6 +398,17 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving).
 - [The Woolery](https://woolery.com/) - US-based.
 - MORE TK
+
+# Weaving: General
+I'm still learning the basics so haven't explored these thoroughly.
+
+- June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*. Primarily concerned with cotton and linen warps.
+- Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
+- Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
+- Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
+- Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
+- Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
+- ? (will look up later). *Opening a Door to Two-Harness Techniques*.
 
 ## Weaving: Card Weaving
 - Candace Crockett. *Card Weaving*.
