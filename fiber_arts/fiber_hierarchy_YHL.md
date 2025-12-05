@@ -54,6 +54,18 @@ Rated from 1 (ugh, I hate working with this) to 5 (BETTER THAN UNMENTIONABLE THI
 - **wool: merino** (IxChel Mithril Merino): 4
   - Medium spin, fast uptake, spin fine.
   - Definitely A Feeling when you realize that the easieest and most pleasant wools for me to spin are *merino* (available but spendy) and North Ronaldsay (not as spendy but trickier to source).
- 
+- **wool: North Ronaldsay** (IxChel): 4
+  - Medium spin, fast uptake.
+- **wool: Romney**: on my list to try someday!
+- **wool: Shaniko**: on my list to try someday!
+- **wool Shetland**: 2
+- **wool: Shropshire**: 2
+- **wool: Targhee**: on my list to try someday!
+
 # Fibers, blended
-TK
+
+## IxChel blends
+- **Camel Bunny Silk Cashmere**: 4
+  - Baby Camel 60%, Mulberry Silk 30%, Angora Bunny 5%, Cashmere 5%.
+- **Pearl Bunny**: 4
+  - uperfine Merino 60%, **Chitin 30%** (!), Cashmere 5%, Angora Bunny 5%.
