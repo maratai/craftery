@@ -23,7 +23,7 @@ Travel spinning wheel on order.
 - Comes with three 6-oz. bobbins or one 8-oz. & two 4-oz.
 
 ## Louët S90
-Folding single treadle wheel, Irish tension. Spins like a racehhorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Delightful but there's definitely a learning curve!
+Folding single treadle wheel, Irish tension. Spins like a racehhorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
 
 - Ratios: 6.5:1, 9.5:1, 15:1.
 
