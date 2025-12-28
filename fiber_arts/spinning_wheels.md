@@ -16,6 +16,8 @@ My first treadle wheel, secondhand off eBay with a *lot* of extras (lazy kate, n
 
 The nice thing about Ashford wheels generally is that they are still in production and incredibly common, so getting replacement parts is straightforward, also a bonus. As someone who's been spinning for under a year, I think of Ashfords as the sturdy, reliable Honda Civics of the treadle wheel world. They may not be "glamorous," but they are delightfully reliable.
 
+I have spun everything from cotton to wool to silk blends to ramie on this despite being stuck at 6:1 as a spinning ratio for, probably, user error reasons; I can't get the wheel to "behave" for me on the faster ratios. (I treadle like the wind!)
+
 ## Athena Capricorn
 Travel spinning wheel - still acclimating.
 
@@ -27,7 +29,7 @@ Travel spinning wheel - still acclimating.
 ## Louët S90
 Folding single treadle wheel, Irish tension. Spins like a racehhorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
 
-This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb*, and I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
+This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb* for wool blends and plying. I don't yet have the skill to spin cotton, silk, or mulberry silk on this due to the aggressive takeup. I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
 
 - Ratios: 6.5:1, 9.5:1, 15:1.
 
