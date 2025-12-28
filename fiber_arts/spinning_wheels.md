@@ -49,11 +49,13 @@ Right now what I enjoy spinning on this is cotton, ramie, lotus silk, mulberry s
 # Wheels I Dream Of
 If wishes were wheels?
 
+I admit I long for one really nice Saxony wheel in my collection too, but right now I'm mostly in castle wheels or the more niche travel/folding wheels.
+
 ## Carson Cooper accelerated wheel
 I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD), or even see one in person!
 
 ## Golding spinning wheel
-At this point, we're solidly into heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/).
+At this point, we're solidly into heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/). These *start* at $10,000+ USD but go up to 33:1 in ratio.
 
 ## Spinolution Monarch with the 4A accelerated flyer
 I'd love to *try* one before committing, but!
