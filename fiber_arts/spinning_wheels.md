@@ -6,7 +6,7 @@ I seem to be bifurcating in preference between absurdly portable travel treadle 
 # E-Spinners
 
 ## Dreaming Robots EEW 6.1
-My one e-spinner.
+My one e-spinner. I keep wondering if the spendier ones are *that* much better as experiences, but I strongly prefer the treadle experience, so here we are.
 
 # Treadle Wheels
 
