@@ -1,6 +1,8 @@
 # Spinning Wheels
 Spinning wheels I've owned/used.
 
+I seem to be bifurcating in preference between absurdly portable travel treadle wheels (this is driven by health/mobility factors) and faster/more "advanced" spinning wheels!
+
 # E-Spinners
 
 ## Dreaming Robots EEW 6.1
@@ -49,6 +51,9 @@ If wishes were wheels?
 
 ## Carson Cooper accelerated wheel
 I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD), or even see one in person!
+
+## Golding spinning wheel
+At this point, we're solidly into heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/).
 
 ## Spinolution Monarch with the 4A accelerated flyer
 I'd love to *try* one before committing, but!
