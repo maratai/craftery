@@ -31,7 +31,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - The usual assortment of hand-sewing tools, too.
 
 **spinning wheels**
-- Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
+- Ashford Traditional - single treadle, Saxony wheel. This is going to a friend - the wheel is a *delight*, but also, space, and I'd like to share the love.
 - Ashford Traveller - single treadle, castle wheel. This is likely to be my loaner for local friends as it's also the wheel I know best.
 - [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
 - Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
