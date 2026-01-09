@@ -12,7 +12,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 **looms: table**
-- Clover Sakiori (two "harnesses").
+- Clover Sakiori (two "harnesses"). Available in the US via [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) but you may also be able to find it from Japan via eBay or similar. The built-in warping board with rearrangeable pegs is ridiculously clever.
 - [Lojan Flex rigid heddle loom](https://lojan.nl/product/flex-rigid-heddle-loom/). I ordered from the [Woolery](https://woolery.com/) (US).
 - Peacock Loom (two harnesses, counterbalance). My mother-in-law passed this on; I'm restoring it to working order as the string heddles were practically rotting.
 
@@ -25,7 +25,10 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
 
 **other tools**
-- Ashford warping mill.
+- Ashford warping mill. Stupidly fun to use!
+- [Fancy Kitty](https://www.fancy-kitty.com/) blending board and wool picker, both terrific.
+- Nålbinding needles, various, from friends and family.
+- [Strauch](http://strauchfiber.com/index.php) drum carder, obtained secondhand. Works beautifully.
 
 # Dyeing
 - Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
