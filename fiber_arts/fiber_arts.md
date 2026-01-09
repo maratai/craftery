@@ -32,11 +32,13 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 
 **spinning wheels**
 - Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
-- Ashford Traveller - single treadle, castle wheel.
+- Ashford Traveller - single treadle, castle wheel. This is likely to be my loaner for local friends as it's also the wheel I know best.
 - [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
 - Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
 - Louët S90 - single treadle, folding castle wheel. No longer in production; bought secondhand.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
+- Spinolution Mach III - I have a secondhand one on order as I'd been considering the Monarch anyway.
+- If I got *one more wheel* (!), I'd want a high-end Saxony (Kromski Polonaise) or if the sky were the limit, a Carson Cooper or Golding accelerated wheel. I'm already planning to downsize.
 
 **support spindles**
 - [John Galen Designs](https://www.johngalen.com/) - I adore the beautiful takhli-style support spindle I bought from Mr. Galen, and gave one to a friend!
