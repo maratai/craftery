@@ -35,7 +35,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Ashford Traveller - single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
 - [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
 - Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
-- Louët S90 - single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up.
+- [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions) - single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
 - Spinolution Mach III - I have a secondhand one on order as I'd been considering the Monarch anyway.
 - If I got *one more wheel* (!), I'd want a high-end Saxony (Kromski Polonaise) or if the sky were the limit, a Carson Cooper or Golding accelerated wheel. I'm already planning to downsize.
@@ -44,7 +44,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - [John Galen Designs](https://www.johngalen.com/) - I adore the beautiful takhli-style support spindle I bought from Mr. Galen, and gave one to a friend!
 
 **other tools**
-- Ashford hand carders and a warping mill. Stupidly fun to use!
+- Ashford (I think) [hand carders](https://www.ashford.co.nz/product/classic-hand-carders/) and a [warping mill](https://www.ashford.co.nz/product/warping-mill/). Stupidly fun to use!
 - [Fancy Kitty](https://www.fancy-kitty.com/) blending board and wool picker, both terrific.
 - Lazy Kate - came as an extra with the Ashford Traveller, not sure of the manufacturer.
 - Nålbinding needles, various, from friends and family.
