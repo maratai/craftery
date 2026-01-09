@@ -30,6 +30,10 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Singer SewHandy hand-crank miniature sewing machine: Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
 - The usual assortment of hand-sewing tools, too.
 
+**shuttles**
+- boat shuttles, various Saori and Leclerc (the latter came from my sister!).
+- stick shuttles, various Clover, Lojan, other.
+
 **spinning wheels**
 - [Ashford Traditional](https://www.ashford.co.nz/product/traditional-single-drive/) - single treadle, Saxony wheel, a 1981 example. (The link goes to an up-to-date one!) This is going to a friend - the wheel is a *delight*, but also, space, and I'd like to share the love.
 - Ashford Traveller - single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
@@ -50,6 +54,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Lazy Kate - came as an extra with the Ashford Traveller, not sure of the manufacturer.
 - Nålbinding needles, various, from friends and family.
 - niddy noddy - mine was an extra with the Ashford Traveller, cleverly made of PVC pipe!
+- pickup sticks, various.
 - [Strauch](http://strauchfiber.com/index.php) drum carder, obtained secondhand. Works beautifully.
 
 # Dyeing
