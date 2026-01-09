@@ -44,6 +44,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 **other tools**
 - Ashford warping mill. Stupidly fun to use!
 - [Fancy Kitty](https://www.fancy-kitty.com/) blending board and wool picker, both terrific.
+- Lazy Kate - came as an extra with the Ashford Traveller, not sure of the manufacturer.
 - Nålbinding needles, various, from friends and family.
 - [Strauch](http://strauchfiber.com/index.php) drum carder, obtained secondhand. Works beautifully.
 
