@@ -1,5 +1,17 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
+**floor looms**
+- Saori Wx60 (two harnesses, two treadles, counterbalance).
+- I have a Toika Laila (eight harnesses, eight treadles, countermarch) on order.
+
+**spinning wheels**
+- Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
+- Ashford Traveller - single treadle, castle wheel.
+- Athena Capricorn - double treadle, ultraportable travel wheel.
+- Dreaming Robots EEW 6.1 - e-spinner.
+- Louët S90 - single treadle, folding castle wheel.
+- Pocket Wheel - double treadle, ultraportable travel wheel.
+
 # Dyeing
 - Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
 - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*.
