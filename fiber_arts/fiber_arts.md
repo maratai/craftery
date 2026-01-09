@@ -12,11 +12,12 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Beadsmith ComfortLoom: can also be used for "regular" yarn tapestry weaving, in a pinch!
 
 **looms: floor**
-- Saori Wx60 (two harnesses, two treadles, counterbalance). I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer.
+- Saori WX60 (two harnesses, two treadles, counterbalance). I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer.
 - I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
-**looms: pin**
+**looms: pin and tapestry**
 - [Hello Loom](https://helloloom.com/), the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can keep in my bag. That said, at this point you can also DIY something with cardboard (I have done that too).
+- I'd love to try one of the smaller [Mirrix](https://mirrixlooms.com/) tapestry looms at some point!
 
 **looms: table**
 - Clover Sakiori (two "harnesses"). Available in the US via [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) but you may also be able to find it from Japan via eBay or similar. The built-in warping board with rearrangeable pegs is ridiculously clever.
