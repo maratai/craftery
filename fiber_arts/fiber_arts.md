@@ -16,6 +16,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
   - bobbin rack
   - comb reed
   - hand lever for warp brake
+  - loom wheels
   - Saori Kenzo tabletop ready-made warp system
 - I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
