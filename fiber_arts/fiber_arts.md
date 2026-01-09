@@ -1,5 +1,9 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
+**drop spindles**
+- [Snyder Turkish spindles](https://snyderspindles.com/collections/turkish-spindle), various.
+- I covet a Jenkins Kuchulu or Bee Hummingbird but doubt I will ever score one!
+
 **looms: band/tape**
 - [Handywoman](https://www.handywomanshop.com/looms) Tiny Box Loom: on order.
 - [Woodington UK](https://woodingtonuk.com/) folding tape loom
@@ -16,6 +20,11 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - [Lojan Flex rigid heddle loom](https://lojan.nl/product/flex-rigid-heddle-loom/). I ordered from the [Woolery](https://woolery.com/) (US).
 - Peacock Loom (two harnesses, counterbalance). My mother-in-law passed this on; I'm restoring it to working order as the string heddles were practically rotting.
 
+**sewing machines**
+- Frister and Rossman hand-crank sewing machine: Antique. Currently restoring (mostly elbow grease cleaning out gunk; the mechanism works).
+- Janome Magnolia 7318: I believe these are no longer in production, but it's a great entry-level electric sewing machine.
+- Singer SewHandy hand-crank miniature sewing machine: Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
+
 **spinning wheels**
 - Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
 - Ashford Traveller - single treadle, castle wheel.
@@ -23,6 +32,9 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner.
 - Louët S90 - single treadle, folding castle wheel. No longer in production; bought secondhand.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
+
+**support spindles**
+- [John Galen Designs](https://www.johngalen.com/) - I adore the beautiful takhli-style support spindle I bought from Mr. Galen, and gave one to a friend!
 
 **other tools**
 - Ashford warping mill. Stupidly fun to use!
