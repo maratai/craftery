@@ -44,7 +44,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - [John Galen Designs](https://www.johngalen.com/) - I adore the beautiful takhli-style support spindle I bought from Mr. Galen, and gave one to a friend!
 
 **other tools**
-- Ashford warping mill. Stupidly fun to use!
+- Ashford hand carders and a warping mill. Stupidly fun to use!
 - [Fancy Kitty](https://www.fancy-kitty.com/) blending board and wool picker, both terrific.
 - Lazy Kate - came as an extra with the Ashford Traveller, not sure of the manufacturer.
 - Nålbinding needles, various, from friends and family.
