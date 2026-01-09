@@ -2,18 +2,21 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 
 **drop spindles**
 - [Snyder Turkish spindles](https://snyderspindles.com/collections/turkish-spindle), various.
-- I covet a Jenkins Kuchulu or Bee Hummingbird but doubt I will ever score one!
+- I covet a [Jenkins](https://jenkinsspindles.com/) Kuchulu or Bee Hummingbird but doubt I will ever score one!
 
 **looms: band/tape**
 - [Handywoman](https://www.handywomanshop.com/looms) Tiny Box Loom: on order.
 - [Woodington UK](https://woodingtonuk.com/) folding tape loom
 
 **looms: bead**
-- BeadCraft ComfortLoom: can also be used for "regular" yarn weaving, in a pinch!
+- Beadsmith ComfortLoom: can also be used for "regular" yarn tapestry weaving, in a pinch!
 
 **looms: floor**
 - Saori Wx60 (two harnesses, two treadles, counterbalance). I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer.
 - I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
+
+**looms: pin**
+- [Hello Loom](https://helloloom.com/), the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can keep in my bag. That said, at this point you can also DIY something with cardboard (I have done that too).
 
 **looms: table**
 - Clover Sakiori (two "harnesses"). Available in the US via [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) but you may also be able to find it from Japan via eBay or similar. The built-in warping board with rearrangeable pegs is ridiculously clever.
@@ -21,15 +24,16 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Peacock Loom (two harnesses, counterbalance). My mother-in-law passed this on; I'm restoring it to working order as the string heddles were practically rotting.
 
 **sewing machines**
-- Frister and Rossman hand-crank sewing machine: Antique. Currently restoring (mostly elbow grease cleaning out gunk; the mechanism works).
+- Frister and Rossmann hand-crank sewing machine: Antique. Currently restoring (mostly elbow grease cleaning out gunk; the mechanism works).
 - Janome Magnolia 7318: I believe these are no longer in production, but it's a great entry-level electric sewing machine.
 - Singer SewHandy hand-crank miniature sewing machine: Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
+- The usual assortment of hand-sewing tools, too.
 
 **spinning wheels**
 - Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
 - Ashford Traveller - single treadle, castle wheel.
 - [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
-- Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner.
+- Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
 - Louët S90 - single treadle, folding castle wheel. No longer in production; bought secondhand.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
 
