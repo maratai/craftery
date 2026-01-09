@@ -18,7 +18,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
   - hand lever for warp brake
   - loom wheels
   - Saori Kenzo tabletop ready-made warp system
-- I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
+- I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch with two reeds [10 dent and 25 dent], a raddle, and temple) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 **looms: pin and tapestry**
 - [Hello Loom](https://helloloom.com/), the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can keep in my bag. That said, at this point you can also DIY something with cardboard (I have done that too).
