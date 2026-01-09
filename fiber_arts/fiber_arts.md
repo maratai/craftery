@@ -412,6 +412,14 @@ I'm acquiring a Saori WX60 since the two-shaft design isn't a significant downsi
 - Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
 - ???. *Beginners' Saori Clothing Design* and *Intermediate Saori Clothing Design*.
 
+# Weaver's Craft
+- Issue 6 - December 2000 - Wool Weaving and Fulling.
+- Issue 8 - Summer 2001 - Rosepath Gingham Towels.
+- Issue 10 - Winter 2001 - Double-Width Blankets
+- Issue 11 - Spring 2002 - Complementary Plain Weave.
+- Issue 13 - Summer 2003 - 4-Shaft Sampler Towels.
+- **Issue 24 - Mock Satin Damask.**
+
 # Weft: The Magazine for Handweavers
 **Note:** I'm a beginning weaver with two-harness lomos, so I'm reading pretty narrowly/selectively while I skill up!
 
