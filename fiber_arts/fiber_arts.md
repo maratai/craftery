@@ -1,7 +1,7 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
 **drop spindles**
-- [Snyder Turkish spindles](https://snyderspindles.com/collections/turkish-spindle), various.
+- [Snyder Turkish spindles](https://snyderspindles.com/collections/turkish-spindle), various. The large plying spindle is especially useful.
 - I covet a [Jenkins](https://jenkinsspindles.com/) Kuchulu or Bee Hummingbird but doubt I will ever score one!
 
 **looms: band/tape**
@@ -12,7 +12,11 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Beadsmith ComfortLoom: can also be used for "regular" yarn tapestry weaving, in a pinch!
 
 **looms: floor**
-- [Saori WX60](https://www.etsy.com/listing/115724346/saori-wx60-folding-wood-loom-in-stock) (two harnesses, two treadles, counterbalance). I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer.
+- [Saori WX60](https://www.etsy.com/listing/115724346/saori-wx60-folding-wood-loom-in-stock) (two harnesses, two treadles, counterbalance). I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer. I chose a Saori for my first/main loom because its accessibility features are friendly to someone with my specific chronic health issues. I've bought some of the add-ons as well:
+  - bobbin rack
+  - comb reed
+  - hand lever for warp brake
+  - Saori Kenzo tabletop ready-made warp system
 - I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 **looms: pin and tapestry**
@@ -55,6 +59,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Nålbinding needles, various, from friends and family.
 - niddy noddy - mine was an extra with the Ashford Traveller, cleverly made of PVC pipe!
 - pickup sticks, various.
+- The Saori WX60 floor loom has a built-in bobbin winder!
 - [Strauch](http://strauchfiber.com/index.php) drum carder, obtained secondhand. Works beautifully.
 
 # Dyeing
