@@ -1,8 +1,20 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
-**floor looms**
+**looms: band/tape**
+- [Handywoman](https://www.handywomanshop.com/looms) Tiny Box Loom: on order.
+- Woodington UK folding tape loom
+
+**looms: bead**
+- BeadCraft ComfortLoom: can also be used for "regular" yarn weaving, in a pinch!
+
+**looms: floor**
 - Saori Wx60 (two harnesses, two treadles, counterbalance).
 - I have a Toika Laila (eight harnesses, eight treadles, countermarch) on order.
+
+**looms: table**
+- Clover Sakiori (two "harnesses").
+- Lojan Flex rigid heddle loom.
+- Peacock Loom (two harnesses, counterbalance). My mother-in-law passed this on; I'm restoring it to working order as the string heddles were practically rotting.
 
 **spinning wheels**
 - Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
