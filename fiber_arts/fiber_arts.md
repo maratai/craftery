@@ -47,7 +47,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - itoguruma (Japanese traditional hand-crank charkha-like wheel) - on order.
 - [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions) - single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
-- [https://www.spinolution.com/](Spinolution) Mach III - Out of production; the "new" version is the [Monarch](https://www.spinolution.com/monarch). I have a secondhand one on order as I'd been considering the Monarch anyway.
+- [Spinolution](https://www.spinolution.com/) Mach III - Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). I have a secondhand one on order as I'd been considering the Monarch anyway.
 - If I got *one more wheel* (!), I'd want a high-end Saxony (Kromski Polonaise) or if the sky were the limit, a Carson Cooper or Golding accelerated wheel. I'm already planning to downsize.
 
 **support spindles**
