@@ -2,27 +2,30 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 
 **looms: band/tape**
 - [Handywoman](https://www.handywomanshop.com/looms) Tiny Box Loom: on order.
-- Woodington UK folding tape loom
+- [Woodington UK](https://woodingtonuk.com/) folding tape loom
 
 **looms: bead**
 - BeadCraft ComfortLoom: can also be used for "regular" yarn weaving, in a pinch!
 
 **looms: floor**
-- Saori Wx60 (two harnesses, two treadles, counterbalance).
-- I have a Toika Laila (eight harnesses, eight treadles, countermarch) on order.
+- Saori Wx60 (two harnesses, two treadles, counterbalance). I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer.
+- I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 **looms: table**
 - Clover Sakiori (two "harnesses").
-- Lojan Flex rigid heddle loom.
+- [Lojan Flex rigid heddle loom](https://lojan.nl/product/flex-rigid-heddle-loom/). I ordered from the [Woolery](https://woolery.com/) (US).
 - Peacock Loom (two harnesses, counterbalance). My mother-in-law passed this on; I'm restoring it to working order as the string heddles were practically rotting.
 
 **spinning wheels**
 - Ashford Traditional - single treadle, Saxony wheel (will be going to a new home).
 - Ashford Traveller - single treadle, castle wheel.
-- Athena Capricorn - double treadle, ultraportable travel wheel.
-- Dreaming Robots EEW 6.1 - e-spinner.
-- Louët S90 - single treadle, folding castle wheel.
-- Pocket Wheel - double treadle, ultraportable travel wheel.
+- [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
+- Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner.
+- Louët S90 - single treadle, folding castle wheel. No longer in production; bought secondhand.
+- [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
+
+**other tools**
+- Ashford warping mill.
 
 # Dyeing
 - Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
