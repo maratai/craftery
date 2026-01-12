@@ -6,7 +6,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 
 **looms: band/tape**
 - [Handywoman](https://www.handywomanshop.com/looms) Tiny Box Loom: on order.
-- [Woodington UK](https://woodingtonuk.com/) folding tape loom
+- [Woodington UK](https://woodingtonuk.com/) folding tape loom. A delight! Can be ordered with a small rigid heddle or with cards/tablets.
 
 **looms: bead**
 - Beadsmith ComfortLoom: can also be used for "regular" yarn tapestry weaving, in a pinch!
@@ -47,7 +47,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - itoguruma (Japanese traditional hand-crank charkha-like wheel) - on order.
 - [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions) - single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
-- [Spinolution](https://www.spinolution.com/) Mach III - Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). I have a secondhand one on order as I'd been considering the Monarch anyway.
+- [Spinolution](https://www.spinolution.com/) Mach III - Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). An absolute delight.
 - If I got *one more wheel* (!), I'd want a high-end Saxony (Kromski Polonaise) or if the sky were the limit, a Carson Cooper or Golding accelerated wheel. I'm already planning to downsize.
 
 **support spindles**
@@ -463,8 +463,10 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
 - ? (will look up later). *Opening a Door to Two-Harness Techniques*.
 
-## Weaving: Card Weaving
+## Weaving: Card/Tablet Weaving
+- Peter Collingwood. *Techniques of Tablet Weaving*. An extraordinary academic overview. Recommended.
 - Candace Crockett. *Card Weaving*.
+- Shelagh Lewins. [The Ancient Craft of Tablet Weaving: Getting Started](https://www.shelaghlewins.com/tablet_weaving/TW01/TW01.htm) (online). A terrific overview and how-to for beginners.
 
 ## Weaving: Rigid Heddle Looms
 - Syne Mitchell. *Inventive Weaving on a Little Loom*.
@@ -475,9 +477,12 @@ I'm acquiring a Saori WX60 since the two-shaft design isn't a significant downsi
 - Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
 - ???. *Beginners' Saori Clothing Design* and *Intermediate Saori Clothing Design*.
 
-# Weaver's Craft
+# Weaver's Craft Magazine
+I've started picking up back issues of these, which are delightful to page through although above my weaving skill leve at the moment.
+
 - Issue 6 - December 2000 - Wool Weaving and Fulling.
 - Issue 8 - Summer 2001 - Rosepath Gingham Towels.
+- **Issue 9 - Fall 2001 - Easy Inlays - Scarves with Stars - Gifts with Flowers.**
 - Issue 10 - Winter 2001 - Double-Width Blankets
 - Issue 11 - Spring 2002 - Complementary Plain Weave.
 - Issue 13 - Summer 2003 - 4-Shaft Sampler Towels.
