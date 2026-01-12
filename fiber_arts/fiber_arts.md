@@ -474,6 +474,8 @@ interest at the moment.
 - Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic
   
 ## Weaving: Rigid Heddle Looms
+- Liz Gipson. *Weaving Made Easy: 17 Projects Using a Rigid-Heddle Loom, Revised and Updated*.
+- Rev. David B. McKinney, OVB. *Weaving with Three Rigid Heddles: An Introduction to Multiple Rigid Heddle Weaving Without Pick-up Sticks*.
 - Syne Mitchell. *Inventive Weaving on a Little Loom*.
 
 ## Weaving: Saori Looms
