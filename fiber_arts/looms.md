@@ -36,7 +36,8 @@ Two-harness counterbalance floor loom, weaving width . This folds within seconds
 
 I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is also incredibly compact when folded up, although ironically, I have plenty of *space*.
 
-**Add-ons** (yes, these do add up in price)
+**Add-ons** (yes, these do add up in price, a lot)
+- comb reed
 - four-harness, six-treadle conversion kit - I have not installed this as I need more experience with basic warping, but this uses a spring system to convert the Saori WX60 to a sinking shed loom.
 - hand lever for the warp brake
 - Saori Kenzo ready-made warp system
@@ -56,6 +57,11 @@ I have one on order via WEBS.
 - 8 harnesses, 8 treadles - countermarch
 
 # Pin and Tapestry Looms
+
+## Hello Loom
+![Hello Loom against a backdrop of weaving WIP on a Saori WX60 floor loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-27-saori-02.jpg?raw=true)
+
+These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $10 USD) in my bag as a delightful fidget. (Of course, one can also DIY with cardboard or a picture frame plus nails.)
 
 # Table Looms
 
