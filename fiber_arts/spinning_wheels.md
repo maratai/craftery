@@ -53,6 +53,8 @@ Right now what I enjoy spinning on this is cotton, ramie, lotus silk, mulberry s
 - Disassembles to be even more compact. Reassembly isn't difficult as such but it does take a bit of wrassling (and also I'm a klutz).
 
 ## Spinolution Mach III
+![Spinolution Mach III](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-10-spinolution-mach-3-01.jpg?raw=true)
+
 I lucked into one on eBay sold by a spinner who packed it with *incredible* care. Twelve hours after its arrival (...I had to sleep), she's up and running. This may well be My Last Wheel in production terms. (I'm on a waitlist for a new Pocket Wheel.)
 
 Double-treadle castle wheel, "Scotch tension" - there is not a conventional brake band for the bobbin, but a screw/spring/block assembly that carries out the same function and means that you don't have to reset from zero each time you change the bobbin. Takeup varies from almost nothing to aggressive, although adjusting this requires a light touch as the brake knob, once engaged, is sensitive to small fractions of a turn.
