@@ -28,8 +28,10 @@ This is likely to be a local-friends loaner wheel in that I think she's a great 
 
 ## Athena Capricorn
 ![Athena Capricorn](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena.jpg?raw=true)
+Athena Capricorn.
 
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)
+Size comparison: Athena Capricorn (left) and Pocket Wheel (right).
 
 Travel spinning wheel - still acclimating.
 
@@ -44,6 +46,7 @@ From an ergonomics standpoint, this wheel probably works better if you're a bit 
 
 ## Louët S90
 ![Louët S90 and Pocket Wheel side by side](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-09-louet-pocket.jpg?raw=true)
+Size comparison: Louët S90 (left) and Pocket Wheel (right).
 
 Folding single treadle wheel, Irish tension. Spins like a racehorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
 
@@ -54,6 +57,7 @@ This would have made me cry as a first wheel, but after ~nine months of spinning
 ## Pocket Wheel
 
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)
+Size comparison: Athena Capricorn (left), Pocket Wheel (right).
 
 Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind is absolutely doable.
 
