@@ -14,6 +14,8 @@ A delight. You can get this with tablets (cards) or a rigid heddle.
 ## Beadcraft ComfortLoom
 ![Beadcraft ComfortLoom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-26-comfort-loom-01.jpg)
 
+![Beadcraft ComfortLoom and Nintendo Switch for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-27-comfort-weaving-wip-01.jpg?raw=true)
+
 Intended for beading but can be used for tapestry-style weaving (probably others), in a pinch!
 
 # Floor Looms
