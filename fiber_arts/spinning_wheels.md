@@ -16,6 +16,8 @@ My one e-spinner. I keep wondering if the spendier ones are *that* much better a
 My second treadle wheel, bought for $100 USD off FaceBook Marketplace locally (I *pounced*). Whoever previously owned her kept her in immaculate condition. I love her. r/Handspinning ID'd her as a 1981 model. Mine's single treadle, Scotch tension; only came with the one bobbin, but I have bobbins for the Ashford Traveller, and the price was great for a wheel in excellent working condition! If I can work out transport, this will be passed on to a friend.
 
 ## Ashford Traveller
+![Ashford Traveller, newly arrived and not yet set up](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-ashford-traveller.jpg?raw=true)
+
 My first treadle wheel, secondhand off eBay with a *lot* of extras (lazy kate, niddy noddy, Turkish spindle, a ton of fiber). Mine's single treadle, Scotch tension. Technically "portable" but not in a casual stroll way, more like car transport. This was a *terrific* first wheel; fixing/tuning parts one by one taught me so much about how the wheel operates and how to spin, although it was a process!
 
 The nice thing about Ashford wheels generally is that they are still in production and incredibly common, so getting replacement parts is straightforward, also a bonus. As someone who's been spinning for under a year, I think of Ashfords as the sturdy, reliable Honda Civics of the treadle wheel world. They may not be "glamorous," but they are delightfully reliable.
@@ -25,6 +27,10 @@ I have spun everything from cotton to wool to silk blends to ramie on this despi
 This is likely to be a local-friends loaner wheel in that I think she's a great teacher, and she's the wheel I've used the longest (including the n00b troubleshooting) and can help most with.
 
 ## Athena Capricorn
+![Athena Capricorn](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena.jpg?raw=true)
+
+![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)
+
 Travel spinning wheel - still acclimating.
 
 I note that the "spiral" orifice design on the flyer is extremely clever, but if (like me) you like to spin weird art yarns with inclusions and fiber bits sticking out, it does inherently mean that the yarn is likelier to snag on the orifice. If you have better control of your spinning or have a less art-yarn-spinning habit, this is probably not an issue.
@@ -46,7 +52,8 @@ This would have made me cry as a first wheel, but after ~nine months of spinning
 - Ratios: 6.5:1, 9.5:1, 15:1.
 
 ## Pocket Wheel
-*See* above (Louët S90) for a picture.
+
+![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)
 
 Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind is absolutely doable.
 
