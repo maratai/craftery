@@ -11,6 +11,8 @@ My one e-spinner. I keep wondering if the spendier ones are *that* much better a
 # Treadle Wheels
 
 ## Ashford Traditional
+![Ashford Traditional, 1981](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-24-ashford-traditional-03.jpg?raw=true0
+
 My second treadle wheel, bought for $100 USD off FaceBook Marketplace locally (I *pounced*). Whoever previously owned her kept her in immaculate condition. I love her. r/Handspinning ID'd her as a 1981 model. Mine's single treadle, Scotch tension; only came with the one bobbin, but I have bobbins for the Ashford Traveller, and the price was great for a wheel in excellent working condition! If I can work out transport, this will be passed on to a friend.
 
 ## Ashford Traveller
@@ -35,6 +37,8 @@ From an ergonomics standpoint, this wheel probably works better if you're a bit 
 - Comes with three 6-oz. bobbins or one 8-oz. & two 4-oz.
 
 ## Louët S90
+![Louët S90 and Pocket Wheel side by side](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-09-louet-pocket.jpg?raw=true)
+
 Folding single treadle wheel, Irish tension. Spins like a racehorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
 
 This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb* for wool blends and plying. I don't yet have the skill to spin cotton, silk, or mulberry silk on this due to the aggressive takeup. I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
@@ -42,6 +46,8 @@ This would have made me cry as a first wheel, but after ~nine months of spinning
 - Ratios: 6.5:1, 9.5:1, 15:1.
 
 ## Pocket Wheel
+*See* above (Louët S90) for a picture.
+
 Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind is absolutely doable.
 
 This is extremely lightweight and portable, but if you have longer legs or a wider stance (or wear dresses/skirts often), try before buying, I'm 5'4" with stubby legs and *very knock-kneed*, and I find that even after adjusting the height of my bench (it's a cheap but sturdy $40 stage piano bench from Yamaha IIRC), I have to splay my legs for comfortable spinning.
