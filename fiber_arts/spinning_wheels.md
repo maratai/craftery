@@ -11,7 +11,7 @@ My one e-spinner. I keep wondering if the spendier ones are *that* much better a
 # Treadle Wheels
 
 ## Ashford Traditional
-![Ashford Traditional, 1981](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-24-ashford-traditional-03.jpg?raw=true0
+![Ashford Traditional, 1981](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-24-ashford-traditional-03.jpg?raw=true)
 
 My second treadle wheel, bought for $100 USD off FaceBook Marketplace locally (I *pounced*). Whoever previously owned her kept her in immaculate condition. I love her. r/Handspinning ID'd her as a 1981 model. Mine's single treadle, Scotch tension; only came with the one bobbin, but I have bobbins for the Ashford Traveller, and the price was great for a wheel in excellent working condition! If I can work out transport, this will be passed on to a friend.
 
