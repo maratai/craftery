@@ -478,7 +478,7 @@ I'm acquiring a Saori WX60 since the two-shaft design isn't a significant downsi
 - ???. *Beginners' Saori Clothing Design* and *Intermediate Saori Clothing Design*.
 
 # Weaver's Craft Magazine
-I've started picking up back issues of these, which are delightful to page through although above my weaving skill leve at the moment.
+I've started picking up back issues of [this magazine](https://weaverscraft.com/), which are delightful to page through although above my weaving skill leve at the moment.
 
 - Issue 6 - December 2000 - Wool Weaving and Fulling.
 - Issue 8 - Summer 2001 - Rosepath Gingham Towels.
