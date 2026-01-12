@@ -457,10 +457,9 @@ I'm still learning the basics so haven't explored these thoroughly.
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*. Primarily concerned with cotton and linen warps.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
-- Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
-- Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic interest at the moment.
+interest at the moment.
 - ? (will look up later). *Opening a Door to Two-Harness Techniques*.
 
 ## Weaving: Card/Tablet Weaving
@@ -468,6 +467,11 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Candace Crockett. *Card Weaving*.
 - Shelagh Lewins. [The Ancient Craft of Tablet Weaving: Getting Started](https://www.shelaghlewins.com/tablet_weaving/TW01/TW01.htm) (online). A terrific overview and how-to for beginners.
 
+## Weaving: Multishaft Looms
+- Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
+- Marian Stubenitsky. *Weaving with Echo and Iris*. Over my head right now, but extraordinary to page through.
+- Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic
+  
 ## Weaving: Rigid Heddle Looms
 - Syne Mitchell. *Inventive Weaving on a Little Loom*.
 
