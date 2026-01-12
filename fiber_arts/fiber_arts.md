@@ -456,11 +456,11 @@ I'm still learning the basics so haven't explored these thoroughly.
 
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*. Primarily concerned with cotton and linen warps.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
+- Irene Francisco. *Opening a Door to Two-Harness Techniques*. Discusses lace techniques (Leno, Spanish lace, Danish medallion, pick-up Bronson lace, Brooks bouquet), simple inlay, monk's belt, and dukagang.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 interest at the moment.
-- ? (will look up later). *Opening a Door to Two-Harness Techniques*.
 
 ## Weaving: Card/Tablet Weaving
 - Peter Collingwood. *Techniques of Tablet Weaving*. An extraordinary academic overview. Recommended.
