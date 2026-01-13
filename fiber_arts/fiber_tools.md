@@ -17,7 +17,7 @@ Gorgeous and spins tahkli-style, beautifully.
   
 ![Turkish plying spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-turkish-spindle.jpg?raw=true)
 
-# Weaving and Looms
+# Looms
 
 *See* also [Looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md) for details.
 
