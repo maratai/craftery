@@ -7,7 +7,7 @@
 ## Woodington UK folding tape loom
 ![Woodington UK folding tape loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-11-woodington-band-loom.jpg?raw=true)
 
-A delight. You can get this with tablets (cards) or a rigid heddle.
+A delight. You can get this with tablets (cards) or a rigid heddle, or both!
 
 # Beading Looms
 
@@ -41,6 +41,9 @@ I prize lighter weight to an unusual degree, again due to health issues (and liv
 - four-harness, six-treadle conversion kit - I have not installed this as I need more experience with basic warping, but this uses a spring system to convert the Saori WX60 to a sinking shed loom.
 - hand lever for the warp brake
 - Saori Kenzo ready-made warp system
+
+![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
+
 - wheels so I can roll this out onto the patio on a nice day
 
 As an experiment, I've swapped out the wire heddles for Texsolv.
@@ -58,6 +61,10 @@ I have one on order via WEBS.
 
 # Pin and Tapestry Looms
 
+## DIY cardboard loom
+
+![DIY cardboard loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-diy-loom.jpg?raw=true)
+
 ## Hello Loom
 ![Hello Loom against a backdrop of weaving WIP on a Saori WX60 floor loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-27-saori-02.jpg?raw=true)
 
@@ -68,14 +75,9 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 ## Clover Sakiori
 ![Clover Sakiori being warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-06-sakiori-01.jpg?raw=true)
 
-"Two-harness" with an unusual "tilting" heddle/reed.
+"Two-harness" table loom with an unusual "tilting" heddle/reed. It needs to be horizontal for proper operation and can't handle high tension, but the warping is ridiculously fast.
 
 ## Peacock Loom
 ![Peacock Loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-27-peacock.jpg?raw=true)
 
-Two-harness counterbalance.
-
-Destashed by my mother-in-law. I'm in the process of replacing the decrepit string heddles with Texsolv.
-
-
-more TK
+Two-harness counterbalance table loom; essentially the same mechanics as the larger (and sturdier) Saori WX60 (*see* above)! Destashed by my mother-in-law. I'm in the process of replacing the decrepit string heddles with Texsolv.
