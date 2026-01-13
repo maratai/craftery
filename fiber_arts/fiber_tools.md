@@ -48,6 +48,9 @@ Gorgeous and spins tahkli-style, beautifully.
 
 # Sewing Machines
 - Frister and Rossmann hand-crank sewing machine: Antique. Currently restoring (mostly elbow grease cleaning out gunk; the mechanism works).
+
+![Frister and Rossmann hand-crank sewing machine](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-07-sewing-machine.jpg?raw=true)
+
 - Janome Magnolia 7318: I believe these are no longer in production, but it's a great entry-level electric sewing machine.
 - Singer SewHandy hand-crank miniature sewing machine: Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
 - The usual assortment of hand-sewing tools, too.
@@ -59,7 +62,7 @@ Gorgeous and spins tahkli-style, beautifully.
 - Ashford Traveller - single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
 - [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
 - Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/) - e-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
-- itoguruma (Japanese traditional hand-crank charkha-like wheel) - on order.
+- itoguruma (Japanese traditional hand-crank charkha-like wheel) - to be assembled.
 - [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions) - single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it.
 - [Spinolution](https://www.spinolution.com/) Mach III - Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). An absolute delight.
@@ -81,6 +84,9 @@ Gorgeous and spins tahkli-style, beautifully.
 - niddy noddy - mine was an extra with the Ashford Traveller, cleverly made of PVC pipe!
 - pickup sticks, various.
 - Saori Kenzo ready-made warp system
+
+![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
+
 - Saori WX60 - built-in bobbin winder!
 - stick shuttles: various Clover, Lojan, other.
 
