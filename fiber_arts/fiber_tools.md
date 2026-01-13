@@ -1,6 +1,8 @@
-# Fiber Tools
+# Fiber Tools Masterlist
 
-TO REORGANIZE
+*See* also:
+- [Looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md)
+- [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md)
 
 **drop spindles**
 - [Snyder Turkish spindles](https://snyderspindles.com/collections/turkish-spindle), various. The large plying spindle is especially useful.
