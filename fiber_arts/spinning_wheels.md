@@ -6,23 +6,26 @@ I seem to be bifurcating in preference between absurdly portable travel treadle 
 # E-Spinners
 
 ## Dreaming Robots EEW 6.1
-My one e-spinner. I keep wondering if the spendier ones are *that* much better as experiences, but I strongly prefer the treadle experience, so here we are.
+My one e-spinner. I keep wondering if the spendier ones are *that* much better as experiences, but I strongly prefer the treadle experience, so here we are. One can spin in the passenger seat of a car with a rechargeable battery (you have to buy and install this separately, very easy)!
 
 # Treadle Wheels
 
 ## Ashford Traditional
 ![Ashford Traditional, 1981](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-24-ashford-traditional-03.jpg?raw=true)
 
-My second treadle wheel, bought for $100 USD off FaceBook Marketplace locally (I *pounced*). Whoever previously owned her kept her in immaculate condition. I love her. r/Handspinning ID'd her as a 1981 model. Mine's single treadle, Scotch tension; only came with the one bobbin, but I have bobbins for the Ashford Traveller, and the price was great for a wheel in excellent working condition! If I can work out transport, this will be passed on to a friend.
+My second (treadle wheel (Saxony), bought for $100 USD off FaceBook Marketplace locally (I *pounced*). Whoever previously owned her kept her in immaculate condition. I love her. r/Handspinning ID'd her as a 1981 model. Mine's single treadle, Scotch tension; only came with the one bobbin, but I have bobbins for the Ashford Traveller, and the price was great for a wheel in excellent working condition! If I can work out transport, this will be passed on to a friend.
 
 ## Ashford Traveller
 ![Ashford Traveller, newly arrived and not yet set up](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-ashford-traveller.jpg?raw=true)
 
-My first treadle wheel, secondhand off eBay with a *lot* of extras (lazy kate, niddy noddy, Turkish spindle, a ton of fiber). Mine's single treadle, Scotch tension. Technically "portable" but not in a casual stroll way, more like car transport. This was a *terrific* first wheel; fixing/tuning parts one by one taught me so much about how the wheel operates and how to spin, although it was a process!
+My first treadle wheel (castle), secondhand off eBay with a *lot* of extras (lazy kate, niddy noddy, Turkish spindle, a ton of fiber). Mine's single treadle, Scotch tension. Technically "portable" but not in a casual stroll way, more like car transport. This was a *terrific* first wheel; fixing/tuning parts one by one taught me so much about how the wheel operates and how to spin, although it was a process!
 
-The nice thing about Ashford wheels generally is that they are still in production and incredibly common, so getting replacement parts is straightforward, also a bonus. As someone who's been spinning for under a year, I think of Ashfords as the sturdy, reliable Honda Civics of the treadle wheel world. They may not be "glamorous," but they are delightfully reliable.
+- Weight: 15 lbs.
+- Ratios: 5.5:1, 10:1, 14:1
 
-I have spun everything from cotton to wool to silk blends to ramie on this despite being stuck at 6:1 as a spinning ratio for, probably, user error reasons; I can't get the wheel to "behave" for me on the faster ratios. (I treadle like the wind!)
+The nice thing about Ashford wheels is that they are still in production and incredibly common, so getting replacement parts is straightforward. As someone who's been spinning for under a year, I think of Ashfords as the sturdy, reliable Honda Civics of the treadle wheel world. They may not be "glamorous," but they are delightfully reliable.
+
+I have spun everything from cotton to wool to silk blends to ramie on this despite being stuck at ~6:1 as a spinning ratio for, probably, user error reasons; I can't get the wheel to "behave" for me on the faster ratios. (I treadle like the wind!)
 
 This is likely to be a local-friends loaner wheel in that I think she's a great teacher, and she's the wheel I've used the longest (including the n00b troubleshooting) and can help most with.
 
@@ -35,7 +38,7 @@ Size comparison: Athena Capricorn (left) and Pocket Wheel (right).
 
 Travel spinning wheel - still acclimating.
 
-I note that the "spiral" orifice design on the flyer is extremely clever, but if (like me) you like to spin weird art yarns with inclusions and fiber bits sticking out, it does inherently mean that the yarn is likelier to snag on the orifice. If you have better control of your spinning or have a less art-yarn-spinning habit, this is probably not an issue.
+The "spiral" orifice design on the flyer is extremely clever, but if (like me) you like to spin weird art yarns with inclusions and fiber bits sticking out, it does inherently mean that the yarn is likelier to snag on the orifice. If you have better control of your spinning or have a less art-yarn-spinning habit, this is probably not an issue.
 
 From an ergonomics standpoint, this wheel probably works better if you're a bit taller due to the height of the treadles, which are slightly tough to get started but have smooth action once the wheel is in motion. This is a me problem: I have the bad combination of permanently wrecked ankles and being short (I'm 5'4") so I have to use a higher bench to treadle this comfortably, and I have reasonably strong legs but a poor ability to do anything involving my ankles.
 
