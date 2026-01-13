@@ -53,7 +53,7 @@ Folding single treadle wheel, Irish tension. Spins like a racehorse; has extreme
 This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb* for wool blends and plying. I don't yet have the skill to spin cotton, silk, or mulberry silk on this due to the aggressive takeup. I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
 
 - Weight: 16 lbs.
-- Dimensions: 12" W x 31" H x 21" D
+- Dimensions: 12" W x 21" D x 31" H
 - Ratios: 6.5:1, 9.5:1, 15:1.
 
 ## Pocket Wheel
@@ -83,6 +83,7 @@ I adore the open-hook orifice and peg (vs. hook or loop) design on the flyer, di
 This is the heaviest wheel I own, but the footprint is not *that* much larger than that of e.g. the Ashford Traveller.
 
 - Weight: 25 lbs.
+- Dimensions: 24" W x 12" D x 32" H
 - Ratios: 1:3.5 to 1:21 on the regular flyer. The Spinolution *Monarch* (the updated/current version of this wheel?) apparently goes up to 1:52 on the 4A accelerated flyer. I don't know if those flyers are compatible with the Mach III.
 - Absolutely not "easily" portable, but 25 lbs. plus the travel kit (wheels!) makes this something one can wheel around the house. My Saori WX60 floor loom folds and is 30 lbs., and on a non-bad day I can manage that fine.
 - The toe-based double treadle is unusual (and is probably a YMMV, I would definitely try before buying if that's possible) but the action is incredibly gentle and responsive. I could probably "single treadle" with one foot on a slower ratio if I felt like it.
