@@ -8,14 +8,18 @@
 I covet a [Jenkins](https://jenkinsspindles.com/) Kuchulu or Bee Hummingbird Turkish spindle but doubt I will ever score one!
 
 - John Galen supported spindle
+  
 ![John Galen supported spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-john-galen-spindle.jpg?raw=true)
 
 Gorgeous and spins tahkli-style, beautifully.
 
 - Snyder Turkish plying spindle (and other Turkish spindles)
+  
 ![Turkish plying spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-turkish-spindle.jpg?raw=true)
 
 # Weaving and Looms
+
+*See* also [Looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md) for details.
 
 ## Bead Looms
 - Beadsmith ComfortLoom: can also be used for "regular" yarn tapestry weaving, in a pinch!
@@ -35,7 +39,7 @@ Gorgeous and spins tahkli-style, beautifully.
 
 ## Pin and Tapestry Looms
 - [Hello Loom](https://helloloom.com/), the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can keep in my bag. That said, at this point you can also DIY something with cardboard (I have done that too).
-- I'd love to try one of the smaller [Mirrix](https://mirrixlooms.com/) tapestry looms at some point!
+- I'd love to try one of the smaller [Mirrix](https://mirrixlooms.com/) tapestry looms at some point! I have an "open box" 5" Chloe on order.
 
 ## Table Looms
 - Clover Sakiori (two "harnesses"). Available in the US via [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) but you may also be able to find it from Japan via eBay or similar. The built-in warping board with rearrangeable pegs is ridiculously clever.
@@ -49,6 +53,8 @@ Gorgeous and spins tahkli-style, beautifully.
 - The usual assortment of hand-sewing tools, too.
 
 # Spinning Wheels
+**See* also [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for details.
+
 - [Ashford Traditional](https://www.ashford.co.nz/product/traditional-single-drive/) - single treadle, Saxony wheel, a 1981 example. (The link goes to an up-to-date one!) This is going to a friend - the wheel is a *delight*, but also, space, and I'd like to share the love.
 - Ashford Traveller - single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
 - [Athena Capricorn](https://www.athenaspinning.com/wheels) - double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
