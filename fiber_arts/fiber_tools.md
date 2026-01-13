@@ -53,7 +53,7 @@ Gorgeous and spins tahkli-style, beautifully.
 - The usual assortment of hand-sewing tools, too.
 
 # Spinning Wheels
-**See* also [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for details.
+*See* also [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for details.
 
 - [Ashford Traditional](https://www.ashford.co.nz/product/traditional-single-drive/) - single treadle, Saxony wheel, a 1981 example. (The link goes to an up-to-date one!) This is going to a friend - the wheel is a *delight*, but also, space, and I'd like to share the love.
 - Ashford Traveller - single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
