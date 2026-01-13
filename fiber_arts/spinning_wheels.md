@@ -88,7 +88,7 @@ This is the heaviest wheel I own, but the footprint is not *that* much larger th
 # Wheels I Dream Of
 If wishes were wheels?
 
-I admit I long for one really nice Saxony wheel (a Kromski Polonaise or Canadian Production Wheel) in my collection too, but right now I'm mostly in castle wheels or the niche ultraportable travel/folding wheels.
+I admit I long for one really nice "traditional"-style Saxony wheel (a [Kromski Polonaise](https://kromski.com/product/the-polonaise-spinning-wheel/) or [Canadian Production Wheel (Jillian Eve)](https://jillianeve.com/canadian-production-wheel/)) in my collection too, but right now I'm mostly in castle wheels or the niche ultraportable travel/folding wheels.
 
 I'd absolutely try a Jensen spinning wheel if I had the opportunity, but this is unlikely at this point.
 
