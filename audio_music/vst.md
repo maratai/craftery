@@ -147,38 +147,42 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Midnight Tenor Sax.
 
 # Native Instruments
-- **Accent Pianos**.
+- Accent Pianos.
 - **Action Strikes**.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
-- **Amati Viola**.
+- **Amati Viola**. Can be quite nice if you're willing to micromanage the articulations. I have *feelings* about viola!
 - **Ashlight**. Sound design and soundscapes.
 - **Bite**. Bitcrusher.
 - **Bounce**. MassiveX.
 - **Choral**. Chorus effect.
 - **Concrete Sun**. Japanese hip-hop + traditional instruments.
-- **Dirt**. Distortion effect.
-- **East Asia**. Listen, they have Korean folk/traditional instruments in here too!
-- **Enhanced EQ**.
+- **Dirt**. Distortion.
+- **East Asia**. Listen, they have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
+- Enhanced EQ.
 - **Freak**. Modulation effect.
+- **Kontakt Factory Library**.
 - **Lo-Fi Glow**.
-- **The Maverick**. Grand piano.
-- **Passive EQ**. Tube EQ.
+- **The Maverick**. Grand piano. I suspect a Yamaha based on the timbre, but I could be wrong!
+- Passive EQ. Tube EQ.
 - **Pharlight**. Soundscapes and vocal-based granular synthesis.
-- **Rammfire**. Amp.
-- **Raum**. Reverb.
-- **RC 24**. Hall reverb.
-- **RC 48**. Hall reverb.
-- **Reflektor**. Convolution reverb.
-- **Replika XT**. Delay.
+- Rammfire. Amp.
+- Raum. Reverb.
+- RC 24. Hall reverb.
+- RC 48. Hall reverb.
+- Reflektor. Convolution reverb.
+- Replika XT. Delay.
 - **Rise and Hit**. Cinematic hits.
+- **Session Bassist: Icon Bass**.
+- **Session Bassist: Prime Bass**.
+- **Session Guitarist: Electric Mint**.
+- **Session Guitarist: Electric Sunburst Deluxe**.
 - **Session Horns Pro**.
-- **Solid Dynamic FX**.
-- **Solid EQ FX**.
+- Solid Dynamic FX.
+- Solid EQ FX.
 - **Straylight**. Soundscapes, sound design.
-- **Super 8**. Vintage analog polysynths.
 - **Supercharger**. Tube compressor.
 - **Transient Master FX**.
-- **Valves Pro**. Brasses.
+- Valves Pro. Brasses.
 
 # Norrland Samples
 - Norrland Solo Trumpet. Free and great!
