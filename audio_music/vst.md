@@ -140,6 +140,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Ferrum: Modern Trailer Percussion - Free Edition**.
 - **Risenge - Free Edition**.
 
+# Krotos
+- Dehumaniser.
+- Reformer Pro.
+- Weaponiser.
+
 # Loot Audio
 - **Balvi Cello**.
 
