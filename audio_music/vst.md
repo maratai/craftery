@@ -27,6 +27,9 @@
 - **Silka**. Choral.
 
 # Audiobro
+- Eternity Choir.
+- LA Drama Drums.
+- **Modern Scoring Brass**.
 - **Modern Scoring Strings**.
 
 # Audio Imperia
@@ -36,7 +39,7 @@
 
 # Audio Ollie
 - **LA Modern Percussion**.
-- **Nashville Scoring Strings**.
+- Nashville Scoring Strings.
 
 # Best Service
 - **Chris Hein Solo Cello**.
@@ -58,10 +61,10 @@
 
 # EastWest
 Uses their own VST host (Opus etc).
-- **EW Ancient Kingdom**.
+- EW Ancient Kingdom.
 - **EW Gypsy**. "Ethnic," various.
-- **EW Hollywood Fantasy Brass**.
-- **EW Voices of Passion**. Operatic solo vocals.
+- EW Hollywood Fantasy Brass.
+- EW Voices of Passion. Operatic solo vocals.
 - **EW Voices of the Empire**. "Ethnic" solo vocals.
 
 # Embertone
@@ -74,6 +77,7 @@ Terrific solo strings.
 - **Articulate**. Mixing/mastering.
 
 # Fallout Music Group
+- Quake. Sound design.
 - **Steampunk**. Sound design.
 
 # Fever Audio
