@@ -278,5 +278,7 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
 
 # Zero-G
 - **Ethera Gold 2.5**. Cinematic solo vocals, male and female.
+- **Ethera Gold Atlantis**. Cinematic solo vocals, female.
+- World Studio Percussion.
 - **Ethera Gold Atlantis**. Cinematic solo female vocals.
 - **World Studio Percussion**.
