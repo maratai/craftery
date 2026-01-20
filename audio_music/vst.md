@@ -243,11 +243,13 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 # Spitfire Audio
 Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
 - **Albion Solstice**. One of my go-tos for folk/hybrid.
-- **Aluphone**.
+- Aluphone.
 - **Aperture Strings**. A good workhorse orchestral strings sketching tool.
+- Chrysalis.
 - **Glass and Steel**. Tonal percussion and effects.
-- **Hans Zimmer Percussion**.
-- **Kepler Orchdestra**.
+- Hans Zimmer Percussion.
+- Harpsichord - Steven Devine.
+- **Kepler Orchestra**.
 - **Originals - Cimbalom**.
 - **Originals - Cinematic Frozen Strings**.
 - **Originals - Drumline**. Marching band drums.
@@ -258,8 +260,8 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 - **Peter Gregson - Electric Cellist**.
 - **Resonate**. Reverb.
 - **Spitfire Harp**.
-- **Spitfire Solo Strings**.
-- **Spitfire Symphonic Brass**.
+- Spitfire Solo Strings.
+- Spitfire Symphonic Brass.
 
 # Steven Slate
 - **Steve Slate Drums 5**.
