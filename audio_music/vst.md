@@ -268,11 +268,22 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 
 # Vienna Symphonic Library
 Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vienna Instruments Pro.
-- **Hello Free Violin Runs**.
-- **Hello Free Harp Glissandos**.
+- Hello Free Violin Runs.
+- Hello Free Harp Glissandos.
 - **Hello Free Small Percussion**.
 - **Studio Solo Voices**. Terrific for passage work.
+  - Coloratura Soprano
+  - Soprano
+  - Mezzo Soprano
+  - Alto
+  - Tenor
+  - Baritone
+  - Bass
+  - Double Quartet
 - **Studio Special Brass**.
+  - Piccolo Trumpet
+  - Cornet
+  - Flugelhorn
 - **Studio Whistler**.
 - **Synchron Duality Strings**.
 - **Synchron Solo Strings**.
