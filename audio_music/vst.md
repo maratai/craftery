@@ -113,11 +113,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Furia Staccato Strings**.
 - Mega Brass.
 - **Shreddage 3 Abyss**. A "custom six-string Muckelroy Bass."
-- **Shreddage 3 Darkwall**. A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
+- Shreddage 3 Darkwall. A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
 - **Shreddage 3 Jupiter**. "A deep, dark 7-string guitar ideal for heavy rock & metal rhythms."
 - **Special Reserve Colossal Hybrid Drums**.
 - Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
+- Tokyo Scoring Drum Kits.
 - **Tokyo Scoring Strings**. Quite dry, extremely crisp studio strings.
 
 # iZotope
@@ -143,7 +144,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **SpiritBox: Mike Stringer**. Effects.
 
 # Musical Sampling
-- **Midnight Tenor Sax**.
+- Midnight Tenor Sax.
 
 # Native Instruments
 - **Accent Pianos**.
@@ -204,12 +205,13 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Pacific Brass**.
 - **Pacific Ensemble Strings**.
 - **Pacific Percussion**.
-- **Pacific Woodwinds**. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
-- **Vista II Small Ensemble Strings**.
+- Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
+- Vista II Small Ensemble Strings.
 
 # Sample Logic
 - **Drum Fury**.
 - **Morphestra 2**. Hybrid.
+- **Trailer Expression** 1 through 4.
 - **World Fury**. Hybrid.
 
 # Soniccouture
