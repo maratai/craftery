@@ -96,21 +96,27 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Toy Piano**.
 
 # Have Audio
-- **Balkan Clarinet**.
+- Balkan Clarinet.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
 # Heavyocity
 - **Analog Hybrid Drums**.
 - **Damage**. Cinematic percussion.
-- **Damage 2**. Cinematic percuussion.
+- **Damage 2**. Cinematic percussion.
 - **Machina**. Sound design.
-- **Novo**. Processed orchestral strings.
-- **Sonara**. Processed vocals.
-- **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
+- Novo. Processed orchestral strings.
+- Sonara. Processed vocals.
+- Symphonic Destruction. Processed/hybrid orchestral/sound design.
 
 # Impact Soundworks
+- Bass Sculptor.
+- **Furia Staccato Strings**.
+- Mega Brass.
+- **Shreddage 3 Abyss**. A "custom six-string Muckelroy Bass."
+- **Shreddage 3 Darkwall**. A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
+- **Shreddage 3 Jupiter**. "A deep, dark 7-string guitar ideal for heavy rock & metal rhythms."
 - **Special Reserve Colossal Hybrid Drums**.
-- **Super Audio Boy**. Chiptunes etc.
+- Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
 - **Tokyo Scoring Strings**. Quite dry, extremely crisp studio strings.
 
