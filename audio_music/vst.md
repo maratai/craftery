@@ -222,9 +222,13 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 
 # Soundiron
 - **Artillery Shell Cello**.
-- **Blazer - Retro Anime FX**.
+- Blazer - Retro Anime FX.
 - **ClickClickBang**. Sampled M1 Garand Rifle!
-- **High School Drum Corps**.
+- High School Drum Corps.
+
+# Soundpaint
+- Requiem Solus. Choral.
+- Hybrid Cinema - Analog Modular Percussion I.
 
 # Soundtoys
 - **Crystallizer**.
@@ -267,6 +271,10 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
 - **Synchron Duality Strings**.
 - **Synchron Solo Strings**.
 - **Synchron Woodwinds**.
+
+# Wavesfactory
+- Clock.
+- Music Box.
 
 # Zero-G
 - **Ethera Gold 2.5**. Cinematic solo vocals, male and female.
