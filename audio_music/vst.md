@@ -51,6 +51,9 @@
 - **ERA II Vocal Codex**.
 - **Whistler**.
 
+# Blue Cat Audio
+- Blue Cat Free Amp.
+
 # Cinesamples
 - **Apocalyptica**. Solo electric cello.
 - **Drums of War 1**. Cinematic percussion.
@@ -230,15 +233,17 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **ClickClickBang**. Sampled M1 Garand Rifle!
 - High School Drum Corps.
 
+# Soundmorph
+- Dust.
+
 # Soundpaint
 - Requiem Solus. Choral.
 - Hybrid Cinema - Analog Modular Percussion I.
 
 # Soundtoys
-- **Crystallizer**.
+- Crystallizer.
 - **Decapitator**.
 - **Little Alter Boy**. Pitch/formant shifting.
-- more TK
 
 # Spitfire Audio
 Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
