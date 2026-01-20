@@ -46,7 +46,7 @@
 - **Chris Hein Solo Contrasbass**.
 - **Chris Hein Solo Viola**.
 - **Chris Hein Solo Violin**.
-- **Dark Era**.
+- **Dark Era** and **Dark Era II**.
 - **ERA II Medieval Legends**. Period instruments.
 - **ERA II Vocal Codex**.
 - **Whistler**.
