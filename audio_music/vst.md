@@ -13,9 +13,16 @@
 - **Clocks**.
 - **Emperium Destiny**. Choral.
 - **Epic Taiko Ensemble**.
+- **Hybrid Action Tools Equinox.** Sound design.
 - **Hybrid Tools Terminus**. Sound design.
 - **Insolidus Choir**.
 - **Liberis Angelic Choir**.
+- Misfit Bicycle (???).
+- Misfit Bucket Bass.
+- **Misfit Fiddle**.
+- **Misfit Harmonica**.
+- Misfit Stringed Diddley Bow.
+- **Misfit Whistling**.
 - **Requiem Professional**. Choral.
 - **Silka**. Choral.
 
