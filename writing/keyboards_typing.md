@@ -31,3 +31,9 @@ I'm a deep minority as someone who prefers mechanical keyboards for tankier stay
 
 ## Kinesis
 I own multiple Kinesis keyboards. They're generally bulky but built like *tanks*. When I have a "stable" setup I'm not toting around, the Advantage and Freestyle are great daily drivers; the Advantage was my main keyboard for years. The Freestyle split keyboard is probably friendlier to most people (and less expensive). The Advantage series has a contoured keyboard that is more ergonomic if you account for the keyboard's extra *height* in your setup. I like it, but it took me a *month* to acclimate and many people do not have the time. I only jumped for this because I got a secondhand unit from an acquaintance that let me try the form factor (it did eventually die, which was expected) before committing to a purchase of my own. I love them but YMMV, and they're too bulky for me to use as travel keyboards.
+
+## Logitech
+If I'm in a hurry, I grab a Logitech. They're easily available, reliable, come in a zillion variants.
+
+**Logitech Casa**.
+Terrific "wfh" travel kit with a sensibly designed case containing Bluetooth keyboard, trackpad, and USB-C cable. The case itself folds into a laptop stand; note that you do need to use the elastic to secure the stand. For "mainstream" keyboards vs. specialty builds, Logitech is very solid. The Casa is slim, has a great case design - not the most lightweight option for keyboards but it unfolds into a *stand*, and the whole thing slots together nicely.
