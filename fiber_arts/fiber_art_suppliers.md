@@ -7,8 +7,8 @@ Not a comprehensive list!
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) - US-based supplier, more affordable tools beautifully and thoughtfully made. I have the yarn swift and cone holder.
 - [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - Incredibly beautiful art batts, also semi-local to me (they're in Texas).
 - [Handywoman](https://www.handywomanshop.com/) - Gorgeous handmade weaving tools, including looms, shuttles, and more. If you're an embroiderer or sewist, check out the wooden embroidery cards too!
-- [IxChel](https://ixchel.com.au/) - supplies spinning fibers (*amazing*), plus yarns and tools. They're in Australia.
-- [The Miller Girls Yarn](https://themillergirlsyarn.com/) - Terrific wholesaler with broad and unusual offerings.
+- [IxChel](https://ixchel.com.au/) - Australia-based. Spinning fibers (*amazing* - the wallaby batts are almost better than CENSORED to spin), plus yarns and tools.
+- [The Miller Girls Yarn](https://themillergirlsyarn.com/) - US-based. Terrific wholesaler with broad and unusual offerings.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - US-based small workshop maker of Pocket Wheel travel spinning wheels. I have a secondhand one and it's amazing. The wait list is about two years long but the wheel is *fantastic*.
 - [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving).
