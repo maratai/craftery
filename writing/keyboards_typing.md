@@ -1,4 +1,4 @@
 # Keyboards
-Typing keyboards. I'm in a music program so I have to specify!
+Typing keyboards. I'm in a music program so I have to specify! I generally go through two or three keyboards a year because I'm a *writer* and I learned touch-typing on a manual typewriiter, so I tend to wear them out fast.
 
-more TK
+- [Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro) - My current at-home daily driver. I swapped out some of the keycaps for see-through glowy ones because I end up using Cubase's F1-F15 function keys in the dark, but this is a fantastic tri-mode rechargeable keyboard (USB-C, Bluetooth, and 2.4GHz wireless dongle) with an adorable little display that tells you battery charge level. The volume-control knob is surprisingly useful when one is wrangling music program stuff! (You might be able to remap that; I haven't tried.) In general, [Epomaker](https://epomaker.com/) makes *terrific* keyboards.
