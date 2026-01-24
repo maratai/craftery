@@ -37,3 +37,20 @@ If I'm in a hurry, I grab a Logitech. They're easily available, reliable, come i
 
 **Logitech Casa**.
 Terrific "wfh" travel kit with a sensibly designed case containing Bluetooth keyboard, trackpad, and USB-C cable. The case itself folds into a laptop stand; note that you do need to use the elastic to secure the stand. For "mainstream" keyboards vs. specialty builds, Logitech is very solid. The Casa is slim, has a great case design - not the most lightweight option for keyboards but it unfolds into a *stand*, and the whole thing slots together nicely.
+
+The keyboard has no numpad and has shallow keys with little travel, but for e.g. writing in a café, I don't care. I own *two* dedicated numpad devices because they're used in Sibelius for keyboard shortcuts, so I can pack those separately at need.
+
+**Logitech POP Mechanical Keyboard**
+Super cute, FUN colors (I am shallow). The round keys are An Adjustment, ditto the weird media keys (I tend to disable these in macOS), so go in aware. I moved away from these keyboards because they're less robust (in keeping with the lower price point) and tend to fail after a few months of hard typing. They're fun, though!
+
+## ProtoArc
+**ProtoArc Foldable Keyboard and Mouse, XKM01** True Full-Size Folding Wireless Keyboard Mouse Combo for Business Travel.
+
+Charges over USB-C, separate keyboard and mouse connecting over USB-A 2.5 GHz wireless dongle or Bluetooth, has a sensibly designed travel case and tablet/phone stand.
+
+I picked this up to be a travel "full-sized" keyboard for the rpi. Terrific design! The keyboard is folding and has shallow key travel BUT it is just large enough to include a numpad. I love this for when I don't need the additional laptop stand of the Logitech Casa (which is a great all-in-one travel kit).
+
+## Royal Kludge
+I've had one defective unit (sadly, it was the folding travel one, although that was heavier than I prefer anyway) but otherwise, these are terrific mechanical keyboards and one of them has been a daily driver for me. I've gotten the mechanical keyboards, which also support Bluetooth and have fun LED lights. These tend to be solid, heavier devices - not quite as much "built like tank" factor as the Kinesis but I don't travel with them. I'd own more of these if they weren't a bit slow to ship from China.
+
+The Epomaker and Royal Kludge keyboards have roughly similar "typing feel" for me, if that's helpful.
