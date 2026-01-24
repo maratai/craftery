@@ -19,7 +19,14 @@ So you know how I evaluate them for my own use.
 - I type in QWERTY (US) but did at one point achieve 40 wpm in Dvorak because, uh, boredom and/or grad school procrastination. But in real life, QWERTY.
 - I'm exploring chording keyboards thanks to health issues.
 
+## DecaTxt
+**[https://decatxt.com/](DecaTxt 3)**\
+One-handed chording Bluetooth keyboard (charges over USB-C). I haven't had time to try this out.
+
 ## Epomaker
+
+**Epomaker Luma40**\
+Ultra-compact layout although it's surprisingly tanky for its size. Lots of modifier keys, which can be customized using [Via](https://caniusevia.com/). There's a learning curve that I'm still working on.
 
 **[Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro)**\
 My current at-home daily driver. I swapped out some of the keycaps for see-through glowy ones from US-based Etsy seller [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (great experience, recommended) because I end up using Cubase's F1-F15 function keys in the dark, but this is a fantastic tri-mode rechargeable keyboard (USB-C, Bluetooth, and 2.4GHz wireless dongle) with an adorable little display that tells you battery charge level. The volume-control knob is surprisingly useful when one is wrangling music program stuff! (You might be able to remap that; I haven't tried.) In general, [Epomaker](https://epomaker.com/) makes *terrific* keyboards.
