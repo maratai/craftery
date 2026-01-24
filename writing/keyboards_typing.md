@@ -58,3 +58,11 @@ Typewriter vibes, with a "carriage return" lever that default-maps onto carriage
 I've had one defective unit (sadly, it was the folding travel one, although that was heavier than I prefer anyway) but otherwise, these are terrific mechanical keyboards and one of them has been a daily driver for me. I've gotten the mechanical keyboards, which also support Bluetooth and have fun LED lights. These tend to be solid, heavier devices - not quite as much "built like tank" factor as the Kinesis but I don't travel with them. I'd own more of these if they weren't a bit slow to ship from China.
 
 The Epomaker and Royal Kludge keyboards have roughly similar "typing feel" for me, if that's helpful.
+
+## Samsers
+**Samsers Foldable Bluetooth Keyboard with Touchpad** (Bluetooth, charges over USB-C)\
+This is comparatively light although not *very* light. Works great. The touchpad and its mouse-buttons work over Linux as well. No numpad, very shallow key travel, smaller layout even when folded out, but a great travel option.
+
+## Vilros
+**Vilros VILP108 keyboard with touchpad** (USB-A, wired)\
+This is a slim, very lightweight wired keyboard + touchpad over USB-A. The keyboard has no numpad and the keys are shallow but pleasant. The touchpad works fine. When I need a "nearly full size but no numpad" travel keyboard, this one is usually it.
