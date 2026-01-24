@@ -21,7 +21,7 @@ So you know how I evaluate them for my own use.
 
 ## Epomaker
 
-**[Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro)**
+**[Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro)**\
 My current at-home daily driver. I swapped out some of the keycaps for see-through glowy ones from US-based Etsy seller [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (great experience, recommended) because I end up using Cubase's F1-F15 function keys in the dark, but this is a fantastic tri-mode rechargeable keyboard (USB-C, Bluetooth, and 2.4GHz wireless dongle) with an adorable little display that tells you battery charge level. The volume-control knob is surprisingly useful when one is wrangling music program stuff! (You might be able to remap that; I haven't tried.) In general, [Epomaker](https://epomaker.com/) makes *terrific* keyboards.
 
 ## iClever
@@ -41,7 +41,7 @@ Terrific "wfh" travel kit with a sensibly designed case containing Bluetooth key
 
 The keyboard has no numpad and has shallow keys with little travel, but for e.g. writing in a café, I don't care. I own *two* dedicated numpad devices because they're used in Sibelius for keyboard shortcuts, so I can pack those separately at need.
 
-**Logitech POP Mechanical Keyboard**
+**Logitech POP Mechanical Keyboard**\
 Super cute, FUN colors (I am shallow). The round keys are An Adjustment, ditto the weird media keys (I tend to disable these in macOS), so go in aware. I moved away from these keyboards because they're less robust (in keeping with the lower price point) and tend to fail after a few months of hard typing. They're fun, though!
 
 ## ProtoArc
