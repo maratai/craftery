@@ -33,6 +33,8 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 
 Two-harness counterbalance floor loom, weaving width . This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
+I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz). No affiliation, just a very happy repeat customer; Jill's bespoke tutorials are terrific references.
+
 **Specs**
 - weight: 27 lbs
 - weaving width: 23"
@@ -82,6 +84,8 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 ![Clover Sakiori being warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-06-sakiori-01.jpg?raw=true)
 
 "Two-harness" table loom with an unusual "tilting" heddle/reed. It needs to be horizontal for proper operation and can't handle high tension, but the warping is ridiculously fast.
+
+These are Japanese but can be bought e.g. from [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) in the USA, or you can try your luck on eBay.
 
 ## Peacock Loom
 ![Peacock Loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-27-peacock.jpg?raw=true)
