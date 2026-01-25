@@ -18,7 +18,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [SpinPerfect](https://spinperfect.com/) - US-based. I haven't tried the 3D-printed spinning wheel, but they also make accessories and bobbins for Spinolution spinning wheels (I have a Mach III).
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving). Sweden-based.
 - [Treenway Silks](https://www.treenwaysilks.com/) - US-based supplier, unbelievably fantastic mulberry and tussah silk for spinning. Also other varieties and blends I haven't tried yet.
-- [WEBS Yarn](https://www.yarn.com/) - US-based supplier. I have a [Toika loom](https://www.yarn.com/pages/toika-looms) (8-harness 8-shaft Toika Lail) on order from them. [Toika Laila listong on Toika's website](https://shop.toika.com/category/6/laila-loom); Toika itself is Finland-based.
+- [WEBS Yarn](https://www.yarn.com/) - US-based supplier. I have a [Toika loom](https://www.yarn.com/pages/toika-looms) (8-harness 8-shaft Toika Lail) on order from them. [Toika Laila listing on Toika's website](https://shop.toika.com/category/6/laila-loom); Toika itself is Finland-based but WEBS is their official sole distributor in the USA.
 - [Woodington UK](https://woodingtonuk.com/) - UK-based maker of looms and weaving tools. I have the [folding tablet loom](https://woodingtonuk.com/products/folding-tablet-loom) and it's gorgeous; if I weren't in the US, I would be ordering more from here.
 - [The Woolery](https://woolery.com/) - US-based.
 - MORE TK
