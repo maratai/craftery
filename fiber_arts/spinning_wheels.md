@@ -5,17 +5,17 @@ I seem to be bifurcating in preference between absurdly portable travel treadle 
 
 # E-Spinners
 
-## Dreaming Robots EEW 6.1
+## [Dreaming Robots EEW 6.1](https://www.dreamingrobots.com/product/eew6/)
 My one e-spinner. I keep wondering if the spendier ones are *that* much better as experiences, but I strongly prefer the treadle experience, so here we are. One can spin in the passenger seat of a car with a rechargeable battery (you have to buy and install this separately, very easy)!
 
 # Treadle Wheels
 
-## Ashford Traditional
+## [Ashford](https://www.ashford.co.nz/) Traditional
 ![Ashford Traditional, 1981](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-24-ashford-traditional-03.jpg?raw=true)
 
 My second (treadle wheel (Saxony), bought for $100 USD off FaceBook Marketplace locally (I *pounced*). Whoever previously owned her kept her in immaculate condition. I love her. r/Handspinning ID'd her as a 1981 model. Mine's single treadle, Scotch tension; only came with the one bobbin, but I have bobbins for the Ashford Traveller, and the price was great for a wheel in excellent working condition! If I can work out transport, this will be passed on to a friend.
 
-## Ashford Traveller
+## [Ashford](https://www.ashford.co.nz/) Traveller
 ![Ashford Traveller, newly arrived and not yet set up](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-ashford-traveller.jpg?raw=true)
 
 My first treadle wheel (castle), secondhand off eBay with a *lot* of extras (lazy kate, niddy noddy, Turkish spindle, a ton of fiber). Mine's single treadle, Scotch tension. Technically "portable" but not in a casual stroll way, more like car transport. This was a *terrific* first wheel; fixing/tuning parts one by one taught me so much about how the wheel operates and how to spin, although it was a process!
@@ -29,7 +29,7 @@ I have spun everything from cotton to wool to silk blends to ramie on this despi
 
 This is likely to be a local-friends loaner wheel in that I think she's a great teacher, and she's the wheel I've used the longest (including the n00b troubleshooting) and can help most with.
 
-## Athena Capricorn
+## [Athena Capricorn](https://www.athenaspinning.com/wheels)
 ![Athena Capricorn](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena.jpg?raw=true)\
 Athena Capricorn.
 
@@ -47,7 +47,7 @@ From an ergonomics standpoint, this wheel probably works better if you're a bit 
 - Standard flyer holds up to an 8oz bobbin.
 - Comes with three 6-oz. bobbins or one 8-oz. & two 4-oz.
 
-## Louët S90
+## [Louët](https://www.louet.nl/en/catalog) S90
 ![Louët S90 and Pocket Wheel side by side](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-09-louet-pocket.jpg?raw=true)\
 Size comparison: Louët S90 (left) and Pocket Wheel (right).
 
@@ -59,7 +59,7 @@ This would have made me cry as a first wheel, but after ~nine months of spinning
 - Dimensions: 12" W x 21" D x 31" H
 - Ratios: 6.5:1, 9.5:1, 15:1.
 
-## Pocket Wheel
+## [Pocket Wheel](https://www.pocket-wheel.com/)
 
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)\
 Size comparison: Athena Capricorn (left), Pocket Wheel (right).
@@ -74,10 +74,10 @@ Right now what I enjoy spinning on this is cotton, ramie, lotus silk, mulberry s
 - Ratios: 3.5:1 to 10.5, continuous.
 - Disassembles to be even more compact. Reassembly isn't difficult as such but it does take a bit of wrassling (and also I'm a klutz).
 
-## Spinolution Mach III
+## [Spinolution](https://www.spinolution.com/) Mach III
 ![Spinolution Mach III](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-10-spinolution-mach-3-01.jpg?raw=true)
 
-I lucked into one on eBay sold by a spinner who packed it with *incredible* care. Twelve hours after its arrival (...I had to sleep), she's up and running. This may well be My Last Wheel in production terms. (I'm on a waitlist for a new Pocket Wheel.)
+I lucked into one on eBay sold by a spinner who packed it with *incredible* care. Twelve hours after its arrival (...I had to sleep), she's up and running. This may well be My Last Wheel in production terms. (I'm on a waitlist for a new Pocket Wheel.) This is the older version of what is now the still-in-production [Spinolution Monarch](https://www.spinolution.com/monarch). The accessories are generally intercompatible between the Mach III and Monarch!
 
 Double-treadle castle wheel, "Scotch tension" - there is not a conventional brake band for the bobbin, but a screw/spring/block assembly that carries out the same function and means that you don't have to reset from zero each time you change the bobbin. Takeup varies from almost nothing to aggressive, although adjusting this requires a light touch as the brake knob, once engaged, is sensitive to small fractions of a turn.
 
@@ -98,9 +98,9 @@ I admit I long for one really nice "traditional"-style Saxony wheel (a [Kromski 
 
 I'd absolutely try a Jensen spinning wheel if I had the opportunity, but this is unlikely at this point.
 
-## Carson Cooper accelerated wheel
+## [Carson Cooper])https://www.ztwist.com/) accelerated wheel
 I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD), or even see one in person!
 
-## Golding spinning wheel
+## [Golding spinning wheel](https://dropspindle.info/product-category/spinning-wheels/)
 At this point, we're solidly into heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/). These *start* at $10,000+ USD but go up to 33:1 in ratio.
 
