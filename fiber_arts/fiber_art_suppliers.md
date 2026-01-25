@@ -1,6 +1,7 @@
 # Fiber Art Suppliers
 Not a comprehensive list!
 
+- [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com/) - I'm not in the market for another e-spinner (yet?), but I have a [Penelope band loom](https://www.daedalusspinningwheels.com/penelope) on order. They have at least one e-spinner design for left-handers as well as right-handers!
 - [Dharma Trading Co.](https://www.dharmatrading.com/) - US-based supplier, especially but not exclusively for silk and dyes, silk painting supplies etc.
 - [Eugene Textile Center](https://www.eugenetextilecenter.com/) - US-based supplier. Their used books and fiber tools on the online store have delicious finds.
 - [Feral Scene](https://feralscene.com/) - US-based supplier, semi-local to me (they're in Texas, I'm in Louisiana). Their art batts for spinning are great. Also carries [Spinolution](https://www.spinolution.com/) spinning wheels and accessories.
