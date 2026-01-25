@@ -4,7 +4,13 @@
 
 # Band and Tape Looms
 
-## Woodington UK folding tape loom
+## [Daedalus Spinning Wheels Penelope band loom](https://www.daedalusspinningwheels.com/penelope)
+On order.
+
+## [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)
+Arrived but not yet set up.
+
+## [Woodington UK folding tablet loom W101](https://woodingtonuk.com/products/folding-tablet-loom)
 ![Woodington UK folding tape loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-11-woodington-band-loom.jpg?raw=true)
 
 A delight. You can get this with tablets (cards) or a rigid heddle, or both!
@@ -48,8 +54,8 @@ I prize lighter weight to an unusual degree, again due to health issues (and liv
 
 As an experiment, I've swapped out the wire heddles for Texsolv.
 
-## Toika Laila
-I have one on order via WEBS.
+## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
+I have one on order via WEBs, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA.
 
 **Specs**
 - weight: 65 lbs
@@ -65,7 +71,7 @@ I have one on order via WEBS.
 
 ![DIY cardboard loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-diy-loom.jpg?raw=true)
 
-## Hello Loom
+## [Hello Loom](https://helloloom.com/)
 ![Hello Loom against a backdrop of weaving WIP on a Saori WX60 floor loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-27-saori-02.jpg?raw=true)
 
 These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $10 USD) in my bag as a delightful fidget. (Of course, one can also DIY with cardboard or a picture frame plus nails.)
