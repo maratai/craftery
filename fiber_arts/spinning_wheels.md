@@ -98,7 +98,7 @@ I admit I long for one really nice "traditional"-style Saxony wheel (a [Kromski 
 
 I'd absolutely try a Jensen spinning wheel if I had the opportunity, but this is unlikely at this point.
 
-## [Carson Cooper])https://www.ztwist.com/) accelerated wheel
+## [Carson Cooper](https://www.ztwist.com/) accelerated wheel
 I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD), or even see one in person!
 
 ## [Golding spinning wheel](https://dropspindle.info/product-category/spinning-wheels/)
