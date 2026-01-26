@@ -71,11 +71,13 @@ This would have made me cry as a first wheel, but after ~nine months of spinning
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)\
 Size comparison: Athena Capricorn (left), Pocket Wheel (right).
 
-Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind is absolutely doable.
+Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind for fine spinning is absolutely doable.
 
-This is extremely lightweight and portable, but if you have longer legs or a wider stance (or wear dresses/skirts often), try before buying, I'm 5'4" with stubby legs and *very knock-kneed*, and I find that even after adjusting the height of my bench (it's a cheap but sturdy $40 stage piano bench from Yamaha IIRC), I have to splay my legs for comfortable spinning.
+This is extremely lightweight and portable, but if you have longer legs or a wider stance (or wear dresses/skirts often), try before buying, I'm 5'4" with stubby legs and *very knock-kneed*, and I find that even after adjusting the height of my bench (it's a cheap but sturdy $40 stage piano bench from Yamaha IIRC), I have to splay my legs a little for comfortable spinning.
 
-Right now what I enjoy spinning on this is cotton, ramie, lotus silk, mulberry silk.
+Right now what I enjoy spinning on this is cotton, ramie, lotus silk, mulberry silk, tussah silk.
+
+If I could *only* keep one spinning wheel, this would be it (with the Spinolution Mach III as runner-up). The combination of how lovely this is to spin on, its small size/footprint, low weight, and clever design make it a delight. That said, I love my wheels!
 
 - Weight: 8 lbs.
 - Ratios: 3.5:1 to 10.5, continuous.
