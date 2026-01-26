@@ -3,6 +3,13 @@ Spinning wheels I've owned/used.
 
 I seem to be bifurcating in preference between absurdly portable travel treadle wheels (this is driven by health/mobility factors) and faster/more "advanced" spinning wheels!
 
+# Charkha-style wheels
+
+## Itoguruma
+Purchased from Japan from an eBay seller. A charkha-style spindle wheel.
+
+![itoguruma](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-15-itoguruma-02.jpg?raw=true)
+
 # E-Spinners
 
 ## [Dreaming Robots EEW 6.1](https://www.dreamingrobots.com/product/eew6/)
