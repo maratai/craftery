@@ -1,5 +1,10 @@
 # Typewriters
 
+# Electric Typewriters and Word Processors
+
+## Canon StarWriter 25
+![Canon StarWriter 25](https://github.com/maratai/craftery/blob/main/writing/writing_images/2025-12-08-canon-01.jpg?raw=true)
+
 # Manual Typewriters
 
 ## Antares Parva
