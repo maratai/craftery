@@ -6,9 +6,10 @@
 - Assume these are Kontakt libraries unless otherwise stated.
 - If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
-- More TK
 
-# 8dio
+**NOTE:** this just in, [Native Instruments is in preliminary insolvency](https://cdm.link/ni-insolvency/). MORE TK.
+
+# 8dio - Kontakt
 - **Catmosphere**.
 - **Clocks**.
 - **Emperium Destiny**. Choral.
@@ -26,18 +27,18 @@
 - **Requiem Professional**. Choral.
 - **Silka**. Choral.
 
-# Audiobro
+# Audiobro - Kontakt
 - Eternity Choir.
 - LA Drama Drums.
 - **Modern Scoring Brass**.
 - **Modern Scoring Strings**.
 
-# Audio Imperia
+# Audio Imperia - Kontakt
 - **Cerberus**. Cinematic percussion.
 - **Jaeger**. Orchestral strings + Merethe Solvedt's soprano legato vocals.
 - **Talos**. Cinematic/epic brass.
 
-# Audio Ollie
+# Audio Ollie - Kontakt
 - **LA Modern Percussion**.
 - Nashville Scoring Strings.
 
@@ -62,15 +63,15 @@
 # Cinematic Studio
 - **Cinematic Strings Monster Staccatos**.
 
-# EastWest
-Uses their own VST host (Opus etc).
+# EastWest - Opus
+Uses their own VST hosts (Opus etc).
 - EW Ancient Kingdom.
 - **EW Gypsy**. "Ethnic," various.
 - EW Hollywood Fantasy Brass.
 - EW Voices of Passion. Operatic solo vocals.
 - **EW Voices of the Empire**. "Ethnic" solo vocals.
 
-# Embertone
+# Embertone - Kontakt
 Terrific solo strings.
 - **Embertone Fischer Viola**.
 - **Embertone Joshua Bell Violin**.
@@ -83,10 +84,10 @@ Terrific solo strings.
 - Quake. Sound design.
 - **Steampunk**. Sound design.
 
-# Fever Audio
+# Fever Audio - Kontakt
 - **Fever Dreams**. Terrific solo vocals with sound design patches as well.
 
-# Fracture Sounds
+# Fracture Sounds - Kontakt
 The "Blueprint" series is free; within that, the "Textural" series is terrific for sound design/atmosphere/ambience.
 - **Blueprint Epic Grand**.
 - **Blueprint Gentle Brass**.
@@ -98,11 +99,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Textural Violin**.
 - **Blueprint Toy Piano**.
 
-# Have Audio
+# Have Audio - Kontakt
 - Balkan Clarinet.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
-# Heavyocity
+# Heavyocity - Kontakt
 - **Analog Hybrid Drums**.
 - **Damage**. Cinematic percussion.
 - **Damage 2**. Cinematic percussion.
@@ -111,7 +112,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Sonara. Processed vocals.
 - Symphonic Destruction. Processed/hybrid orchestral/sound design.
 
-# Impact Soundworks
+# Impact Soundworks - Kontakt
 - Bass Sculptor.
 - **Furia Staccato Strings**.
 - Mega Brass.
