@@ -9,7 +9,7 @@
 
 **NOTE:** this just in, [Native Instruments is in preliminary insolvency](https://cdm.link/ni-insolvency/). MORE TK.
 
-# 8dio - Kontakt
+# 8dio (Kontakt)
 - **Catmosphere**.
 - **Clocks**.
 - **Emperium Destiny**. Choral.
@@ -27,43 +27,43 @@
 - **Requiem Professional**. Choral.
 - **Silka**. Choral.
 
-# Audiobro - Kontakt
+# Audiobro (Kontakt)
 - Eternity Choir.
 - LA Drama Drums.
 - **Modern Scoring Brass**.
 - **Modern Scoring Strings**.
 
-# Audio Imperia - Kontakt
+# Audio Imperia (Kontakt)
 - **Cerberus**. Cinematic percussion.
 - **Jaeger**. Orchestral strings + Merethe Solvedt's soprano legato vocals.
 - **Talos**. Cinematic/epic brass.
 
-# Audio Ollie - Kontakt
+# Audio Ollie (Kontakt)
 - **LA Modern Percussion**.
 - Nashville Scoring Strings.
 
 # Best Service
-- **Chris Hein Solo Cello**.
-- **Chris Hein Solo Contrasbass**.
-- **Chris Hein Solo Viola**.
-- **Chris Hein Solo Violin**.
-- **Dark Era** and **Dark Era II**.
-- **ERA II Medieval Legends**. Period instruments.
-- **ERA II Vocal Codex**.
-- **Whistler**.
+- **Chris Hein Solo Cello** (Kontakt).
+- **Chris Hein Solo Contrasbass** (Kontakt).
+- **Chris Hein Solo Viola** (Kontakt).
+- **Chris Hein Solo Violin** (Kontakt).
+- **Dark Era** and **Dark Era II** (Engine Player).
+- **ERA II Medieval Legends** (Engine Player).
+- **ERA II Vocal Codex** (Engine Player).
+- **Whistler** (???)
 
 # Blue Cat Audio
 - Blue Cat Free Amp.
 
 # Cinesamples
-- **Apocalyptica**. Solo electric cello.
-- **Drums of War 1**. Cinematic percussion.
-- **Drums of War 2**. Cinematic percussion.
+- **Apocalyptica** (Kontakt). Solo electric cello. Also available in Musio.
+- **Drums of War 1** (Kontakt). Cinematic percussion. Also available in Musio.
+- **Drums of War 2** (Kontakt). Cinematic percussion. Also avialable in Musio.
 
-# Cinematic Studio
+# Cinematic Studio (Kontakt)
 - **Cinematic Strings Monster Staccatos**.
 
-# EastWest - Opus
+# EastWest (Opus)
 Uses their own VST hosts (Opus etc).
 - EW Ancient Kingdom.
 - **EW Gypsy**. "Ethnic," various.
@@ -71,7 +71,7 @@ Uses their own VST hosts (Opus etc).
 - EW Voices of Passion. Operatic solo vocals.
 - **EW Voices of the Empire**. "Ethnic" solo vocals.
 
-# Embertone - Kontakt
+# Embertone (Kontakt)
 Terrific solo strings.
 - **Embertone Fischer Viola**.
 - **Embertone Joshua Bell Violin**.
@@ -84,10 +84,10 @@ Terrific solo strings.
 - Quake. Sound design.
 - **Steampunk**. Sound design.
 
-# Fever Audio - Kontakt
+# Fever Audio (Kontakt)
 - **Fever Dreams**. Terrific solo vocals with sound design patches as well.
 
-# Fracture Sounds - Kontakt
+# Fracture Sounds (Kontakt)
 The "Blueprint" series is free; within that, the "Textural" series is terrific for sound design/atmosphere/ambience.
 - **Blueprint Epic Grand**.
 - **Blueprint Gentle Brass**.
@@ -99,20 +99,21 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Textural Violin**.
 - **Blueprint Toy Piano**.
 
-# Have Audio - Kontakt
+# Have Audio (Kontakt)
 - Balkan Clarinet.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
-# Heavyocity - Kontakt
+# Heavyocity (Kontakt)
 - **Analog Hybrid Drums**.
 - **Damage**. Cinematic percussion.
 - **Damage 2**. Cinematic percussion.
+- **Forzo**. Processed orchestral brasses.
 - **Machina**. Sound design.
-- Novo. Processed orchestral strings.
-- Sonara. Processed vocals.
+- **Novo**. Processed orchestral strings.
+- **Sonara**. Processed vocals.
 - Symphonic Destruction. Processed/hybrid orchestral/sound design.
 
-# Impact Soundworks - Kontakt
+# Impact Soundworks (Kontakt)
 - Bass Sculptor.
 - **Furia Staccato Strings**.
 - Mega Brass.
@@ -122,8 +123,8 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Special Reserve Colossal Hybrid Drums**.
 - Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
-- Tokyo Scoring Drum Kits.
-- **Tokyo Scoring Strings**. Quite dry, extremely crisp studio strings.
+- **Tokyo Scoring Drum Kits**.
+- **Tokyo Scoring Strings**. Quite dry, crisp studio strings.
 
 # iZotope
 - **Neoverb**. Reverb.
@@ -131,7 +132,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Tonal Balance Control 2**. Mastering.
 - **VocalSynth 2**. Vocal processing/effects.
 
-# Keep Forest
+# Keep Forest (Kontakt)
 - **AizerX - Free Edition**. Sound design IIRC.
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
 - **Berserkr Pro - Tribal Punk Folk Drums**.
@@ -146,16 +147,16 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Reformer Pro.
 - Weaponiser.
 
-# Loot Audio
+# Loot Audio (Kontakt)
 - **Balvi Cello**.
 
 # MixWave
 - **SpiritBox: Mike Stringer**. Effects.
 
-# Musical Sampling
+# Musical Sampling (Kontakt)
 - Midnight Tenor Sax.
 
-# Native Instruments
+# Native Instruments (...Kontakt)
 - Accent Pianos.
 - **Action Strikes**.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
@@ -193,10 +194,10 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Transient Master FX**.
 - Valves Pro. Brasses.
 
-# Norrland Samples
+# Norrland Samples (Kontakt)
 - Norrland Solo Trumpet. Free and great!
 
-# Orchestral Tools
+# Orchestral Tools (SINE)
 I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
 - **Benjamin Wallfisch Strings**.
 - **Berlin Brass**.
@@ -212,7 +213,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Rotary**. Brass.
 - **Tom Holkenborg's Brass**.
 
-# Performance Samples
+# Performance Samples (Kontakt)
 - **Angry Brass**.
 - **Oceania II**. Choir.
 - **Pacific Brass**.
@@ -221,19 +222,19 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
 - Vista II Small Ensemble Strings.
 
-# Sample Logic
+# Sample Logic (Kontakt)
 - **Drum Fury**.
 - **Morphestra 2**. Hybrid.
 - **Trailer Expression** 1 through 4.
 - **World Fury**. Hybrid.
 
-# Soniccouture
+# Soniccouture (Kontakt)
 - **Samulnori Percussion**. Korean folk drums!
 
-# Sonuscore
+# Sonuscore (Kontakt)
 - **Elysion 2**. Synths.
 
-# Soundiron
+# Soundiron (Kontakt)
 - **Artillery Shell Cello**.
 - Blazer - Retro Anime FX.
 - **ClickClickBang**. Sampled M1 Garand Rifle!
@@ -242,7 +243,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 # Soundmorph
 - Dust.
 
-# Soundpaint
+# Soundpaint (Soundpaint)
 - Requiem Solus. Choral.
 - Hybrid Cinema - Analog Modular Percussion I.
 
@@ -251,7 +252,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Decapitator**.
 - **Little Alter Boy**. Pitch/formant shifting.
 
-# Spitfire Audio
+# Spitfire Audio (Kontakt or Spitfire)
 Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
 - **Albion Solstice**. One of my go-tos for folk/hybrid.
 - Aluphone.
@@ -277,7 +278,7 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 # Steven Slate
 - **Steve Slate Drums 5**.
 
-# Vienna Symphonic Library
+# Vienna Symphonic Library (VSL)
 Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vienna Instruments Pro.
 - Hello Free Violin Runs.
 - Hello Free Harp Glissandos.
@@ -304,7 +305,7 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
 - Clock.
 - Music Box.
 
-# Zero-G
+# Zero-G (Kontakt)
 - **Ethera Gold 2.5**. Cinematic solo vocals, male and female.
 - **Ethera Gold Atlantis**. Cinematic solo vocals, female.
 - World Studio Percussion.
