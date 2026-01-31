@@ -104,14 +104,18 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 
 # Heavyocity (Kontakt)
+- **Aeon Melodic**.
+- **Aeon Rhthmic**.
 - **Analog Hybrid Drums**.
 - **Damage**. Cinematic percussion.
 - **Damage 2**. Cinematic percussion.
-- **Forzo**. Processed orchestral brasses.
+- **Forzo - Modern Brass**.
+- **Foundations Piano**.
 - **Machina**. Sound design.
-- **Novo**. Processed orchestral strings.
+- **Novo - Modern Strings**.
 - **Sonara**. Processed vocals.
-- Symphonic Destruction. Processed/hybrid orchestral/sound design.
+- **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
+- **Vocalise 2**.
 
 # Impact Soundworks (Kontakt)
 - Bass Sculptor.
