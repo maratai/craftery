@@ -8,7 +8,7 @@
 On order.
 
 ## [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)
-Arrived but not yet set up.
+Arrived and *delightful*. I'm now ride or die for Handywoman weaving/etc tools!
 
 ## [Woodington UK folding tablet loom W101](https://woodingtonuk.com/products/folding-tablet-loom)
 ![Woodington UK folding tape loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-11-woodington-band-loom.jpg?raw=true)
