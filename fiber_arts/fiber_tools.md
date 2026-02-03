@@ -7,13 +7,16 @@
 # Hand Spindles
 I covet a [Jenkins](https://jenkinsspindles.com/) Kuchulu or Bee Hummingbird Turkish spindle but doubt I will ever score one!
 
-- John Galen supported spindle
+## Ixchel wrist distaff and spindle support bowl.
+
+
+## John Galen supported spindle
   
 ![John Galen supported spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-john-galen-spindle.jpg?raw=true)
 
 Gorgeous and spins tahkli-style, beautifully.
 
-- Snyder Turkish plying spindle (and other Turkish spindles)
+## Snyder Turkish plying spindle (and other Turkish spindles)
   
 ![Turkish plying spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-turkish-spindle.jpg?raw=true)
 
