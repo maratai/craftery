@@ -10,6 +10,10 @@ On order.
 ## [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)
 Arrived and *delightful*. I'm now ride or die for Handywoman weaving/etc tools!
 
+![Handywoman Tiny Box Loom, newly warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-02-handywoman-01.jpg?raw=true)
+
+![Handywoman Tiny Box Loom, beginner tape weaving in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-02-handywoman-02.jpg?raw=true)
+
 ## [Woodington UK folding tablet loom W101](https://woodingtonuk.com/products/folding-tablet-loom)
 ![Woodington UK folding tape loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-11-woodington-band-loom.jpg?raw=true)
 
