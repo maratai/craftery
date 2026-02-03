@@ -58,9 +58,11 @@ From an ergonomics standpoint, this wheel probably works better if you're a bit 
 ![Louët S90 and Pocket Wheel side by side](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-09-louet-pocket.jpg?raw=true)\
 Size comparison: Louët S90 (left) and Pocket Wheel (right).
 
-Folding single treadle wheel, Irish tension. Spins like a racehorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
+Folding single treadle wheel, Scotch tension. Spins like a racehorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
 
-This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb* for wool blends and plying. I don't yet have the skill to spin cotton, silk, or mulberry silk on this due to the aggressive takeup. I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
+This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb* for wool blends and plying, and I've just skilled up enough to spin silk on it. I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
+
+I have a **WooLee Winder** on order for this; sadly, the LWS Autowinder isn't compatible with the Scotch tension version of this wheel although I've been curious about WooLee winders anyway.
 
 - Weight: 16 lbs.
 - Dimensions: 12" W x 21" D x 31" H
@@ -71,7 +73,7 @@ This would have made me cry as a first wheel, but after ~nine months of spinning
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)\
 Size comparison: Athena Capricorn (left), Pocket Wheel (right).
 
-Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind for fine spinning is absolutely doable.
+Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind for fine spinning is absolutely doable. Mine is outfitted with an **LWS Autowinder**, which is game-changingly amazing.
 
 This is extremely lightweight and portable, but if you have longer legs or a wider stance (or wear dresses/skirts often), try before buying, I'm 5'4" with stubby legs and *very knock-kneed*, and I find that even after adjusting the height of my bench (it's a cheap but sturdy $40 stage piano bench from Yamaha IIRC), I have to splay my legs a little for comfortable spinning.
 
