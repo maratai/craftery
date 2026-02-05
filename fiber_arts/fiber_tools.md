@@ -83,6 +83,15 @@ I believe these are no longer in production, but it's a great entry-level electr
 ## Singer SewHandy hand-crank miniature sewing machine
 Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
 
+# Shuttles
+
+I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. Right now I have the "default" Saori shuttles and a couple lovely Leclerc boat shuttles from my sister.
+
+## [Handywoman](https://www.handywomanshop.com/) shuttles
+They come in various types. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
+
+MORE TK
+
 # Spinning Wheels
 *See* also [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for details.
 
