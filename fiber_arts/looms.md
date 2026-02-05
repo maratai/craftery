@@ -8,7 +8,7 @@
 On order.
 
 ## [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)
-Arrived and *delightful*. I'm now ride or die for Handywoman weaving/etc tools!
+Arrived and *delightful*. I'm now ride or die for Handywoman weaving/etc tools! Her *shuttles* are especially wonderful, too.
 
 ![Handywoman Tiny Box Loom, newly warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-02-handywoman-01.jpg?raw=true)
 
