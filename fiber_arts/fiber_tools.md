@@ -39,7 +39,7 @@ Beautiful, and beautifully made. I love this wholeheartedly. Handywoman also mak
 
 ## [Woodington UK](https://woodingtonuk.com/) folding tape loom
 
-Also a delight! Can be ordered with a small rigid heddle or with cards/tablets (or both!). Mine's going to a friend as I find a prefer an even tinier box loome xperience.
+Also a delight! Can be ordered with a small rigid heddle or with cards/tablets (or both!).
 
 # Floor Looms
 
