@@ -27,7 +27,8 @@ Gorgeous and spins tahkli-style, beautifully.
 
 # Bead Looms
 
-## Beadsmith ComfortLoom: can also be used for "regular" yarn tapestry weaving, in a pinch!
+## Beadsmith ComfortLoom
+Can also be used for "regular" yarn tapestry weaving, in a pinch!
 
 # Box and Tape Looms
 
