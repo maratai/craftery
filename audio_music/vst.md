@@ -81,6 +81,9 @@ Terrific solo strings.
 # Eventide
 - **Articulate**. Mixing/mastering.
 
+# Evolution Series
+- **Bukhu**. "In collaboration with Mongolian composer and one of a kind talent Bukhu Ganburged we introduce this chapter of inspiring sounds. The beauty of Bukhu's voice matched with horse fiddle opens a doorway to the early 13th century."
+
 # Fallout Music Group
 - Quake. Sound design.
 - **Steampunk**. Sound design.
@@ -175,6 +178,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Bite**. Bitcrusher.
 - Body Mechanik - "The hard sound of EBM - industrial beats, distorted synths, metallic hits, and more."
 - **Bounce**. MassiveX.
+- Butch Vig Drums - "Lay down punchy, production-ready grooves, with heavily processed, inspiring drum sounds designed by a true production master."
 - **Choral**. Chorus effect.
 - **Concrete Sun**. Japanese hip-hop + traditional instruments.
 - **Dirt**. Distortion.
