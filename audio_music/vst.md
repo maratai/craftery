@@ -193,6 +193,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **East Asia**. Listen, they have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
 - Enhanced EQ.
 - **Freak**. Modulation effect.
+- Ignition Code - "The rolling sound of big-room techno - inspired by the scene's biggest dancefloor fillers."
+- India - "A vast library of traditional Indian rhythmic patterns and historic scales, designed for ultimate realism and adaptability."
+- Indigo Dust - "The deep, pulsating sound of melodic techno, with pitch-perfect drums, sub-basses and moody chords."
+- Ireland - "The genuine sound of 11 traditional Irish instruments cpatured in a playable engine, including tin whistle, fiddle, Irish harp, bodhrán, and more."
+- Irish Harp.
+- Karriem Riggins Drums - "Freeform percussive exploration from a pioneering drummer and producer meets the Play series."
 - **Kontakt Factory Library**.
 - Lazer Dice - "The sound of the future bass phenomenon with deep rhythms and signature sound design."
 - **Lo-Fi Glow** - "The fuzz of tape. The dirt of distortion. When sounds get a little rougher, something magical happens...."
