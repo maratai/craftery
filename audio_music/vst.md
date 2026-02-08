@@ -117,7 +117,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Damage 2**. Cinematic percussion.
 - **Forzo - Modern Brass**.
 - **Foundations Piano**.
-- **Machina**. Sound design.
+- **Machina** - "From the relentless churn of industrial gears to the intricate ticking of analog clocks, this is where machines find their grooves."
 - **Novo - Modern Strings** - "A new hybrid strings vitual instrument...."
 - **Sonara** - "An instantly inspiring, captivating vocal collection designed to spark creativity and infuse tracks with dynamic and emotive vocal power."
 - **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
@@ -195,6 +195,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Freak**. Modulation effect.
 - **Kontakt Factory Library**.
 - **Lo-Fi Glow**.
+- Lucid Mission - "The hyper-real sound of trance-infused EDM. An intense selection of synths, build ups, and steady beats."
 - **The Maverick**. Grand piano. I suspect a Yamaha based on the timbre, but I could be wrong!
 - Meteoric Rise - "A feel-good fusion of soulful melodies, trap-style drums, and lazer-sharp synths for cutting-edge pop that shines."
 - **Middle East** - "A playable collection of 25 distinctive percussive, melodic, and stringed instruments, drawn from Arabic, Turkish, and Persian traditions." Allows control over scales/tuning.
