@@ -121,11 +121,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Novo - Modern Strings** - "A new hybrid strings vitual instrument...."
 - **Sonara** - "An instantly inspiring, captivating vocal collection designed to spark creativity and infuse tracks with dynamic and emotive vocal power."
 - **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
-- **Vocalise 2**.
+- **Vocalise 2** - "Featuring a diverse array of sound sources - including vocal pads, phrases, and a truly innovative collection of rhythmic pedals and motifs...."
 
 # Impact Soundworks (Kontakt)
 - Bass Sculptor.
 - **Furia Staccato Strings**.
+- **Hammer Klavier** - "An avant-grade piano with a twist: its felt hammers have been replaced with real metal hammers. Hammer Klavier sounds a little like a powerful and full-voiced harpsichord, with the dynamic responsiveness of a regular piano and the percussive nature of a hammered dulcimer."
 - Mega Brass.
 - **Shreddage 3 Abyss** - A "custom six-string Muckelroy Bass."
 - Shreddage 3 Darkwall - A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
@@ -193,6 +194,9 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **East Asia**. Listen, they have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
 - Enhanced EQ.
 - **Freak**. Modulation effect.
+- **Glaze 2** - "Next-level pop and hip hop vocal textures featuring talkbox, harmonies, and special riff presets for rich, gleaming chords, pads, and melodics."
+- Hexagon Highway - "The hyper-sonic sound of experimental electronic music."
+- Homage - "Warped keys, synths, basses, and more for bringing a lo-fi edge of hip hop productions."
 - Ignition Code - "The rolling sound of big-room techno - inspired by the scene's biggest dancefloor fillers."
 - India - "A vast library of traditional Indian rhythmic patterns and historic scales, designed for ultimate realism and adaptability."
 - Indigo Dust - "The deep, pulsating sound of melodic techno, with pitch-perfect drums, sub-basses and moody chords."
