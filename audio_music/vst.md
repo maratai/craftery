@@ -162,9 +162,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Midnight Tenor Sax.
 
 # Native Instruments (...Kontakt)
-- **Action Strikes**.
+- **Action Strikes**. Cinematic percussion.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**. Can be quite nice if you're willing to micromanage the articulations. I have *feelings* about viola!
+- Anima Ascent - "Visionary, contemporary, genre-defying pop - vintage synths, hybrid keys, and popped percussion."
+- Arcane Attci - "Distinctive, percussive crunch with jagged field recordings for unconventional rhythms."
 - **Ashlight**. Sound design and soundscapes.
 - **Bite**. Bitcrusher.
 - **Bounce**. MassiveX.
