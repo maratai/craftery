@@ -166,9 +166,14 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**. Can be quite nice if you're willing to micromanage the articulations. I have *feelings* about viola!
 - Anima Ascent - "Visionary, contemporary, genre-defying pop - vintage synths, hybrid keys, and popped percussion."
-- Arcane Attci - "Distinctive, percussive crunch with jagged field recordings for unconventional rhythms."
-- **Ashlight**. Sound design and soundscapes.
+- Arcane Attic - "Distinctive, percussive crunch with jagged field recordings for unconventional rhythms."
+- Arkhis - "Powerful instrument for creating cutting-edge, cinematic atmospheres and underscores, from specialized orchestral sound sources."
+- **Ashlight**. "Specialized granular instrument that opens up an underworld of immersive atmospheres, rhythmic textures, and evocative keys for cinematic sound design."
+- Balinese Gamelan.
+- Bazzarian - "Dark, distorted drums and lush synths ran through Bazzarian's personal effects chains."
+- Bazzarian Tapes - "Melodic instruments processed through vintage tape machines and boutique pedals for the signature, gritty style of an iconic German hip hop producer."
 - **Bite**. Bitcrusher.
+- Body Mechanik - "The hard sound of EBM - industrial beats, distorted synths, metallic hits, and more."
 - **Bounce**. MassiveX.
 - **Choral**. Chorus effect.
 - **Concrete Sun**. Japanese hip-hop + traditional instruments.
