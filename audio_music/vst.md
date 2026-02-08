@@ -187,9 +187,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Carbon Decay - "Dive headfirst into the shadowy world of industrial techno. Pummeling drums, restless synths, and precision sound design fuse together for wall-shaking music without compromise."
 - Cavern Floor. "Descend into the depths of towering, modern techno with giant kicks, piercing hats, and sharp synths and melodies."
 - Certified Gold - "A fresh take on trap and hip hop - with futuristic drums, hard-hitting bass and chart-topping hooks."
+- Choir - Omnia - "CHOIR: OMNIA captures the passionate sound of a 40-piece vocal ensemble at their most expressive. Perfect for scoring films, TV and games."
 - **Choral**. Chorus effect.
 - Circuit Halo - "Fuse the intricate arrangements of cerebral electronica with the sounds of vintage synths and drum machines."
 - **Concrete Sun** - "Dive into the authentic sounds of modern Japanese hip hop enriched by traditional instruments."
+- Decoded Forms - "Deconstructed breaks, evolving pads, disruptive bass, and crisp drums to give you the rhythmic kaleidoscope of post-jungle."
+- Deep Matter - "Moody bass tones, melancholic pads, atmospheric field recordings, and crisp percussion to give you the beautiful darkness of Berlin's ethereal techno."
 - **Dirt**. Distortion.
 - District Xeo - "Submerge in the sound of underground electro, with whiplashing beats, aquatic synths, and spacey pads."
 - Driver - "A versatile, creative distortion and filter effect. Take tracks from subtle filtering to all out mayhem."
