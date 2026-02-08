@@ -37,6 +37,7 @@
 - **Cerberus**. Cinematic percussion.
 - **Jaeger**. Orchestral strings + Merethe Solvedt's soprano legato vocals.
 - **Talos**. Cinematic/epic brass.
+- **Trailer Guitars 2** - "Trailer Guitars 2 has everything you need from clean tones to gritty distortion and sonic drones, loops, kits, and curated content...."
 
 # Audio Ollie (Kontakt)
 - **LA Modern Percussion**.
