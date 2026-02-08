@@ -56,6 +56,7 @@
 - Blue Cat Free Amp.
 
 # Cinesamples
+- **Accent Pianos** (Kontakt). "Percussive" orchestral pianos.
 - **Apocalyptica** (Kontakt). Solo electric cello. Also available in Musio.
 - **Drums of War 1** (Kontakt). Cinematic percussion. Also available in Musio.
 - **Drums of War 2** (Kontakt). Cinematic percussion. Also avialable in Musio.
@@ -161,7 +162,6 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Midnight Tenor Sax.
 
 # Native Instruments (...Kontakt)
-- Accent Pianos.
 - **Action Strikes**.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**. Can be quite nice if you're willing to micromanage the articulations. I have *feelings* about viola!
