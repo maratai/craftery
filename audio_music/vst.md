@@ -118,7 +118,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Forzo - Modern Brass**.
 - **Foundations Piano**.
 - **Machina**. Sound design.
-- **Novo - Modern Strings**.
+- **Novo - Modern Strings** - "A new hybrid strings vitual instrument...."
 - **Sonara** - "An instantly inspiring, captivating vocal collection designed to spark creativity and infuse tracks with dynamic and emotive vocal power."
 - **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
 - **Vocalise 2**.
@@ -196,21 +196,31 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Kontakt Factory Library**.
 - **Lo-Fi Glow**.
 - **The Maverick**. Grand piano. I suspect a Yamaha based on the timbre, but I could be wrong!
+- Meteoric Rise - "A feel-good fusion of soulful melodies, trap-style drums, and lazer-sharp synths for cutting-edge pop that shines."
+- **Middle East** - "A playable collection of 25 distinctive percussive, melodic, and stringed instruments, drawn from Arabic, Turkish, and Persian traditions." Allows control over scales/tuning.
+- Midnight Sunset - "Bask in the fading glow of the late '70s, as warm live instruments fuse with the cool, crisp drum machines and synhts of the early '80s."
+- Molten Veil - "Dancefloor-ready sounds designed by tech-house master Umek. MOLTEN VEIL explodes with dense basslines, jarring hi-hats, and seismic kicks."
+- Motor Impact - "The unmistakable Detroit sound for contemporary electronic music styles."
+- Mysteria - "...a cinematic vocal instrument for building and playihng choral, human textures and atmospheres with versatile emotion in real time."
+- Nacht - "An edgy techno instrument with bass, pads, leads, and special effects, for creating anything from hard-hitting acid to experimental EBM."
 - Passive EQ. Tube EQ.
-- **Pharlight**. Soundscapes and vocal-based granular synthesis.
+- **Pharlight** - "Vocal-based granular instrument for melodic human timbres, tones, soundscapes, and transitions."
 - Rammfire. Amp.
 - Raum. Reverb.
 - RC 24. Hall reverb.
 - RC 48. Hall reverb.
 - Reflektor. Convolution reverb.
 - Replika XT. Delay.
-- **Rise and Hit**. Cinematic hits.
+- **Rise and Hit** - "The ultimate aciton instrument for white-knuckle, cinematic build-ups with an exclusive set of sampled sounds."
+- Sacred Futures - "The next-gen sounds of trap and hip hop - hard-hitting drums, crisp hooks, and hazy atmospheres."
+- Schema - Dark - "Create dark, driving patterns and pulses from four layers of expertly recorded acoustic, synthetic, and organic loops."
+- Schema - Light - "Scuplt evolving melodic patterns and textures from four layers of soft, creatively processed loops."
 - **Session Bassist: Icon Bass**.
 - **Session Bassist: Prime Bass**.
 - **Session Guitarist: Electric Mint**.
 - **Session Guitarist: Electric Sunburst Deluxe**.
-- **Session Horns Pro**.
-- **Session Percussionist**.
+- **Session Horns Pro** - "10 instruments sampled in surgical detail, intuitively playable, and arranged for realistic, contemporary performance."
+- **Session Percussionist** - "Intuitive, acoustic drum and percussion library with over 2000 customizable patterns and an advanced step sequencer."
 - Solid Dynamic FX.
 - Solid EQ FX.
 - **Straylight**. "A unique instrument for cinematic soundscapes, tones, and transitions."
@@ -228,6 +238,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Norrland Solo Trumpet.** Free and great!
 
 # Ocean Swift Synthesis (Kontakt)
+- **Porphyra Hybrid** - "...a richly detailed go to instrument which combines sample and wavetable substractive synthesis with hundreds of source sounds for extensive sonic exploration and advanced wavetable manipulation...."
 - **Tyrian Tine** - "...a compact, yet potent Kontakt NKS instrument for generating unique, randomized bell and chime tones. Its asymmetric dual-layer engine pairs a wavetable oscillator - with purposeful instability, morphing, and controlled randomization - with a sample oscillator curated from bells, kalimbas, music boxes, and other metallic oddities. The result ranges from crystalline fantasy tintinnabulation to gritty, bronze-like strikes and haloed sci-fi swells."
 
 # Orchestral Tools (SINE)
