@@ -179,6 +179,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Body Mechanik - "The hard sound of EBM - industrial beats, distorted synths, metallic hits, and more."
 - **Bounce**. MassiveX.
 - Butch Vig Drums - "Lay down punchy, production-ready grooves, with heavily processed, inspiring drum sounds designed by a true production master."
+- Byte Riot - "Crunchy circuit-bent drum kits, warm 8-bit leads, and retro video game samples, for the lo-fi aesthetic of the Chiptune scene."
 - **Choral**. Chorus effect.
 - **Concrete Sun**. Japanese hip-hop + traditional instruments.
 - **Dirt**. Distortion.
