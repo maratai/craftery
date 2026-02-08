@@ -404,6 +404,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Candace Crockett. *Card Weaving*.
 - Russell E. Groff. *Card Weaving or Tablet Weaving*. A delightful instructional booklet of about 50 pages.
 - Shelagh Lewins. [The Ancient Craft of Tablet Weaving: Getting Started](https://www.shelaghlewins.com/tablet_weaving/TW01/TW01.htm) (online). A terrific overview and how-to for beginners.
+- Heather Torgenrud. *PIck-Up Bandweaving Designs: 288 Charts foir 13 Pattern Ends and Techniques for Arranging Color*.
 
 ## Weaving: Multishaft Looms
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
