@@ -214,6 +214,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Solid Dynamic FX.
 - Solid EQ FX.
 - **Straylight**. Soundscapes, sound design.
+- **Super 8** - "A modern take on vintage analogy polysynths...."
 - **Supercharger**. Tube compressor.
 - **Transient Master FX**.
 - Una Corda - "The special sound signature of a custom-made contemporary piano with one string per key - sampled in intimate detail."
@@ -253,6 +254,10 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Pacific Percussion**.
 - Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
 - Vista II Small Ensemble Strings.
+
+# Realitone
+- **Sunset Choir Ultimate** - "Sunet Choir specializes in experimental and evolving movement-based choral articulations, along with traditional articulations and legato. It features a 2-Layer system, plus Attack and Release slow bands, scatters, and even consonants."
+- **Sunset Strings** - "Sunset Strings, with it's [sic] 2-Layer system as well as its unique attack and release options, opens up new possibilities in the world of textural strings. You can have a sul tasto or tremolo or harmonic (dozens of articulations to choose from) in one layer, then with the mod wheel, bring in ricochets or trills or sudden swells or whatever you like from the second layer. So you can fully control when to bring in extra 'emotion' to your track. Plus we have slow bends, quick slides, scatter, converge, sforzando, crescendo and decrescendo options for Attack adn Release. Actual samples, tweaked for each sustain option."
 
 # Sample Logic (Kontakt)
 - **Drum Fury**.
