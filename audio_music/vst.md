@@ -139,6 +139,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Neoverb**. Reverb.
 - **Ozone 10 Standard**. Mastering.
 - **Tonal Balance Control 2**. Mastering.
+- **Trash**. Distortion.
 - **VocalSynth 2**. Vocal processing/effects.
 
 # Keep Forest (Kontakt)
@@ -214,6 +215,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Straylight**. Soundscapes, sound design.
 - **Supercharger**. Tube compressor.
 - **Transient Master FX**.
+- Una Corda - "The special sound signature of a custom-made contemporary piano with one string per key - sampled in intimate detail."
 - Utopia - "Elevate your productions with the authentic sounds of trance: shapeshifting basses, euphoric pads, transcendent leads, and more."
 - Valves Pro - "A contemporary brass library for scoring and production that delivers warm, mellow tones and phrases with enhanced functionality, features, and articulations."
 - VocalSynth 2 - "Color and shape vocals with five blendable creative must-haves and stompbox-style studio effects."
@@ -222,6 +224,9 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 
 # Norrland Samples (Kontakt)
 - **Norrland Solo Trumpet.** Free and great!
+
+# Ocean Swift Synthesis (Kontakt)
+- **Tyrian Tine** - "...a compact, yet potent Kontakt NKS instrument for generating unique, randomized bell and chime tones. Its asymmetric dual-layer engine pairs a wavetable oscillator - with purposeful instability, morphing, and controlled randomization - with a sample oscillator curated from bells, kalimbas, music boxes, and other metallic oddities. The result ranges from crystalline fantasy tintinnabulation to gritty, bronze-like strikes and haloed sci-fi swells."
 
 # Orchestral Tools (SINE)
 I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
