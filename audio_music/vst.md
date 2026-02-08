@@ -180,8 +180,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Bounce**. MassiveX.
 - Butch Vig Drums - "Lay down punchy, production-ready grooves, with heavily processed, inspiring drum sounds designed by a true production master."
 - Byte Riot - "Crunchy circuit-bent drum kits, warm 8-bit leads, and retro video game samples, for the lo-fi aesthetic of the Chiptune scene."
+- Carbon Decay - "Dive headfirst into the shadowy world of industrial techno. Pummeling drums, restless synths, and precision sound design fuse together for wall-shaking music without compromise."
+- Cavern Floor. "Descend into the depths of towering, modern techno with giant kicks, piercing hats, and sharp synths and melodies."
+- Certified Gold - "A fresh take on trap and hip hop - with futuristic drums, hard-hitting bass and chart-topping hooks."
 - **Choral**. Chorus effect.
-- **Concrete Sun**. Japanese hip-hop + traditional instruments.
+- Circuit Halo - "Fuse the intricate arrangements of cerebral electronica with the sounds of vintage synths and drum machines."
+- **Concrete Sun** - "Dive into the authentic sounds of modern Japanese hip hop enriched by traditional instruments."
 - **Dirt**. Distortion.
 - **East Asia**. Listen, they have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
 - Enhanced EQ.
@@ -209,6 +213,8 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Supercharger**. Tube compressor.
 - **Transient Master FX**.
 - Valves Pro. Brasses.
+- Void Eclipse - "Hard-edged techno meets acid, electro, and EBM in this underground-inspired Expansion, with dark grooves and synths."
+- **Yangqin** - "YANGQIN captures the authentic sound of a traditional Chinese hamemred dulcimer...."
 
 # Norrland Samples (Kontakt)
 - **Norrland Solo Trumpet.** Free and great!
