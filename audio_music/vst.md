@@ -28,7 +28,7 @@
 - **Silka**. Choral.
 
 # Audiobro (Kontakt)
-- Eternity Choir.
+- **Eternity Choir** - "...Sopranos, Altos, Tenors, and Basses. Simple to use while having advanced features such as Latin Syllables, polyphonic legato, Melisma, Latin word building, and balanced ensemble weighting using our Auto Divisi engine."
 - LA Drama Drums.
 - **Modern Scoring Brass**.
 - **Modern Scoring Strings**.
@@ -191,8 +191,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Circuit Halo - "Fuse the intricate arrangements of cerebral electronica with the sounds of vintage synths and drum machines."
 - **Concrete Sun** - "Dive into the authentic sounds of modern Japanese hip hop enriched by traditional instruments."
 - **Dirt**. Distortion.
+- District Xeo - "Submerge in the sound of underground electro, with whiplashing beats, aquatic synths, and spacey pads."
+- Driver - "A versatile, creative distortion and filter effect. Take tracks from subtle filtering to all out mayhem."
+- Drop Squad - "The sound of dubstep, with punchy drums, wobbles, synths and deep basses."
 - **East Asia**. Listen, they have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
 - Enhanced EQ.
+- FM8 - FM synthesis.
 - **Freak**. Modulation effect.
 - **Glaze 2** - "Next-level pop and hip hop vocal textures featuring talkbox, harmonies, and special riff presets for rich, gleaming chords, pads, and melodics."
 - Hexagon Highway - "The hyper-sonic sound of experimental electronic music."
