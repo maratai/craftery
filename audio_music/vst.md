@@ -194,7 +194,9 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Enhanced EQ.
 - **Freak**. Modulation effect.
 - **Kontakt Factory Library**.
-- **Lo-Fi Glow**.
+- Lazer Dice - "The sound of the future bass phenomenon with deep rhythms and signature sound design."
+- **Lo-Fi Glow** - "The fuzz of tape. The dirt of distortion. When sounds get a little rougher, something magical happens...."
+- London Grit - "Explore the UK underground grime scene with bone-crushing bass, icy FX, and drum kits by top artists."
 - Lucid Mission - "The hyper-real sound of trance-infused EDM. An intense selection of synths, build ups, and steady beats."
 - **The Maverick**. Grand piano. I suspect a Yamaha based on the timbre, but I could be wrong!
 - Meteoric Rise - "A feel-good fusion of soulful melodies, trap-style drums, and lazer-sharp synths for cutting-edge pop that shines."
