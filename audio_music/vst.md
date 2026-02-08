@@ -60,6 +60,7 @@
 - **Apocalyptica** (Kontakt). Solo electric cello. Also available in Musio.
 - **Drums of War 1** (Kontakt). Cinematic percussion. Also available in Musio.
 - **Drums of War 2** (Kontakt). Cinematic percussion. Also avialable in Musio.
+- **Viola Da Gamba** (Kontakt).
 
 # Cinematic Studio (Kontakt)
 - **Cinematic Strings Monster Staccatos**.
@@ -207,12 +208,15 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Session Guitarist: Electric Mint**.
 - **Session Guitarist: Electric Sunburst Deluxe**.
 - **Session Horns Pro**.
+- **Session Percussionist**.
 - Solid Dynamic FX.
 - Solid EQ FX.
 - **Straylight**. Soundscapes, sound design.
 - **Supercharger**. Tube compressor.
 - **Transient Master FX**.
-- Valves Pro. Brasses.
+- Utopia - "Elevate your productions with the authentic sounds of trance: shapeshifting basses, euphoric pads, transcendent leads, and more."
+- Valves Pro - "A contemporary brass library for scoring and production that delivers warm, mellow tones and phrases with enhanced functionality, features, and articulations."
+- VocalSynth 2 - "Color and shape vocals with five blendable creative must-haves and stompbox-style studio effects."
 - Void Eclipse - "Hard-edged techno meets acid, electro, and EBM in this underground-inspired Expansion, with dark grooves and synths."
 - **Yangqin** - "YANGQIN captures the authentic sound of a traditional Chinese hamemred dulcimer...."
 
