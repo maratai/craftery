@@ -199,7 +199,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Valves Pro. Brasses.
 
 # Norrland Samples (Kontakt)
-- Norrland Solo Trumpet. Free and great!
+- **Norrland Solo Trumpet.** Free and great!
 
 # Orchestral Tools (SINE)
 I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
@@ -258,7 +258,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 
 # Spitfire Audio (Kontakt or Spitfire)
 Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
-- **Albion Solstice**. One of my go-tos for folk/hybrid.
+- **Albion Solstice**. One of my go-tos for folk/hybrid, especially the "Gut Circle" (hammered dulcimer/zither).
 - Aluphone.
 - **Aperture Strings**. A good workhorse orchestral strings sketching tool.
 - Chrysalis.
@@ -284,6 +284,7 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 
 # Vienna Symphonic Library (VSL)
 Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vienna Instruments Pro.
+
 - Hello Free Violin Runs.
 - Hello Free Harp Glissandos.
 - **Hello Free Small Percussion**.
@@ -300,7 +301,12 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
   - Piccolo Trumpet
   - Cornet
   - Flugelhorn
+- **Studio Special Keyboards**.
+  - Harpsichord
+  - Harmonium
+  - Prepared Piano
 - **Studio Whistler**.
+- **Synchron Duality Brass**.
 - **Synchron Duality Strings**.
 - **Synchron Solo Strings**.
 - **Synchron Woodwinds**.
