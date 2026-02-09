@@ -27,6 +27,7 @@ The visual art and design kind, not the music kind! (Probably.)
 - Marcos Mateu-Mestre. *Framed Ink: Drawing and Composition for Visual Storytellers*, *Framed Ink Vol. 2: Frame Format, Energy, and Composition for Visual Storytellers*, *Framed Perspective Vol. 1: Technical Perspective and Visual Storytelling*. **to-read**
 
 # Fashion Illustration
+- Zoë Hong. *Fashion School in a Book: Design and Illustration for the Beginner and the Brand*. **to-read**
 - Robyn Neild. *Sketch Your Style: A Guided Sketchbook for Drawing Your Dream Wardrobe*. Activity-book style where you draw in the book. This looks fun but is getting destashed because I have limited shelf space (and other books that address my needs better).
 
 # Figure Drawing: General
