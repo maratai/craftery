@@ -297,7 +297,14 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **World Fury**. Hybrid.
 
 # Soniccouture (Kontakt)
+- **Hammersmith Free**. "A free verison of the most detailed sampled piano available. 21 velocity layers."
+- **Morpheus**. "...the Morpheus is a modular aluminum percussion instrument: the keys can be rearranged in any order you like, as each metal bar is attached to its own tuned resonator. The aluminum gives Morpheus one of the purest percussion sounds you will hear - add tremolo and it sounds very much like a vibraphone, but with an extra 'glass-like' quality."
+- **Music Boxes**. Free! "Two original music boxes: the sound is almost universally evocative of early childhood."
+- **Rocksichord**. Free! "Vintage electric harpsichord with 12 stops."
 - **Samulnori Percussion**. Korean folk drums!
+- **Skiddaw Stones** - A lithophone - ancient tuned rocks gathered in the mountains of Cumbria, UK. Truly heavy rock music."
+- **Tape Choir**. Free!
+- **Thunder Drum**. Free!
 
 # Sonuscore (Kontakt)
 - **Elysion 2**. Synths.
