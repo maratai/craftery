@@ -407,7 +407,9 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Heather Torgenrud. *PIck-Up Bandweaving Designs: 288 Charts foir 13 Pattern Ends and Techniques for Arranging Color*.
 
 ## Weaving: Multishaft Looms
+- Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
+- Deborah Silver. *The Technique of Split-Shed Weaving*. Fantastic "pictorial" technique with supplementary warp for looms with 4+ harnesses. Requires familiarity with 4+ shafts and weaving drafts.
 - Marian Stubenitsky. *Weaving with Echo and Iris*. Over my head right now, but extraordinary to page through.
 - Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic
   
