@@ -100,6 +100,8 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 These are Japanese but can be bought e.g. from [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) in the USA, or you can try your luck on eBay.
 
 # [Lojan Flex Rigid Heddle](https://lojan.nl/product/flex-rigid-heddle-loom/)
+Shown to the right on a Lojan loom stand with a Saori WX60 floor loom on the left for size/footprint comparison!
+
 ![Saori WX60 on the left, Lojan Flex rigid heddle table loom on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-01.jpg?raw=true)
 
 ![Saori WX60 folded up on the left, Lojan Flex rigid heddle on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-02.jpg?raw=true)
