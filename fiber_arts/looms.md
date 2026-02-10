@@ -47,6 +47,8 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 
 ![Saori WX60 in the back, Lojan Flex in the front (closer to viewer)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-03.jpg?raw=true)
 
+(Said Lojan Flex is going to a friend, hence not being listed under Table Looms, below.)
+
 **Specs**
 - weight: 27 lbs
 - weaving width: 23"
