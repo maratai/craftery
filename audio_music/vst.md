@@ -31,6 +31,18 @@
 - **Eternity Choir** - "...Sopranos, Altos, Tenors, and Basses. Simple to use while having advanced features such as Latin Syllables, polyphonic legato, Melisma, Latin word building, and balanced ensemble weighting using our Auto Divisi engine."
 - **LA Drama Drums**. "A Drama Drums (LADD) is a complete orchestral percussion library comprised of multi-sampled strikes (up to 16 round-robin) and audio loops (each loop having 12 stem mixes!). LADD provides a modern solution to scoring cinematic percussion, production, and sound design."
 - **Modern Scoring Brass**. "Modern Scoring Brass is an elite 30-piece multi-instrument divisi library painstakingly developed by recording individual brass masters on a trusted scoring stage. This gives you the ability to build your own sections using the sizes and instruments that best suit your production. Furthermore, we recorded mutes and stops in depth – not as an afterthought. And finally, the library also runs on our state-of-the-art Orchestral Engine."
+  - Horns 1, 2, 3, 4 in F (solo)
+  - Horns 5/6, 7/8 in F (a2)
+  - Euphonium 1, 2 (solo)
+  - Trumpet 1 in Bb, 2 in C, 3 in C, 4 in Bb
+  - Piccolo Trumpet 1 (rotary)
+  - Piccolo Trumpet 2 (piston)
+  - Flugelhorn
+  - Tenor Trombones 1, 2, 3, 4 (solo)
+  - Bass Trombones 1, 2 (solo)
+  - Alto Trombone 1 (solo)
+  - Cimbassi 1, 2, 3, 4 in Bb (solo)
+  - CC Tuba 1, 2 (solo)
 - **Modern Scoring Strings**. "Modern Scoring Strings is our newest and most recently recorded 60 piece “a2” divisi (2 parts divisi per section) flagship string library."
 
 # Audio Imperia (Kontakt)
@@ -381,6 +393,16 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
   - Prepared Piano
 - **Studio Whistler**.
 - **Synchron Duality Brass**.
+  - Trumpet 1, 2 (solo)
+  - Trumpets a4, a6 (ensembles)
+  - Horn 1, 2 (solo)
+  - Horns a6, a12 (ensemble)
+  - Tenor trombone, bass trombone, cimbasso (solo)
+  - Trombones a4 (ensemble)
+  - Trombones a9 (ensemble)
+  - Bass tuba
+  - Low brass (6)
+  - Tutti (28)
 - **Synchron Duality Strings**.
 - **Synchron Solo Strings**.
 - **Synchron Woodwinds**.
