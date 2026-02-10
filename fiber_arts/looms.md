@@ -47,8 +47,6 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 
 ![Saori WX60 in the back, Lojan Flex in the front (closer to viewer)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-03.jpg?raw=true)
 
-(Said Lojan Flex is going to a friend, hence not being listed under Table Looms, below.)
-
 **Specs**
 - weight: 27 lbs
 - weaving width: 23"
@@ -100,6 +98,13 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 "Two-harness" table loom with an unusual "tilting" heddle/reed. It needs to be horizontal for proper operation and can't handle high tension, but the warping is ridiculously fast.
 
 These are Japanese but can be bought e.g. from [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) in the USA, or you can try your luck on eBay.
+
+# [Lojan Flex Rigid Heddle](https://lojan.nl/product/flex-rigid-heddle-loom/)
+![Saori WX60 on the left, Lojan Flex rigid heddle table loom on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-01.jpg?raw=true)
+
+![Saori WX60 folded up on the left, Lojan Flex rigid heddle on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-02.jpg?raw=true)
+
+This is a table loom in the 20" (50 cm) weaving width version, on a stand; there's also a smaller one at 12" (30 cm). Mine is the rigid heddle version that you can buy a (spendy) kit to convert to a 4-harness table loom. I won't be doing that as this is getting rehomed with a friend.
 
 ## Peacock Loom
 ![Peacock Loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-27-peacock.jpg?raw=true)
