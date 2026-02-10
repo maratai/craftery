@@ -102,6 +102,8 @@ This is the heaviest wheel I own, but the footprint is not *that* much larger th
 - Not "easily" portable, but 25 lbs. plus the travel kit (wheels!) makes this something one can wheel around the house. My Saori WX60 floor loom folds and is 30 lbs., and on a non-bad day I can manage that fine.
 - The toe-based double treadle is unusual (and is probably a YMMV, I would definitely try before buying if that's possible) but the action is incredibly gentle and responsive. I could probably "single treadle" with one foot on a slower ratio if I felt like it.
 
+![mulberry (bombyx) silk singles WIP on a Spinolution Mach III with 4A accelerated flyer and SpinPerfect Paulywinder installed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-10-silk-01.jpg?raw=true)
+
 # Wheels I Dream Of
 If wishes were wheels?
 
