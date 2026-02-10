@@ -98,7 +98,7 @@ This is the heaviest wheel I own, but the footprint is not *that* much larger th
 
 - Weight: 25 lbs.
 - Dimensions: 24" W x 12" D x 32" H
-- Ratios: 1:3.5 to 1:21 on the regular flyer. The Spinolution *Monarch* (the updated/current version of this wheel) apparently goes up to 1:52 on the 4A accelerated flyer. Spinolution informs me that accessories for the Monarch are compatible with the Mach III; I have a 4A accelerated flyer on order. I also have a [SpinPerfect](https://spinperfect.com/collections/spinperfect-for-spinolution) [Paulywinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer?variant=39868600909937) but am waiting to install it on the 4A flyer.
+- Ratios: 1:3.5 to 1:21 on the regular flyer. The Spinolution *Monarch* (the updated/current version of this wheel) goes up to 1:52 on the 4A accelerated flyer. Spinolution informs me that accessories for the Monarch are compatible with the Mach III; I have installed a 4A accelerated flyer with a have a [SpinPerfect](https://spinperfect.com/collections/spinperfect-for-spinolution) [Paulywinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer?variant=39868600909937).
 - Not "easily" portable, but 25 lbs. plus the travel kit (wheels!) makes this something one can wheel around the house. My Saori WX60 floor loom folds and is 30 lbs., and on a non-bad day I can manage that fine.
 - The toe-based double treadle is unusual (and is probably a YMMV, I would definitely try before buying if that's possible) but the action is incredibly gentle and responsive. I could probably "single treadle" with one foot on a slower ratio if I felt like it.
 
