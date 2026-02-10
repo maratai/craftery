@@ -39,6 +39,14 @@ Two-harness counterbalance floor loom, weaving width . This folds within seconds
 
 I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz). No affiliation, just a very happy repeat customer; Jill's bespoke tutorials are terrific references.
 
+By the way, they're not kidding when they say a smaller floor loom and a larger table loom may have similar footprints! The Saori WX60 has more vertical height but the *footprint* in use is nearly the same.
+
+![Saori WX60 on the left, Lojan Flex rigid heddle table loom on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-01.jpg?raw=true)
+
+![Saori WX60 folded up on the left, Lojan Flex rigid heddle on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-02.jpg?raw=true)
+
+![Saori WX60 in the back, Lojan Flex in the front (closer to viewer)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-03.jpg?raw=true)
+
 **Specs**
 - weight: 27 lbs
 - weaving width: 23"
