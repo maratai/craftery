@@ -4,6 +4,28 @@
 
 # Band and Tape Looms
 
+Have a preliminary side-by-side comparison!
+
+![left: Daedalus Penelope Band Loom, center: Handywoman Tiny Box Loom, right: Woodington UK Folding Tape Loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-12-band-looms-01.jpg?raw=true)
+
+**Left: [Daedalus Penelope Band Loom](https://shop.daedalusspinningwheels.com/collections/penelope)**
+- about ~$200 USD (US-based), comes with some stuff including a basic shuttle and 12 wooden tablets
+- weight: 3.5 lbs
+- dimensions: 16”L x 7.5”W x 7”H (40cm L x 19cm W x 18cm H)
+
+**Center: [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)**
+- about $85 USD (US-based), comes with the rigid heddle + a shuttle
+- weight: about 14 oz or under 1 lb warped
+- dimensions TK (I need to find my tape measure)
+- Note: this is a medieval?-style-ish smol tape loom. It weaves under much lower tension than the Daedalus Penelope or the Woodington UK - Handywoman says that's normal but floor/table and rigid heddle weavers apparently find it to be an adjustment.
+
+**Right: [Woodington UK Folding Tablet Loom](https://woodingtonuk.com/products/folding-tablet-loom)**
+- about 100 GBP (UK-based but alongside shipping, depending on options, likely to run ~$200+ USD to the USA), you can get either heddle(s) or cards for it
+- weight: ~3 lbs
+- dimensions in use: 42cm x 22cm x 14cm
+- dimensions folded: 30cm x 22cm x 6cm (about A4 but thicker, of course)
+- Note: This one folds up for easy travel, unlike the other two, and "locks" under tension very cleverly.
+
 ## [Daedalus Spinning Wheels Penelope band loom](https://www.daedalusspinningwheels.com/penelope)
 On order.
 
