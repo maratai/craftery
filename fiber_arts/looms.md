@@ -27,7 +27,7 @@ Have a preliminary side-by-side comparison!
 - Note: This one folds up for easy travel, unlike the other two, and "locks" under tension very cleverly.
 
 ## [Daedalus Spinning Wheels Penelope band loom](https://www.daedalusspinningwheels.com/penelope)
-On order.
+Newly arrived, will report back!
 
 ## [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)
 Arrived and *delightful*. I'm now ride or die for Handywoman weaving/etc tools! Her *shuttles* are especially wonderful, too.
