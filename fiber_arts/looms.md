@@ -122,7 +122,7 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 These are Japanese but can be bought e.g. from [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) in the USA, or you can try your luck on eBay.
 
 # [Lojan Flex Rigid Heddle](https://lojan.nl/product/flex-rigid-heddle-loom/)
-**Nota bene**: I cannot in good conscience recommend this loom. Sorry.
+**Nota bene**: I cannot in good conscience recommend this loom. The reed design alone is atrocious, but that wasn't the only problem. Sorry.
 
 Shown to the right on a Lojan loom stand with a Saori WX60 floor loom on the left for size/footprint comparison.
 
