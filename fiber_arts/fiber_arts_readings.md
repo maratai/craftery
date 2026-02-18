@@ -19,6 +19,9 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 # Knitting
 - Virginia D. McGlynn, illus. Walter J. McGlynn. *Knitting Illustrated for Beginners and Others*. Terrific instructional booklet. It's no one else's fault that I bounced off knitting after trying it for a few years! **Recommended**.
 
+# Kumihimo
+- Claudia Wollny. *The Secrets of Kikko* and *The Transformations of Sakura*, in gorgeous bilingual (German/English) editions, [available](https://www.claudia-wollny-edition.com/en/category-3/) from her website.
+
 # Lacemaking, General
 - Annette Feldman. *Handmade Lace and Patterns*. 1975. This is getting destashed in a friend's direction. It looks fine as an instructional text, but the focus is on crochet, hairpin lace, knitting, and tatting (brief). I have more useful books on tatting and I don't practice the other techniques, so this will do better with someone who will appreciate it!
 - Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. 1991. Frankly, this book is classist as fuck and I despise the author (I'm sure the feeling would be mutual), but this is nevertheless an excellent *reference* on lace (etc) styles, with many black-and-white photos.
@@ -404,7 +407,8 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Candace Crockett. *Card Weaving*.
 - Russell E. Groff. *Card Weaving or Tablet Weaving*. A delightful instructional booklet of about 50 pages.
 - Shelagh Lewins. [The Ancient Craft of Tablet Weaving: Getting Started](https://www.shelaghlewins.com/tablet_weaving/TW01/TW01.htm) (online). A terrific overview and how-to for beginners.
-- Heather Torgenrud. *PIck-Up Bandweaving Designs: 288 Charts foir 13 Pattern Ends and Techniques for Arranging Color*.
+- Heather Torgenrud. *Pick-Up Bandweaving Designs: 288 Charts foir 13 Pattern Ends and Techniques for Arranging Color*.
+- Claudia Wollny. *Tablets at Work*, *Twill 1+1*, and *The Wonderful World of the Tablet-Woven Stole and Maniple of St. Donat, Arlon*, [available](https://www.claudia-wollny-edition.com/en/) in sumptuous bilingual (German/English) editions. I'm looking forward to diving in!
 
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
