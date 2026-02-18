@@ -108,7 +108,7 @@ Single treadle, Saxony wheel, a 1981 example. (The link goes to an up-to-date on
 Single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
 
 ## [Athena Capricorn](https://www.athenaspinning.com/wheels) 
-Double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order.
+Double treadle, ultraportable travel wheel. US-based, with a wait of up to three months as they're made to order. Mine's destined elsewhere as the treadle setup is ergonomically unfriendly to me due to my height + ankle issues.
 
 ## Dreaming Robots [EEW 6.1](https://www.dreamingrobots.com/eew-61/)
 E-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
@@ -117,13 +117,13 @@ E-spinner. One can spin with this in the passenger seat of a car if one adds a r
 Japanese traditional hand-crank charkha-like wheel. My mom informs me that traditional Korean spinning wheels look more like this.
 
 ## [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions)
-Single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up.
+Single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up. I have a [WooLee Winder](https://www.wooleewinderstore.com/) for this on order.
  
 ## [Pocket Wheel](https://www.pocket-wheel.com/) -
 Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing.
 
 ## [Spinolution](https://www.spinolution.com/) Mach III 
-Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have a 4A accelerated flyer on order, which I hope to use with a [SpinPerfect Paulywinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer).
+Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials.
 
 # Other Fiber Tools
 
