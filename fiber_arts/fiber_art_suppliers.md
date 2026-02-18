@@ -4,7 +4,8 @@ Not a comprehensive list!
 I'm US-based, so for availability reasons in a cursed polity, I'm noting *location*.
 
 - [Blazing Shuttles](https://www.blazingshuttles.com/) - Hand-dyed warps and skeins, plus other tools.
-- [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com/) - US-based. I'm not in the market for another e-spinner (yet?), but I have a [Penelope band loom](https://www.daedalusspinningwheels.com/penelope) on order. They have at least one e-spinner design for left-handers as well as right-handers!
+- [Claudia Wollny](https://www.claudia-wollny-edition.com/en/) - Excellent books on tablet weaving and kumihimo, available in German/English (sometimes more!) bilingual editions.
+- [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com/) - US-based. I'm not in the market for another e-spinner (yet?), but I have a [Penelope band loom](https://www.daedalusspinningwheels.com/penelope) and am awaiting accessories for it. They have at least one e-spinner design for left-handers as well as right-handers!
 - [Dharma Trading Co.](https://www.dharmatrading.com/) - US-based supplier, especially but not exclusively for silk and dyes, silk painting supplies etc.
 - [Dreaming Robots](https://www.dreamingrobots.com/) - US-based. E-spinners and other tools. I have the [EEW 6.1](https://www.dreamingrobots.com/eew-61/) e-spinner and like it a lot.
 - [Eugene Textile Center](https://www.eugenetextilecenter.com/) - US-based. Their used books and fiber tools on the online store have delicious finds.
@@ -24,6 +25,6 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Treenway Silks](https://www.treenwaysilks.com/) - US-based supplier, fantastic mulberry and tussah silk for spinning. Also other varieties and blends I haven't tried yet.
 - [WEBS Yarn](https://www.yarn.com/) - US-based supplier. I have a [Toika loom](https://www.yarn.com/pages/toika-looms) (8-harness 8-shaft Toika Lail) on order from them. [Toika Laila listing on Toika's website](https://shop.toika.com/category/6/laila-loom); Toika itself is Finland-based but WEBS is their official sole distributor in the USA.
 - [Woodington UK](https://woodingtonuk.com/) - UK-based maker of looms and weaving tools. I have the [folding tablet loom](https://woodingtonuk.com/products/folding-tablet-loom) and it's gorgeous; if I weren't in the US, I would be ordering more from here.
-- [WooLee Winder Co.](https://www.wooleewinderstore.com/) - Flyers that wind on evenly for you, mechanical. I have one on order for my Louet S90 - will report back!
+- [WooLee Winder Co.](https://www.wooleewinderstore.com/) - Flyers that wind on evenly for you, mechanical. I have one on order for my Louët S90 - will report back!
 - [The Woolery](https://woolery.com/) - US-based.
 - MORE TK
