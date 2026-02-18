@@ -71,6 +71,11 @@ I ordered this from the [Woolery](https://woolery.com/) (US). Still need to test
 ## [Peacock Loom](https://www.itwgroup.com/Peacock_12inchLoom_Instructions.pdf)
 Two harnesses, counterbalance. My mother-in-law passed this on; I'm restoring it to working order using Texsolv heddles as the string heddles were practically rotting.
 
+# Kumihimo
+
+## Peuter Marudai
+Obtained off eBay.
+
 # Sewing Machines
 
 ## Frister and Rossmann hand-crank sewing machine
