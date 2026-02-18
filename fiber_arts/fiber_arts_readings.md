@@ -402,6 +402,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 ## Weaving: Card/Tablet Weaving
 - Peter Collingwood. *Techniques of Tablet Weaving*. An extraordinary academic overview. Recommended.
 - Candace Crockett. *Card Weaving*.
+- Inge Dann. *Tablet-Woven Accents for Designer Fabrics: Contemporary Uses for Ancient Techniques*.
 - Russell E. Groff. *Card Weaving or Tablet Weaving*. A delightful instructional booklet of about 50 pages.
 - Shelagh Lewins. [The Ancient Craft of Tablet Weaving: Getting Started](https://www.shelaghlewins.com/tablet_weaving/TW01/TW01.htm) (online). A terrific overview and how-to for beginners.
 - Heather Torgenrud. *Pick-Up Bandweaving Designs: 288 Charts foir 13 Pattern Ends and Techniques for Arranging Color*.
