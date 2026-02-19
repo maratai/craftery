@@ -104,6 +104,34 @@ This is the heaviest wheel I own, but the footprint is not *that* much larger th
 
 ![mulberry (bombyx) silk singles WIP on a Spinolution Mach III with 4A accelerated flyer and SpinPerfect Paulywinder installed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-10-silk-01.jpg?raw=true)
 
+# Autowinders for Treadle Spinning Wheels
+I've tried the LWS Autowinder, SpinPerfect PaulyWinder, and WooLee Winder. I genuinely like all three but they are all delightfully different in operation and mechanism and trade-offs. For my purposes (hobby emotional support spinning), all three work fine.
+
+If you have a choice for your treadle wheel and you're trying to decide:
+
+## LWS Autowinder on my Pocket Wheel (both secondhand, came together)
+- runs off two AAA batteries
+- not silent, but whisper-quiet
+- easy to install and use (mind you turn it off when not in use, so as not to drain the battery unnecessarily)
+- uses your "regular" bobbins
+- LWS Autowinders are available for a number of other wheels (including other manufacturers)
+
+## SpinPerfect PaulyWinder on my Spinolution Mach III (Mach II was secondhand, PaulyWinder I ordered new)
+- purely mechanical through physics + clever geometry
+- essentially silent, or at least, doesn't introduce added inherent noise
+- easy to install and use, but I had to watch the video as the winding path for the spun fiber is different than what I'm used to
+- uses your "regular" bobbins with the appropriate size "regular" flyer - they're compatible with the PaulyWinder
+- only available for (most?) Spinolution spinning wheels due to the construction of the flyer
+
+## WooLee Winder on my Louët S90 (Louët S90 was secondhand, WooLee Winder and bobbins I ordered new)
+- purely mechanical through interlocking gears (flyer + special bobbins)
+- mechanical gear noises (I like these a lot and find them pleasant, but it is some background sound)
+- easy to install and use, with (for the Louët anyway) a clever adjustable orifice due to varying maiden lengths on different Louëts
+- does introduce additional "pull" or "friction" inherently due to the gears...but between the adjustable orifice and the fact that the S90 is a grabby thoroughbred (affectionate), I actually find the pull **easier** to manage/adjust through the brake band with the WooLee Winder on this wheel!
+- uses "special" bobbins with the aforementioned gears, so that's an added expense if you're using this system
+- available for a number of other wheels (including other manufacturers)
+- NOTE: I was interested in trying one for my Pocket Wheel so I have a purely mechanical option, but at present, they only appear to be available with a new Pocket Wheel, not sold separately (my current Pocket Wheel came secondhand). You *can* get the special WooLee Winder bobbins for Pocket Wheel from either WooLee or from Pocket Wheel, however.
+
 # Wheels I Dream Of
 If wishes were wheels?
 
