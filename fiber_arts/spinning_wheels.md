@@ -116,7 +116,7 @@ If you have a choice for your treadle wheel and you're trying to decide:
 - uses your "regular" bobbins
 - LWS Autowinders are available for a number of other wheels e.g. Ashford, Dreaming Robots EEW 6.0 and 6.1, Hansen, Kromski, Schacht etc (not a complete list)
 
-## SpinPerfect PaulyWinder on my Spinolution Mach III (Mach II was secondhand, PaulyWinder I ordered new)
+## [SpinPerfect PaulyWinder](https://spinperfect.com/collections/spinperfect-for-spinolution) on my Spinolution Mach III (Mach II was secondhand, PaulyWinder I ordered new)
 - purely mechanical through physics + clever geometry
 - essentially silent, or at least, doesn't introduce added inherent noise
 - easy to install and use, but I had to watch the video as the winding path for the spun fiber is different than what I'm used to
