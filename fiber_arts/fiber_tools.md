@@ -117,13 +117,15 @@ E-spinner. One can spin with this in the passenger seat of a car if one adds a r
 Japanese traditional hand-crank charkha-like wheel. My mom informs me that traditional Korean spinning wheels look more like this.
 
 ## [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions)
-Single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up. I have a [WooLee Winder](https://www.wooleewinderstore.com/) for this on order.
+Single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up. I have a [WooLee Winder](https://www.wooleewinderstore.com/) for this, which I already adore. It does add a bit of pull, *but* the adjustable orifice helps calibrate that, and I *like* the whirring gear sounds (and have sound design plans).
+
+Aside: having tried the WooLee Winder (various), LWS Autowinder (various), and SpinPerfect PaulyWinder (for Spinolution wheels), I have to say I enjoy *all* of them. The mechanism is very different for each one and they're all extremely clever.
  
 ## [Pocket Wheel](https://www.pocket-wheel.com/) -
 Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing.
 
 ## [Spinolution](https://www.spinolution.com/) Mach III 
-Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials.
+Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials as it's different from other flyer systems I've used.
 
 # Other Fiber Tools
 
