@@ -70,16 +70,17 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 ![Saori WX60 in the back, Lojan Flex in the front (closer to viewer)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-03.jpg?raw=true)
 
 **Specs**
-- weight: 27 lbs
-- weaving width: 23"
-- total width: 30"
-- height: 38.6" (41.7" when folded)
-- depth: 30" (9.8" when folded!!!)
+- weight: 27 lbs (13.5 kg)
+- weaving width: 23" (60 cm)
+- total width: 30" (76 cm)
+- height: 38.6" (98.5 cm), or 41.7" (106 cm) when folded
+- depth: 30" (76 cm) or  9.8" (25 cm) when folded (!)
 
 I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is also incredibly compact when folded up, although ironically, I have plenty of *space*.
 
 **Add-ons** (yes, these do add up in price, a lot)
 - comb reed
+- extra reed at 10 dent/cm (approximately 25 dent/inch) - ON ORDER
 - four-harness, six-treadle conversion kit - I have not installed this as I need more experience with basic warping, but this uses a spring system to convert the Saori WX60 to a sinking shed loom.
 - hand lever for the warp brake
 - Saori Kenzo ready-made warp system
