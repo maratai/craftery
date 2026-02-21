@@ -69,9 +69,6 @@ I have the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can
 ## Clover Sakiori
 Two "harnesses" with an unusual tilting heddle/reed. Available in the US via [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) but you may also be able to find it from Japan via eBay or similar. The built-in warping board with rearrangeable pegs is ridiculously clever.
 
-## [Lojan Flex rigid heddle loom](https://lojan.nl/product/flex-rigid-heddle-loom/)
-I ordered this from the [Woolery](https://woolery.com/) (US). Still need to test-warp and weave, but assembly was straightforward.
-
 ## [Peacock Loom](https://www.itwgroup.com/Peacock_12inchLoom_Instructions.pdf)
 Two harnesses, counterbalance. My mother-in-law passed this on; I'm restoring it to working order using Texsolv heddles as the string heddles were practically rotting.
 
