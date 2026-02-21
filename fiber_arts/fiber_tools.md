@@ -30,7 +30,11 @@ Gorgeous and spins tahkli-style, beautifully.
 ## Beadsmith ComfortLoom
 Can also be used for "regular" yarn tapestry weaving, in a pinch!
 
-# Box and Tape Looms
+# Band, Box, and Tape Looms
+
+## [Daedalus Penelope Band Loom](https://www.daedalusspinningwheels.com/penelope)
+
+A clever, sturdy, versatile band loom. Can be used for card/tablet reading or with a rigid heddle.
 
 ## [Handywoman](https://www.handywomanshop.com/looms) Tiny Box Loom
 
@@ -122,10 +126,10 @@ Single treadle, folding castle wheel. No longer in production; bought secondhand
 Aside: having tried the WooLee Winder (various), LWS Autowinder (various), and SpinPerfect PaulyWinder (for Spinolution wheels), I have to say I enjoy *all* of them. The mechanism is very different for each one and they're all extremely clever.
  
 ## [Pocket Wheel](https://www.pocket-wheel.com/) -
-Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing.
+Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing. I hope to get a WooLee Winder for it as well as I like both winding systems for different use cases.
 
 ## [Spinolution](https://www.spinolution.com/) Mach III 
-Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials as it's different from other flyer systems I've used.
+Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials to see how to spin with it as it's different from other flyer systems I've used.
 
 # Other Fiber Tools
 
@@ -139,9 +143,9 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) yarn swift and cone holder.
-- Lazy Kate - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding Spinolution version.
+- Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding Spinolution version.
 - Nålbinding needles, various, from friends and family.
-- niddy noddy - mine was an extra with the Ashford Traveller, cleverly made of PVC pipe!
+- niddy noddy - One was an extra with the Ashford Traveller, cleverly made of PVC pipe! The other is a very well designed Spinolution version that can be pulled apart for transport.
 - pickup sticks, various.
 - Saori Kenzo ready-made warp system
 
@@ -154,3 +158,10 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 ![Strauch drum carder](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-07-strauch-drum-carder.jpg?raw=true)
 
 Purchased secondhand. I run this outdoors, not next to the cheap secondhand bugle! (Sound design, don't ask.)
+
+- yarn
+Or more accurately, yarn organization.
+
+![yarn organization](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-21-yarn.jpg?raw=true)
+
+Right now my strategy involves buying destash weaving yarns, including partially used cones, because I'm not picky about colors matching (etc) and *neither is my family*.
