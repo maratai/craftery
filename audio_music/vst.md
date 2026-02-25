@@ -101,6 +101,7 @@ Terrific solo strings.
 # Fallout Music Group
 - Quake. Sound design.
 - **Steampunk**. Sound design.
+- **Unstrung**. Sound design.
 
 # Fever Audio (Kontakt)
 - **Fever Dreams**. Terrific solo vocals with sound design patches as well.
@@ -139,10 +140,12 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Bass Sculptor.
 - **Furia Staccato Strings**.
 - **Hammer Klavier** - "An avant-grade piano with a twist: its felt hammers have been replaced with real metal hammers. Hammer Klavier sounds a little like a powerful and full-voiced harpsichord, with the dynamic responsiveness of a regular piano and the percussive nature of a hammered dulcimer."
+- **Handbells**.
 - Mega Brass.
 - **Shreddage 3 Abyss** - A "custom six-string Muckelroy Bass."
 - Shreddage 3 Darkwall - A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
 - **Shreddage 3 Jupiter** - "A deep, dark 7-string guitar ideal for heavy rock & metal rhythms."
+- **Shreddage Drums**.
 - **Special Reserve Colossal Hybrid Drums** - "Powerful, massive drums combining organic kits with synthesized modeled sounds and hyper-processing, perfect for epic trailer music. Includes a super hybrid drum kit, world percussion ensemble, and mega tom ensemble. An easy-to-use library with immediate results and a fantastic sound. From the personal collection of ISW founder Andrew Aversa."
 - Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
