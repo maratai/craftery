@@ -336,8 +336,10 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - Hybrid Cinema - Analog Modular Percussion I.
 
 # Soundtoys
-- Crystallizer.
+- **Crystallizer**. Granular echo synthesizer.
 - **Decapitator**.
+- **EchoBoy** and **EchoBoy Jr**. Analog echo processor.
+- **EffectRack**.
 - **Little Alter Boy**. Pitch/formant shifting.
 
 # Spitfire Audio (Kontakt or Spitfire)
