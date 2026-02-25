@@ -150,6 +150,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Tokyo Scoring Strings**. Quite dry, crisp studio strings.
 
 # iZotope
+- **Insight 2**. Metering and analysis.
 - **Neoverb**. Reverb.
 - **Ozone 10 Standard**. Mastering.
 - **Tonal Balance Control 2**. Mastering.
@@ -361,6 +362,10 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 - **Spitfire Harp**.
 - Spitfire Solo Strings.
 - Spitfire Symphonic Brass.
+
+# Steinberg
+- SuperVision - stock metering and analysis (Cubase).
+- VocalChain - stock (Cubase).
 
 # Steven Slate
 - **Steve Slate Drums 5**.
