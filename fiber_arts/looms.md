@@ -59,7 +59,7 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 
 Two-harness counterbalance floor loom, weaving width . This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
-I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz). No affiliation, just a very happy repeat customer; Jill's bespoke tutorials are terrific references.
+I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz) and some add-ons from [Saori Studio Los Angeles](https://saoristudiola.com/). No affiliation, just a very happy repeat customer of both. Saori Santa Cruz's Jill has terrific bespoke tutorials; Laura of Saori LA is also great to work with.
 
 By the way, they're not kidding when they say a smaller floor loom and a larger table loom may have similar footprints! The Saori WX60 has more vertical height but the *footprint* in use is nearly the same.
 
@@ -75,12 +75,15 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 - total width: 30" (76 cm)
 - height: 38.6" (98.5 cm), or 41.7" (106 cm) when folded
 - depth: 30" (76 cm) or  9.8" (25 cm) when folded (!)
+- Comes with a reed at 5 dents/cm (approximately 12 dent/inch) and two harnesses with approximately 400 wire heddles.
 
-I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is also incredibly compact when folded up, although ironically, I have plenty of *space*.
+I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is =incredibly compact when folded up, although ironically, I have plenty of *space*.
 
-**Add-ons** (yes, these do add up in price, a lot)
+**Add-ons**
+These add up in price, a lot, although some of them are for ease of use and/or accommodations for my wrecked health. These are from Saori unless otherwise specified (e.g. the Texsolv replacement heddles).
+
 - comb reed
-- extra reed at 10 dent/cm (approximately 25 dent/inch) - ON ORDER
+- extra reed at 10 dent/cm (approximately 25 dent/inch)
 - four-harness, six-treadle conversion kit - I have not installed this as I need more experience with basic warping, but this uses a spring system to convert the Saori WX60 to a sinking shed loom.
 - hand lever for the warp brake
 - Saori Kenzo ready-made warp system
@@ -89,7 +92,7 @@ I prize lighter weight to an unusual degree, again due to health issues (and liv
 
 - wheels so I can roll this out onto the patio on a nice day
 
-As an experiment, I've swapped out the wire heddles for Texsolv.
+I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
 I have one on order via WEBs, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA.
