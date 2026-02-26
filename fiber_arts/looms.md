@@ -80,6 +80,7 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is =incredibly compact when folded up, although ironically, I have plenty of *space*.
 
 **Add-ons**
+
 These add up in price, a lot, although some of them are for ease of use and/or accommodations for my wrecked health. These are from Saori unless otherwise specified (e.g. the Texsolv replacement heddles).
 
 - comb reed
