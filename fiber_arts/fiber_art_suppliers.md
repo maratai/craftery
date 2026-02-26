@@ -5,7 +5,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 
 - [Blazing Shuttles](https://www.blazingshuttles.com/) - Hand-dyed warps and skeins, plus other tools.
 - [Claudia Wollny](https://www.claudia-wollny-edition.com/en/) - Excellent books on tablet weaving and kumihimo, available in German/English (sometimes more!) bilingual editions.
-- [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com/) - US-based. I'm not in the market for another e-spinner (yet?), but I have a [Penelope band loom](https://www.daedalusspinningwheels.com/penelope) and am awaiting accessories for it. They have at least one e-spinner design for left-handers as well as right-handers!
+- [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com/) - US-based. I'm not in the market for another e-spinner (yet?), but I have a [Penelope band loom](https://www.daedalusspinningwheels.com/penelope), which can be set up for either card/tablet weaving or rigid heddle weaving. The Penelope is very well designed although I'm just barely starting a project on it. They have at least one e-spinner design for left-handers as well as right-handers!
 - [Dharma Trading Co.](https://www.dharmatrading.com/) - US-based supplier, especially but not exclusively for silk and dyes, silk painting supplies etc.
 - [Dreaming Robots](https://www.dreamingrobots.com/) - US-based. E-spinners and other tools. I have the [EEW 6.1](https://www.dreamingrobots.com/eew-61/) e-spinner and like it a lot.
 - [Eugene Textile Center](https://www.eugenetextilecenter.com/) - US-based. Their used books and fiber tools on the online store have delicious finds.
