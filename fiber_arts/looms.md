@@ -141,3 +141,10 @@ This is a table loom in the 20" (50 cm) weaving width version, on a stand; there
 ![Peacock Loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-27-peacock.jpg?raw=true)
 
 Two-harness counterbalance table loom; essentially the same mechanics as the larger (and sturdier) Saori WX60 (*see* above)! Destashed by my mother-in-law. I'm in the process of replacing the decrepit string heddles with Texsolv.
+
+## Studio ITDA Tiny Rigid Heddle Loom: Year of the Horse Edition
+I can't claim this is more than a fidget given how tiny it is (3D printed from a studio in S Korea), but it's *delightful*.
+
+![Studio ITDA tiny rigid heddle loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-26-itda-01.jpg?raw=true)
+
+![Studio ITDA tiny rigid heddle loom, with a BPAL perfume bottle for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-26-itda-02.jpg?raw=true)
