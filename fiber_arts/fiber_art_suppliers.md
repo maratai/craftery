@@ -18,6 +18,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [The Miller Girls Yarn](https://themillergirlsyarn.com/) - US-based. Terrific wholesaler with broad and unusual offerings.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - US-based small workshop maker of Pocket Wheel travel spinning wheels. I have a secondhand one and it's amazing. The wait list is about two years long but the wheel is *fantastic*.
 - [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - US-based (although Saori looms are imported from Japan). No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
+- [Saori Studio Los Angeles](https://saoristudiola.com/) - US-based (again, Saori looms are imported from Japan). No affiliation, a very happy repeat customer. Laura is terrific to work with.
 - [Spinolution](https://www.spinolution.com/) - US-based. Fantastic spinning wheels although the "toe treadling" requires some practice.
 - [SpinPerfect](https://spinperfect.com/) - US-based. I haven't tried the 3D-printed spinning wheel, but they also make accessories and bobbins for Spinolution spinning wheels (I have a Mach III).
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving). Sweden-based.
