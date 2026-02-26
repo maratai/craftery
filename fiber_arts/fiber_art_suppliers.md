@@ -20,12 +20,12 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - US-based (although Saori looms are imported from Japan). No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
 - [Saori Studio Los Angeles](https://saoristudiola.com/) - US-based (again, Saori looms are imported from Japan). No affiliation, a very happy repeat customer. Laura is terrific to work with.
 - [Spinolution](https://www.spinolution.com/) - US-based. Fantastic spinning wheels although the "toe treadling" requires some practice.
-- [SpinPerfect](https://spinperfect.com/) - US-based. I haven't tried the 3D-printed spinning wheel, but they also make accessories and bobbins for Spinolution spinning wheels (I have a Mach III).
+- [SpinPerfect](https://spinperfect.com/) - US-based. I haven't tried the 3D-printed spinning wheel, but they also make accessories and bobbins for Spinolution spinning wheels. I have a Mach III with the SpinPerfect PaulyWinder installed on the Spinolution flyers and it's great.
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving). Sweden-based.
 - [Toika](https://shop.toika.com/) - Finland-based. Looms and other tools; from contacting them, I learned that in the USA they distribute via [WEBS Yarn](https://www.yarn.com/) so contact WEBS to place an order.
 - [Treenway Silks](https://www.treenwaysilks.com/) - US-based supplier, fantastic mulberry and tussah silk for spinning. Also other varieties and blends I haven't tried yet.
 - [WEBS Yarn](https://www.yarn.com/) - US-based supplier. I have a [Toika loom](https://www.yarn.com/pages/toika-looms) (8-harness 8-shaft Toika Lail) on order from them. [Toika Laila listing on Toika's website](https://shop.toika.com/category/6/laila-loom); Toika itself is Finland-based but WEBS is their official sole distributor in the USA.
 - [Woodington UK](https://woodingtonuk.com/) - UK-based maker of looms and weaving tools. I have the [folding tablet loom](https://woodingtonuk.com/products/folding-tablet-loom) and it's gorgeous; if I weren't in the US, I would be ordering more from here.
-- [WooLee Winder Co.](https://www.wooleewinderstore.com/) - Flyers that wind on evenly for you, mechanical. I have one on order for my Louët S90 - will report back!
+- [WooLee Winder Co.](https://www.wooleewinderstore.com/) - Flyers that wind on evenly for you, mechanical. I have one set up on my Louët S90 and enjoy it a lot.
 - [The Woolery](https://woolery.com/) - US-based.
 - MORE TK
