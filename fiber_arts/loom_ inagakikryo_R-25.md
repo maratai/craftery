@@ -33,6 +33,7 @@ Harnesses (heddle frames) sold separately.
 - **48cm weaving width:** ¥368,500
 - 63cm weaving width: ¥379,500
 - **Shipping to the USA from Japan:** approximately ¥300,000
+- **NOTE:** Approximately 3 months from order to production.
 
 ## Features
 **Removable Heddle System:** The weaving machine's heddle system is removable. By removing the tsumaki, you can easily insert a chair into the loom for tasks such as threading the reed and heddle, and easily tie the heddle and treadle together. 
