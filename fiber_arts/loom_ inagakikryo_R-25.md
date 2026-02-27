@@ -35,6 +35,19 @@ Harnesses (heddle frames) sold separately.
 - **Shipping to the USA from Japan:** approximately ¥300,000
 - **NOTE:** Approximately 3 months from order to production.
 
+## Customization
+- **NOTE:** If you change the specifications, an additional processing fee will be charged. Please request a quote for details.
+
+The weaving width: can be adjusted between 48cm and 65cm. (?)
+
+We will ask you about your height and adjust the height of the loom if necessary. By adjusting the loom to fit your body, it will put less strain on your body.
+
+You can change from a chair type to a plank type. This will increase the depth of the loom body, but your weight will be added to the loom, making it harder to move than with a chair type.
+
+The reed (harness?) can be changed to a screw-type reed. Reeds that do not fit into reeds with an effective width of 48 cm or more can also be used.
+
+The number of treadles can be changed from 6 to 8.
+
 ## Features
 **Removable Heddle System:** The weaving machine's heddle system is removable. By removing the tsumaki, you can easily insert a chair into the loom for tasks such as threading the reed and heddle, and easily tie the heddle and treadle together. 
 
