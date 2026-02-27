@@ -27,7 +27,9 @@ Have a preliminary side-by-side comparison!
 - Note: This one folds up for easy travel, unlike the other two, and "locks" under tension very cleverly.
 
 ## [Daedalus Spinning Wheels Penelope band loom](https://www.daedalusspinningwheels.com/penelope)
-Newly arrived, will report back!
+Terrific, thoughtful design on a band loom that accommodates either card/tablet weaving or a rigid heddle. The one shown below is a third party one (not a Daedalus heddle) by Etsy's [TheDancingGoats](https://www.etsy.com/shop/TheDancingGoats).
+
+![Daedalus Penelope band loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-27-penelope-01.jpg?raw=true)
 
 ## [Handywoman Tiny Box Loom](https://www.handywomanshop.com/product-page/tiny-box-looms)
 Arrived and *delightful*. I'm now ride or die for Handywoman weaving/etc tools! Her *shuttles* are especially wonderful, too.
