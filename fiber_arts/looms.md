@@ -52,6 +52,9 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 
 # Floor Looms
 
+## [inagakikryo R-25](https://www.inagakikiryou.com/r25.html)
+Japanese floor loom. I have an order pending (paid in advance before the loom details are finalized and building it to order begins), and it will be at least three months of build time plus shipping (not cheap, since it's international freight, plus whatever customs duties are levied).
+
 ## Saori WX60
 ![Saori WX60 folded up, with backpack for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-saori-01.jpg?raw=true)
 
