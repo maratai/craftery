@@ -17,6 +17,17 @@ It is built to last and durable, even with years of use.
 - **Width:** Approximately 86cm (34")
 - **Height:** Approximately 165cm (65")
 - **Weaving width:** 48cm (18")
+- **Treadles**: 6
+
+## Accessories
+- chair
+- cords (1 bundle)
+- straight pegs (1 bag)
+- anchor pegs (1 bag)
+- assembly tools
+- assembly instructions
+
+Harnesses (heddle frames) sold separately.
 
 ## Features
 **Removable Heddle System:** The weaving machine's heddle system is removable. By removing the tsumaki, you can easily insert a chair into the loom for tasks such as threading the reed and heddle, and easily tie the heddle and treadle together. 
