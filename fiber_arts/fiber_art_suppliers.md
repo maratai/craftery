@@ -22,6 +22,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Spinolution](https://www.spinolution.com/) - US-based. Fantastic spinning wheels although the "toe treadling" requires some practice.
 - [SpinPerfect](https://spinperfect.com/) - US-based. I haven't tried the 3D-printed spinning wheel, but they also make accessories and bobbins for Spinolution spinning wheels. I have a Mach III with the SpinPerfect PaulyWinder installed on the Spinolution flyers and it's great.
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving). Sweden-based.
+- [TheDancingGoats](https://www.etsy.com/shop/TheDancingGoats) - Etsy, US-based. A terrific variety of tools; I've used the rigid heddles.
 - [Toika](https://shop.toika.com/) - Finland-based. Looms and other tools; from contacting them, I learned that in the USA they distribute via [WEBS Yarn](https://www.yarn.com/) so contact WEBS to place an order.
 - [Treenway Silks](https://www.treenwaysilks.com/) - US-based supplier, fantastic mulberry and tussah silk for spinning. Also other varieties and blends I haven't tried yet.
 - [WEBS Yarn](https://www.yarn.com/) - US-based supplier. I have a [Toika loom](https://www.yarn.com/pages/toika-looms) (8-harness 8-shaft Toika Lail) on order from them. [Toika Laila listing on Toika's website](https://shop.toika.com/category/6/laila-loom); Toika itself is Finland-based but WEBS is their official sole distributor in the USA.
