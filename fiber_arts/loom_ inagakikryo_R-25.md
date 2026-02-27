@@ -1,6 +1,5 @@
 # Specifications (English)
 
-
 The weaving machine uses the upper heddle type.
 
 This creates more space inside than the lower heddle type, making it easier to operate the treadle.
@@ -19,6 +18,30 @@ It is built to last and durable, even with years of use.
 **Depth can be adjusted by rearranging the loom**: The H25 model can be rearranged to shorten its depth. This allows you to rearrange the loom depending on your needs , such as when you need a smaller space for your loom due to a change in location , or when you want to shorten the depth as much as possible for warp ikat weaving. 
 
 **Assembling the loom**: Each loom is labeled with a transparent number sticker, making assembly a breeze even for first-time loom makers. Assembly instructions and tools are included. We also provide thorough assembly support via email and phone.
+
+# Improvements to the R-25
+The new R-25 model has been significantly improved from the old H-25 model. Please see below for the main changes.
+
+## Improved Gears
+The gears and gear holders have been redesigned.
+
+The gear holders are now stored compactly under the gears. This makes it easier than ever to hammer in the kamachi and work with the shuttle.
+
+The gear teeth are also finer, allowing for more precise tension adjustments.
+
+## Expanded Weaving Width and Harness Depth
+All parts have been newly designed and the details have been carefully considered to create a loom with less wasted space.
+
+As a result, the depth dimensions of the previous H25 model remain almost the same, but there is a significant increase in the effective depth width of the loom and heddle. This makes it easier to tie up flower weaves and multiple heddles, further expanding the width of the weaving.
+
+## Improved Robustness in Design
+The top of the treadle support is connected to the base. This further reduces the loom's vertical and horizontal shaking, making it just as robust as larger looms.
+
+## Taller Castle
+The loom pillars have been lengthened by approximately 15cm. This increases the distance between the fulcrum and the warp threads, expanding the horizontal area for beating the hanging kamachi .
+
+## Better Lumber
+Although the appearance is almost the same as the older H-25 model, the thickness of all the wooden parts has increased by 1.2% to 1.3%. The thicker parts improve the stability of the loom itself and its durability against warp tension.
 
 # Specifications (Japanese)
 
