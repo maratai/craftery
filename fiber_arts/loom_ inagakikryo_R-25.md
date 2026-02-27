@@ -1,5 +1,4 @@
 # Specifications (English)
-
 The weaving machine uses the upper heddle type.
 
 This creates more space inside than the lower heddle type, making it easier to operate the treadle.
@@ -13,6 +12,13 @@ We never use plywood, and each machine is made to order using traditional materi
 
 It is built to last and durable, even with years of use.
 
+## Statistics
+- **Depth:** Approximately 160cm (63"), or approximately 140cm (55") without chair
+- **Width:** Approximately 86cm (34")
+- **Height:** Approximately 165cm (65")
+- **Weaving width:** 48cm (18")
+
+## Features
 **Removable Heddle System:** The weaving machine's heddle system is removable. By removing the tsumaki, you can easily insert a chair into the loom for tasks such as threading the reed and heddle, and easily tie the heddle and treadle together. 
 
 **Depth can be adjusted by rearranging the loom**: The H25 model can be rearranged to shorten its depth. This allows you to rearrange the loom depending on your needs , such as when you need a smaller space for your loom due to a change in location , or when you want to shorten the depth as much as possible for warp ikat weaving. 
