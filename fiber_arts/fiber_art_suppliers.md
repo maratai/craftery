@@ -12,7 +12,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Feral Scene](https://feralscene.com/) - US-based supplier, semi-local to me (they're in Texas, I'm in Louisiana). Their art batts for spinning are great. Also carries [Spinolution](https://www.spinolution.com/) spinning wheels and accessories. (I have a Mach III.)
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) - US-based. More affordable tools beautifully and thoughtfully made. I have the yarn swift and cone holder.
 - [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - US-based. Incredibly beautiful art batts, also semi-local to me (they're in Texas).
-- [Handywoman](https://www.handywomanshop.com/) - US-based. Gorgeous handmade weaving tools, including looms, shuttles, and more. If you're an embroiderer or sewist, check out the wooden embroidery cards too!
+- [Handywoman](https://www.handywomanshop.com/) - US-based. Gorgeous handmade weaving tools, including looms, shuttles, and more. The shuttles are to die for, and she has some terrific ultra-slim ones. If you're an embroiderer or sewist, check out the wooden embroidery cards too!
 - [IxChel](https://ixchel.com.au/) - Australia-based. Spinning fibers (*amazing* fiber preparation - the wallaby batts are almost better than CENSORED to spin), plus yarns and tools.
 - [Level Wind Spinners](https://myautowinder.com/) - Makes the terrific LWS autowinder for the Pocket Wheel, among others.
 - [The Miller Girls Yarn](https://themillergirlsyarn.com/) - US-based. Terrific wholesaler with broad and unusual offerings.
