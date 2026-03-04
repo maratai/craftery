@@ -54,15 +54,23 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 
 # Floor Looms
 
-## [inagakikryo R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. I have an order pending (paid in advance before the loom details are finalized and building it to order begins), and it will be at least three months of build time plus shipping (not cheap, since it's international freight, plus whatever customs duties are levied).
+## [Inagaki Kiryou](https://www.inagakikiryou.com/) [R-25](https://www.inagakikiryou.com/r25.html)
+Japanese floor loom. I have one on order (paid in advance and built to order). It will be at least three months of build time plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied.
+
+**Specs**
+- weight: I've inquired out of curiosity!
+- weaving width: 48 cm (about 19")
+- total width: 86 cm (about 34")
+- height: 165 cm (about 65")
+- depth: 160 cm (about 63")
+- 6 harnesses, 6 treadles - counterbalance
 
 ## Saori WX60
 ![Saori WX60 folded up, with backpack for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-saori-01.jpg?raw=true)
 
 ![Saori WX60 unfolded, with backpack for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-saori-03.jpg?raw=true)
 
-Two-harness counterbalance floor loom, weaving width . This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
+Two-harness counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
 I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz) and some add-ons from [Saori Studio Los Angeles](https://saoristudiola.com/). No affiliation, just a very happy repeat customer of both. Saori Santa Cruz's Jill has terrific bespoke tutorials; Laura of Saori LA is also great to work with.
 
@@ -80,6 +88,7 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 - total width: 30" (76 cm)
 - height: 38.6" (98.5 cm), or 41.7" (106 cm) when folded
 - depth: 30" (76 cm) or  9.8" (25 cm) when folded (!)
+- 2 harnesses, 2 treadles - counterbalance
 - Comes with a reed at 5 dents/cm (approximately 12 dent/inch) and two harnesses with approximately 400 wire heddles.
 
 I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is =incredibly compact when folded up, although ironically, I have plenty of *space*.
@@ -101,7 +110,7 @@ These add up in price, a lot, although some of them are for ease of use and/or a
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
-I have one on order via WEBs, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA.
+I have one on order via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila for whatever reason; you have to contact WEBS about it.
 
 **Specs**
 - weight: 65 lbs
