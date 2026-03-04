@@ -54,15 +54,15 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 
 # Floor Looms
 
-## [Inagaki Kiryou](https://www.inagakikiryou.com/) [R-25](https://www.inagakikiryou.com/r25.html)
+## [Inagaki Kiryou](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
 Japanese floor loom. I have one on order (paid in advance and built to order). It will be at least three months of build time plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied.
 
 **Specs**
-- weight: I've inquired out of curiosity!
-- weaving width: 48 cm (about 19")
-- total width: 86 cm (about 34")
-- height: 165 cm (about 65")
-- depth: 160 cm (about 63")
+- **weight:** I've inquired out of curiosity!
+- **weaving width:** 48 cm (about 19")
+- **total width:** 86 cm (about 34")
+- **height:** 165 cm (about 65")
+- **depth:** 160 cm (about 63")
 - 6 harnesses, 6 treadles - counterbalance
 
 ## Saori WX60
