@@ -70,7 +70,11 @@ Japanese floor loom. I have one on order (paid in advance and built to order). I
 
 ![Saori WX60 unfolded, with backpack for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-saori-03.jpg?raw=true)
 
-Two-harness counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
+Two-harness two-treadle counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
+
+I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. (You can apparently convert back to 2H 2T as well.) Haven't yet tried weaving on her in 4H 6T mode - that's next!
+
+![Saori Wx60 as a 4H 6T sinking shed loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-09-saori.jpg?raw=true)
 
 **Specs**
 - weight: 27 lbs (13.5 kg)
@@ -78,7 +82,7 @@ Two-harness counterbalance floor loom. This folds within seconds (even when warp
 - total width: 30" (76 cm)
 - height: 38.6" (98.5 cm), or 41.7" (106 cm) when folded
 - depth: 30" (76 cm) or  9.8" (25 cm) when folded (!)
-- 2 harnesses, 2 treadles - counterbalance
+- 2 harnesses, 2 treadles - counterbalance (can be converted to four harnesses, 6 treadles - sinking shed if you shell out for the conversion kit)
 - Comes with a reed at 5 dents/cm (approximately 12 dent/inch) and two harnesses with approximately 400 wire heddles.
 
 I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz) and some add-ons from [Saori Studio Los Angeles](https://saoristudiola.com/). No affiliation, just a very happy repeat customer of both. Saori Santa Cruz's Jill has terrific bespoke tutorials; Laura of Saori LA is also great to work with.
@@ -98,9 +102,11 @@ I prize lighter weight to an unusual degree, again due to health issues (and liv
 These add up significantly in price although some of them are for ease of use and/or accommodations for my wrecked health. These are from Saori unless otherwise specified (e.g. the Texsolv replacement heddles).
 
 - comb reed
+- cross holder
 - extra reed at 10 dent/cm (approximately 25 dent/inch)
-- four-harness, six-treadle conversion kit - I have not installed this as I need more experience with basic warping, but this uses a spring system to convert the Saori WX60 to a sinking shed loom.
+- four-harness, six-treadle sinking shed conversion kit (currently installed)
 - hand lever for the warp brake
+- handle for the beater
 - Saori Kenzo ready-made warp system
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
@@ -148,8 +154,6 @@ These are Japanese but can be bought e.g. from [Rochester Textile](https://www.r
 Shown to the right on a Lojan loom stand with a Saori WX60 floor loom on the left for size/footprint comparison.
 
 ![Saori WX60 on the left, Lojan Flex rigid heddle table loom on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-01.jpg?raw=true)
-
-![Saori WX60 folded up on the left, Lojan Flex rigid heddle on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-02.jpg?raw=true)
 
 This is a table loom in the 20" (50 cm) weaving width version, on a stand; there's also a smaller one at 12" (30 cm).
 
