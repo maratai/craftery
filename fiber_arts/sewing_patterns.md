@@ -36,6 +36,7 @@ Not reviews, just an inventory.
 # Unfettered Patterns
 - #UP1005 Loose blazer with short sleeves (PDF)
 - #UP1009 Slim pants with belt loops (PDF)
+- #UP1013 Short leggings/bike shorts (PDF)
 - #UP1018 Sleeveless bodysuit with high neck (PDF)
 - #UP1050 Denim jacket with Peter Pan collar (PDF)
 - #UP1059 Bandeau top with built-in bra (PDF)
