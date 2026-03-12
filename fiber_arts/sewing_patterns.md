@@ -22,6 +22,7 @@ Not reviews, just an inventory.
   - **Indian Choli**
   - **Thai Blouse**
 - 141 **Korean Han-bok** (paper)
+- 229 **Sailor Pants** (paper)
 - 305 **A Japanese Interior** (paper)
   - Foam Mat Cover
   - Kakebuton Cover Bottom Fabric
