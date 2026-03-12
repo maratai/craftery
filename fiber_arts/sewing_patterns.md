@@ -31,6 +31,9 @@ Not reviews, just an inventory.
   - Yogi (Kimono)
   - Zabuton Cover #1-3
 
+# McCall's
+- M2081 Obi: Gādo (kimono and obi for cosplay) (paper)
+
 # Mood Designer Fabrics
 - MDF425 **Ravenna Suit** (PDF)
 - MDF428 **Sorrento Set** (PDF)
