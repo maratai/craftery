@@ -14,6 +14,7 @@ Not reviews, just an inventory.
 # Mood Designer Fabrics
 - MDF425 Ravenna Suit (PDF)
 - MDF428 Sorrento Set (PDF)
+- MDF447 Promenade Capris Pants (PDF)
 
 # Mrs. DePew Vintage Patterns
 - #1011 Quilted Slippers (ballet slipper style) (PDF)
@@ -34,6 +35,7 @@ Not reviews, just an inventory.
 
 # Unfettered Patterns
 - #UP1005 Loose blazer with short sleeves (PDF)
+- #UP1009 Slim pants with belt loops (PDF)
 - #UP1018 Sleeveless bodysuit with high neck (PDF)
 - #UP1050 Denim jacket with Peter Pan collar (PDF)
 - #UP1069 Two-piece jersey set (PDF)
