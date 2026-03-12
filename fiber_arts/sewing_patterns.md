@@ -11,8 +11,9 @@ Not reviews, just an inventory.
 # Folkwear
 
 # Mrs. DePew Vintage Patterns
-- 1011 Quilted Slippers (ballet slipper style) (PDF)
-- 2030A 1920s Bandeau Bra (PDF)
+- #1011 Quilted Slippers (ballet slipper style) (PDF)
+- #2030A 1920s Bandeau Bra (PDF)
+- #3114 1930s Set of Gloves (PDF)
 
 # Muun Archive
 - Cheoma Top (PDF)
@@ -21,4 +22,7 @@ Not reviews, just an inventory.
 - Dorothy Jacket (paper)
 
 # Unfettered Patterns
--  #UP1018 Sleeveless bodysuit with high neck (PDF)
+- #UP1005 Loose blazer with short sleeves (PDF)
+- #UP1018 Sleeveless bodysuit with high neck (PDF)
+- #UP1050 Denim jacket with Peter Pan collar (PDF)
+- #UP1075 Zip through jacket with collar (PDF)
