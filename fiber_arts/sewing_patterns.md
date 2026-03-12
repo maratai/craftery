@@ -2,6 +2,9 @@
 
 Not reviews, just an inventory.
 
+# Closet Core
+- No. 22 Blanca Flight Suit (paper)
+
 # Emerald Erin
 - Friday French Cuts (panties) (PDF)
 
@@ -13,6 +16,9 @@ Not reviews, just an inventory.
 
 # Muun Archive
 - Cheoma Top (PDF)
+
+# Sew Over It
+- Dorothy Jacket (paper)
 
 # Unfettered Patterns
 -  #UP1018 Sleeveless bodysuit with high neck (PDF)
