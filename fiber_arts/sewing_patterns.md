@@ -7,7 +7,7 @@ Not reviews, just an inventory.
 
 # Emerald Erin
 - Friday French Cuts (panties) (PDF)
-- Jorday Bralette (paper, PDF)
+- Jorday Bralette (PDF)
 
 # Folkwear
 
@@ -21,6 +21,9 @@ Not reviews, just an inventory.
 
 # Sew Over It
 - Dorothy Jacket (paper)
+
+# Truly Victorian
+- LM100 Corset (PDF)
 
 # Unfettered Patterns
 - #UP1005 Loose blazer with short sleeves (PDF)
