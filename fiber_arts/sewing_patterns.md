@@ -13,6 +13,7 @@ Not reviews, just an inventory.
 
 # Mood Designer Fabrics
 - MDF425 Ravenna Suit (PDF)
+- MDF428 Sorrento Set (PDF)
 
 # Mrs. DePew Vintage Patterns
 - #1011 Quilted Slippers (ballet slipper style) (PDF)
