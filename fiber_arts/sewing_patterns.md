@@ -16,10 +16,12 @@ Not reviews, just an inventory.
 - **Wednesday Cheekies** (panties) (PDF)
 
 # Folkwear
-- 134 **South Asian Tops and Wraps**
+- 133 **Belgian Military Chef's Jacket** (paper)
+- 134 **South Asian Tops and Wraps** (*paper)
   - **Burmese Jacket**
   - **Indian Choli**
   - **Thai Blouse**
+- 141 **Korean Han-bok** (paper)
 - 305 **A Japanese Interior** (paper)
   - Foam Mat Cover
   - Kakebuton Cover Bottom Fabric
