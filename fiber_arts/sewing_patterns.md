@@ -25,4 +25,5 @@ Not reviews, just an inventory.
 - #UP1005 Loose blazer with short sleeves (PDF)
 - #UP1018 Sleeveless bodysuit with high neck (PDF)
 - #UP1050 Denim jacket with Peter Pan collar (PDF)
+- #UP1069 Two-piece set (PDF)
 - #UP1075 Zip through jacket with collar (PDF)
