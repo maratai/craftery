@@ -75,4 +75,4 @@ Not reviews, just an inventory.
 - #UP1075 **Zip through jacket with collar** (PDF)
 
 # Ureshii
-- Binder (PDF)
+- **Binder** (PDF)
