@@ -8,6 +8,7 @@ Not reviews, just an inventory.
 # Emerald Erin
 - Friday French Cuts (panties) (PDF)
 - Jorday Bralette (PDF)
+- Tuesday Boyshort (PDF)
 - Wednesday Cheekies (panties) (PDF)
 
 # Folkwear
