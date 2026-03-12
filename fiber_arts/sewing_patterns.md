@@ -44,6 +44,7 @@ Not reviews, just an inventory.
 - #UP1050 Denim jacket with Peter Pan collar (PDF)
 - #UP1059 Bandeau top with built-in bra (PDF)
 - #UP1066 Cargo shorts (PDF)
+- #UP1068 Half-zip sweatshirt (PDF)
 - #UP1069 Two-piece jersey set (PDF)
 - #UP1075 Zip through jacket with collar (PDF)
 
