@@ -2,7 +2,7 @@
 
 Not reviews, just an inventory.
 
-# Closet Core
+# Cl`oset Core
 - No. 22 Blanca Flight Suit (paper)
 
 # Emerald Erin
@@ -13,7 +13,11 @@ Not reviews, just an inventory.
 - Wednesday Cheekies (panties) (PDF)
 
 # Folkwear
-- 305 A Japanese Interior (paper)
+- 134 **South Asian Tops and Wraps**
+  - **Burmese Jacket**
+  - **Indian Choli**
+  - **Thai Blouse**
+- 305 **A Japanese Interior** (paper)
   - Foam Mat Cover
   - Kakebuton Cover Bottom Fabric
   - Kakebuton Cover Top Fabric
