@@ -13,6 +13,16 @@ Not reviews, just an inventory.
 - Wednesday Cheekies (panties) (PDF)
 
 # Folkwear
+- 305 A Japanese Interior (paper)
+  - Foam Mat Cover
+  - Kakebuton Cover Bottom Fabric
+  - Kakebuton Cover Top Fabric
+  - Makura #2 Cover
+  - Makura Pillow #1-2
+  - Noren (Curtain)
+  - Shikibuton Cover
+  - Yogi (Kimono)
+  - Zabuton Cover #1-3
 
 # Mood Designer Fabrics
 - MDF425 Ravenna Suit (PDF)
