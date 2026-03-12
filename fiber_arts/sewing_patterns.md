@@ -2,7 +2,10 @@
 
 Not reviews, just an inventory.
 
-# Cl`oset Core
+# Butterick
+- B6400 Costume Jackets
+
+# Closet Core
 - No. 22 Blanca Flight Suit (paper)
 
 # Emerald Erin
@@ -43,6 +46,9 @@ Not reviews, just an inventory.
 
 # Sew Over It
 - Dorothy Jacket (paper)
+
+# Simplicity
+- 8700A **utility jacket**
 
 # Truly Victorian
 - LM100 Corset (PDF)
