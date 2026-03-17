@@ -65,6 +65,16 @@ Japanese floor loom. I have one on order (paid in advance and built to order). I
 - **depth:** 160 cm (about 63")
 - 6 harnesses, 6 treadles - counterbalance
 
+## Saori Piccolo
+I have a secondhand one incoming, which is very exciting! This is the loom I originally wanted for my first floor loom.
+**Specs**
+- weight: 15.3 lbs (7 kg)
+- weaving width: 16"
+- total width: 22"
+- height: 32" (36" when folded)
+- depth: 22" (6" when folded!)
+- 2 harnesses, 2 treadles - counterbalance
+
 ## Saori WX60
 ![Saori WX60 folded up, with backpack for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-saori-01.jpg?raw=true)
 
@@ -83,7 +93,7 @@ I've converted her to a four-harness six-treadle sinking shed loom with the kit 
 - height: 38.6" (98.5 cm), or 41.7" (106 cm) when folded
 - depth: 30" (76 cm) or  9.8" (25 cm) when folded (!)
 - 2 harnesses, 2 treadles - counterbalance (can be converted to four harnesses, 6 treadles - sinking shed if you shell out for the conversion kit)
-- Comes with a reed at 5 dents/cm (approximately 12 dent/inch) and two harnesses with approximately 400 wire heddles.
+- Comes with a reed at 5 dents/cm (approximately 12 dent/inch) and two harnesses with approximately 400 wire heddles. I've swapped the wire heddles out for Texsolv heddles.
 
 I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz) and some add-ons from [Saori Studio Los Angeles](https://saoristudiola.com/). No affiliation, just a very happy repeat customer of both. Saori Santa Cruz's Jill has terrific bespoke tutorials; Laura of Saori LA is also great to work with.
 
