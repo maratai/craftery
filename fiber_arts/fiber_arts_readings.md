@@ -408,6 +408,9 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Heather Torgenrud. *Pick-Up Bandweaving Designs: 288 Charts foir 13 Pattern Ends and Techniques for Arranging Color*.
 - Claudia Wollny. *Tablets at Work*, *Twill 1+1*, and *The Wonderful World of the Tablet-Woven Stole and Maniple of St. Donat, Arlon*, [available](https://www.claudia-wollny-edition.com/en/) in sumptuous bilingual (German/English) editions. I'm looking forward to diving in!
 
+## Weaving: Damask
+- [Damask with Half-Heddles and a Weaving Sword](https://www.youtube.com/watch?v=UJSUywKSLhY) - YouTube, Duelling Rabbits Handweaving.
+
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
