@@ -66,7 +66,10 @@ Japanese floor loom. I have one on order (paid in advance and built to order). I
 - 6 harnesses, 6 treadles - counterbalance
 
 ## Saori Piccolo
-I have a secondhand one incoming, which is very exciting! This is the loom I originally wanted for my first floor loom.
+Secondhand Piccolo arrived! Setup is straightforward (since it was mostly asssembled). I love how petite this is - for my use case, this is perfect. I'm currently threading the heddles, will report back on the weaving experience!
+
+Note that there are two height settings for the Piccolo; the lower one can (e.g.) accommodate children. I'm told Saori looms are low-slung generally and not great for tall weavers, although there are 4" height risers as a paid add-on. I'm short (5'4") so this has absolutely not been an issue for me, but I'm guessing tall weavers will want to look elsewhere.
+
 **Specs**
 - weight: 15.3 lbs (7 kg)
 - weaving width: 16"
@@ -82,7 +85,7 @@ I have a secondhand one incoming, which is very exciting! This is the loom I ori
 
 Two-harness two-treadle counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
-I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. (You can apparently convert back to 2H 2T as well.) Haven't yet tried weaving on her in 4H 6T mode - that's next!
+I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can apparently convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. Haven't yet tried weaving on her in 4H 6T mode - I'm currently dressing the loom!
 
 ![Saori Wx60 as a 4H 6T sinking shed loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-09-saori.jpg?raw=true)
 
