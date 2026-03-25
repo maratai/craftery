@@ -78,6 +78,14 @@ Note that there are two height settings for the Piccolo; the lower one can (e.g.
 - depth: 22" (6" when folded!)
 - 2 harnesses, 2 treadles - counterbalance
 
+Side-by-side picture comparison of the partially assembled Saori Piccolo (I'm threading the heddles etc separately) and Saori WX60 (*see* below):
+
+![Saori WX60 (wood) on the left, Saori Piccolo (metal) on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-25-saori-01.jpg?raw=true)
+
+![Saori WX60 (wood) on the left, Saori Piccolo (metal) on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-25-saori-02.jpg?raw=true)
+
+![Saori WX60 (wood) on the left, Saori Piccolo (metal) on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-25-saori-03.jpg?raw=true)
+
 ## Saori WX60
 ![Saori WX60 folded up, with backpack for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-saori-01.jpg?raw=true)
 
