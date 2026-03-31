@@ -102,12 +102,16 @@ Antique. Originally these were "toys," but *functional* toys! Too small and ligh
 
 # Shuttles
 
-I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. Right now I have the "default" Saori shuttles and a couple lovely Leclerc boat shuttles from my sister.
+I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. I have some more secondhand shuttles on order and am looking forward to them.
+
+## boat shuttles (various)
+Handywoman, Leclerc (from my sister! - they are fabulous), Saori (a regular medium shuttle and an "open" one).
 
 ## [Handywoman](https://www.handywomanshop.com/) shuttles
-They come in various types. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
+They come in a staggering variety of types. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
 
-MORE TK
+## stick shuttles
+Clover, Daedalus, Lojan, other, whatever came with the given loom. I don't love them as a weaving experience but it's dead simple to make one out of stiff cardboard.
 
 # Spinning Wheels
 *See* also [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for details.
@@ -146,7 +150,6 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 
 ![Ashford warping mill](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-02-warping-mill.jpg?raw=true)
 
-- boat shuttles: various Handywoman, Leclerc (from my sister!), Saori.
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) yarn swift and cone holder.
@@ -158,7 +161,9 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
 
-- stick shuttles: various Clover, Lojan, other.
+- skein winder, "antique primitive" - obtained secondhand and amazingly well designed.
+
+![antique primitive skein winder](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-31-skein-winder.jpg?raw=true)
 
 - [Strauch](http://strauchfiber.com/index.php) drum carder
 
@@ -167,6 +172,7 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 Purchased secondhand. I run this outdoors, not next to the cheap secondhand bugle! (Sound design, don't ask.)
 
 - yarn
+
 Or more accurately, yarn organization.
 
 ![yarn organization](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-21-yarn.jpg?raw=true)
