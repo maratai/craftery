@@ -102,13 +102,13 @@ Antique. Originally these were "toys," but *functional* toys! Too small and ligh
 
 # Shuttles
 
-I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. I have some more secondhand shuttles on order and am looking forward to them.
+I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. I have some secondhand shuttles on order and am looking forward to them.
 
 ## boat shuttles (various)
 Handywoman, Leclerc (from my sister! - they are fabulous), Saori (a regular medium shuttle and an "open" one).
 
 ## [Handywoman](https://www.handywomanshop.com/) shuttles
-They come in a staggering variety of types. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
+They come in a staggering variety of types. Her specialty shuttles for band weaving are especially great but the large ones are also lovely. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
 
 ## stick shuttles
 Clover, Daedalus, Lojan, other, whatever came with the given loom. I don't love them as a weaving experience but it's dead simple to make one out of stiff cardboard.
