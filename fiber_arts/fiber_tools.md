@@ -48,13 +48,23 @@ Also a delight! Can be ordered with a small rigid heddle or with cards/tablets (
 
 # Floor Looms
 
+## [Inagaki Kiryou R-25](https://www.inagakikiryou.com/r25.html)
+6H 6T counterbalance floor loom on order. This has some requested modifications from the base setup; among others, the base version is a 4H 6T counterbalance floor loom.
+
+## Saori Piccolo
+Two harnesses, two treadles, counterbalance, folding floor loom. No longer in production; I bought mine secondhand.
+
 ## [Saori WX60](https://www.etsy.com/listing/115724346/saori-wx60-folding-wood-loom-in-stock)
 Two harnesses, two treadles, counterbalance, folding fllor loom. I bought from [Saori Santz Cruz](https://www.etsy.com/shop/saorisantacruz) (US) - no affiliation, just a happy customer. I chose a Saori for my first/main loom because its accessibility features are friendly to someone with my specific chronic health issues. I've bought some of the add-ons as well:
   - bobbin rack
   - comb reed
+  - cone winder (adapter for the bobbin winder)
+  - four-harness six-treadle conversion (current set up)
   - hand lever for warp brake
   - loom wheels
   - Saori Kenzo tabletop ready-made warp system
+
+Not from Saori, but I use this with a Glimåkra adjustable weaving bench.
 
 ## Toika Laila
 I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch with two reeds [10 dent and 25 dent], a raddle, and temple) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
