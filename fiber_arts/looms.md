@@ -66,9 +66,9 @@ Japanese floor loom. I have one on order (paid in advance and built to order). I
 - 6 harnesses, 6 treadles - counterbalance
 
 ## Saori Piccolo
-Secondhand Piccolo arrived! Setup is straightforward (since it was mostly asssembled). I love how petite this is - for my use case, this is perfect. I'm currently threading the heddles, will report back on the weaving experience!
+I love how petite this is - for my use case, this is perfect. A great weaving experience for simplicity and lighter weights. It's pretty sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving.
 
-Note that there are two height settings for the Piccolo; the lower one can (e.g.) accommodate children. I'm told Saori looms are low-slung generally and not great for tall weavers, although there are 4" height risers as a paid add-on. I'm short (5'4") so this has absolutely not been an issue for me, but I'm guessing tall weavers will want to look elsewhere.
+There are two height settings for the Piccolo; the lower one can (e.g.) accommodate children. I'm told Saori looms are low-slung generally and not great for tall weavers, although there are 4" height risers as a paid add-on. I'm short (5'4") so this has absolutely not been an issue for me, but I'm guessing tall weavers will want to look elsewhere.
 
 **Specs**
 - weight: 15.3 lbs (7 kg)
@@ -97,7 +97,7 @@ Here are the harnesses/heddles being threaded on a Saori Kenzo ready-made warp s
 
 Two-harness two-treadle counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
-I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can apparently convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. Haven't yet tried weaving on her in 4H 6T mode - I'm currently dressing the loom!
+I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can apparently convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. The sinking shed harness system is slightly finicky (check the wires!).
 
 ![Saori Wx60 as a 4H 6T sinking shed loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-09-saori.jpg?raw=true)
 
@@ -141,7 +141,7 @@ These add up significantly in price although some of them are for ease of use an
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
-I have one on order via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila for whatever reason; you have to contact WEBS about it.
+Recently arrived and ordered from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila for whatever reason; you have to contact WEBS about it.
 
 [Toika's information on the Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles).
 
@@ -151,7 +151,9 @@ I have one on order via WEBS, which [carries Toila Looms](https://www.yarn.com/p
 - total width: 40.5" (45.25" with bench)
 - height: 47.25"
 - depth: 33.5" (23.625" folded)
-- 8 harnesses, 8 treadles - countermarch
+- 8 harnesses, 8 treadles - countermarche
+
+Assembly in progress.
 
 # Pin and Tapestry Looms
 
@@ -169,7 +171,7 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 ## Clover Sakiori
 ![Clover Sakiori being warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-06-sakiori-01.jpg?raw=true)
 
-"Two-harness" table loom with an unusual "tilting" heddle/reed. It needs to be horizontal for proper operation and can't handle high tension, but the warping is ridiculously fast.
+"Two-harness" table loom with an unusual "tilting" heddle/reed. It needs to be horizontal for proper operation and can't handle high tension, but the warping is ridiculously fast. This has a built-in warping peg/board system, and can be used as a warping assist for another loom for warps up to ~5 yards (or ~5m).
 
 These are Japanese but can be bought e.g. from [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) in the USA, or you can try your luck on eBay.
 
