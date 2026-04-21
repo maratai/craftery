@@ -67,7 +67,7 @@ Two harnesses, two treadles, counterbalance, folding fllor loom. I bought from [
 Not from Saori, but I use this with a Glimåkra adjustable weaving bench.
 
 ## Toika Laila
-I have a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarch with two reeds [10 dent and 25 dent], a raddle, and temple) on order. Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
+Currently assembling a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarche with two reeds [10 dent and 25 dent], a raddle, and temple) Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 # Pin and Tapestry Looms
  
