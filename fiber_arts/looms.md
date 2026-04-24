@@ -141,7 +141,7 @@ These add up significantly in price although some of them are for ease of use an
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
-Recently arrived and ordered from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila for whatever reason; you have to contact WEBS about it.
+Recently arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila for whatever reason (although other Toika looms are listed); you have to contact WEBS about it.
 
 [Toika's information on the Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles).
 
@@ -153,7 +153,9 @@ Recently arrived and ordered from WEBS, which [carries Toila Looms](https://www.
 - depth: 33.5" (23.625" folded)
 - 8 harnesses, 8 treadles - countermarche
 
-Assembly in progress.
+Assembly in progress! Kudos to Toika's technical writers; the assembly manual ([PDF available via WEBS](https://www.yarn.com/pages/toika-looms)) is great.
+
+![Toika Laila assembly in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-24-laila-01.jpg?raw=true)
 
 # Pin and Tapestry Looms
 
