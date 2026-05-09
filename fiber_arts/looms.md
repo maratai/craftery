@@ -143,6 +143,8 @@ I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on th
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
 Recently arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila for whatever reason (although other Toika looms are listed); you have to contact WEBS about it.
 
+**IMPORTANT:** Double-check that you have the correct assembly instructions for your version of the Toika Laila! The WEBS assembly manual is outdated for the version I received (arrived on April 18, 2026); the components list (the smaller pieces, not the main large wooden loom pieces) didn't match what I had. **[LAILA LOOM assembly](https://github.com/maratai/craftery/blob/main/fiber_arts/LAILA_LOOM.pdf)** is a PDF of the assembly instructions I received on May 8, 2026 after contacting Toika directly, but if yours is different, your best bet is to [contact Toika](https://shop.toika.com/page/2/contact) yourself and ask for updated instructions. In particular, assembling based on the outdated instructions (in my case) omitted important information re: the bearing plates on the warp and cloth beams, so we had to disassemble and reassemble the loom to get those correctly placed.
+
 [Toika's information on the Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles).
 
 **Specs**
@@ -153,7 +155,7 @@ Recently arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pag
 - depth: 33.5" (23.625" folded)
 - 8 harnesses, 8 treadles - countermarche
 
-Assembly in progress! Kudos to Toika's technical writers; the assembly manual ([PDF available via WEBS](https://www.yarn.com/pages/toika-looms)) is great.
+Assembly in progress! Kudos to Toika's technical writers.
 
 ![Toika Laila assembly in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-24-laila-01.jpg?raw=true)
 
