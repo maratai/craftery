@@ -55,7 +55,9 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 # Floor Looms
 
 ## [Inagaki Kiryou](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. I have one on order (paid in advance and built to order). It will be at least three months of build time plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied.
+Japanese floor loom. I have one on order (paid in advance and built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied.
+
+This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it was essentially the same steps. (I had an assembly quesetion ahead of time.)
 
 **Specs**
 - **weight:** I've inquired out of curiosity!
@@ -66,7 +68,7 @@ Japanese floor loom. I have one on order (paid in advance and built to order). I
 - 6 harnesses, 6 treadles - counterbalance
 
 ## Saori Piccolo
-I love how petite this is - for my use case, this is perfect. A great weaving experience for simplicity and lighter weights. It's pretty sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving.
+I love how petite this is - for my use case, this is perfect. A great weaving experience for plainweave simplicity and lighter weights. It's pretty sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving. I got into handweaving by way of *handspinning*, so it's a great way to showcase handspun!
 
 There are two height settings for the Piccolo; the lower one can (e.g.) accommodate children. I'm told Saori looms are low-slung generally and not great for tall weavers, although there are 4" height risers as a paid add-on. I'm short (5'4") so this has absolutely not been an issue for me, but I'm guessing tall weavers will want to look elsewhere.
 
@@ -97,7 +99,7 @@ Here are the harnesses/heddles being threaded on a Saori Kenzo ready-made warp s
 
 Two-harness two-treadle counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
-I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can apparently convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. The sinking shed harness system is slightly finicky (check the wires!).
+I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. The sinking shed harness system is slightly finicky (check the wires aren't crossed!) but works well once adjusted.
 
 ![Saori Wx60 as a 4H 6T sinking shed loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-09-saori.jpg?raw=true)
 
@@ -141,9 +143,9 @@ These add up significantly in price although some of them are for ease of use an
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
-Recently arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila (although other Toika looms are listed); you have to contact WEBS about it. Mine at least was built to order as (at the time I purchased it) WEBS puts in orders to Toika four times a year, to ship from Finland to the USA.
+Arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila (although other Toika looms are listed); you have to contact WEBS about it. Mine was built to order as (at the time I purchased it) WEBS puts in orders to Toika four times a year, to ship from Finland to the USA.
 
-**IMPORTANT:** Double-check that you have the correct assembly instructions for your version of the Toika Laila! The WEBS assembly manual is outdated for the version I received (arrived on April 18, 2026); the components list (the smaller pieces, not the main large wooden loom pieces) didn't match what I had. **[LAILA LOOM assembly](https://github.com/maratai/craftery/blob/main/fiber_arts/LAILA_LOOM.pdf)** is a PDF of the assembly instructions I received on May 8, 2026 after contacting Toika directly, but if yours is different, your best bet is to [contact Toika](https://shop.toika.com/page/2/contact) yourself and ask for updated instructions. In particular, assembling based on the outdated instructions (in my case) omitted important information re: the bearing plates on the warp and cloth beams, so we had to disassemble and reassemble the loom to get those correctly placed.
+**IMPORTANT:** Double-check that you have the correct assembly instructions for your version of the Toika Laila! The WEBS assembly manual is outdated for the version I received (arrived on April 18, 2026); the components list (the smaller pieces, not the main large wooden loom pieces) didn't match what I had. **[LAILA LOOM assembly](https://github.com/maratai/craftery/blob/main/fiber_arts/LAILA_LOOM.pdf)** is a PDF of the assembly instructions I received on May 8, 2026 after contacting Toika directly about the discrepancy. If yours is different, your best bet is to [contact Toika](https://shop.toika.com/page/2/contact) yourself and ask for updated instructions correct to your model. Assembling based on the outdated instructions (in my case) omitted important information re: the bearing plates on the warp and cloth beams, so we had to disassemble and reassemble the loom to get those correctly placed.
 
 [Toika's information on the Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles).
 
@@ -154,8 +156,6 @@ Recently arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pag
 - height: 47.25"
 - depth: 33.5" (23.625" folded)
 - 8 harnesses, 8 treadles - countermarche
-
-Assembly in progress! Kudos to Toika's technical writers.
 
 ![Toika Laila assembly in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-24-laila-01.jpg?raw=true)
 
