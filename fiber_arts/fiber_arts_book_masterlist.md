@@ -12,6 +12,7 @@
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
+- Liz Gipson. *A Weaver's Guide to Yarn: Selection, Size, Substance, and Style of the Stuff We Love*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
