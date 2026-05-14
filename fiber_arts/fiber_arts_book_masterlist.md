@@ -1,5 +1,7 @@
 # Fiber Arts Books and Magazines: Masterlist
 
+(so very WIP)
+
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
