@@ -13,6 +13,7 @@
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
+- Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
@@ -23,7 +24,9 @@
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
 - Mary Schoeser. *International Textile Design*.
+- Marian Stubenitsky. *Weaving with Echo and Iris*.
 - Blair Tate. *The Warp: A Weaving Reference*.
+- Harriet Tidball. *The Double Weave: Plain and Patterned*.
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lesesons*.
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
