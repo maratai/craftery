@@ -71,8 +71,8 @@
 - Woodington UK Folding Tablet Loom
 
 ## Looms: Floor Looms
-- Saori Piccolo (2H 2T counterbalance)
-- Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder)
+- Saori Piccolo (2H 2T counterbalance, 7 dents/cm reed)
+- Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
 - Toika Laila (currently assemnbling: 8H 8T countermarche)
 
 ## Looms: Pin Looms, Tapestry Looms
@@ -85,6 +85,7 @@
 ## Looms: Warping
 - Ashford tabletop vertical warping mill
 - Fiber Artist Supply Co. bobbin winder, cone holder, yarn winder
+- Saori Kenzo ready-made warp system (for Saori Piccolo and WX60)
 - Spinolution lazy kate, niddy noddy
 
 ## Spinning: Fiber Preparation
