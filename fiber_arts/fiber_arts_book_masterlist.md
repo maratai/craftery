@@ -22,6 +22,7 @@
 - Betty Briand. *The Art of Weaving*.
 - Deborah Chandler. *Learning to Weave*.
 - Peter Collingwood. *The Techniques of Tablet Weaving*.
+- Candace Crockett. *Card Weaving*.
 - Inge Dam. *Tablet-Woven Accents for Designer Fabrics: Contemporary Uses for Ancient Techniques*.
 - Marguerite P. Davison. *A Handweaver's Pattern Book*.
 - Anne Dixon. *The Handweaver's Pattern Directory: Over 600 Weaves for Four-Shaft Looms*.
@@ -60,7 +61,8 @@
 - Marian Stubenitsky. *Weaving with Echo and Iris*.
 - Blair Tate. *The Warp: A Weaving Reference*.
 - Harriet Tidball. *The Double Weave: Plain and Patterned*.
-- Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lesesons*.
+- Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lessons*.
+- Heather Torgenrud. *Pick-Up Bandweaving Designs: 288 Charts for 13 Pattern Ends and Techniques for Arranging Color*.
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
 - Elizabeth Wagner. *My Weaving Workbook*.
