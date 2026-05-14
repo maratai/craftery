@@ -85,9 +85,10 @@
 
 ## Looms: Warping
 - Ashford tabletop vertical warping mill
-- Fiber Artist Supply Co. bobbin winder, cone holder, yarn winder
+- Fiber Artist Supply Co. bobbin winder, cone holder, yarn swift, yarn winder
 - Saori Kenzo ready-made warp system (for Saori Piccolo and WX60)
 - Spinolution lazy kate, niddy noddy
+- vintage skein winder
 
 ## Spinning: Fiber Preparation
 - Ashford hand cards
@@ -103,9 +104,9 @@
 - Ashford Traveller (Scotch tension, built-in kate)
 - Athena Capricorn
 - itoguruma from Japan
-- Louët S90 (Scotch tension, built-in kate)
-- Pocket Wheel
-- Spinolution Mach III with 4A and 8-oz flyers
+- Louët S90 (Scotch tension, built-in kate) + WooLee Winder
+- Pocket Wheel + LWS Autowinder
+- Spinolution Mach III with 4A and 8-oz flyers + SpinPerfect Paulywinders
 
 
 
