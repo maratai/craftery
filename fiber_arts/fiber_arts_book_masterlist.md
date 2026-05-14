@@ -32,6 +32,7 @@
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
+- Mary Elizabeth Laughlin. *More Than Four: A Book for Multiple Harness Weavers*. Terrific in-depth discussion of satin and sateen weaves.
 - Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
 - Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
