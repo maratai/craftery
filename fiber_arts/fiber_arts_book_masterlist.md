@@ -35,9 +35,13 @@
 - Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 
+## Weavers' Guild of Boston
+- *Weavers' Wisdom: 250 Aids to Happier Weaving*.
+
 ## Weft (magazine)
 - Summer 2025, Issue 1. *Plain Weave*.
 - Autumn 2025. Issue 2. *Warp*.
+- Winter 2025. Issue 3. *Table*.
 - Summer 2026. Issue 5. *Twill*.
 
 
