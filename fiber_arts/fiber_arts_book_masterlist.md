@@ -17,6 +17,7 @@
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
+- Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
 - Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
