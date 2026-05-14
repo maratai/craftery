@@ -36,11 +36,12 @@
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Mary Elizabeth Laughlin. *More Than Four: A Book for Multiple Harness Weavers*. Terrific in-depth discussion of satin and sateen weaves.
 - Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
+- Laila Lundell and Elisabeth Windesjö. *The Big Book of Weaving*.
 - Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
 - Anne E. Nygård. *Weaving Damask*.
 - Peggy Osterkamp. *Weaving for VBeginners: An Illustrated Guide*, 4th ed.
-- Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #3 *Weaving and Drafting Your Own Cloth*. (I have #3, it's on a different shelf because I'm using it!)
+- Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
