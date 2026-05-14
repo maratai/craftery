@@ -3,6 +3,8 @@
 # Weaving, Textiles
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
 - Mary Meigs Atwater. *The Shuttle-Craft Book of American Hand-Weaving*.
+- Betty Briand. *The Art of Weaving*.
+- Deborah Chandler. *Learning to Weave*.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
