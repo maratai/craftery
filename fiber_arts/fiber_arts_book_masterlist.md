@@ -11,6 +11,7 @@
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
+- Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
@@ -21,6 +22,5 @@
 - Mary Schoeser. *International Textile Design*.
 - Blair Tate. *The Warp: A Weaving Reference*.
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lesesons*.
+- Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
-
-- Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
