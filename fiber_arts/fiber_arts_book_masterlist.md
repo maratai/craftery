@@ -93,7 +93,12 @@
 - Fancy Kitty benchtop wool picker, blending board
 - Strauch drum carder
 
-## Spinning Wheels
+## Spinning: Hand Spindles
+- Jenkins Turkish spindles
+- John Galen Designs supported spindles
+- Snyder Turkish spindles
+
+## Spinning: Spinning Wheels
 - Ashford Traveller (Scotch tension, built-in kate)
 - Athena Capricorn
 - itoguruma from Japan
