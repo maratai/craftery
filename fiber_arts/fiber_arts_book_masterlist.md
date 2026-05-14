@@ -14,6 +14,9 @@
 - Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance)
 - Toika Laila (currently assemnbling: 8H 8T countermarche)
 
+## Looms: Pin Looms, Tapestry Looms
+- Hello Loom
+
 ## Looms: Table Looms
 - Peacock Loom (2H 2T counterbalance)
 
