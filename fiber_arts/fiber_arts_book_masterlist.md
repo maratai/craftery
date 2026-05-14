@@ -9,6 +9,7 @@
 - Deborah Chandler. *Learning to Weave*.
 - Marguerite P. Davison. *A Handweaver's Pattern Book*.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
+- Catharine Ellis. *Woven Shibori*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
@@ -29,6 +30,7 @@
 - Nadine Sanders. *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warpign Techniques, Warping a Second Warp Beam*.
 - Nadine Sanders and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
 - Mary Schoeser. *International Textile Design*.
+- Deborah Silver. *The Technique of Split-Shed Weaving*.
 - Carol Strickler, ed. *A Weaver's Book of 8-Shaft Patterns*.
 - Marian Stubenitsky. *Weaving with Echo and Iris*.
 - Blair Tate. *The Warp: A Weaving Reference*.
