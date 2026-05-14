@@ -12,8 +12,11 @@
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
+- Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
+- Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
+- Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
 - Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #3 *Weaving and Drafting Your Own Cloth*. (I have #3, it's on a different shelf because I'm using it!)
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
