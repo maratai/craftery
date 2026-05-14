@@ -8,6 +8,7 @@
 - Deborah Chandler. *Learning to Weave*.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
+- Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
 - Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #3 *Weaving and Drafting Your Own Cloth*. (I have #3, it's on a different shelf because I'm using it!)
