@@ -26,6 +26,7 @@
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
+- Nadine Sanders and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
 - Mary Schoeser. *International Textile Design*.
 - Carol Strickler, ed. *A Weaver's Book of 8-Shaft Patterns*.
 - Marian Stubenitsky. *Weaving with Echo and Iris*.
