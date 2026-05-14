@@ -56,6 +56,7 @@
 - Harriet Tidball. *The Double Weave: Plain and Patterned*.
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lesesons*.
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
+- Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
 - Elizabeth Wagner. *My Weaving Workbook*.
 - Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
