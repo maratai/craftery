@@ -27,6 +27,7 @@
 - Liz Gipson. *A Weaver's Guide to Yarn: Selection, Size, Substance, and Style of the Stuff We Love*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
+- Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
 - Anete Karlsone. *Rakstainās Jostas: Kopīgais Kultūrslānis* (*Patterned Sashes: The Common Cultural Layer*). Latvian and English.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
@@ -85,8 +86,9 @@
 
 ## Looms: Warping
 - Ashford tabletop vertical warping mill
+- Blazing Shuttles cross holder
 - Fiber Artist Supply Co. bobbin winder, cone holder, warping peg, yarn swift, yarn winder
-- Saori Kenzo ready-made warp system (for Saori Piccolo and WX60)
+- Saori cross holder, Saori Kenzo ready-made warp system (for Saori Piccolo and WX60)
 - Spinolution lazy kate, niddy noddy
 - vintage skein winder
 
@@ -103,7 +105,7 @@
 ## Spinning: Spinning Wheels
 - Ashford Traveller (Scotch tension, built-in kate)
 - Athena Capricorn
-- EEW 6.1 (e-spinner)
+- Dreaming Robots EEW 6.1 (e-spinner)
 - itoguruma from Japan
 - Louët S90 (Scotch tension, built-in kate) + WooLee Winder
 - Pocket Wheel + LWS Autowinder
