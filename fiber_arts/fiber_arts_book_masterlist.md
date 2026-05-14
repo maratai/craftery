@@ -52,6 +52,7 @@
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
 - Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
+- Claudia Wollny. *Tablets at Work*.
 
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
@@ -95,7 +96,7 @@
 
 ## Spinning: Hand Spindles
 - Jenkins Turkish spindles
-- John Galen Designs supported spindles
+- John Galen Designs supported spindles (tahkli-style)
 - Snyder Turkish spindles
 
 ## Spinning: Spinning Wheels
