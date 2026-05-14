@@ -19,6 +19,7 @@
 - Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
 - Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
+- Anne E. Nygård. *Weaving Damask*.
 - Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #3 *Weaving and Drafting Your Own Cloth*. (I have #3, it's on a different shelf because I'm using it!)
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
