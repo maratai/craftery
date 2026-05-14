@@ -11,6 +11,9 @@
 - Claudia Wollny. *The Secrets of Kikko: With 85 Variations of the Famous Tortoise Shell Pattern for Braiding on the Marudai*. Deutsch, English.
 - Claudia Wollny. *The Transformations of Sakura: How to Create the Famous Cherry Blossom Pattern: 48 Hira Genji Variations for Braiding on the Marudai*. Deutsch, English.
 
+# Nålbinding
+- Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
+
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
