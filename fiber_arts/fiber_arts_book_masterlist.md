@@ -27,6 +27,7 @@
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Notably clear explanation of inlay.
 - Ulla Getzmann. *Weave Structures the Swedish Way: Volumne 1*. Trans. and adapted by Becky Ashenden.
 - Liz Gipson. *A Weaver's Guide to Yarn: Selection, Size, Substance, and Style of the Stuff We Love*.
+- Joanne Hall. *Tying Up the Countermarch Loom*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
 - Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
