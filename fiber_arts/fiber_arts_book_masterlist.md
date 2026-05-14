@@ -2,32 +2,6 @@
 
 (so very WIP)
 
-# Equipment
-
-## Looms: Band, Box, Tape
-- Daedalus Penelope
-- Handywoman Tiny Box Loom
-- Woodington UK Folding Tablet Loom
-
-## Looms: Floor Looms
-- Saori Piccolo (2H 2T counterbalance)
-- Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance)
-- Toika Laila (currently assemnbling: 8H 8T countermarche)
-
-## Looms: Pin Looms, Tapestry Looms
-- Hello Loom
-
-## Looms: Table Looms
-- Peacock Loom (2H 2T counterbalance)
-
-## Spinning Wheels
-- Ashford Traveller (Scotch tension)
-- Athena Capricorn
-- itoguruma from Japan
-- Louët S90
-- Pocket Wheel
-- Spinolution Mach III with 4A and 8-oz flyers
-
 # Embroidery, Needlework
 - Gary Clarke. *Embroidery Illusions*.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
@@ -87,6 +61,44 @@
 - Autumn 2025. Issue 2. *Warp*.
 - Winter 2025. Issue 3. *Table*.
 - Summer 2026. Issue 5. *Twill*.
+
+
+# Equipment
+
+## Looms: Band, Box, Tape
+- Daedalus Penelope
+- Handywoman Tiny Box Loom
+- Woodington UK Folding Tablet Loom
+
+## Looms: Floor Looms
+- Saori Piccolo (2H 2T counterbalance)
+- Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder)
+- Toika Laila (currently assemnbling: 8H 8T countermarche)
+
+## Looms: Pin Looms, Tapestry Looms
+- Hello Loom
+
+## Looms: Table Looms
+- Clover Sakiori ("rigid heddle"; built-in warping board)
+- Peacock Loom (2H 2T counterbalance)
+
+## Looms: Warping
+- Ashford tabletop vertical warping mill
+- Fiber Artist Supply Co. bobbin winder, cone holder, yarn winder
+- Spinolution lazy kate, niddy noddy
+
+## Spinning: Fiber Preparation
+- Ashford hand cards
+- Fancy Kitty benchtop wool picker, blending board
+- Strauch drum carder
+
+## Spinning Wheels
+- Ashford Traveller (Scotch tension, built-in kate)
+- Athena Capricorn
+- itoguruma from Japan
+- Louët S90 (Scotch tension, built-in kate)
+- Pocket Wheel
+- Spinolution Mach III with 4A and 8-oz flyers
 
 
 
