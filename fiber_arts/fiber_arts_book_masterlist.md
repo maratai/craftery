@@ -60,7 +60,7 @@
 - Elizabeth Wagner. *My Weaving Workbook*.
 - Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
-- Claudia Wollny. *Tablets at Work*.
+- Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
