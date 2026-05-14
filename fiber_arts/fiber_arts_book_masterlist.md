@@ -8,6 +8,7 @@
 
 # Kumihimo
 - Catherine Martin. *Kumihimo: Japanese Silk Braiding Techniques*.
+- Claudia Wollny. *The Transformations of Sakura: How to Create the Famous Cherry Blossom Pattern: 48 Hira Genji Variations for Braiding on the Marudai*. Deutsch, English.
 
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
