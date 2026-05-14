@@ -18,6 +18,7 @@
 - Deborah Chandler. *Learning to Weave*.
 - Inge Dam. *Tablet-Woven Accents for Designer Fabrics: Contemporary Uses for Ancient Techniques*.
 - Marguerite P. Davison. *A Handweaver's Pattern Book*.
+- Anne Dixon. *The Handweaver's Pattern Directory: Over 600 Weaves for Four-Shaft Looms*.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
 - Catharine Ellis. *Woven Shibori*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
