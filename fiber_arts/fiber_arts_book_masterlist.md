@@ -24,9 +24,11 @@
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
 - Mary Schoeser. *International Textile Design*.
+- Carol Strickler, ed. *A Weaver's Book of 8-Shaft Patterns*.
 - Marian Stubenitsky. *Weaving with Echo and Iris*.
 - Blair Tate. *The Warp: A Weaving Reference*.
 - Harriet Tidball. *The Double Weave: Plain and Patterned*.
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lesesons*.
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
+- Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
