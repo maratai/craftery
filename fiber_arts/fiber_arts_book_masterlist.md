@@ -2,6 +2,9 @@
 
 (so very WIP)
 
+# Embroidery, Needlework
+- Fllora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
+
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
