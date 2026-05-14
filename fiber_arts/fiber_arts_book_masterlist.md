@@ -4,7 +4,7 @@
 
 # Embroidery, Needlework
 - Gary Clarke. *Embroidery Illusions*.
-- Fllora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
+- Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
 
 # Kumihimo
 - Catherine Martin. *Kumihimo: Japanese Silk Braiding Techniques*.
