@@ -3,6 +3,7 @@
 (so very WIP)
 
 # Embroidery, Needlework
+- Gary Clarke. *Embroidery Illusions*.
 - Fllora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
 
 # Kumihimo
@@ -15,15 +16,18 @@
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
 - Betty Briand. *The Art of Weaving*.
 - Deborah Chandler. *Learning to Weave*.
+- Inge Dam. *Tablet-Woven Accents for Designer Fabrics: Contemporary Uses for Ancient Techniques*.
 - Marguerite P. Davison. *A Handweaver's Pattern Book*.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
 - Catharine Ellis. *Woven Shibori*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
+- Irene Francisco. *Opening a Door to Two-Harness Techniques*. Notably clear explanation of inlay.
 - Liz Gipson. *A Weaver's Guide to Yarn: Selection, Size, Substance, and Style of the Stuff We Love*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
+- Anete Karlsone. *Rakstainās Jostas: Kopīgais Kultūrslānis* (*Patterned Sashes: The Common Cultural Layer*). Latvian and English.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
