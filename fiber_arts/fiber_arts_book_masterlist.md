@@ -34,3 +34,11 @@
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
 - Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
+
+## Weft (magazine)
+- Summer 2025, Issue 1. *Plain Weave*.
+- Autumn 2025. Issue 2. *Warp*.
+- Summer 2026. Issue 5. *Twill*.
+
+
+
