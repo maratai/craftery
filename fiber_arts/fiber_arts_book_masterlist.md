@@ -21,6 +21,7 @@
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
 - Betty Briand. *The Art of Weaving*.
 - Deborah Chandler. *Learning to Weave*.
+- Peter Collingwood. *The Techniques of Tablet Weaving*.
 - Inge Dam. *Tablet-Woven Accents for Designer Fabrics: Contemporary Uses for Ancient Techniques*.
 - Marguerite P. Davison. *A Handweaver's Pattern Book*.
 - Anne Dixon. *The Handweaver's Pattern Directory: Over 600 Weaves for Four-Shaft Looms*.
