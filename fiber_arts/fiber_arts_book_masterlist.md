@@ -125,7 +125,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 ## Looms: Floor Looms
 - Saori Piccolo (2H 2T counterbalance, 7 dents/cm reed)
 - Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
-- Toika Laila (currently assemnbling: 8H 8T countermarche)
+- Toika Laila (currently assembling: 8H 8T countermarche; 10 dents/cm reed, 25 dents/cm reed, 50-70 cm temple, 70 cm raddle A)
 
 ## Looms: Pin Looms, Tapestry Looms
 - Hello Loom
