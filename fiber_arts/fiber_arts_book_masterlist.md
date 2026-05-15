@@ -91,12 +91,13 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 
 ## Selvedge (magazine)
-Listings of discussed topics are a selection, not comprehensive.
+Listings of discussed topics are a selection, not comprehensive. I bought a number of these secondhand from a weaver who was destashing to make room for newer delights!
 
 - Issue 14. Embroidery, cocktail frocks, Italian silks (Renaissance), Russian ikat patterned plates and textiles.
 - Issue 15. Traditional horsehair weaving (and violin bows!) and equestrian textiles, medical textiles, skiwear, knickers.
 - Issue 16. Textile archives, needles, handkerchiefs and monograms, indigo, a tour of Japan.
 - Issue 17. Cotton, Dutch wax resist fabrics, surface design, South American decorations, Ethiopian crocheted hats.
+- Issue 24. Silhouettes, silk flowers (Legeron workshop in Paris), floral fragrances in fashion (haute perfumerie), geometric designs, lei (Hawai'i), kaftans and robes.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
 
 ## Weavers' Guild of Boston
