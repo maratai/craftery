@@ -2,6 +2,9 @@
 
 (so very WIP)
 
+# Dyeing
+- Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
+
 # Embroidery, Needlework
 - Gary Clarke. *Embroidery Illusions*.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
@@ -20,6 +23,7 @@
 - Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
+- Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
