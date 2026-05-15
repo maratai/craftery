@@ -19,6 +19,7 @@
 
 # Spinning
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
+- Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*; *Guide to Making Spinning Wheels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*; *Guide to Restoring an Antique Spinning Wheel*.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
 - Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
