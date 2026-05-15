@@ -6,8 +6,10 @@
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
-# Embroidery, Needlework
+# Embroidery, Needlework, Sewing
 - Gary Clarke. *Embroidery Illusions*.
+- Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
+- Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
 
 # Kumihimo
