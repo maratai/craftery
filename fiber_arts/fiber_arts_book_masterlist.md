@@ -93,7 +93,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 ## Selvedge (magazine)
 Listings of discussed topics are a selection, not comprehensive.
 
-- Issue 14. Embroidery, cocktail frocks, Italian silks, Russian ikat patterned plates and textiles.
+- Issue 14. Embroidery, cocktail frocks, Italian silks (Renaissance), Russian ikat patterned plates and textiles.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
 
 ## Weavers' Guild of Boston
