@@ -3,6 +3,7 @@
 (so very WIP)
 
 # Dyeing
+- Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
 # Embroidery, Needlework
