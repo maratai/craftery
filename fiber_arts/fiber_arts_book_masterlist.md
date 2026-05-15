@@ -90,6 +90,12 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 
+## Selvedge (magazine)
+Listings of discussed topics are a selection, not comprehensive.
+
+- Issue 14. Embroidery, cocktail frocks, Italian silks, Russian ikat patterned plates and textiles.
+- Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
+
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
 
