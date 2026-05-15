@@ -14,12 +14,20 @@
 # Nålbinding
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
 
+# Spinning
+- Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
+- Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
+- Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
+- Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
+- Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
+
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
 - Mary Meigs Atwater. *The Shuttle-Craft Book of American Hand-Weaving*.
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
 - Betty Briand. *The Art of Weaving*.
+- Eric Broudy. *The Book of Looms: A History of the Handloom from Ancient Times to the Present*.
 - Deborah Chandler. *Learning to Weave*.
 - Peter Collingwood. *The Techniques of Tablet Weaving*.
 - Candace Crockett. *Card Weaving*.
