@@ -98,6 +98,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 16. Textile archives, needles, handkerchiefs and monograms, indigo, a tour of Japan.
 - Issue 17. Cotton, Dutch wax resist fabrics, surface design, South American decorations, Ethiopian crocheted hats.
 - Issue 24. Silhouettes, silk flowers (Legeron workshop in Paris), floral fragrances in fashion (haute perfumerie), geometric designs, lei (Hawai'i), kaftans and robes.
+- Issue 72. Irish textiles, tartans, sustainability, tweeds, Marseille Soap, Indian textile history, Lebanese craftmanship.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
 
 ## Weavers' Guild of Boston
