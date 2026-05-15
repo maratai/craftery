@@ -102,6 +102,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 46. Signature cloths and social networking, traditional textiles in Pakistan, Tyrian purple, coronation textiles (UK), the psychology of the appeal of handmade textiles, chiffon, handbags, musicians in fashion.
 - Issue 71. Cotton, Central American indigo, American feedsacks (linen), African-American quilts at Colonial Williamsburg, Mexican textiles in Oaxaca, redefining dresscodes, fashion and exoticism, block printing, textiles of the Kuna of Panama.
 - Issue 72. Irish textiles, tartans, sustainability, tweeds, Marseille Soap, Indian textile history, Lebanese craftmanship.
+- Issue 73. Sequins, textiles in St. Petersburg, domestic and decorative embroidery (fictional characters), 1920s fashion design, costume design in miniature, English medieval embroidery, Pandora Dolls as portable mannequins, costume design for theater/drama.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
 
 ## Weavers' Guild of Boston
