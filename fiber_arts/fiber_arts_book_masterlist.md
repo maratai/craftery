@@ -6,7 +6,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
-# Embroidery, Needlework, Sewing
+# Embroidery, Needlework
 - Gary Clarke. *Embroidery Illusions*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
@@ -19,11 +19,21 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Claudia Wollny. *The Transformations of Sakura: How to Create the Famous Cherry Blossom Pattern: 48 Hira Genji Variations for Braiding on the Marudai*. Deutsch, English.
 
 # Lacemaking
+My primary interest is needle lace.
+
 - Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
 - Pat Earnshaw. *Youghal and Other Irish Laces*.
+- Jules Kliot and Kaethe Kliot, eds. *Teneriffe Lace*.
 
 # Nålbinding
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
+
+# Sewing, Tailoring
+- Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
+- Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
+- John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
+- Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
+- Singer Sewing Reference Library. *Quick and Easy Sewing Projects*.
 
 # Spinning
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
