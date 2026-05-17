@@ -34,6 +34,7 @@ My primary interest is needle lace.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
 - Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
+- Cinnamon Miles. *Idiot's Guide to Sewing*.
 - Singer Sewing Reference Library. *Quick and Easy Sewing Projects*; *Sewing for Special Occasions: Bridal, Prom and Evening Dresses*.
 
 # Spinning
