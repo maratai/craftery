@@ -2,16 +2,17 @@
 
 So very WIP. Note that some books in Korean and Japanese are not listed here.
 
-# Dyeing
-- Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
-- Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
-
-# Embroidery, Needlework
+# Cross Stitch, Embroidery, Needlework
+- Dale Burdett. *LEarn to Design, Book One: 101 Alphabets*. Cross-stitch.
 - Gary Clarke. *Embroidery Illusions*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
+
+# Dyeing
+- Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
+- Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
 # Kumihimo
 - Catherine Martin. *Kumihimo: Japanese Silk Braiding Techniques*.
