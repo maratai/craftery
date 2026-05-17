@@ -29,6 +29,7 @@ My primary interest is needle lace.
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
 
 # Sewing, Tailoring
+- Peggy Bendel. *Vogue Sewing for the Home: Dozens of Easy and Elegant Decorating Projects for Every Room in Your Home*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
@@ -44,7 +45,7 @@ My primary interest is needle lace.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
-# Spin Off (magazine)
+## Spin Off (magazine)
 - Fall 2025. A selection of topics: handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
 
 # Weaving, Textiles
@@ -121,6 +122,9 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 72. Irish textiles, tartans, sustainability, tweeds, Marseille Soap, Indian textile history, Lebanese craftmanship.
 - Issue 73. Sequins, textiles in St. Petersburg, domestic and decorative embroidery (fictional characters), 1920s fashion design, costume design in miniature, English medieval embroidery, Pandora Dolls as portable mannequins, costume design for theater/drama.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
+
+## Shuttle, Spindle, and Dyepot (magazine: Handweavers Guild of America)
+- Spring 2026. Indigo, huck, fine fleeces, rare books for weaving.
 
 ## Väv (magazine)
 - Nr. 2 1995. This is not in English, but I obtained this secondhand and it includes a typed? translation into English.
