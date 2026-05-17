@@ -109,6 +109,10 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Nr. 2 1995. This is not in English, but I obtained this secondhand and it includes a typed? translation into English.
 - 2/11, English edition. Bridal weaves.
 
+## Weaver's Craft (magazine)
+- Vol. 1, #6. Dec. 2000/January 2001. Weaving and fulling wool; long narrow warps.
+- Vol. 2, #3. Fall 2001. Inlay.
+
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
 
@@ -117,7 +121,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Autumn 2025. Issue 2. *Warp*.
 - Winter 2025. Issue 3. *Table*.
 - Summer 2026. Issue 5. *Twill*.
-
+- Issue 19. Log cabin, shadow weave, ripsmatta, weft interlocks.
 
 # Equipment
 
