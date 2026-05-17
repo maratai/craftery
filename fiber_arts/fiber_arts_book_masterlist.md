@@ -34,6 +34,8 @@ My primary interest is needle lace.
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
 
 # Sewing, Tailoring
+**NOTE:** Some books on sewing/tailoring specifically with handwoven are under Weaving.
+
 - Shirley Adams. *The Sewing Connection VI*. Refabrication, darts, lace, matching irregular/unbalanced plaids, handling sequined fabrics, outdoor furnishing repair, fringes, pattern alternations, linings, exposed zipper pockets, patternless coat, creative solutions to mistakes, "dressy" denims.
 - Shirley Adams. *The Sewing Connection 8*. Quilted silk jackets, cutout jackets, under-fabric supports, altering shoulders, set-in sleeves and sleeve plackets, decorative seams, platter purses, upholstering chair seats, twin needle stitching, mixing/manipulating fabrics in bomber jackets, machine cutwork embroider, recycling scarves into jackets.
 - Shirley Adams. *The Sewing Connection 10*. altering patterns, interrupted piping (loops and frogs), shaped waistband, sewing with handwovens, combining smaller fabric pieces, compartmentalized purse, wrinkling/crinkling/texturizing fabrics, cutting/fitting/finishing pants, hems according to fabric and finish, weather-resistant sewing, beach/pool cover-ups, a cotton adaptation of a wool jacket.
@@ -67,6 +69,7 @@ Only selected topics listed; not cmoprehensive.
 - Sharon D. Alderman and Kathryn Wertenberger. *Handwoven, Tailormade: A Tandem Guide to Fabric Designing, Weaving, Sewing and Tailoring*.
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
 - Mary Meigs Atwater. *The Shuttle-Craft Book of American Hand-Weaving*.
+- Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*.
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
 - Betty Briand. *The Art of Weaving*.
 - Eric Broudy. *The Book of Looms: A History of the Handloom from Ancient Times to the Present*.
