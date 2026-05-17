@@ -27,6 +27,7 @@ My primary interest is needle lace.
 
 - Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
 - Pat Earnshaw. *Youghal and Other Irish Laces*.
+- Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. The author appears to have been an unrepentant racist snob, but the *information* is useful, so I grit my teeth and hang on to this.
 - Jules Kliot and Kaethe Kliot, eds. *Teneriffe Lace*.
 
 # Nålbinding
@@ -63,6 +64,7 @@ Only selected topics listed; not cmoprehensive.
 
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
+- Sharon D. Alderman and Kathryn Wertenberger. *Handwoven, Tailormade: A Tandem Guide to Fabric Designing, Weaving, Sewing and Tailoring*.
 - Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
 - Mary Meigs Atwater. *The Shuttle-Craft Book of American Hand-Weaving*.
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
