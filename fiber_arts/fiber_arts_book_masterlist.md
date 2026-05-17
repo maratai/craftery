@@ -110,8 +110,16 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - 2/11, English edition. Bridal weaves.
 
 ## Weaver's Craft (magazine)
-- Vol. 1, #6. Dec. 2000/January 2001. Weaving and fulling wool; long narrow warps.
-- Vol. 2, #3. Fall 2001. Inlay.
+- June/July 2000, Issue 3. Canvas weave, huck, Swedish lace, weaving to measure.
+- Dec. 2000/January 2001. Vol. 1, #6. Weaving and fulling wool; long narrow warps.
+- Spring 2001. Vol. 2, #1. Weaving overshot, drawdowns, designing a name draft.
+- Summer 2001. Vol. 2, #2. Gingham towels, changing yarn size, little helpers.
+- Fall 2001. Vol. 2, #3. Inlay.
+- Winter 2001. Vol. 2, #4. Blankets, brushing fabrics, double weave variations.
+- Spring 2002. Vol. 3, #1. Complementary plain weave, color swatch charts.
+- Summer 2003. Vol. 4, #2. Four-shaft twill sampler, sampler hand towels, scarf.
+- Issue 19. Log cabin, ripsmatta, shadow weave, weft interlocks.
+- Issue 24. Mock satin damask, two pick-up methods, 8-shaft damask.
 
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
@@ -121,7 +129,6 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Autumn 2025. Issue 2. *Warp*.
 - Winter 2025. Issue 3. *Table*.
 - Summer 2026. Issue 5. *Twill*.
-- Issue 19. Log cabin, shadow weave, ripsmatta, weft interlocks.
 
 # Equipment
 
