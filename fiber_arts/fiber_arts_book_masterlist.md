@@ -137,6 +137,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 16. Textile archives, needles, handkerchiefs and monograms, indigo, a tour of Japan.
 - Issue 17. Cotton, Dutch wax resist fabrics, surface design, South American decorations, Ethiopian crocheted hats.
 - Issue 24. Silhouettes, silk flowers (Legeron workshop in Paris), floral fragrances in fashion (haute perfumerie), geometric designs, lei (Hawai'i), kaftans and robes.
+- Issue 32. Classic wardrobe staples, women in wartime and uniforms, historical re-enactors, embroidery (Susie Vickery), the history of pyjamas and night caps.
 - Issue 33. Wire coat hangers, haberdashery, notions, katazone (traditional stencil-dyed cloth), quilts (Welsh, USAn, Bengali, more).
 - Issue 34. bridal fashion, hatpins, highlights from the Fan Museum, hoep chests, paper garments (Isabelle De Borchgrave), country smocks, fashion and needlework in Jane Austen's letters, Southern Iraq embroidered wedding blankets.
 - Issue 35. Cotton and the American Civil War, textil trademarks, vintage swimwear, Coats and Clark, basket-weaving, chair caning (Mary Cooper).
