@@ -3,7 +3,7 @@
 So very WIP. Note that some books in Korean and Japanese are not listed here.
 
 # Cross Stitch, Embroidery, Needlework
-- Dale Burdett. *LEarn to Design, Book One: 101 Alphabets*. Cross-stitch.
+- Dale Burdett. *Learn to Design, Book One: 101 Alphabets*. Cross-stitch.
 - Gary Clarke. *Embroidery Illusions*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
