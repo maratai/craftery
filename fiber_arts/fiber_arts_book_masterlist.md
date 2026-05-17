@@ -18,6 +18,10 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Claudia Wollny. *The Secrets of Kikko: With 85 Variations of the Famous Tortoise Shell Pattern for Braiding on the Marudai*. Deutsch, English.
 - Claudia Wollny. *The Transformations of Sakura: How to Create the Famous Cherry Blossom Pattern: 48 Hira Genji Variations for Braiding on the Marudai*. Deutsch, English.
 
+# Lacemaking
+- Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
+- Pat Earnshaw. *Youghal and Other Irish Laces*.
+
 # Nålbinding
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
 
@@ -29,6 +33,9 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
+
+# Spin Off (magazine)
+- Fall 2025. A selection of topics: handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
 
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
