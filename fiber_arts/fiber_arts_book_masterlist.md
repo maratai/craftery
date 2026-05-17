@@ -51,6 +51,7 @@ My primary interest is needle lace.
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
 ## Spin Off (magazine)
+- Summer 2001. A selection of topics: Mahatma Gandhi, spindle-spun tunic, Old World crochet, Viking sails, drum carders, ombré handspun scarves, spinning silk for weaving (by Sara Lamb).
 - Fall 2025. A selection of topics: handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
 
 # Weaving, Textiles
