@@ -14,6 +14,9 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
+# Knitting
+- Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to be but this one booklet has been handy. Thanks to Kate Salter.
+
 # Kumihimo
 - Catherine Martin. *Kumihimo: Japanese Silk Braiding Techniques*.
 - Claudia Wollny. *The Secrets of Kikko: With 85 Variations of the Famous Tortoise Shell Pattern for Braiding on the Marudai*. Deutsch, English.
@@ -36,6 +39,7 @@ My primary interest is needle lace.
 - Peggy Bendel. *Vogue Sewing for the Home: Dozens of Easy and Elegant Decorating Projects for Every Room in Your Home*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
+- Jan Saunders Maresh. *Sewing for Dummies*, 3rd ed.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
 - Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
 - Cinnamon Miles. *Idiot's Guide to Sewing*.
@@ -51,8 +55,11 @@ My primary interest is needle lace.
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
 ## Spin Off (magazine)
-- Summer 2001. A selection of topics: Mahatma Gandhi, setting twist, spindle-spun tunic, Old World crochet, Viking sails, drum carders, ombré handspun scarves, spinning silk for weaving (by Sara Lamb).
-- Fall 2025. A selection of topics: handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
+Only selected topics listed; not cmoprehensive.
+
+- Summer 2001. Mahatma Gandhi, setting twist, spindle-spun tunic, Old World crochet, Viking sails, drum carders, ombré handspun scarves, spinning silk for weaving (by Sara Lamb).
+- Winter 2020. Camel fiber, wilk silks, paco-vicuña fiber, handspun lace repair, bison fiber, milkweed.
+- Fall 2025. Handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
 
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
