@@ -105,6 +105,10 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 73. Sequins, textiles in St. Petersburg, domestic and decorative embroidery (fictional characters), 1920s fashion design, costume design in miniature, English medieval embroidery, Pandora Dolls as portable mannequins, costume design for theater/drama.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
 
+## Väv (magazine)
+- Nr. 2 1995. This is not in English, but I obtained this secondhand and it includes a typed? translation into English.
+- 2/11, English edition. Bridal weaves.
+
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
 
