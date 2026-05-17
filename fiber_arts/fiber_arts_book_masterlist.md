@@ -137,6 +137,8 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 16. Textile archives, needles, handkerchiefs and monograms, indigo, a tour of Japan.
 - Issue 17. Cotton, Dutch wax resist fabrics, surface design, South American decorations, Ethiopian crocheted hats.
 - Issue 24. Silhouettes, silk flowers (Legeron workshop in Paris), floral fragrances in fashion (haute perfumerie), geometric designs, lei (Hawai'i), kaftans and robes.
+- Issue 35. Cotton and the American Civil War, textil trademarks, vintage swimwear, Coats and Clark, basket-weaving, chair caning (Mary Cooper).
+- Issue 36. Obscure fabrics, wool revival, 18th century textile tokens, wool churches, foraging for fashion (Gönül Paksoy).
 - Issue 40. Norwich Textiles, the Union Jack, militaria restoration, shoddy fabrics, dye guild and trade union history, court tailors and dressmakers, English style, academic dress.
 - Issue 42. Cushions, preserving the USA's industrial textile heritage, Triangle Shirtwaist Factory Fire, Orient Express, white leather gloves in the Fashion Museum in Bath, detective fashion in fiction, the history of legal dress, textile-related crime and punishment in Victorian Britian, indigo and woad.
 - Issue 46. Signature cloths and social networking, traditional textiles in Pakistan, Tyrian purple, coronation textiles (UK), the psychology of the appeal of handmade textiles, chiffon, handbags, musicians in fashion.
