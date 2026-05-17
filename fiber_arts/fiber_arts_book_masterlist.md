@@ -14,6 +14,10 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
+# Fashion and Design
+- Jay Calderin. *Fashion Design Essentials: 100 Principles of Fashion Design*.
+- Zoë Hong. *Fashion School in a Book: Design and Illustration for the Beginner and the Brand*.
+
 # Knitting
 - Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to be but this one booklet has been handy. Thanks to Kate Salter.
 
