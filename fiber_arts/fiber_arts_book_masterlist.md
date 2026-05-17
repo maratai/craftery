@@ -29,6 +29,7 @@ My primary interest is needle lace.
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
 
 # Sewing, Tailoring
+- Shirley Adams. *The Sewing Connection 8*. Quilted silk jackets, cutout jackets, under-fabric supports, altering shoulders, set-in sleeves and sleeve plackets, decorative seams, platter purses, upholstering chair seats, twin needle stitching, mixing/manipulating fabrics in bomber jackets, machine cutwork embroider, recycling scarves into jackets.
 - Peggy Bendel. *Vogue Sewing for the Home: Dozens of Easy and Elegant Decorating Projects for Every Room in Your Home*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
