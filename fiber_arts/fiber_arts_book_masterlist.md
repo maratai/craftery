@@ -65,6 +65,8 @@ My primary interest is needle lace.
 - Catharine Ellis. *Woven Shibori*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
+- Fashionary. *Fashionpedia: The Visual Dictionary of Fashion Design*.
+- Fashionary. *Textilepedia: The Complete Fabric Guide*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Notably clear explanation of inlay.
 - Ulla Getzmann. *Weave Structures the Swedish Way: Volumne 1*. Trans. and adapted by Becky Ashenden.
@@ -90,6 +92,7 @@ My primary interest is needle lace.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
+- Virginia Postrel. *The Fabric of Civilization: How Textiles Made the World*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
 - Nadine Sanders. *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warpign Techniques, Warping a Second Warp Beam*.
 - Nadine Sanders and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
