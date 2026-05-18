@@ -29,6 +29,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 # Lacemaking
 My primary interest is needle lace.
 
+- Hazel Blomkamp. *Needle Lace Techniques for Hand Embroidery*. Yes, I obtained a print copy (Search Press, 2017) at some trouble. Absolutely invaluable.
 - DMC Library. *Needle-Made Laces: 1st Series*.
 - Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
 - Pat Earnshaw. *Youghal and Other Irish Laces*.
