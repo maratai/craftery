@@ -29,6 +29,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here.
 # Lacemaking
 My primary interest is needle lace.
 
+- DMC Library. *Needle-Made Laces: 1st Series*.
 - Pat Earnshaw. *Needle-Made Laces: Materials, Designs, Techniques*.
 - Pat Earnshaw. *Youghal and Other Irish Laces*.
 - Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. The author appears to have been an unrepentant racist snob, but the *information* is useful, so I grit my teeth and hang on to this.
@@ -55,6 +56,7 @@ My primary interest is needle lace.
 # Spinning
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*; *Guide to Making Spinning Wheels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*; *Guide to Restoring an Antique Spinning Wheel*.
+- Cheryl Kolander. *A Silkworker's Notebook*, reproduction first edition.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
 - Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
