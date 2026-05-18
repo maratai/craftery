@@ -1,6 +1,6 @@
 # Fiber Arts Books and Magazines: Masterlist
 
-So very WIP. Note that some books in Korean and Japanese are not listed here.
+So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*.
 
 # Cross Stitch, Embroidery, Needlework
 - Dale Burdett. *Learn to Design, Book One: 101 Alphabets*. Cross-stitch.
