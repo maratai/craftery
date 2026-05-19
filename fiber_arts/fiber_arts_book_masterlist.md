@@ -49,8 +49,12 @@ I have books but they're in Hangeul/Korean!
 - Shirley Adams. *The Sewing Connection VI*. Refabrication, darts, lace, matching irregular/unbalanced plaids, handling sequined fabrics, outdoor furnishing repair, fringes, pattern alternations, linings, exposed zipper pockets, patternless coat, creative solutions to mistakes, "dressy" denims.
 - Shirley Adams. *The Sewing Connection 8*. Quilted silk jackets, cutout jackets, under-fabric supports, altering shoulders, set-in sleeves and sleeve plackets, decorative seams, platter purses, upholstering chair seats, twin needle stitching, mixing/manipulating fabrics in bomber jackets, machine cutwork embroider, recycling scarves into jackets.
 - Shirley Adams. *The Sewing Connection 10*. altering patterns, interrupted piping (loops and frogs), shaped waistband, sewing with handwovens, combining smaller fabric pieces, compartmentalized purse, wrinkling/crinkling/texturizing fabrics, cutting/fitting/finishing pants, hems according to fabric and finish, weather-resistant sewing, beach/pool cover-ups, a cotton adaptation of a wool jacket.
+- Helen Joseph Armstrong. *Patternmaking for Fashion Design*, 5th ed.
+- Jo Barnfield and Andrew Richards. *The Pattern Making Primer: All you need to know about designing, adapting and customizing sewing patterns*.
 - Peggy Bendel. *Vogue Sewing for the Home: Dozens of Easy and Elegant Decorating Projects for Every Room in Your Home*.
 - Bunka Fashion Series Garment Design Textbook. #1 *Fundamentals of Garment Design*, #2 *Skirts and Pants*, #3 *Blouses and Dresses*, #4 *Jackets and Vests*, #5 *Coats abnd Capes*.
+- Gillian Conahan. *Handwear Handbook: Make Gloves, Cuffs and Vambraces for Cosplay and Beyond*.
+- Simon Crompton. *The Finest Menswear in the World: The Craftsmanship of Luxury*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - Korea Craft and Design Foundation (Ministry of Culture, Sports and Tourism). *Chimseon: Korean Traditional Sewing*. The text is in English (Hangeul terminology is romanized).
