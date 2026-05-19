@@ -108,6 +108,7 @@ Only selected topics listed; not cmoprehensive.
 - Ulla Getzmann. *Weave Structures the Swedish Way: Volumne 1*. Trans. and adapted by Becky Ashenden.
 - Liz Gipson. *A Weaver's Guide to Yarn: Selection, Size, Substance, and Style of the Stuff We Love*.
 - Liz Gipson. *Weaving Made Easy: 17 Projects Using a Rigid-Heddle Loom*, revised and updated.
+- Russell E. Groff. *Card Weaving or Tablet Weaving*.
 - Joanne Hall. *Tying Up the Countermarch Loom*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
