@@ -35,6 +35,7 @@ My primary interest is needle lace.
 - Pat Earnshaw. *Youghal and Other Irish Laces*.
 - Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. The author appears to have been an unrepentant racist snob, but the *information* is useful, so I grit my teeth and hang on to this.
 - Jules Kliot and Kaethe Kliot, eds. *Teneriffe Lace*.
+- Jacqueline Peter. *A Practical Guide to Needle Lace*.
 
 # Maedeup (Korean traditional macrame)
 I have books but they're in Hangeul/Korean!
