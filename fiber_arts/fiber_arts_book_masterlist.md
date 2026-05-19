@@ -4,6 +4,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here, an
 
 # Cross Stitch, Embroidery, Needlework
 - Dale Burdett. *Learn to Design, Book One: 101 Alphabets*. Cross-stitch.
+- Young Yang Chang, Ph.D. *Painting with a Needle: Learning the Art of Silk Embroidery with Young Yang Ching*.
 - Gary Clarke. *Embroidery Illusions*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
