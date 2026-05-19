@@ -36,6 +36,9 @@ My primary interest is needle lace.
 - Frances Johnson. *Collecting Antique Linens, Lace, and Needlework: Identification, Restoration, and Prices*. The author appears to have been an unrepentant racist snob, but the *information* is useful, so I grit my teeth and hang on to this.
 - Jules Kliot and Kaethe Kliot, eds. *Teneriffe Lace*.
 
+# Maedeup (Korean traditional macrame)
+I have books but they're in Hangeul/Korean!
+
 # Nålbinding
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
 
@@ -49,6 +52,7 @@ My primary interest is needle lace.
 - Bunka Fashion Series Garment Design Textbook. #1 *Fundamentals of Garment Design*, #2 *Skirts and Pants*, #3 *Blouses and Dresses*, #4 *Jackets and Vests*, #5 *Coats abnd Capes*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
+- Korea Craft and Design Foundation (Ministry of Culture, Sports and Tourism). *Chimseon: Korean Traditional Sewing*. The text is in English (Hangeul terminology is romanized).
 - Jan Saunders Maresh. *Sewing for Dummies*, 3rd ed.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
 - Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
