@@ -8,6 +8,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here, an
 - Gary Clarke. *Embroidery Illusions*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
+- Shuji Tamura. *The Techniques of Japanese Embroidery*.
 
 # Dyeing
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
