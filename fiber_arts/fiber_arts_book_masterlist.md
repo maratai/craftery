@@ -5,9 +5,7 @@ So very WIP. Note that some books in Korean and Japanese are not listed here, an
 # Cross Stitch, Embroidery, Needlework
 - Dale Burdett. *Learn to Design, Book One: 101 Alphabets*. Cross-stitch.
 - Gary Clarke. *Embroidery Illusions*.
-- Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
-- Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
 
 # Dyeing
@@ -57,6 +55,7 @@ I have books but they're in Hangeul/Korean!
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
 - Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
 - Cinnamon Miles. *Idiot's Guide to Sewing*.
+- National Folk Museum of Korea. *Korean Costumes through the Ages: Commemorating the Centennial of Korean Immigration to the United States*. Fabulous photos of reconstructed garments dating back to (Korea's) Three Kingdoms; bilingual text, English/Korean (Hangeul).
 - Singer Sewing Reference Library. *Quick and Easy Sewing Projects*; *Sewing for Special Occasions: Bridal, Prom and Evening Dresses*.
 
 # Spinning
