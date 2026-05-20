@@ -81,10 +81,13 @@ I have books but they're in Hangeul/Korean!
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
 ## Ply (magazine)
+- #4. Spring 2014. *Silk*.
 - #9. Summer 2015. *Fine*.
-- #10. Autumn 2015. *Texture*. 
+- #10. Autumn 2015. *Texture*.
+- #12. Spring 2016. *Cotton*.
 - #15. Winter 2016. *Plying*.
 - #25. Summer 2019. *Suspended Spindle*.
+- #26. Autumn 2019. *Cloth*.
 - #31. Winter 2020. *Warmth*.
 - #34. Autumn 2021. *Consistency*. Hannah Sandler's "The Music Consistency Hypothesis."
 
