@@ -2,7 +2,10 @@
 
 So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*.
 
-# Cross Stitch, Embroidery, Needlework
+# Cross Stitch, Embroidery, Needlework, Quilting
+I am not a quilter but I like looking at the pictures; my primary interest is in Korean traditional quilting.
+
+- Asian Art Museum of San Francisco and The Museum of Korean Embroidery, Seoul, Korea, 1995. *Profusion of Color: Korean Costumes and Wrapping Cloths of the Chosǒn Dynasty*.
 - Dale Burdett. *Learn to Design, Book One: 101 Alphabets*. Cross-stitch.
 - Young Yang Chang, Ph.D. *Painting with a Needle: Learning the Art of Silk Embroidery with Young Yang Ching*.
 - Gary Clarke. *Embroidery Illusions*.
@@ -65,9 +68,10 @@ I have books but they're in Hangeul/Korean!
 - National Folk Museum of Korea. *Korean Costumes through the Ages: Commemorating the Centennial of Korean Immigration to the United States*. Fabulous photos of reconstructed garments dating back to (Korea's) Three Kingdoms; bilingual text, English/Korean (Hangeul).
 - Singer Sewing Reference Library. *Quick and Easy Sewing Projects*; *Sewing for Special Occasions: Bridal, Prom and Evening Dresses*.
 
-# Spinning
+# Spinning and Fiber Preparation
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*; *Guide to Making Spinning Wheels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*; *Guide to Restoring an Antique Spinning Wheel*.
+- Grace Shalom Hopkins. *Card: You Control the Colourway*.
 - Cheryl Kolander. *A Silkworker's Notebook*, reproduction first edition.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
 - Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
