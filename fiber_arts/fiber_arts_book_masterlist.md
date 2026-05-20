@@ -75,6 +75,11 @@ I have books but they're in Hangeul/Korean!
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
+## Ply (magazine)
+- #9. Summer 2015. *Fine*.
+- #15. Winter 2016. *Plying*.
+- #34. Autumn 2021. *Consistency*. Hannah Sandler's "The Music Consistency Hypothesis."
+
 ## Spin Off (magazine)
 Only selected topics listed; not cmoprehensive.
 
