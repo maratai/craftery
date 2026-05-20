@@ -75,13 +75,17 @@ I have books but they're in Hangeul/Korean!
 - Cheryl Kolander. *A Silkworker's Notebook*, reproduction first edition.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
 - Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
+- Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Giude to Creating Traditional and Art Yarns*. Includes plans for a DIY spinning wheel from PVC pipe and similar materials; I have not done a test build.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
 ## Ply (magazine)
 - #9. Summer 2015. *Fine*.
+- #10. Autumn 2015. *Texture*. 
 - #15. Winter 2016. *Plying*.
+- #25. Summer 2019. *Suspended Spindle*.
+- #31. Winter 2020. *Warmth*.
 - #34. Autumn 2021. *Consistency*. Hannah Sandler's "The Music Consistency Hypothesis."
 
 ## Spin Off (magazine)
