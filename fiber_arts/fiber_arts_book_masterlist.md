@@ -15,6 +15,7 @@ I am not a quilter but I like looking at the pictures; my primary interest is in
 
 # Dyeing
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
+- Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
 # Fashion and Design
@@ -45,6 +46,7 @@ I have books but they're in Hangeul/Korean!
 
 # Nålbinding
 - Sigrid Briansdotter. *The Åsle Mitten Stitch: An Instruction Manual*. Thanks to Ursula Whitcher.
+- Ulrike Claßen-Büttner. *Nalbinding: What in the World Is That?: History and Technique of an Almost Forgotten Handicraft*.
 
 # Sewing, Tailoring
 **NOTE:** Some books on sewing/tailoring specifically with handwoven are under Weaving.
@@ -66,6 +68,7 @@ I have books but they're in Hangeul/Korean!
 - Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
 - Cinnamon Miles. *Idiot's Guide to Sewing*.
 - National Folk Museum of Korea. *Korean Costumes through the Ages: Commemorating the Centennial of Korean Immigration to the United States*. Fabulous photos of reconstructed garments dating back to (Korea's) Three Kingdoms; bilingual text, English/Korean (Hangeul).
+- Saori. *Intermediate Saori Clothing Design*.
 - Singer Sewing Reference Library. *Quick and Easy Sewing Projects*; *Sewing for Special Occasions: Bridal, Prom and Evening Dresses*.
 
 # Spinning and Fiber Preparation
