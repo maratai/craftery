@@ -3,6 +3,7 @@ Not a comprehensive list!
 
 I'm US-based, so for availability reasons in a cursed polity, I'm noting *location*.
 
+- [Ashford Wheels and Looms](https://www.ashford.co.nz) - New Zealand-based, but Ashford's wheels are ubiquitous in the USA and carried by many retailers, as well as often being available on the secondhand market. I own and have used a secondhand Ashford Traveller and Ashford Traditional. They're great wheels; I think of them as the Honda Civics of the spinning wheel world, maybe not "flashy" but absolutely reliable, and even for older examples (my Traditional is from 1981!), you can still readily obtain replacement parts, which is great for those of us buying secondhand.
 - [Blazing Shuttles](https://www.blazingshuttles.com/) - Sumptuous hand-dyed warps and skeins, plus other tools.
 - [Claudia Wollny](https://www.claudia-wollny-edition.com/en/) - Excellent books on tablet weaving and kumihimo, available in German/English (sometimes more!) bilingual editions.
 - [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com/) - US-based. I'm not in the market for another e-spinner (yet?), but I have a [Penelope band loom](https://www.daedalusspinningwheels.com/penelope), which can be set up for either card/tablet weaving or rigid heddle weaving. The Penelope is very well designed although I'm just barely starting a project on it. They have at least one e-spinner design for left-handers as well as right-handers!
@@ -14,8 +15,11 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - US-based. Incredibly beautiful art batts, also semi-local to me (they're in Texas).
 - [Gist Yarn](https://www.gistyarn.com) - US-based. Lovely weaving yarns and patterns/kits; I've used the Beam cotton in 3/2 and am looking forward to trying others.
 - [Handywoman](https://www.handywomanshop.com/) - US-based. Gorgeous handmade weaving tools, including looms, shuttles, and more. The shuttles are to die for, and she has some terrific ultra-slim ones. If you're an embroiderer or sewist, check out the wooden embroidery cards too!
+- [Inagaki Kiryo Weaving Supplies](https://inagakikiryo-weaving.com) - Japan-based. I have an R-25 floor loom (counterbalance, 6H 6T) being built to order; will report back!
 - [IxChel](https://ixchel.com.au/) - Australia-based. Spinning fibers (*amazing* fiber preparation - the wallaby batts are almost better than CENSORED to spin), plus yarns and tools.
+- [Lendrum Spinning Wheels](https://lendrumwheels.ca) - Canada-based, back from the ashes. I have not had the opportunity to try one although it's on my list!
 - [Level Wind Spinners](https://myautowinder.com/) - Makes the terrific LWS autowinder for the Pocket Wheel, among others.
+- [Louët](https://louet-inc.odoo.com) - Site is for the North American distributor; the company is Netherlands-based. I was fortunate enough to purchase an out-of-production Louët S90 secondhand; she has my favorite treadling experience of the wheels I've used, although she has a hilariously aggro take-up and would have made me cry when I was starting out! (My first wheel was a patient, steady Ashford Traveller, an excellent teacher).
 - [The Miller Girls Yarn](https://themillergirlsyarn.com/) - US-based. Terrific wholesaler with broad and unusual offerings.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - US-based small workshop maker of Pocket Wheel travel spinning wheels. I have a secondhand one and it's amazing. The wait list is about two years long but the wheel is *fantastic*.
 - [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - US-based (although Saori looms are imported from Japan). No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
