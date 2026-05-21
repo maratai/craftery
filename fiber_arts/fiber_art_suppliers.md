@@ -33,6 +33,6 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Treenway Silks](https://www.treenwaysilks.com/) - US-based supplier, fantastic mulberry and tussah silk for spinning. Also other varieties and blends I haven't tried yet.
 - [WEBS Yarn](https://www.yarn.com/) - US-based supplier. I have a [Toika loom](https://www.yarn.com/pages/toika-looms) (8-harness 8-shaft Toika Laila) from them. [Toika Laila listing on Toika's website](https://shop.toika.com/category/6/laila-loom); Toika itself is Finland-based but WEBS is their official sole distributor in the USA.
 - [Woodington UK](https://woodingtonuk.com/) - UK-based maker of looms and weaving tools. I have the [folding tablet loom](https://woodingtonuk.com/products/folding-tablet-loom) and it's gorgeous; if I weren't in the US, I would be ordering more from here.
-- [WooLee Winder Co.](https://www.wooleewinderstore.com/) - Flyers that wind on evenly for you, mechanical. I have one set up on my Louët S90 and enjoy it a lot.
-- [The Woolery](https://woolery.com/) - US-based.
+- [WooLee Winder Co.](https://www.wooleewinderstore.com/) - US-based. Flyers that wind on evenly for you, mechanical. I have one set up on my Louët S90 and enjoy it a lot.
+- [The Woolery](https://woolery.com/) - US-based retailer. A staggering variety of offerings.
 - [Yarn Barn of Kansas](https://www.yarnbarn-ks.com) - US-based. Terrific source of weaving, spinning, and other supplies, including books. Great selecton of weaving yarns. Carries the *Weaver's Craft* magazine, too.
