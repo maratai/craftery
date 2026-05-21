@@ -10,6 +10,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Dharma Trading Co.](https://www.dharmatrading.com/) - US-based supplier, especially but not exclusively for silk and dyes, silk painting supplies etc.
 - [Dreaming Robots](https://www.dreamingrobots.com/) - US-based. E-spinners and other tools. I have the [EEW 6.1](https://www.dreamingrobots.com/eew-61/) e-spinner and like it a lot.
 - [Eugene Textile Center](https://www.eugenetextilecenter.com/) - US-based. Their used books and fiber tools on the online store have delicious finds.
+- [Fancy Kitty](https://www.fancy-kitty.com) - US-based. Great fiber processing (and other) tools. I have the smaller bench-top wool picker and it's sturdy and very well designed, including a safety lock; if I didn't have a Strauch drum carder already (secondhand) I would be looking at them for one of those!
 - [Feral Scene](https://feralscene.com/) - US-based supplier, semi-local to me. Their art batts for spinning are great. Also carries [Spinolution](https://www.spinolution.com/) spinning wheels and accessories. (I have a Mach III.)
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) - US-based. More affordable tools beautifully and thoughtfully made. I have the yarn swift, bobbin winder, and cone holder.
 - [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - US-based. Incredibly beautiful art batts, also semi-local to me (they're in Texas).
