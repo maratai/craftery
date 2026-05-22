@@ -396,6 +396,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Discusses lace techniques (Leno, Spanish lace, Danish medallion, pick-up Bronson lace, Brooks bouquet), simple inlay, monk's belt, and dukagang.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
+- Mi Young Suh and Park Kil Soon. [*Traditional Textile Materials of Baekje Kingdom*](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=tsaconf).
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
@@ -413,7 +414,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - [Damask with Half-Heddles and a Weaving Sword](https://www.youtube.com/watch?v=UJSUywKSLhY) - YouTube, Duelling Rabbits Handweaving.
 
 ## Weaving: Dobby Looms
-- [Aufrüstung eines einfachen Tischwebstuhls zum mechanischen Dobby-Webstuhl - Teil 1](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen.html), [Teil 3](https://strick17.blogspot.com/2026/04/aufrustung-eines-einfachen.html). Auf Deutsch. I can't provide a translation, sorry!
+- [Aufrüstung eines einfachen Tischwebstuhls zum mechanischen Dobby-Webstuhl - Teil 1](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen.html), [Teil 2](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen_29.html?fbclid=IwY2xjawQ4LztleHRuA2FlbQIxMABicmlkETFSY0hOd2ZJM2UxYnhnQ1k4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiqvJgVUX4UGxwYbizHdIhwTEF5Spu3yopPjus_ozEriuV-dBZ-lFao12wbf_aem_wCYslYPEkwv_4QBmqoXmNA), [Teil 3](https://strick17.blogspot.com/2026/04/aufrustung-eines-einfachen.html). Auf Deutsch. I can't provide a translation, sorry!
 - [Dobby upgrade for 3D printed Table Loom (FraensEngineering)](https://fraensengineering.com/dobby-upgrade-for-3d-printed-table-loom/). I don't remember seeing an attestation as to how well this works.
 
 ## Weaving: Multishaft Looms
