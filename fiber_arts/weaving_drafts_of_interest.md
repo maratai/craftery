@@ -18,7 +18,7 @@ where I mean "of interest *to me*.
 - [Handweaving Draft #80520 "short float tile"](https://handweaving.net/draft-detail/80520/short-float-tile-ref-g-h-oelsner-44239-44240-erin-dobbins-2004-2026).
 
 # Eight-Harness Drafts
-- [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version soven is a 4-harness one.
+- [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version woven is a 4-harness one.
 
 # Sixteen-Harness Drafts
 - [Handweaving Draft #81252 "vintage star, broken twill"](https://handweaving.net/draft-detail/81252/vintage-star-broken-twill-amanda-cutler-2004-2026).
