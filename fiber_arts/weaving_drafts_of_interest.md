@@ -8,6 +8,7 @@ where I mean "of interest *to me*.
 - [Handweaving Draft #61450](https://handweaving.net/draft-detail/61450/exemple-my-own-original-pattern-swedens-2005).
 - [Handweaving Draft #63054](https://handweaving.net/draft-detail/63054/threading-draft-from-divisional-profile-tieup-draft-17-2005-2015).
 - [Handweaving Draft #74253](https://handweaving.net/draft-detail/74253/no-25-d-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
+- [Handweaving Draft #74272](https://handweaving.net/draft-detail/74272/no-30-b-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
 - [Handweaving Draft #79243 "snowflakes"](https://handweaving.net/draft-detail/79243/snowflakes-charlotte-miller-2004-2026).
 - [Handweaving Draft #79282 "balanced crackle diamonds"](https://handweaving.net/draft-detail/79282/balanced-crackle-diamonds-liz-2004-2026).
 
