@@ -412,11 +412,16 @@ I'm still learning the basics so haven't explored these thoroughly.
 ## Weaving: Damask
 - [Damask with Half-Heddles and a Weaving Sword](https://www.youtube.com/watch?v=UJSUywKSLhY) - YouTube, Duelling Rabbits Handweaving.
 
+## Weaving: Dobby Looms
+- [Aufrüstung eines einfachen Tischwebstuhls zum mechanischen Dobby-Webstuhl - Teil 1](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen.html). Auf Deutsch. I can't provide a translation, sorry!
+- [Dobby upgrade for 3D printed Table Loom (FraensEngineering)](https://fraensengineering.com/dobby-upgrade-for-3d-printed-table-loom/). I don't remember seeing an attestation as to how well this works.
+
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Deborah Silver. *The Technique of Split-Shed Weaving*. Fantastic "pictorial" technique with supplementary warp for looms with 4+ harnesses. Requires familiarity with 4+ shafts and weaving drafts.
 - Marian Stubenitsky. *Weaving with Echo and Iris*. Over my head right now, but extraordinary to page through.
+- [Weberei Hamburg](https://www.weberei-hamburg.com/en/store). Books on loom construction and design, available auf Deutsch and in English.
 - Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic
   
 ## Weaving: Rigid Heddle Looms
