@@ -5,7 +5,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*.
 
 # Embroidery
-- Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, it's 80% satin stitch by volume.
+- Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, it's 80% satin  stitch by volume.
 - Sarah Homfray. *Silk Shading*. I will be destashing this in a friend's direction. If you know anything about color and some embroidery stitches, this is nothing new. Lovely photos though, and a reasonable reference/starting point for a beginner.
 - Shuji Tamura. *The Techniques of Japanese Embroidery*. Superlative. **Recommended**.
 
@@ -413,7 +413,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - [Damask with Half-Heddles and a Weaving Sword](https://www.youtube.com/watch?v=UJSUywKSLhY) - YouTube, Duelling Rabbits Handweaving.
 
 ## Weaving: Dobby Looms
-- [Aufrüstung eines einfachen Tischwebstuhls zum mechanischen Dobby-Webstuhl - Teil 1](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen.html). Auf Deutsch. I can't provide a translation, sorry!
+- [Aufrüstung eines einfachen Tischwebstuhls zum mechanischen Dobby-Webstuhl - Teil 1](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen.html), [Teil 3](https://strick17.blogspot.com/2026/04/aufrustung-eines-einfachen.html). Auf Deutsch. I can't provide a translation, sorry!
 - [Dobby upgrade for 3D printed Table Loom (FraensEngineering)](https://fraensengineering.com/dobby-upgrade-for-3d-printed-table-loom/). I don't remember seeing an attestation as to how well this works.
 
 ## Weaving: Multishaft Looms
