@@ -392,6 +392,7 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 I'm still learning the basics so haven't explored these thoroughly.
 
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*. Primarily concerned with cotton and linen warps.
+- Kelly Casanova. [Weaving Cost Estimator](https://kellycasanovaweavinglessons.com/weaving-cost-estimator).
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Discusses lace techniques (Leno, Spanish lace, Danish medallion, pick-up Bronson lace, Brooks bouquet), simple inlay, monk's belt, and dukagang.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
