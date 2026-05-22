@@ -10,6 +10,7 @@ where I mean "of interest *to me*.
 - [Handweaving Draft #74127 "echo and iris, p. 40"](https://handweaving.net/draft-detail/74127/pg-40-weaving-with-echo-and-iris-marian-stubenitsky-netherlands-2013-2019).
 - [Handweaving Draft #74253](https://handweaving.net/draft-detail/74253/no-25-d-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
 - [Handweaving Draft #74272](https://handweaving.net/draft-detail/74272/no-30-b-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
+- [Handweaving Draft #74484 "twill periwinkle"](https://handweaving.net/draft-detail/74484/perwinkle-as-drawn-in-twill-robyn-spady-marguerite-davison-a-handweavers-pattern-book-page-131-2004-2026).
 - [Handweaving Draft #79243 "snowflakes"](https://handweaving.net/draft-detail/79243/snowflakes-charlotte-miller-2004-2026).
 - [Handweaving Draft #79282 "balanced crackle diamonds"](https://handweaving.net/draft-detail/79282/balanced-crackle-diamonds-liz-2004-2026).
 
