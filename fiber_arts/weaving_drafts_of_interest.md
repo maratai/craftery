@@ -2,6 +2,7 @@
 where I mean "of interest *to me*.
 
 # Four-Harness Drafts
+- [Handweaving Draft #33992](https://handweaving.net/draft-detail/33992/figure-403-a-handbook-of-weaves-by-g-h-oelsner-germany-1915).
 - [Handweaving Draft "butterfly-flower" #61448](https://handweaving.net/draft-detail/61448/butterfly-flower-my-own-original-pattern-2005).
 - [Handweaving Draft #61450](https://handweaving.net/draft-detail/61450/exemple-my-own-original-pattern-swedens-2005).
 - [Handweaving Draft #74253](https://handweaving.net/draft-detail/74253/no-25-d-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
