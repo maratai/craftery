@@ -401,6 +401,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
 - R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
+- Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).
 
 
 ## Weaving: Card/Tablet Weaving
