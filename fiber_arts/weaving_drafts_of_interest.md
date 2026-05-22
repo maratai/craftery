@@ -7,6 +7,7 @@ where I mean "of interest *to me*.
 - [Handweaving Draft #61448 "butterfly-flower"](https://handweaving.net/draft-detail/61448/butterfly-flower-my-own-original-pattern-2005).
 - [Handweaving Draft #61450](https://handweaving.net/draft-detail/61450/exemple-my-own-original-pattern-swedens-2005).
 - [Handweaving Draft #63054](https://handweaving.net/draft-detail/63054/threading-draft-from-divisional-profile-tieup-draft-17-2005-2015).
+- [Handweaving Draft #74126 "echo and iris, p. 32"](https://handweaving.net/draft-detail/74126/pg-32-weaving-with-echo-and-iris-marian-stubenitsky-netherlands-2013-2019).
 - [Handweaving Draft #74127 "echo and iris, p. 40"](https://handweaving.net/draft-detail/74127/pg-40-weaving-with-echo-and-iris-marian-stubenitsky-netherlands-2013-2019).
 - [Handweaving Draft #74253](https://handweaving.net/draft-detail/74253/no-25-d-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
 - [Handweaving Draft #74272](https://handweaving.net/draft-detail/74272/no-30-b-album-of-weaving-patterns-v-a-and-a-g-dolivo-dobrovolsky-russia-1912).
