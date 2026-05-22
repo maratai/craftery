@@ -74,6 +74,7 @@ I have books but they're in Hangeul/Korean!
 # Spinning and Fiber Preparation
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*; *Guide to Making Spinning Wheels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*; *Guide to Restoring an Antique Spinning Wheel*.
+- Stephenie Gaustaud. *The Practical Spinner's Guide: Cotton, Flax, Hemp*.
 - Grace Shalom Hopkins. *Card: You Control the Colourway*.
 - Cheryl Kolander. *A Silkworker's Notebook*, reproduction first edition.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
