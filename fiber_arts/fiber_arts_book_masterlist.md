@@ -2,6 +2,11 @@
 
 So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*.
 
+# Cobblery, Leatherworking, Shoemaking
+Not "fiber arts" as such but with some allied crossover. Also I'm too lazy to start another Markdown file.
+
+- Jake Garrett. *Mastering the Art of Shoemaking: A Practical Beginner's Guide to Handcrafting Custom Footwear from Scratch*.
+
 # Cross Stitch, Embroidery, Needlework, Quilting
 I am not a quilter but I like looking at the pictures; my primary interest is in Korean traditional quilting.
 
