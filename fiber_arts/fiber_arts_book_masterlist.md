@@ -32,6 +32,7 @@ I am not a quilter but I like looking at the pictures; my primary interest is in
 # Fashion and Design
 - Jay Calderin. *Fashion Design Essentials: 100 Principles of Fashion Design*.
 - Zoë Hong. *Fashion School in a Book: Design and Illustration for the Beginner and the Brand*.
+- Amy Miller. *Dressed to Kill: British Naval Uniform, Masculinity and Contemporary Fashions, 1748-1857*. Includes (scaled-down) pattern tracings!
 
 # Knitting
 - Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to be but this one booklet has been handy. Thanks to Kate Salter.
