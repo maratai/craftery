@@ -7,7 +7,11 @@ Not "fiber arts" as such but with some allied crossover. Also I'm too lazy to st
 
 - Jake Garrett. *Mastering the Art of Shoemaking: A Practical Beginner's Guide to Handcrafting Custom Footwear from Scratch*.
 - Valerie Michael. *The Leatherworking Handbook: A Practical Illustrated Sourcebook of Techniques and Projects*.
-- Studio Tac Creative, in partnership with Craft & Co., Ltd. *Leather Crafting Starter Book*. If you're starting and can only pick one book, this one; Japanese but in English translation, notably clear explanations and photos. If you can get *two*, I recommend the Valerie Michael text as your second; less detailed, but also very good and covers some more advanced techniques (a detailed consideration of gusset types and construction, e.g.) that the Studio Tac book doesn't.
+- Wade Motawi. *Footwear Pattern Making and Last Design: A Beginner's Guide to the Fundamental Techniques of Shoemaking*.
+- Harry Rogers. *Making Handmade Shoes: A Step-by-Step Guide*. Discusses traditional shoes with hand-sewn welts, with a detailed overview of tools and two approaches to patterns (one is quick and dirty, the other more careful/exact).
+- Studio Tac Creative, in partnership with Craft & Co., Ltd. *Leather Crafting Starter Book*.
+
+If you're starting in general leatherworking and can only pick one book, get the Studio Tac Creative one (it was affordable used at the time I obtained it); Japanese but in English translation, notably clear explanations and photos. If you can get *two*, I recommend the Valerie Michael text as your second; less detailed, but also very good and covers some more advanced techniques (a detailed consideration of gusset types and construction, e.g.) that the Studio Tac book doesn't.
 
 # Cross Stitch, Embroidery, Needlework, Quilting
 I am not a quilter but I like looking at the pictures; my primary interest is in Korean traditional quilting.
