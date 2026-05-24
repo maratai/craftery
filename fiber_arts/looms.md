@@ -55,7 +55,7 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 # Floor Looms
 
 ## [Inagaki Kiryou](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. I have one on order (paid in advance and being built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied. Note, however, that they've recently (as of late May 2026) revamped their website, which now includes an easier way to order online on the English-language version of the site! I covet the [65 cm warping drum](https://inagakikiryo-weaving.com/collections/warping-board-%E3%82%B3%E3%83%94%E3%83%BC/products/warping-drum-65cm) (which also requires 60 [spools](https://inagakikiryo-weaving.com/collections/warping-tool-accessories/products/japanese-style-spool-set-of-10) and a [spool winder](https://inagakikiryo-weaving.com/collections/spool-winder/products/guide-system-spool-winder). Someday, if I am very good...?
+Japanese floor loom. I have one on order (paid in advance and being built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied. Note, however, that they've recently (as of late May 2026) revamped their website, which now includes an easier way to order online on the English-language version of the site! I covet the [65 cm warping drum](https://inagakikiryo-weaving.com/collections/warping-board-%E3%82%B3%E3%83%94%E3%83%BC/products/warping-drum-65cm) (which also requires 60 [spools](https://inagakikiryo-weaving.com/collections/warping-tool-accessories/products/japanese-style-spool-set-of-10) and a [spool winder](https://inagakikiryo-weaving.com/collections/spool-winder/products/guide-system-spool-winder)). Someday, if I am very good...?
 
 This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it was essentially the same steps. (I had an assembly question ahead of time.)
 
@@ -68,9 +68,9 @@ This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/
 - 6 harnesses, 6 treadles - counterbalance
 
 ## Saori Piccolo
-I love how petite this is - for my use case, this is perfect. A great weaving experience for plainweave simplicity and lighter weights. It's pretty sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving. I got into handweaving by way of *handspinning*, so it's a great way to showcase handspun!
+I love how petite this is. A great weaving experience for plainweave simplicity and lighter weights. It's sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving. I got into handweaving by way of *handspinning*, so it's a great way to showcase handspun in plainweave!
 
-There are two height settings for the Piccolo; the lower one can (e.g.) accommodate children. I'm told Saori looms are low-slung generally and not great for tall weavers, although there are 4" height risers as a paid add-on. I'm short (5'4") so this has absolutely not been an issue for me, but I'm guessing tall weavers will want to look elsewhere.
+There are two height settings for the Piccolo; the lower one can (e.g.) accommodate children. I'm told Saori looms are low-slung and not great for tall weavers, although there are 4" height risers as a paid add-on. I'm short (5'4") so this has not been an issue for me, but I'm guessing tall weavers will want to look elsewhere.
 
 **Specs**
 - weight: 15.3 lbs (7 kg)
@@ -99,7 +99,7 @@ Here are the harnesses/heddles being threaded on a Saori Kenzo ready-made warp s
 
 Two-harness two-treadle counterbalance floor loom. This folds within seconds (even when warped) and is only 30 lbs. (!). This is pricey but has a number of add-ons and accessibility features that I find useful because of chronic health issues. I find it a delight to use although a more "technical" weaver probably wants a larger/sturdier loom.
 
-I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. The sinking shed harness system is slightly finicky (check the wires aren't crossed!) but works well once adjusted.
+I've converted her to a four-harness six-treadle sinking shed loom with the kit that you can buy as an add-on. You can convert back to 2H 2T as well, but as I have since obtained a Saori Piccolo, that will likely satisfy my simple plainweave desires. The sinking shed harness system is slightly finicky to set up (check the wires aren't crossed!) but works well once adjusted.
 
 ![Saori Wx60 as a 4H 6T sinking shed loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-09-saori.jpg?raw=true)
 
@@ -122,7 +122,7 @@ By the way, they're not kidding when they say a smaller floor loom and a larger 
 
 ![Saori WX60 in the back, Lojan Flex in the front (closer to viewer)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-09-looms-03.jpg?raw=true)
 
-I prize lighter weight to an unusual degree, again due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is incredibly compact when folded up, although ironically, I have plenty of *space*.
+I prize lighter/smaller looms due to health issues (and living on the Gulf Coast and thinking about, "What if I had to evacuate this loom in a hurry?"). The Saori is incredibly compact when folded up, although ironically, I have plenty of *space*.
 
 **Add-ons**
 
@@ -135,10 +135,9 @@ These add up significantly in price although some of them are for ease of use an
 - hand lever for the warp brake
 - handle for the beater
 - Saori Kenzo ready-made warp system
+- wheels so I can roll this out onto the patio on a nice day
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
-
-- wheels so I can roll this out onto the patio on a nice day
 
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
