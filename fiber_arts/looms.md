@@ -55,9 +55,9 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 # Floor Looms
 
 ## [Inagaki Kiryou](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. I have one on order (paid in advance and built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied.
+Japanese floor loom. I have one on order (paid in advance and being built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied. Note, however, that they've recently (as of late May 2026) revamped their website, which now includes an easier way to order online on the English-language version of the site! I covet the [65 cm warping drum](https://inagakikiryo-weaving.com/collections/warping-board-%E3%82%B3%E3%83%94%E3%83%BC/products/warping-drum-65cm) (which also requires 60 [spools](https://inagakikiryo-weaving.com/collections/warping-tool-accessories/products/japanese-style-spool-set-of-10) and a [spool winder](https://inagakikiryo-weaving.com/collections/spool-winder/products/guide-system-spool-winder). Someday, if I am very good...?
 
-This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it was essentially the same steps. (I had an assembly quesetion ahead of time.)
+This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it was essentially the same steps. (I had an assembly question ahead of time.)
 
 **Specs**
 - **weight:** I've inquired out of curiosity!
@@ -143,7 +143,7 @@ These add up significantly in price although some of them are for ease of use an
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
-Arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. Note that the online catalog/store doesn't list the Laila (although other Toika looms are listed); you have to contact WEBS about it. Mine was built to order as (at the time I purchased it) WEBS puts in orders to Toika four times a year, to ship from Finland to the USA.
+Ordered via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. The online catalog/store doesn't list the Laila (although other Toika looms are listed); you have to contact WEBS to order the Laila specifically. Mine was built to order as (at the time I purchased it) WEBS puts in orders to Toika four times a year, to ship from Finland to the USA.
 
 **IMPORTANT:** Double-check that you have the correct assembly instructions for your version of the Toika Laila! The WEBS assembly manual is outdated for the version I received (arrived on April 18, 2026); the components list (the smaller pieces, not the main large wooden loom pieces) didn't match what I had. **[LAILA LOOM assembly](https://github.com/maratai/craftery/blob/main/fiber_arts/LAILA_LOOM.pdf)** is a PDF of the assembly instructions I received on May 8, 2026 after contacting Toika directly about the discrepancy. If yours is different, your best bet is to [contact Toika](https://shop.toika.com/page/2/contact) yourself and ask for updated instructions correct to your model. Assembling based on the outdated instructions (in my case) omitted important information re: the bearing plates on the warp and cloth beams, so we had to disassemble and reassemble the loom to get those correctly placed.
 
@@ -151,11 +151,21 @@ Arrived from WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-
 
 **Specs**
 - weight: 65 lbs
-- weaving width: 27.5"
+- weaving width: 27.5" (70 cm)
 - total width: 40.5" (45.25" with bench)
 - height: 47.25"
 - depth: 33.5" (23.625" folded)
 - 8 harnesses, 8 treadles - countermarche
+
+![Toika Laila, set up with 4H 4T](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-24-laila-01.jpg?raw=true)
+
+![My first weaving on the Laila, a WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-24-laila-02.jpg?raw=true)
+
+I also ordered the following to accompany my Laila:
+
+- reeds in 10-dent and 25-dent
+- a weaving temple (50-70 cm)
+- Raddle A (70 cm)
 
 ![Toika Laila assembly in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-24-laila-01.jpg?raw=true)
 
@@ -180,7 +190,7 @@ These are absurdly tiny and cute laser-cut wood. I have the tiniest one (about $
 These are Japanese but can be bought e.g. from [Rochester Textile](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) in the USA, or you can try your luck on eBay.
 
 # [Lojan Flex Rigid Heddle](https://lojan.nl/product/flex-rigid-heddle-loom/)
-**Nota bene**: I cannot in good conscience recommend this loom. The reed design alone is atrocious, but that wasn't the only problem. Sorry.
+**Nota bene**: I cannot in good conscience recommend this loom. The reed design is atrocious, but that wasn't the only problem. Sorry.
 
 Shown to the right on a Lojan loom stand with a Saori WX60 floor loom on the left for size/footprint comparison.
 
