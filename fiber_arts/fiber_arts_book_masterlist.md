@@ -180,6 +180,13 @@ Only selected topics listed; not cmoprehensive.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 
+## Handwoven (magazine)
+- Issue 168. January/February 2014. Silk, kumihimo.
+- Issue 174. March/April 2015. "East Meets West" and "ethnic weaving: sakiori, Navajo weqaving, shifu (paper yarn), Japanese design inspirations.
+
+## Little Looms (magazine)
+- Spring 2025. Inkle lace, inlay.
+
 ## Selvedge (magazine)
 Listings of discussed topics are a selection, not comprehensive. I bought a number of these secondhand from a weaver who was destashing to make room for newer delights!
 
@@ -228,6 +235,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Summer 2025, Issue 1. *Plain Weave*.
 - Autumn 2025. Issue 2. *Warp*.
 - Winter 2025. Issue 3. *Table*.
+- Spring 2026. Issue 4. *Drape*.
 - Summer 2026. Issue 5. *Twill*.
 
 # Equipment
