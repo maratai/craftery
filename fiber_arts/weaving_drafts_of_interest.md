@@ -2,6 +2,8 @@
 where I mean "of interest *to me*.
 
 # Four-Harness Drafts
+
+## Handweaving.net drafts
 - [Handweaving Draft #14087 "crackle design project"](https://handweaving.net/draft-detail/14087/xc00065-crackle-design-project-ralph-griswold-united-states-2004).
 - [Handweaving Draft #33992](https://handweaving.net/draft-detail/33992/figure-403-a-handbook-of-weaves-by-g-h-oelsner-germany-1915).
 - [Handweaving Draft #61448 "butterfly-flower"](https://handweaving.net/draft-detail/61448/butterfly-flower-my-own-original-pattern-2005).
@@ -16,6 +18,15 @@ where I mean "of interest *to me*.
 - [Handweaving Draft #79243 "snowflakes"](https://handweaving.net/draft-detail/79243/snowflakes-charlotte-miller-2004-2026).
 - [Handweaving Draft #79282 "balanced crackle diamonds"](https://handweaving.net/draft-detail/79282/balanced-crackle-diamonds-liz-2004-2026).
 - [Handweaving Draft #80520 "short float tile"](https://handweaving.net/draft-detail/80520/short-float-tile-ref-g-h-oelsner-44239-44240-erin-dobbins-2004-2026).
+
+## Handwoven (magazine) drafts
+- January/February 2014. Issue 148.
+  - Susan Wilson. "Bold Brights and Tranquil Tones: Polychrome Crackle Scarves." 4H 6T, twill-based block weave.
+  - Tien Chiu. "Little Luxuries: Silk Bag and Sachets." 4H or 8H, huck lace.
+
+## Weft (magazine) drafts
+- Issue 4. Spring 2026.
+  - Suzie Liles. "Linen and Lace Curtains." 4H, Swedish lace.
 
 # Eight-Harness Drafts
 - [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version woven is a 4-harness one.
