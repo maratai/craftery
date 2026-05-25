@@ -66,6 +66,7 @@ This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/
 - **height:** 165 cm (about 65")
 - **depth:** 160 cm (about 63")
 - 6 harnesses, 6 treadles - counterbalance
+- reed: 100/10 cm (25 dent)
 
 ## Saori Piccolo
 I love how petite this is. A great weaving experience for plainweave simplicity and lighter weights. It's sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving. I got into handweaving by way of *handspinning*, so it's a great way to showcase handspun in plainweave!
@@ -79,6 +80,7 @@ There are two height settings for the Piccolo; the lower one can (e.g.) accommod
 - height: 32" (36" when folded)
 - depth: 22" (6" when folded!)
 - 2 harnesses, 2 treadles - counterbalance
+- reed: 70/10 cm (17.5 dent - note that the "standard" reed you'd get for the Piccolo is 50/10 or 12.5 dent)
 
 Side-by-side picture comparison of the partially assembled Saori Piccolo (I'm threading the heddles etc separately) and Saori WX60 (*see* below):
 
@@ -110,7 +112,7 @@ I've converted her to a four-harness six-treadle sinking shed loom with the kit 
 - height: 38.6" (98.5 cm), or 41.7" (106 cm) when folded
 - depth: 30" (76 cm) or  9.8" (25 cm) when folded (!)
 - 2 harnesses, 2 treadles - counterbalance (can be converted to four harnesses, 6 treadles - sinking shed if you shell out for the conversion kit)
-- Comes with a reed at 5 dents/cm (approximately 12 dent/inch) and two harnesses with approximately 400 wire heddles. I've swapped the wire heddles out for Texsolv heddles.
+- Comes with a reed at 50/10 cm (12.5 dent) and two harnesses with approximately 400 wire heddles. I've swapped the wire heddles out for Texsolv heddles. I also separately purchased a finer reed at 100/10 cm (25 dent).
 
 I bought mine from [Saori Santa Cruz](https://www.etsy.com/shop/saorisantacruz) and some add-ons from [Saori Studio Los Angeles](https://saoristudiola.com/). No affiliation, just a very happy repeat customer of both. Saori Santa Cruz's Jill has terrific bespoke tutorials; Laura of Saori LA is also great to work with.
 
@@ -130,7 +132,6 @@ These add up significantly in price although some of them are for ease of use an
 
 - comb reed
 - cross holder
-- extra reed at 10 dent/cm (approximately 25 dent/inch)
 - four-harness, six-treadle sinking shed conversion kit (currently installed)
 - hand lever for the warp brake
 - handle for the beater
@@ -162,7 +163,7 @@ Ordered via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-l
 
 I also ordered the following to accompany my Laila:
 
-- reeds in 10-dent and 25-dent
+- reeds in 10 dent (40/10 cm) and 25 dent (100/10 cm)
 - a weaving temple (50-70 cm)
 - Raddle A (70 cm)
 
