@@ -28,6 +28,11 @@ where I mean "of interest *to me*.
 - Issue 4. Spring 2026.
   - Suzie Liles. "Linen and Lace Curtains." 4H, Swedish lace.
 
+# Six-Harness Drafts
+
+## Handwoven (magazine)
+- Issue 174. March/April 2015. Margaret Zeps. "Japanese Noren Door Panels." 6H, plain weave with supplementary warp and weft.
+
 # Eight-Harness Drafts
 - [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version woven is a 4-harness one.
 
