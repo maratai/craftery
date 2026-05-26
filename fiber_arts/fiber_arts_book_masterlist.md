@@ -206,6 +206,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 39. Clothes peg design; removing different types of stains; table linens; the globalization of fabric; weaving in Jiangsu Province, China; 
 - Issue 40. Norwich Textiles, the Union Jack, militaria restoration, shoddy fabrics, dye guild and trade union history, court tailors and dressmakers, English style, academic dress.
 - Issue 42. Cushions, preserving the USA's industrial textile heritage, Triangle Shirtwaist Factory Fire, Orient Express, white leather gloves in the Fashion Museum in Bath, detective fashion in fiction, the history of legal dress, textile-related crime and punishment in Victorian Britian, indigo and woad.
+- Issue 44. Harris tweed; "demure" fashion; School Prints Ltd; from Jacquard to jobs and back; sewing for survival among the Inuktitut.
 - Issue 46. Signature cloths and social networking, traditional textiles in Pakistan, Tyrian purple, coronation textiles (UK), the psychology of the appeal of handmade textiles, chiffon, handbags, musicians in fashion.
 - Issue 71. Cotton, Central American indigo, American feedsacks (linen), African-American quilts at Colonial Williamsburg, Mexican textiles in Oaxaca, redefining dresscodes, fashion and exoticism, block printing, textiles of the Kuna of Panama.
 - Issue 72. Irish textiles, tartans, sustainability, tweeds, Marseille Soap, Indian textile history, Lebanese craftmanship.
