@@ -106,6 +106,7 @@ I have books but they're in Hangeul/Korean!
 - #26. Autumn 2019. *Cloth*.
 - #31. Winter 2020. *Warmth*.
 - #34. Autumn 2021. *Consistency*. Hannah Sandler's "The Music Consistency Hypothesis."
+- #50. Autumn 2025. *Plants*.
 
 ## Spin Off (magazine)
 Only selected topics listed; not cmoprehensive.
@@ -194,6 +195,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 15. Traditional horsehair weaving (and violin bows!) and equestrian textiles, medical textiles, skiwear, knickers.
 - Issue 16. Textile archives, needles, handkerchiefs and monograms, indigo, a tour of Japan.
 - Issue 17. Cotton, Dutch wax resist fabrics, surface design, South American decorations, Ethiopian crocheted hats.
+- Issue 19. Upholstery for the Underground; silk weaving in London's East End; historic English, Scottish, and Welsh fabrics; camouflage in military uniforms.
 - Issue 24. Silhouettes, silk flowers (Legeron workshop in Paris), floral fragrances in fashion (haute perfumerie), geometric designs, lei (Hawai'i), kaftans and robes.
 - Issue 32. Classic wardrobe staples, women in wartime and uniforms, historical re-enactors, embroidery (Susie Vickery), the history of pyjamas and night caps.
 - Issue 33. Wire coat hangers, haberdashery, notions, katazone (traditional stencil-dyed cloth), quilts (Welsh, USAn, Bengali, more).
