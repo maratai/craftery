@@ -93,11 +93,11 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 
 # Space Opera
 - Iain M. Banks. *Use of Weapons*. The Culture (series). I haven't read this yet. (In fact, the only Culture novels I've read are *The Player of Games* and *Surface Detail*.)
-- James S. A. Corey. *The Mercy of Gods*. The Captive's War (series in progress). **Recommended**.
+- James S. A. Corey. #1 *The Mercy of Gods*; #2 *The Faith of Beasts*. The Captive's War (series in progress). **Recommended**.
 - N. T. Narbutovskih. *Steel in the Blood*.
-- Alastair Reynods. *The Revenger*.
+- Alastair Reynolds. *The Revenger*.
 - Christopher Ruocchio. The Sun Eater #1 *Empire of Silence*. **currently reading**
-- A. D. Sui. *The Dragonfly Gambt*. Novella.
+- A. D. Sui. *The Dragonfly Gambit*. Novella.
 
 # Urban Fantasy
 - Simon R. Green. *Something from the Nightside*. Nightside series. **Recommended**.
