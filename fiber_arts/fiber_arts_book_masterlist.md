@@ -1,6 +1,6 @@
 # Fiber Arts Books and Magazines: Masterlist
 
-So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*.
+So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
 
 # Cobblery, Leatherworking, Shoemaking
 Not "fiber arts" as such but with some allied crossover. Also I'm too lazy to start another Markdown file.
@@ -208,6 +208,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 42. Cushions, preserving the USA's industrial textile heritage, Triangle Shirtwaist Factory Fire, Orient Express, white leather gloves in the Fashion Museum in Bath, detective fashion in fiction, the history of legal dress, textile-related crime and punishment in Victorian Britian, indigo and woad.
 - Issue 44. Harris tweed; "demure" fashion; School Prints Ltd; from Jacquard to jobs and back; sewing for survival among the Inuktitut.
 - Issue 46. Signature cloths and social networking, traditional textiles in Pakistan, Tyrian purple, coronation textiles (UK), the psychology of the appeal of handmade textiles, chiffon, handbags, musicians in fashion.
+- ISsue 47. Fabric necklace, Suzhou silk, fabrics for sports, saddles and equestrian wear, the history of balls (sports), Jeckells sails, swim and diving wear.
 - Issue 71. Cotton, Central American indigo, American feedsacks (linen), African-American quilts at Colonial Williamsburg, Mexican textiles in Oaxaca, redefining dresscodes, fashion and exoticism, block printing, textiles of the Kuna of Panama.
 - Issue 72. Irish textiles, tartans, sustainability, tweeds, Marseille Soap, Indian textile history, Lebanese craftmanship.
 - Issue 73. Sequins, textiles in St. Petersburg, domestic and decorative embroidery (fictional characters), 1920s fashion design, costume design in miniature, English medieval embroidery, Pandora Dolls as portable mannequins, costume design for theater/drama.
