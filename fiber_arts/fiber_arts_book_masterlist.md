@@ -3,7 +3,7 @@
 So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
 
 # Cobblery, Leatherworking, Shoemaking
-Not "fiber arts" as such but with some allied crossover. Also I'm too lazy to start another Markdown file.
+Not "fiber arts" as such but with crossover (e.g. stitching techniques). Also I'm too lazy to start another Markdown file.
 
 - Jake Garrett. *Mastering the Art of Shoemaking: A Practical Beginner's Guide to Handcrafting Custom Footwear from Scratch*.
 - Valerie Michael. *The Leatherworking Handbook: A Practical Illustrated Sourcebook of Techniques and Projects*.
@@ -109,8 +109,6 @@ I have books but they're in Hangeul/Korean!
 - #50. Autumn 2025. *Plants*.
 
 ## Spin Off (magazine)
-Only selected topics listed; not cmoprehensive.
-
 - Summer 2001. Mahatma Gandhi, setting twist, spindle-spun tunic, Old World crochet, Viking sails, drum carders, ombré handspun scarves, spinning silk for weaving (by Sara Lamb).
 - Winter 2020. Camel fiber, wilk silks, paco-vicuña fiber, handspun lace repair, bison fiber, milkweed.
 - Fall 2025. Handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
@@ -157,7 +155,7 @@ Only selected topics listed; not cmoprehensive.
 - Syne Mitchell. *Inventive Weaving on a Little Loom: Discover the Full Potential of the Rigid-Hedde Loom for Beginners and Beyond*.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
 - Anne E. Nygård. *Weaving Damask*.
-- Peggy Osterkamp. *Weaving for VBeginners: An Illustrated Guide*, 4th ed.
+- Peggy Osterkamp. *Weaving for Beginners: An Illustrated Guide*, 4th ed.
 - Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
@@ -189,7 +187,7 @@ Only selected topics listed; not cmoprehensive.
 - Spring 2025. Inkle lace, inlay.
 
 ## Selvedge (magazine)
-Listings of discussed topics are a selection, not comprehensive. I bought a number of these secondhand from a weaver who was destashing to make room for newer delights!
+I bought a number of these secondhand from a weaver who was destashing to make room for newer delights! Terrific to pore over.
 
 - Issue 14. Embroidery, cocktail frocks, Italian silks (Renaissance), Russian ikat patterned plates and textiles.
 - Issue 15. Traditional horsehair weaving (and violin bows!) and equestrian textiles, medical textiles, skiwear, knickers.
@@ -203,6 +201,7 @@ Listings of discussed topics are a selection, not comprehensive. I bought a numb
 - Issue 35. Cotton and the American Civil War, textil trademarks, vintage swimwear, Coats and Clark, basket-weaving, chair caning (Mary Cooper).
 - Issue 36. Obscure fabrics, wool revival, 18th century textile tokens, wool churches, foraging for fashion (Gönül Paksoy).
 - Issue 37. Velvet, puppet costuming, pantomime costumes and mummers, Ballet Russes costume conservation, Santa suits.
+- Issue 38. Rajasthan's camel decorations and harnesses; women in sericulture; taxidermy and feathers; cashmere goats; eiderdown; ganseys (fishermen's pullovers); coracle making.
 - Issue 39. Clothes peg design; removing different types of stains; table linens; the globalization of fabric; weaving in Jiangsu Province, China; 
 - Issue 40. Norwich Textiles, the Union Jack, militaria restoration, shoddy fabrics, dye guild and trade union history, court tailors and dressmakers, English style, academic dress.
 - Issue 42. Cushions, preserving the USA's industrial textile heritage, Triangle Shirtwaist Factory Fire, Orient Express, white leather gloves in the Fashion Museum in Bath, detective fashion in fiction, the history of legal dress, textile-related crime and punishment in Victorian Britian, indigo and woad.
