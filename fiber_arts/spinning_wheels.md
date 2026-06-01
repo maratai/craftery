@@ -142,7 +142,7 @@ I see that [Lendrum Wheels](https://lendrumwheels.ca/) (Canada) has risen from t
 I'd absolutely try a Jensen spinning wheel if I had the opportunity, but this is unlikely at this point.
 
 ## [Carson Cooper](https://www.ztwist.com/) accelerated wheel
-I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD), or even see one in person!
+I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD) since I also got into [floor looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md#floor-looms) for handweaving...
 
 ## [Golding spinning wheel](https://dropspindle.info/product-category/spinning-wheels/)
 At this point, we're solidly into heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/). These *start* at $10,000+ USD but go up to 33:1 in ratio.
