@@ -43,11 +43,11 @@ Athena Capricorn.
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)\
 Size comparison: Athena Capricorn (left) and Pocket Wheel (right).
 
-Travel spinning wheel - still acclimating.
+Travel spinning wheel.
 
 The "spiral" orifice design on the flyer is extremely clever, but if (like me) you like to spin weird art yarns with inclusions and fiber bits sticking out, it does inherently mean that the yarn is likelier to snag on the orifice. If you have better control of your spinning or have a less art-yarn-spinning habit, this is probably not an issue.
 
-From an ergonomics standpoint, this wheel probably works better if you're a bit taller due to the height of the treadles, which are slightly tough to get started but have smooth action once the wheel is in motion. This is a me problem: I have the bad combination of permanently wrecked ankles and being short (I'm 5'4") so I have to use a higher bench to treadle this comfortably, and I have reasonably strong legs but a poor ability to do anything involving my ankles.
+From an ergonomics standpoint, this wheel probably works better if you're taller than I am due to the height of the treadles, which are slightly tough to get started but have smooth action once the wheel is in motion. This is a me problem: I have the bad combination of permanently wrecked ankles and being short (I'm 5'4") so I have to use a higher bench to treadle this comfortably, and I have reasonably strong legs but a poor ability to do anything involving my ankles.
 
 - Weight: 10 lbs.
 - Ratios: 5:1 - 13:1, continuous.
@@ -58,7 +58,7 @@ From an ergonomics standpoint, this wheel probably works better if you're a bit 
 ![Louët S90 and Pocket Wheel side by side](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-12-09-louet-pocket.jpg?raw=true)\
 Size comparison: Louët S90 (left) and Pocket Wheel (right).
 
-Folding single treadle wheel, Scotch tension. Spins like a racehorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's definitely a learning curve!
+Folding single treadle wheel, Scotch tension; bought secondhand as they are out of production. Spins like a racehorse; has extremely aggressive takeup, apparently a known characteristic of older Louët wheels. Plies beautifully; the built-in lazy Kate can swing away from the wheel with a simple knob adjustment (and then re-tighten to lock back in place) and works surprisingly well. Delightful but there's a learning curve!
 
 This would have made me cry as a first wheel, but after ~nine months of spinning experience, it's *superb* for wool blends and plying, and I've just skilled up enough to spin silk on it. I'm so grateful to the seller (I bought this secondhand as these are no longer in production). In terms of footprint, while this isn't super portable, it can be toted around the house and folded up for storage, and it can travel in a car no problem. It has a much narrower footprint than e.g. the Ashford Traveller, which is also nice.
 
@@ -73,9 +73,9 @@ I have a **WooLee Winder** on order for this; sadly, the LWS Autowinder isn't co
 ![Athena Capricorn (left) next to Pocket Wheel (right)](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-athena-vs-pocket.jpg?raw=true)\
 Size comparison: Athena Capricorn (left), Pocket Wheel (right).
 
-Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't get up to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind for fine spinning is absolutely doable. Mine is outfitted with an [**LWS Autowinder**](https://myautowinder.com/products/pocket-wheel), which is game-changingly amazing. I'd like to try the WooLee Winder for this too to see how that's like!
+Double-treadle travel spinning wheel, Scotch tension. I have a lovely secondhand example and am on the waiting list for a new one (before I found the secondhand one). Extremely portable, comfortable to spin on. The treadling action is *incredibly* responsive, possibly too much so if you treadle more heavily. This doesn't go to a very fast ratio, but I managed to teach myself spinning cotton on an Ashford Traveller stuck at 6:1 for Reasons, so this feels luxurious! Also, the lightness of the treadling action means that treadling like the wind for fine spinning is absolutely doable. Mine is outfitted with an [**LWS Autowinder**](https://myautowinder.com/products/pocket-wheel), which is game-changingly amazing. I'd like to try the WooLee Winder for this too to see how that's like!
 
-This is extremely lightweight and portable, but if you have longer legs or a wider stance (or wear dresses/skirts often), try before buying, I'm 5'4" with stubby legs and *very knock-kneed*, and I find that even after adjusting the height of my bench (it's a cheap but sturdy $40 stage piano bench from Yamaha IIRC), I have to splay my legs a little for comfortable spinning.
+This is lightweight and portable, and disassembles/reassembles easily, but if you have longer legs or a wider stance (or wear dresses/skirts often), try before buying. I'm 5'4" with stubby legs and *very knock-kneed*, and I find that even after adjusting the height of my bench or chair, I have to splay my legs for comfortable spinning.
 
 Right now what I enjoy spinning on this is cotton, ramie, lotus silk, mulberry silk, tussah silk.
 
@@ -88,19 +88,19 @@ If I could *only* keep one spinning wheel, this would be it (with the Spinolutio
 ## [Spinolution](https://www.spinolution.com/) Mach III
 ![Spinolution Mach III](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-10-spinolution-mach-3-01.jpg?raw=true)
 
-I lucked into one on eBay sold by a spinner who packed it with *incredible* care. Twelve hours after its arrival (...I had to sleep), she's up and running. This may well be My Last Wheel in production terms. (I'm on a waitlist for a new Pocket Wheel.) This is the older version of what is now the still-in-production [Spinolution Monarch](https://www.spinolution.com/monarch). The accessories are generally intercompatible between the Mach III and Monarch!
+I lucked into a secondhand example on eBay sold by a spinner who packed it with *incredible* care. Twelve hours after its arrival (...I had to sleep), she was up and running. This may well be My Last Wheel in production terms. (I'm on a waitlist for a new Pocket Wheel; the "luxury" bespoke wheels are out of reach.) This is the older version of what is now the in-production [Spinolution Monarch](https://www.spinolution.com/monarch). The accessories are generally intercompatible between the Mach III and Monarch!
 
 Double-treadle castle wheel, "Scotch tension" - there is not a conventional brake band for the bobbin, but a screw/spring/block assembly that carries out the same function and means that you don't have to reset from zero each time you change the bobbin. Takeup varies from almost nothing to aggressive, although adjusting this requires a light touch as the brake knob, once engaged, is sensitive to small fractions of a turn.
 
-I adore the open-hook orifice and peg (vs. hook or loop) design on the flyer, ditto the magnetic flyer head. This may be one of my favorite *flyer designs* alongside that of the Pocket Wheel.
+I adore the open-hook orifice and peg (vs. hook or loop) design on the flyer, ditto the magnetic flyer head. This may be one of my favorite *flyer designs* alongside that of the Pocket Wheel. The modular flyer is easy to switch out.
 
 This is the heaviest wheel I own, but the footprint is not *that* much larger than that of e.g. the Ashford Traveller.
 
 - Weight: 25 lbs.
 - Dimensions: 24" W x 12" D x 32" H
-- Ratios: 1:3.5 to 1:21 on the regular flyer. The [Spinolution *Monarch*](https://www.spinolution.com/monarch) (the updated/current version of this wheel) goes up to 1:52 on the 4A accelerated flyer. Spinolution informs me that accessories for the Monarch are compatible with the Mach III; I have installed a 4A accelerated flyer with a [SpinPerfect](https://spinperfect.com/collections/spinperfect-for-spinolution) [PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer?variant=39868600909937) and I love them both already! I've gone ahead and installed the larger PaulyWinder I also ordered on the "regular" flyer.
-- Not "easily" portable, but 25 lbs. plus the travel kit (wheels!) makes this something one can wheel around the house. My Saori WX60 floor loom folds and is 30 lbs., and on a non-bad day I can manage that fine.
-- The toe-based double treadle is unusual (and is probably a YMMV, I would definitely try before buying if that's possible) but the action is incredibly gentle and responsive. I could probably "single treadle" with one foot on a slower ratio if I felt like it.
+- Ratios: 1:3.5 to 1:21 on the regular flyer. The [Spinolution *Monarch*](https://www.spinolution.com/monarch) (the updated/current version of this wheel) goes up to 1:52 on the 4A accelerated flyer, which I use for silk or cotton when spinning very fine. Spinolution informed me that accessories for the Monarch are compatible with the Mach III; I have installed a 4A accelerated flyer with a [SpinPerfect](https://spinperfect.com/collections/spinperfect-for-spinolution) [PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer?variant=39868600909937) and I love them both! I've installed the larger PaulyWinder I also ordered on the "regular" flyer.
+- Not "easily" portable, but 25 lbs. plus the travel kit (wheels!) makes this something one can readily wheel around the house. My Saori WX60 floor loom folds and is 30 lbs., and on a non-bad day I can manage that fine.
+- The toe-based double treadle action is unusual (and is probably a YMMV; I would try before buying if that's possible) but the action is incredibly gentle and responsive. I could "single treadle" with one foot on a slower ratio if I felt like it.
 
 ![mulberry (bombyx) silk singles WIP on a Spinolution Mach III with 4A accelerated flyer and SpinPerfect Paulywinder installed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-10-silk-01.jpg?raw=true)
 
