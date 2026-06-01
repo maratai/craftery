@@ -67,7 +67,7 @@ Two harnesses, two treadles, counterbalance, folding fllor loom. I bought from [
 Not from Saori, but I use this with a Glimåkra adjustable weaving bench.
 
 ## Toika Laila
-Currently assembling a [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarche with two reeds [10 dent and 25 dent], a raddle, and temple) Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
+The newest: [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarche with two reeds [10 dent and 25 dent], a raddle, and temple). I've only tried her with 4H 4T but am hoping the next test weaving will be an 8H draft! Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 # Pin and Tapestry Looms
  
@@ -105,7 +105,7 @@ Antique. Originally these were "toys," but *functional* toys! Too small and ligh
 I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. I have some secondhand shuttles on order and am looking forward to them.
 
 ## boat shuttles (various)
-Handywoman, Leclerc (from my sister! - they are fabulous), Saori (a regular medium shuttle and an "open" one).
+Handywoman, Leclerc (from my sister! - they are fabulous), Saori (a regular medium shuttle and an "open" one), some others acquired secondhand.
 
 ## [Handywoman](https://www.handywomanshop.com/) shuttles
 They come in a staggering variety of types. Her specialty shuttles for band weaving are especially great but the large ones are also lovely. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
@@ -152,11 +152,11 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
-- [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) yarn swift and cone holder.
+- [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
 - Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding Spinolution version.
 - Nålbinding needles, various, from friends and family.
-- niddy noddy - One was an extra with the Ashford Traveller, cleverly made of PVC pipe! The other is a very well designed Spinolution version that can be pulled apart for transport.
-- pickup sticks, various.
+- Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage.
+- lease and pickup sticks, various.
 - Saori Kenzo ready-made warp system
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
