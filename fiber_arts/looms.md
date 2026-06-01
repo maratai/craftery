@@ -1,6 +1,6 @@
 # Looms
 
-**Nota bene:** These are not intended as examples of "good" or even competent weaving, just pictures so you can get a sense of the loom in question.
+**Nota bene:** These are not intended as examples of "good" or competent weaving, just pictures so you can get a sense of the loom in question.
 
 # Band and Tape Looms
 
@@ -128,7 +128,7 @@ I prize lighter/smaller looms due to health issues (and living on the Gulf Coast
 
 **Add-ons**
 
-These add up significantly in price although some of them are for ease of use and/or accommodations for my wrecked health. These are from Saori unless otherwise specified (e.g. the Texsolv replacement heddles).
+These add up significantly in price although some of them are for ease of use and/or accommodations for my wrecked health. These are from Saori unless otherwise specified (e.g. the Texsolv replacement heddles). Saori looms are (depending of course on specifics) often terrific for disability/health accommodations.
 
 - comb reed
 - cross holder
@@ -143,7 +143,7 @@ These add up significantly in price although some of them are for ease of use an
 I've swapped out the wire heddles for **Texsolv** (300 heddles per harness on the two harnesses, for 600 heddles total, to use with the 10 dent/cm reed). Fear not, I kept the wire heddles!
 
 ## [Toika Laila](https://shop.toika.com/category/6/laila-loom)
-Ordered via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. The online catalog/store doesn't list the Laila (although other Toika looms are listed); you have to contact WEBS to order the Laila specifically. Mine was built to order as (at the time I purchased it) WEBS puts in orders to Toika four times a year, to ship from Finland to the USA.
+Ordered via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-looms) in the USA. The online catalog/store doesn't list the Laila (although other Toika looms are listed); you have to contact WEBS to order the Laila specifically. Mine was built to order as WEBS puts in orders to Toika four times a year, to ship from Finland to the USA.
 
 **IMPORTANT:** Double-check that you have the correct assembly instructions for your version of the Toika Laila! The WEBS assembly manual is outdated for the version I received (arrived on April 18, 2026); the components list (the smaller pieces, not the main large wooden loom pieces) didn't match what I had. **[LAILA LOOM assembly](https://github.com/maratai/craftery/blob/main/fiber_arts/LAILA_LOOM.pdf)** is a PDF of the assembly instructions I received on May 8, 2026 after contacting Toika directly about the discrepancy. If yours is different, your best bet is to [contact Toika](https://shop.toika.com/page/2/contact) yourself and ask for updated instructions correct to your model. Assembling based on the outdated instructions (in my case) omitted important information re: the bearing plates on the warp and cloth beams, so we had to disassemble and reassemble the loom to get those correctly placed.
 
@@ -168,6 +168,8 @@ I also ordered the following to accompany my Laila:
 - Raddle A (70 cm)
 
 ![Toika Laila assembly in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-24-laila-01.jpg?raw=true)
+
+I had considered an Oxabäck Lilla, as examples can be purchased from sellers in the USA as opposed to having to be built to order and shipped from Finland, but the Toika Laila's lighter attested weight (the Laila's 65 lbs for 8H 8T to the Lilla's 140 lbs) persuaded me to get the Laila. I do hope to try a Lilla someday, though!
 
 # Pin and Tapestry Looms
 
