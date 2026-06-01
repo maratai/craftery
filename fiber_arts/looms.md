@@ -169,7 +169,7 @@ I also ordered the following to accompany my Laila:
 
 ![Toika Laila assembly in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-24-laila-01.jpg?raw=true)
 
-I had considered an Oxabäck Lilla, as examples can be purchased from sellers in the USA as opposed to having to be built to order and shipped from Finland, but the Toika Laila's lighter attested weight (the Laila's 65 lbs for 8H 8T to the Lilla's 140 lbs) persuaded me to get the Laila. I do hope to try a Lilla someday, though!
+I had considered an Öxabäck Lilla, as examples can be purchased from sellers in the USA as opposed to having to be built to order and shipped from Finland, but the Toika Laila's lighter attested weight (the Laila's 65 lbs for 8H 8T to the Lilla's 140 lbs) persuaded me to get the Laila. I do hope to try a Lilla someday, though!
 
 # Pin and Tapestry Looms
 
