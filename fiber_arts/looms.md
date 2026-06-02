@@ -159,7 +159,7 @@ Ordered via WEBS, which [carries Toila Looms](https://www.yarn.com/pages/toika-l
 
 ![Toika Laila, set up with 4H 4T](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-24-laila-01.jpg?raw=true)
 
-![My first weaving on the Laila, a WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-24-laila-02.jpg?raw=true)
+![My first weaving on the Laila, a WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-01-laila-weaving.jpg?raw=true)
 
 I also ordered the following to accompany my Laila:
 
