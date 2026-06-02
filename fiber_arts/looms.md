@@ -161,7 +161,7 @@ Toika sells a *downloadable* PDF book as a guide to their looms, [*How to Use To
 
 ![Toika Laila, set up with 4H 4T](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-24-laila-01.jpg?raw=true)
 
-![My first weaving on the Laila, a WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-01-laila-weaving.jpg?raw=true)
+![My first weaving on the Laila, a WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-01-weaving.jpg?raw=true)
 
 I also ordered the following to accompany my Laila:
 
