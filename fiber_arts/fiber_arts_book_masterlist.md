@@ -119,7 +119,7 @@ I have books but they're in Hangeul/Korean!
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
 - Sharon D. Alderman and Kathryn Wertenberger. *Handwoven, Tailormade: A Tandem Guide to Fabric Designing, Weaving, Sewing and Tailoring*.
-- Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover.
+- Becky Ashenden. *Dress Your Loom the Vävstuga Way: A Bench-Side Photo Guide*. Photos by Ernie Conover. Also *Dress Your Loom the Swedish Way: An In-Depth Study of Time Honored Techniques*, which is a DVD with detailed demonstrations and explanations; discusses counterbalance and countermarche tie-ups (among many other things) as well as **damask pulleys**.
 - Mary Meigs Atwater. *The Shuttle-Craft Book of American Hand-Weaving*.
 - Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*.
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
