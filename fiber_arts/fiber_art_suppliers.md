@@ -47,4 +47,5 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Woodington UK](https://woodingtonuk.com/) - UK-based maker of looms and weaving tools. I have the [folding tablet loom](https://woodingtonuk.com/products/folding-tablet-loom) and it's gorgeous; if I weren't in the US, I would be ordering more from here.
 - [WooLee Winder Co.](https://www.wooleewinderstore.com/) - US-based. Flyers that wind on evenly for you, mechanical. I have one set up on my Louët S90 and enjoy it a lot. These do require that you buy the matching geared bobbins for use with the WooLee Winder, and add a bit of extra take-up.
 - [The Woolery](https://woolery.com/) - US-based retailer. A staggering variety of offerings.
+- [The Woolgatherers](https://www.woolgatherers.com/ONLINECATALOG.htm) - Terrifically informative, especially regarding looms.
 - [Yarn Barn of Kansas](https://www.yarnbarn-ks.com) - US-based. Terrific source of weaving, spinning, and other supplies, including books. Great selecton of weaving yarns. Carries the *Weaver's Craft* magazine, too.
