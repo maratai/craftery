@@ -55,9 +55,15 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 # Floor Looms
 
 ## [Inagaki Kiryou](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. I have one on order (paid in advance and being built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied. Note, however, that they've recently (as of late May 2026) revamped their website, which now includes an easier way to order online on the English-language version of the site! I covet the [65 cm warping drum](https://inagakikiryo-weaving.com/collections/warping-board-%E3%82%B3%E3%83%94%E3%83%BC/products/warping-drum-65cm) (which also requires 60 [spools](https://inagakikiryo-weaving.com/collections/warping-tool-accessories/products/japanese-style-spool-set-of-10) and a [spool winder](https://inagakikiryo-weaving.com/collections/spool-winder/products/guide-system-spool-winder)). Someday, if I am very good...?
+Japanese floor loom. I have one on order (paid in advance and being built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied. As of June 5, 2026, I'm informed they're conducting final checks and it should ship in the next two weeks!
 
-This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it was essentially the same steps. (I had an assembly question ahead of time.)
+Generously, they sent me an image of the loom being constructed:
+
+![Inagaki Kiryou R-25 loom in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-05-r25.jpg?raw=true)
+
+They've recently (as of May 2026) revamped their website, which now includes an easier way to order online on the English-language version of the site! I covet the [65 cm warping drum](https://inagakikiryo-weaving.com/collections/warping-board-%E3%82%B3%E3%83%94%E3%83%BC/products/warping-drum-65cm) (which also requires 60 [spools](https://inagakikiryo-weaving.com/collections/warping-tool-accessories/products/japanese-style-spool-set-of-10) and a [spool winder](https://inagakikiryo-weaving.com/collections/spool-winder/products/guide-system-spool-winder)). Someday, if I am very good...?
+
+This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it involves the same steps. (I had an assembly question ahead of time.)
 
 **Specs**
 - **weight:** I've inquired out of curiosity!
@@ -162,6 +168,10 @@ Toika sells a *downloadable* PDF book as a guide to their looms, [*How to Use To
 ![Toika Laila, set up with 4H 4T](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-24-laila-01.jpg?raw=true)
 
 ![My first weaving on the Laila, a WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-01-weaving.jpg?raw=true)
+
+Here's the Saori Piccolo next to the Toika Laila, for a size comparison:
+
+![itoguruma on the bed on the left, Saori Piccolo in the center, Toika Laila on the right](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-05-loom-room.jpg?raw=true)
 
 I also ordered the following to accompany my Laila:
 
