@@ -29,5 +29,7 @@ I haven't played these yet but I'm looking forward!
 - *Lone AstroTank: A Solitaire Sci-Fi Wargame*.
 - *Quests for the Brave: A Solitaire Fantasy Game*.
 
-# Solo Journaling Games
+# Solo Journaling Games: General
+- *Alone on a Journey: A Collection of Solo Adventuring Games* by Takuma Okada.
+- *Fuck I Am a Sucker for Hexagons in Space* by Moth Rodriguez. Fear not; there's a censored version of this too!
 - *Thrice-Damned* and *Where Gods Won't Tread* by Richard August.
