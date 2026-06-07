@@ -25,6 +25,7 @@
   - 4 Parallelism and Concurrent Programming
       - (more TK)
 - Matt Hackett. *How to Make a Video Game All by Yourself: 10 Steps, Just You and a Computer*. This will *not* teach you the coding or design end; it's rather about scoping and planning a one-person indie videogame project. It's small, succinct, excellent. [Various print and ebook purchase options](https://www.valadria.com/how-to-make-a-video-game-all-by-yourself/). **Recommended**.
+- Robert Nystrom. *Game Programming Patterns*.
 - Mike "MrMike" McShaffry and David "Rez" Graham. *Game Coding Complete,* 4th ed. 2013. **to-read**
 
 ## Unity and C#
