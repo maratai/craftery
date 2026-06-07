@@ -17,6 +17,7 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 
 # Knot Theory
 - Colin C. Adams. *The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots*. **Recommended**.
+- A. B. Sossinsky. *Knots, Links and Their Invariants: An Elementary Course in Contemporary Knot Theory*.
 
 # Pedagogy
 - Mindy Capaldi, ed. *Teaching Mathematics Through Games*.
