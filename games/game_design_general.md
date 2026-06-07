@@ -5,6 +5,7 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 - Richard Lemarchand. Foreword by Amy Hennig. *A Playful Production Process: For Game Designers (And Everyone)*. 2021.
 - Durgan A. Nallar. *Playful Structure: A Game Design Methodology: Theory and Practice*. **to-read**
 - Lewis Pulsipher. *Game Design: How to Create Video and Tabletop Games, Start to Finish*. **Recommended**.
+- Steve Swink. *Game Feel: A Game Designer's Guide to Virtual Sensation*.
 - Tynan Sylvester. *Designing Games: A Guide to Engineering Experiences*. **to-read**
 - Evan Torner, Emma Leigh Waldron, and Aaron Trammell, eds. *Analog Game Studies, Volume 2*. I have read some but not all of the essays.
   - Kevin Autenrieth. "Rule Explicitness Between Classic, Modern, and Computer Games."
