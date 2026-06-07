@@ -5,6 +5,9 @@ History and allied disciplines.
 # History: Crime, Punishment, Torture
 - William Andrews. *Medieval Punishments: An Illustrated History of Torture*.
 
+# History: Food
+- Krista D. Ball. *What Kings Ate and Wizardss Drank: A Fantasy Lover's Food Guide*.
+
 # History: General
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
