@@ -17,6 +17,12 @@ I've put solo gamebooks/journaling games in here as well.
 - Jonathan Green. *YOU Are the Hero: A History of Fighting Fantasy Gamebooks*. Something completely different! A Kickstarter-funded, loving homage. **to-read**
 - Robin Waterfield. #18 *Rebel Planet*. Space opera. **partly played, to-read**
 
+# For Small Creatures Such as We
+By Anna Blackwell.
+
+- *For Small Creatures Such As We*.
+- *A Guide to Fauna Expansion*.
+
 # Mike Lambo Solitaire Games
 I haven't played these yet but I'm looking forward!
 
