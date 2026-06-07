@@ -11,3 +11,6 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 
 # Math: General
 TK.
+
+# Set Theory and Foundations
+- Thomas J. Jech. *The Axiom of Choice*.
