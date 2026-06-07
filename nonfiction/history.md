@@ -15,6 +15,7 @@ History and allied disciplines.
 # History: Emotion and Experience
 A rather interdisciplinary field by its nature, to be clear!
 
+- Rob Boddice. *The History of Emotions*.
 - Rob Boddice and Mark Smith. *Emotion, Sense, Experience*.
 
 # History: Food
