@@ -9,6 +9,9 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 # Law
 - Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
 
+# Leadership
+- Jason S. Ridler. *Mavericks of War: The Unconventional, Unorthodox Innovators and Thinkers, Scholars, and Outsiders Who Mastered the Art of War*. Discusses T. E. Lawrence, Wilhelm Wassmuss, Cora Du Bois, Monty Woodhouse, Bernard Fall, Edward Lansdale, Charles Bohannan, Gertrude Bell, Sarah Chayes, and Emma Sky, among others.
+
 # Special Forces
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
 
