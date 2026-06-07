@@ -24,5 +24,10 @@ TK.
 # Set Theory and Foundations
 - Thomas J. Jech. *The Axiom of Choice*.
 
+# Topology
+I'm afraid I didn't get beyond undergrad point-set.
+
+- Theodore W. Gamelin and Robert Everist Greene. *Introduction to Topology*, 2nd ed.
+
 # Transfinite Numbers (infinities)
 - Leapfrog Group. *Images of Infinity*. **Recommended**.
