@@ -1,6 +1,8 @@
 # Gamebooks
 I'm including some puzzle books as well as an allied genre.
 
+I've put solo gamebooks/journaling games in here as well.
+
 # (A)D&D gamebooks
 - Terry Phillips. *The Soulforge*. Dragonlance. **partly played, to-read** - This is wicked difficult so I've never gotten far!
 
@@ -20,3 +22,6 @@ I haven't played these yet but I'm looking forward!
 
 - *Lone AstroTank: A Solitaire Sci-Fi Wargame*.
 - *Quests for the Brave: A Solitaire Fantasy Game*.
+
+# Solo Journaling Games
+- *Thrice-Damned* and *Where Gods Won't Tread* by Richard August.
