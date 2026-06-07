@@ -12,6 +12,17 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 
 # Leadership
 - Jason S. Ridler. *Mavericks of War: The Unconventional, Unorthodox Innovators and Thinkers, Scholars, and Outsiders Who Mastered the Art of War*. Discusses T. E. Lawrence, Wilhelm Wassmuss, Cora Du Bois, Monty Woodhouse, Bernard Fall, Edward Lansdale, Charles Bohannan, Gertrude Bell, Sarah Chayes, and Emma Sky, among others.
+- W. J. Wood. *Leaders and Battles: The Art of Military Leadership*. Presidio Press, 1984.
+  - Anthony Wayne at Stony Point, 1779
+  - Louis Nicolas Davout at Auerstadt, 1806
+  - Hernane Cortes at Cempoalla, 1520
+  - John Chard and Gonville Bromhead at Rorke's Drift, 1879
+  - Scipio Africanus at Ilipa, 106 B.C.
+  - Henry Bouquet at Bushy Run, 1763
+  - George Custer at Little Big Horn, 1876 (I am HOPING this is an ANTI-example...)
+  - Marshal Lannes at Ratisbon, 1809
+  - Brzenose at Lungtungpen, 1899
+  - Colonel von Lettow-Vorbeck at Tanga, 1914
 
 # Logistics and Supply
 - Jennifer M. Hazen. *What Rebels Want: Resources and Supply Networks in Wartime*.
