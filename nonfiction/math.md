@@ -15,8 +15,11 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 # Math: General
 TK.
 
+# Proof
+- Philip Ording. *99 Variations on a Proof*. **Recommended**.
+
 # Set Theory and Foundations
 - Thomas J. Jech. *The Axiom of Choice*.
 
 # Transfinite Numbers (infinities)
-- Leapfrog Group. *Images of Infinity*.
+- Leapfrog Group. *Images of Infinity*. **Recommended**.
