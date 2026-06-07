@@ -18,6 +18,9 @@ History and allied disciplines.
 # History, Medicine
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 
+# History, Medieval
+- Richard Almond. *Medieval Hunting*.
+
 ## Koreana: Korean Art & Culture magazine
 - Vol. 16, No. 3, Autumn 2002.
   - Cho Sun-jak. Trans. Lee Sang-ok. "The Wall."
