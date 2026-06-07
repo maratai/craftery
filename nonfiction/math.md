@@ -17,3 +17,6 @@ TK.
 
 # Set Theory and Foundations
 - Thomas J. Jech. *The Axiom of Choice*.
+
+# Transfinite Numbers (infinities)
+- Leapfrog Group. *Images of Infinity*.
