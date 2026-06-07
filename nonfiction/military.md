@@ -5,6 +5,7 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 
 # General
 - LTC Eric Hiu, USA (Ret.). *Army Officer's Guide*, 54th ed.
+- Archer Jones. *The Art of War in the Western World*.
 - Caitlin Talmadge. *The Dictator's Army: Battlefield Effectiveness in Authoritiarian Regimes*.
 
 # Law
