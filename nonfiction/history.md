@@ -53,6 +53,9 @@ A rather interdisciplinary field by its nature, to be clear!
 - Clinton Bailey. *A Culture of Desert Survival: Bedouin Proverbs from Sinai and the Negev*.
 - Jibrali S. Jabbur. *The Bedouins and the Desert: Aspects of Nomadic Life in the Arab East*. Trans. from the Arabic by Lawrence I. Conrad. Ed. by Suhayl J. Jabbur and Lawrence I. Conrad.
 
+# History: Naval
+- Frank C. Bowen. *Ships*, 2nd ed. I *believe* this to be from the turn of the 20th century or thenabouts; it's old enough that it doesn't list a copyright or printing date. 
+
 # History: Sex (and related topics)
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
 - Mels van Driel. *With the Hand: A Cultural History of Masturbation*.
