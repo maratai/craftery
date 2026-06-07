@@ -1,4 +1,4 @@
-# Tabletop Roleplaying Games
+# Tabletop Roleplaying Games (general)
 I've broken TTRPGs into their own category because, well.
 
 - *Dialect: A Game About Language and How It Dies*.
