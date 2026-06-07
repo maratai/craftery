@@ -7,6 +7,7 @@ History and allied disciplines.
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
+- Eric Langenbacher, Bill Niven, and Ruth Wittinger, eds. *Dynamics of Memory and Identity in Contemporary Europe*.
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 - Julie Peakman. *Licentious Worlds: Sex and Exploitation in Global Empires*. **to-read**
 
