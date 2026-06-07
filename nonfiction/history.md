@@ -26,6 +26,8 @@ History and allied disciplines.
 # History: Medieval
 - Richard Almond. *Medieval Hunting*.
 - Frank L. Beebe. *A Falconry Manual*. This concerns modern practice but due to the history of the art, I've listed it here.
+- Sioned Davies and Nerys Ann Jones, eds. *The Horse in Celtic Culture: Medieval Welsh Perspectives*.
+- Edward of Norwich. WilliamA. and F. N. Baillie-Grohman, eds. *The Master of Game*, billed as "the oldest English book on hunting."
 
 # History: Social and Sociology
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
