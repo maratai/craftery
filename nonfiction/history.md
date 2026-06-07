@@ -23,6 +23,7 @@ History and allied disciplines.
 # History: Geography and Geopolitics
 - Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
+- Dirk Liesemer. *Phantom Islands: In Search of Mythical Lands*.
 
 # History: Labor
 - David Brody. *Housekeeping by Design: Hotels and Labor*.
