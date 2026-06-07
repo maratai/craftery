@@ -51,7 +51,7 @@ A rather interdisciplinary field by its nature, to be clear!
 - Edward of Norwich. WilliamA. and F. N. Baillie-Grohman, eds. *The Master of Game*, billed as "the oldest English book on hunting."
 
 # History: Middle East
-- Clinton Bailey. *A Culture of Desert Survival: Bedouin Proverbs from Sinai and the Negev*.
+- Clinton Bailey. *Bedouin Law from Sinai and the Negev: Justice without Government*; *A Culture of Desert Survival: Bedouin Proverbs from Sinai and the Negev*.
 - Jibrali S. Jabbur. *The Bedouins and the Desert: Aspects of Nomadic Life in the Arab East*. Trans. from the Arabic by Lawrence I. Conrad. Ed. by Suhayl J. Jabbur and Lawrence I. Conrad.
 
 # History: Naval
