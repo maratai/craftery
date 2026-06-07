@@ -1,6 +1,6 @@
 History and allied disciplines.
 
-**Nota bene**: Military history is lumped with **Military** instead for my ease of reference.
+**Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference.
 
 # History, General
 - Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
