@@ -3,8 +3,9 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 # Command and Control (etc)
 - Martin Van Creveld. *Command in War*. Creveld's *Logistics* is excellent so I am looking forward to digging in. **currently reading**
 
-# General Reference
+# General
 - LTC Eric Hiu, USA (Ret.). *Army Officer's Guide*, 54th ed.
+- Caitlin Talmadge. *The Dictator's Army: Battlefield Effectiveness in Authoritiarian Regimes*.
 
 # Law
 - Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
