@@ -45,10 +45,13 @@ History and allied disciplines.
 # History: Middle East
 - Clinton Bailey. *A Culture of Desert Survival: Bedouin Proverbs from Sinai and the Negev*.
 
-# History: Social and Sociology
-- James Cuno, ed. *Whose Culture?: The Promise of Museums and the Debate Over Antiquities*.
+# History: Sex (and related topics)
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
+- Mels van Driel. *With the Hand: A Cultural History of Masturbation*.
 - Julie Peakman. *Licentious Worlds: Sex and Exploitation in Global Empires*. **to-read**
+
+# History: Sociology
+- James Cuno, ed. *Whose Culture?: The Promise of Museums and the Debate Over Antiquities*.
 - 
 # History: Transportation
 - Tom Ambrose. *The History of Cycling in Fifty Bikes*.
