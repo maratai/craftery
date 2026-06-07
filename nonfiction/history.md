@@ -34,7 +34,7 @@ History and allied disciplines.
 # History: Medicine
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 
-# History: Medieval
+# History: Medieval Europe
 - Susanne Alleyn. *Medieval Underpants and Other Blunders: A Writer's and Editor's Guide to Keeping Historical Fiction Free of Common Anachronisms, Error, and Myth*, 2nd ed.
 - Richard Almond. *Medieval Hunting*.
 - Frank L. Beebe. *A Falconry Manual*. This concerns modern practice but due to the history of the art, I've listed it here.
@@ -44,6 +44,7 @@ History and allied disciplines.
 
 # History: Middle East
 - Clinton Bailey. *A Culture of Desert Survival: Bedouin Proverbs from Sinai and the Negev*.
+- Jibrali S. Jabbur. *The Bedouins and the Desert: Aspects of Nomadic Life in the Arab East*. Trans. from the Arabic by Lawrence I. Conrad. Ed. by Suhayl J. Jabbur and Lawrence I. Conrad.
 
 # History: Sex (and related topics)
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
