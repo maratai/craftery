@@ -1,7 +1,12 @@
-I'm not a practitioner other than using Tarot as a tool for self-reflection and writing; I offer zero expertise.
+I'm not a practitioner other than using Tarot as a tool for self-reflection and writing; I offer zero expertise. I suppose my personal dividing line between this and "religion" is "How New Age woo is this?" (I am vaguely New Age woo.)
 
 # Folklore and Mythology, General
 - Joseph Nigg. *The Phoenix: An Unnatural Biography of a Mythical Beast*.
+
+# Magic and Witchcraft
+I'm using these terms in a general/colloquial sense; I'm not a specialist or practitioner.
+
+- Benebell Wen. *The Tao of Craft: Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition*. Thanks to Nancy Sauer.
 
 # Tarot
 - Stefanie Caponi. *Guided Tarot for Seamless Readings*. This is the single "easy" Tarot reference I most vibe with. **Recommended**.
