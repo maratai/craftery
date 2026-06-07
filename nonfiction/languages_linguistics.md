@@ -15,6 +15,11 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 - Peter Ladefoged. *A Course in Phonetics*, 3rd ed.
 - Peter Ladefoged and Sandra Ferrari Disner. *Vowels and Consonants*, 3rd ed.
 
+# Lovari
+One (?) of the Romnani languages. (Apologies; I've had trouble finding reliable information.)
+
+- Mozes F. Heinschink and Daniel Krasa. *Lehrbuch des Lovari*. I *think* the language of instruction/documentation is German (Deutsch).
+
 # Sign Languages, General
 - Linda Uyechi. *The Geometry of Visual Phonology*.
 
