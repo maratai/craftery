@@ -19,3 +19,6 @@ I've broken TTRPGs into their own category because, well.
 # Legend of the Five Rings d10
 - ?. *Bearers of Jade*.
 - John Wick. *The Way of the Scorpion*. I was not expecting a secondhand copy off the internet to have been signed by John Wick. (The game designer, not the movie character!) **Recommended**.
+
+# TTRPGS: Meta and Gaming Advice
+- John Wick. *Play Dirty* and Play Dirty 2*.
