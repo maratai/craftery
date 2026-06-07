@@ -1,5 +1,9 @@
 I'm not a practitioner other than using Tarot as a tool for self-reflection and writing; I offer zero expertise. I suppose my personal dividing line between this and "religion" is "How New Age woo is this?" (I am vaguely New Age woo.)
 
+# Astrology
+- Robert Hand. *Planets in Transit: Life Cycles for Living*.
+- Donna Van Toen. *The Mars Book*.
+
 # Folklore and Mythology, General
 - Joseph Nigg. *The Phoenix: An Unnatural Biography of a Mythical Beast*.
 
