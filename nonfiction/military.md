@@ -6,6 +6,9 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 # General Reference
 - LTC Eric Hiu, USA (Ret.). *Army Officer's Guide*, 54th ed.
 
+# Law
+- Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
+
 # Special Forces
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
 
