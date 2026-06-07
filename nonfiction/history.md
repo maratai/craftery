@@ -8,8 +8,9 @@ History and allied disciplines.
 # History: Crime, Punishment, Torture
 - William Andrews. *Medieval Punishments: An Illustrated History of Torture*.
 
-# History: Cryptology (including codes, ciphers, steganography, etc) and Spies
+# History: Cryptology (including codes, ciphers, steganography, etc) and Spycraft
 - Craig P. Bauer. *Unsolved!: Ciphers from Ancient Egypt to Online Secret Societies*.
+- Robert Wallace and H. Keith Melton. *Spycraft: The Secret History of the CIA's Spytechs from Communism to Al-Qaeda*. Foreword by George J. Tenet.
 
 # History: Food
 - Krista D. Ball. *What Kings Ate and Wizardss Drank: A Fantasy Lover's Food Guide*.
