@@ -4,8 +4,11 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 - Lora Heller, ed. *Easy Guide to American Sign Language*.
 - Lottie L. Riekehof. *The Joy of Signing: The New Illustrated Guide for Mastering Sign Language and the Manual Alphabet*.
 
-# Linguistics
+# Linguistics: General
 - Walter E. Meyers. *Aliens and Linguists: Language Study and Science Fiction*. **Recommended** though dated.
+
+# Linguistics: Phonetics and Phonology
+- Peter Ladefoged. *A Course in Phonetics*, 3rd ed.f
 
 # Sign Languages, General
 - Linda Uyechi. *The Geometry of Visual Phonology*.
