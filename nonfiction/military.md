@@ -13,6 +13,9 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 # Leadership
 - Jason S. Ridler. *Mavericks of War: The Unconventional, Unorthodox Innovators and Thinkers, Scholars, and Outsiders Who Mastered the Art of War*. Discusses T. E. Lawrence, Wilhelm Wassmuss, Cora Du Bois, Monty Woodhouse, Bernard Fall, Edward Lansdale, Charles Bohannan, Gertrude Bell, Sarah Chayes, and Emma Sky, among others.
 
+# Logistics and Supply
+- Jennifer M. Hazen. *What Rebels Want: Resources and Supply Networks in Wartime*.
+
 # Special Forces
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
 
