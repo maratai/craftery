@@ -20,8 +20,10 @@ I've put solo gamebooks/journaling games in here as well.
 # For Small Creatures Such as We
 By Anna Blackwell.
 
-- *For Small Creatures Such As We*.
+- *For Small Creatures Such As We*. Main rulebook.
 - *A Guide to Fauna Expansion*.
+- *Love and Lust Expansion*.
+- *War! Expansion*.
 
 # Mike Lambo Solitaire Games
 I haven't played these yet but I'm looking forward!
