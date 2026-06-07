@@ -15,6 +15,9 @@ Books concern fiction and prose writing unless otherwise specified.
 # General Writing Instruction
 - (more TK)
 
+# Genre: Memoir
+- Lindsey Grant. *Ready, Set, Memoir!*
+
 # Genre: Mystery, Thriller, Suspense
 - Jennifer Hilt and Sara Rosett. *The Trope Thesaurus: Mystery and Thriller*.
 
