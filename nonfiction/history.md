@@ -15,6 +15,7 @@ History and allied disciplines.
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
 - Eric Langenbacher, Bill Niven, and Ruth Wittinger, eds. *Dynamics of Memory and Identity in Contemporary Europe*.
+- Nassim Nicholas Taieb. *The Black Swan: The Impact of the Highly Improbable*.
 
 # History: Genocide Studies
 - Edward B. Westermann. *Drunk on Genocide: Alcohol and Mass Murder in Nazi Germany*.
@@ -22,6 +23,9 @@ History and allied disciplines.
 # History: Geography and Geopolitics
 - Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
+
+# History: Labor
+- David Brody. *Housekeeping by Design: Hotels and Labor*.
 
 # History: Medicine
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
@@ -33,6 +37,7 @@ History and allied disciplines.
 - Edward of Norwich. WilliamA. and F. N. Baillie-Grohman, eds. *The Master of Game*, billed as "the oldest English book on hunting."
 
 # History: Social and Sociology
+- James Cuno, ed. *Whose Culture?: The Promise of Museums and the Debate Over Antiquities*.
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
 - Julie Peakman. *Licentious Worlds: Sex and Exploitation in Global Empires*. **to-read**
 - 
