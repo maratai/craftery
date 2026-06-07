@@ -2,6 +2,7 @@ I'm not a practitioner other than using Tarot as a tool for self-reflection and 
 
 # Astrology
 - Robert Hand. *Planets in Transit: Life Cycles for Living*.
+- Theresa Reed. *Astrology for Real Life*.
 - Donna Van Toen. *The Mars Book*.
 
 # Folklore and Mythology, General
