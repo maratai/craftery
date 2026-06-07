@@ -29,6 +29,7 @@ One (?) of the Romnani languages. (Apologies; I've had trouble finding reliable 
 # Welsh (Cymraeg)
 Dw i'n caru dysgu Cymraeg!
 
+- Gareth King. *Basic Welsh: A Grammar and Workbook*.
 - Gareth King. *Colloquial Welsh: The Complete Course for Beginners*.
 - Gareth King. *Modern Welsh: A Comprehensive Grammar*, 2nd ed.
 - Gareth King, ed. *The Pocket Modern Welsh Dictionary*.
