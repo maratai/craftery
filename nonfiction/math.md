@@ -16,6 +16,7 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 - Saul Stahl. *Geometry from Euclid to Knots*.
 
 # Graph Theory
+- Arthur Benjamin, Gary Chartrand, and Ping Zhang. *The Fascinating World of Graph Theory*.
 - Gary Chartrand. *Introductory Graph Theory**.
 - Richard J. Trudeau. *Introduction to Graph Theory*.
 
