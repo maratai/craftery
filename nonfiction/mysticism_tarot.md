@@ -2,7 +2,7 @@ I'm not a practitioner other than using Tarot as a tool for self-reflection and 
 
 # Astrology
 - Robert Hand. *Horoscope Symbols*.
-- Robert Hand. *Planets in Transit: Life Cycles for Living*.
+- Robert Hand. *Planets in Composite: Analyzing Human Relationships*; *Planets in Transit: Life Cycles for Living*.
 - Theresa Reed. *Astrology for Real Life*.
 - Donna Van Toen. *The Mars Book*.
 
