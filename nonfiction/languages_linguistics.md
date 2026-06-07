@@ -18,6 +18,9 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 # Sign Languages, General
 - Linda Uyechi. *The Geometry of Visual Phonology*.
 
+# Toki Pona
+- Sonja Lang. *Toki Pona: The Language of Good*. Thanks to Eller.
+
 # Welsh (Cymraeg)
 Dw i'n caru dysgu Cymraeg!
 
