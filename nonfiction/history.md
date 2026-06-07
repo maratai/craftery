@@ -2,30 +2,33 @@ History and allied disciplines.
 
 **Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference.
 
-# History, General
+# History: Crime, Punishment, Torture
+- William Andrews. *Medieval Punishments: An Illustrated History of Torture*.
+
+# History: General
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
 - Eric Langenbacher, Bill Niven, and Ruth Wittinger, eds. *Dynamics of Memory and Identity in Contemporary Europe*.
-- Julie Peakman. *Licentious Worlds: Sex and Exploitation in Global Empires*. **to-read**
 
-# History, Genocide Studies
+# History: Genocide Studies
 - Edward B. Westermann. *Drunk on Genocide: Alcohol and Mass Murder in Nazi Germany*.
 
-# History, Geography and Geopolitics
+# History: Geography and Geopolitics
 - Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
 
-# History, Medicine
+# History: Medicine
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 
-# History, Medieval
+# History: Medieval
 - Richard Almond. *Medieval Hunting*.
 - Frank L. Beebe. *A Falconry Manual*. This concerns modern practice but due to the history of the art, I've listed it here.
 
-# History, Social
+# History: Social and Sociology
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
-
-# History, Transportation
+- Julie Peakman. *Licentious Worlds: Sex and Exploitation in Global Empires*. **to-read**
+- 
+# History: Transportation
 - Tom Ambrose. *The History of Cycling in Fifty Bikes*.
 
 ## Koreana: Korean Art & Culture magazine
