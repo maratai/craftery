@@ -3,13 +3,20 @@ History and allied disciplines.
 **Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference.
 
 # History, General
-- Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
-- Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
 - Eric Langenbacher, Bill Niven, and Ruth Wittinger, eds. *Dynamics of Memory and Identity in Contemporary Europe*.
-- Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 - Julie Peakman. *Licentious Worlds: Sex and Exploitation in Global Empires*. **to-read**
+
+# History, Genocide Studies
+- Edward B. Westermann. *Drunk on Genocide: Alcohol and Mass Murder in Nazi Germany*.
+
+# History, Geography and Geopolitics
+- Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
+- Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
+
+# History, Medicine
+- Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 
 ## Koreana: Korean Art & Culture magazine
 - Vol. 16, No. 3, Autumn 2002.
