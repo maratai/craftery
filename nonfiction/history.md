@@ -12,10 +12,10 @@ History and allied disciplines.
 - Craig P. Bauer. *Unsolved!: Ciphers from Ancient Egypt to Online Secret Societies*.
 - Robert Wallace and H. Keith Melton. *Spycraft: The Secret History of the CIA's Spytechs from Communism to Al-Qaeda*. Foreword by George J. Tenet.
 
-# History: Emotion and Experience
+# History: Emotion, Experience, Sensation
 A rather interdisciplinary field by its nature, to be clear!
 
-- Rob Boddice. *The History of Emotions*.
+- Rob Boddice. *The History of Emotions*; *Knowing Pain: A History of Sensation, Emotion, and Experience*.
 - Rob Boddice and Mark Smith. *Emotion, Sense, Experience*.
 
 # History: Food
