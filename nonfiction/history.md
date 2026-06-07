@@ -25,6 +25,9 @@ History and allied disciplines.
 # History, Social
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
 
+# History, Transportation
+- Tom Ambrose. *The History of Cycling in Fifty Bikes*.
+
 ## Koreana: Korean Art & Culture magazine
 - Vol. 16, No. 3, Autumn 2002.
   - Cho Sun-jak. Trans. Lee Sang-ok. "The Wall."
