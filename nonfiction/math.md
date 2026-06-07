@@ -25,6 +25,7 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 
 # Pedagogy
 - Mindy Capaldi, ed. *Teaching Mathematics Through Games*.
+- Liping Ma. *Knowing and Teaching Elementary Mathematics: Teachers' Underestanding of Fundamental Mathematics in China and the United States*. A *tour de force*. Thanks to Manny Medina.
 
 # Math: General
 TK.
