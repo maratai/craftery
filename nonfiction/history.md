@@ -38,6 +38,9 @@ History and allied disciplines.
 - Ian Mortimer. *The Time Traveler's Guide to Medieval England: A Handbook for Visitors to the Fourteenth Century*.
 - Edward of Norwich. WilliamA. and F. N. Baillie-Grohman, eds. *The Master of Game*, billed as "the oldest English book on hunting."
 
+# History: Middle East
+- Clinton Bailey. *A Culture of Desert Survival: Bedouin Proverbs from Sinai and the Negev*.
+
 # History: Social and Sociology
 - James Cuno, ed. *Whose Culture?: The Promise of Museums and the Debate Over Antiquities*.
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
