@@ -15,6 +15,9 @@ Books concern fiction and prose writing unless otherwise specified.
 # General Writing Instruction
 - (more TK)
 
+# Genre: Mystery, Thriller, Suspense
+- Jennifer Hilt and Sara Rosett. *The Trope Thesaurus: Mystery and Thriller*.
+
 # Plot
 - Paul Tomlinson. *Plot Basics: Plot Your Novel or Screenplay in Eight Sequences*.
 
