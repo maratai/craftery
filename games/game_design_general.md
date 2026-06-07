@@ -1,6 +1,9 @@
 General game design, ludology, etc that might apply to video games, TTRPGs, board games, etc.
 
-# Game Design and Ludology: General
+# Game Design: Board and Tabletop Games
+- Geoffrey Engelstein and Isaac Shalev. *Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms*, 2nd ed.
+
+# Game Design: General
 - Johan Huizinga. *Homo Ludens: A Study of the Play-Element in Culture*. If you need to write about game design and theory in an *academic* sense, this book is impossible to escape.
 - Patrick Jagoda. *Experimental Games: Critique, Play, and Design in the Age of Gamification*.
 - Richard Lemarchand. Foreword by Amy Hennig. *A Playful Production Process: For Game Designers (And Everyone)*. 2021.
@@ -34,7 +37,7 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
   - Peter Wonica. "Learning to Evaluate Analog Games for Education."
 - Jeff Warrender. *You Said This Would Be Fun: What Makes a Game Good and How to Make a Good Game*. Foreword by Ben Maddox. **to-read**
 
-## Game Design and Ludology: Interactive Fantasy: The Journal of Role-Playing and Story-Making Systems
+## Interactive Fantasy: The Journal of Role-Playing and Story-Making Systems (magazine)
 - Issue 2.
   - Greg Costikyan. "I Have No Words and I Must Design." Also [available online as a PDF](http://www.costik.com/nowords2002.pdf). **Recommended**.
   - Alan Cox with Malcolm Campbell. "Multi-User Dungeons."
@@ -63,10 +66,10 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
     - The Whispering Vault
     - three poetry systems
 
-## Game Design and Ludology: Videogames
+# Game Design: Videogames
 - Patrick Jagoda. *Experimental Games: Critique, Play, and Design in the Age of Gamification*. 2020.
 
-# Game Design and Pedagogy
+# Game Design for Pedagogy
 - Mindy Capaldi, ed. *Teaching Mathematics Through Games*. (Also listed under Math: Pedagogy.)
 
 # Game Development: Business and Finances
