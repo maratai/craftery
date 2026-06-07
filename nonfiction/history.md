@@ -2,6 +2,9 @@ History and allied disciplines.
 
 **Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference.
 
+# History: Classical
+- Robert Knapp. *Invisible Romans*.
+
 # History: Crime, Punishment, Torture
 - William Andrews. *Medieval Punishments: An Illustrated History of Torture*.
 
