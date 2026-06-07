@@ -3,6 +3,9 @@ I'm including some puzzle books as well as an allied genre.
 
 I've put solo gamebooks/journaling games in here as well.
 
+# Ace Gamebooks
+- Jonathan Green. *Ronin 47*.
+
 # (A)D&D gamebooks
 - Terry Phillips. *The Soulforge*. Dragonlance. **partly played, to-read** - This is wicked difficult so I've never gotten far!
 
