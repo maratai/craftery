@@ -20,6 +20,7 @@ History and allied disciplines.
 
 # History, Medieval
 - Richard Almond. *Medieval Hunting*.
+- Frank L. Beebe. *A Falconry Manual*. This concerns modern practice but due to the history of the art, I've listed it here.
 
 ## Koreana: Korean Art & Culture magazine
 - Vol. 16, No. 3, Autumn 2002.
