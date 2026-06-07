@@ -7,7 +7,7 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 - Heiko Knospe. *A Course in Cryptography*. 2019. This is an undergraduate-level American Mathematical Society text that approaches cryptology (etc) with less "pure math" rigor and more of a broader practical brush for STEM majors who may not specifically be *math* majors. You'll also find an introductory discussion of quantum computing (e.g. Shor's algorithm). You'd probably want to supplement this if you're after a strictly rigorous mathematical proof-based approach. **Recommended**, with the noted caveats.
 
 # Ethnomathematics
-- Marcia Ascher. *Mathematics Elsewhere: An Exploration of Ideas Across Cultures*.
+- Marcia Ascher. *Ethnomathematics* and *Mathematics Elsewhere: An Exploration of Ideas Across Cultures*.
 
 # Knot Theory
 - Colin C. Adams. *The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots*. **Recommended**.
