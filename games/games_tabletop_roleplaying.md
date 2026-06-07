@@ -21,5 +21,12 @@ I've broken TTRPGs into their own category because, well.
 - ?. *Bearers of Jade*.
 - John Wick. *The Way of the Scorpion*. I was not expecting a secondhand copy off the internet to have been signed by John Wick. (The game designer, not the movie character!) **Recommended**.
 
+# Tiny Tome series
+Collections of mini/micro-TTRPGs.
+
+- *Tiny Tome 1*.
+- *Tiny Tome 2*.
+- *Tiny Tome 3*.
+
 # TTRPGS: Meta and Gaming Advice
 - John Wick. *Play Dirty* and Play Dirty 2*.
