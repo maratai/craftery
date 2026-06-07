@@ -17,6 +17,7 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 - Jennifer M. Hazen. *What Rebels Want: Resources and Supply Networks in Wartime*.
 
 # Special Forces
+- Nigel Cawthorne. *Confirmed Kill: Heroic Sniper Stories from the Jungles of Vietnam to the Mountains of Afghanistan*.
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
 
 # Strategy
