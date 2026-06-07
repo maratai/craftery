@@ -1,5 +1,5 @@
 # Tabletop Roleplaying Games
-I've broken TTRPGs into their own catewgory because, well.
+I've broken TTRPGs into their own category because, well.
 
 - *Dialect: A Game About Language and How It Dies*.
 - *The Epic of Dreams: Basilisk Edition*. A rare example of modulo arithmetic in game mechanics. I have not played it but I'm intrigued.
@@ -12,4 +12,5 @@ I've broken TTRPGs into their own catewgory because, well.
 - *FATE Space Toolkit*.
 
 # Legend of the Five Rings d10
+- ?. *Bearers of Jade*.
 - John Wick. *The Way of the Scorpion*. I was not expecting a secondhand copy off the internet to have been signed by John Wick. (The game designer, not the movie character!) **Recommended**.
