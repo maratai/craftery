@@ -25,5 +25,9 @@ Books concern fiction and prose writing unless otherwise specified.
 # Plot
 - Paul Tomlinson. *Plot Basics: Plot Your Novel or Screenplay in Eight Sequences*.
 
+# Screenwriting
+- William Rabkin. *Writing the Pilot*.
+- David Trottier. *The Screenwriter's Bible: A Complete Guide to Writing, Formatting, and Selling Your Script*, 7th ed., expanded and updated.
+
 # Series
 - Paul Tomlinson. *Writing a Series: How to Plan and Develop a Series of Novels*. Tomlinson is quite careful to delineate his scope, but there are useful comparisons and pointers drawn from allied forms of storytelling (e.g. televised soap operas). In case you couldn't tell, I've found Tomlinson's books to be excellent overviews from the standpoint of *commercial fiction*, but YMMV. **Recommended**.
