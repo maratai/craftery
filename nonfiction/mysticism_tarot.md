@@ -9,4 +9,5 @@ I'm using these terms in a general/colloquial sense; I'm not a specialist or pra
 - Benebell Wen. *The Tao of Craft: Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition*. Thanks to Nancy Sauer.
 
 # Tarot
+- Evelin Burger and Johannes Fiebig. *Complete Book of Tarot Spreads: Includes 122 Layouts*. Look, there's something here for everyone. **Recommended**.
 - Stefanie Caponi. *Guided Tarot for Seamless Readings*. This is the single "easy" Tarot reference I most vibe with. **Recommended**.
