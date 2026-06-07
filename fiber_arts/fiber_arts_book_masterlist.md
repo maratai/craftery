@@ -136,6 +136,7 @@ I have books but they're in Hangeul/Korean!
 - Catharine Ellis. *Woven Shibori*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
+- Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. Trans. by Becky Ashenden. *The Swedish Weaving Book: Project Planning, Loom Dressing and Finishing*.
 - Fashionary. *Fashionpedia: The Visual Dictionary of Fashion Design*.
 - Fashionary. *Textilepedia: The Complete Fabric Guide*.
 - Fiberworks. *Fiberworks Silver v.2 for Apple Macintosh*.
