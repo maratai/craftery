@@ -2,7 +2,8 @@ History and allied disciplines.
 
 **Nota bene**: Military history is lumped with **Military** instead for my ease of reference.
 
-# History
+# History, General
+- Mark Bassin, Christopher Ely, and Melissa K. Stockdale, eds. *Space, Place, and Power in Modern Russia: Essays in the New Spatial History*.
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
 - Anne Green. *Gloves: An Intimate History*. **to-read**
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
