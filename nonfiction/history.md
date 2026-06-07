@@ -22,6 +22,9 @@ History and allied disciplines.
 - Richard Almond. *Medieval Hunting*.
 - Frank L. Beebe. *A Falconry Manual*. This concerns modern practice but due to the history of the art, I've listed it here.
 
+# History, Social
+- Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
+
 ## Koreana: Korean Art & Culture magazine
 - Vol. 16, No. 3, Autumn 2002.
   - Cho Sun-jak. Trans. Lee Sang-ok. "The Wall."
