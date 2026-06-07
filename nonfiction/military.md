@@ -21,3 +21,8 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 
 # Strategy
 - Stephen Kenneth Stein. *Military Strategy for Writers*. Terrific book by a military historian who carefully defines his scope (e.g. distinguishing between strategy, operations, tactics, among others) and discusses examples in military historian terms. I can tell you that some of the cursed examples under discussion *probably* arose for *writing constraint* reasons, whether due to the constraints of commercial fiction or genre tropes, but that's literally not Stein's problem to solve! (Nota bene: I write military-flavored space opera, but I am not a historian or military practitioner, so anything I say here is suspect anyway.) **Recommended**.
+
+# Writing
+Yes, this is a subcategory!
+
+- William A. McIntosh. *Guide to Effective Military Writing*, 2nd ed.
