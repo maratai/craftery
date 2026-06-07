@@ -16,6 +16,9 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 # Logistics and Supply
 - Jennifer M. Hazen. *What Rebels Want: Resources and Supply Networks in Wartime*.
 
+# Sociology
+- Mary Louise Roberts. *What Soldiers Do: Sex and the American GI in World War II France*.
+
 # Special Forces
 - Nigel Cawthorne. *Confirmed Kill: Heroic Sniper Stories from the Jungles of Vietnam to the Mountains of Afghanistan*.
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
