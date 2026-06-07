@@ -10,6 +10,7 @@ I've broken TTRPGs into their own category because, well.
 - *The Lost and the Jammed: High lethality gungeoncrawling*. Interesting revolver-inspired (graphically, anyway) "dice chain" mechanic in a science fantasy postapocalyptic gunslinger setting.
 - *On the Way to Chrysopoeia* by Morgane Reynier. A lyrical epistolary game.
 - *Power Kill/Puppetland*. A twofer by John Tynes, 1996. *Power Kill* is notably a metagame commenting scathingly on the "murder hobo" strand of gaming arising from e.g. Dungeons & Dragons. Tynes has generously made [*Power Kill* available online](https://johntynes.com/revland2000/rl_powerkill.html); *Puppetland* has a revised edition.
+- *Ten Candles* by Stephen Dewey. Post-apocalyptic horror that incorporates ritual to build atmosphere.
 - *Tiny Frontiers* by Alan Bahr.
 
 # FATE
