@@ -1,7 +1,7 @@
 Books concern fiction and prose writing unless otherwise specified.
 
 # Characterization, Character Creation
-- Don Clifton. *Strengths Leadership*. I realize this is a psychometry (?) industrial/organizational psychology tool but I use it for writing!
+- Don Clifton. *Strengthsfinder 2.0: Discover Your CliftonStrengths*; *Strengths Leadership*. I realize this is a psychometry (?) industrial/organizational psychology tool but I use it for writing!
 - Tami D. Cowden. *Fallen Heroes: Sixteen Master Villain Archetypes*. *See* notes on *The Complete Writer's Guide to Heroes and Heroines* by Cowden et al., below. **Recommended** (with the same caveats).
 - Tami D. Cowden, Caro LaFever, and Sue Viders. *The Complete Writer's Guide to Heroes and Heroines: Sixteen Master Archetypes*. Extremely useful if you start from a general archetype and then get more specific rather than the other way around. The authors are quite clear that these are intended as a starting point. Note that this is slanted toward romance genres. **Recommended** (*see* caveats).
 - Claire Taylor. *Write Iconic Characters: Unlocking the Core Motivations That Fuel Unforgettable Stories*. I am approaching this hesitantly because I've never been able to make a ton of sense of Enneagram, but this comes highly recommended so I hope I can get something out of it. **Currently reading.**
