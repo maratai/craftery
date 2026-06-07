@@ -12,6 +12,9 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 # Ethnomathematics
 - Marcia Ascher. *Ethnomathematics* and *Mathematics Elsewhere: An Exploration of Ideas Across Cultures*.
 
+# Geometry
+- Saul Stahl. *Geometry from Euclid to Knots*.
+
 # Graph Theory
 - Gary Chartrand. *Introductory Graph Theory**.
 
