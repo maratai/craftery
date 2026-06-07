@@ -31,6 +31,7 @@ History and allied disciplines.
 - Guido Majno. *The Healing Hand: Man and Wound in the Ancient World*. One of my favorite history books. **Recommended**.
 
 # History: Medieval
+- Susanne Alleyn. *Medieval Underpants and Other Blunders: A Writer's and Editor's Guide to Keeping Historical Fiction Free of Common Anachronisms, Error, and Myth*, 2nd ed.
 - Richard Almond. *Medieval Hunting*.
 - Frank L. Beebe. *A Falconry Manual*. This concerns modern practice but due to the history of the art, I've listed it here.
 - Sioned Davies and Nerys Ann Jones, eds. *The Horse in Celtic Culture: Medieval Welsh Perspectives*.
