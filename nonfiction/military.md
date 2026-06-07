@@ -19,9 +19,10 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 # Sociology
 - Mary Louise Roberts. *What Soldiers Do: Sex and the American GI in World War II France*.
 
-# Special Forces
+# Special Forces (including assassins, snipers)
 - Nigel Cawthorne. *Confirmed Kill: Heroic Sniper Stories from the Jungles of Vietnam to the Mountains of Afghanistan*.
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
+- John Withington. *Assassins' Deeds: A History of Assassination from Ancient Egypt to the Present Day*.
 
 # Strategy
 - John Lewis Gaddis. *On Grand Strategy*.
