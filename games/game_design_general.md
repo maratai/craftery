@@ -12,6 +12,7 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 - Colleen Macklin and John Sharp. *Games, Design and Play: A Detailed Approach to Iterative Game Design*.
 - Durgan A. Nallar. *Playful Structure: A Game Design Methodology: Theory and Practice*. **to-read**
 - Lewis Pulsipher. *Game Design: How to Create Video and Tabletop Games, Start to Finish*. **Recommended**.
+- Jesse Schell. *The Art of Game Design*, 3rd ed. **Recommended**.
 - Steve Swink. *Game Feel: A Game Designer's Guide to Virtual Sensation*.
 - Tynan Sylvester. *Designing Games: A Guide to Engineering Experiences*. **to-read**
 - Evan Torner, Emma Leigh Waldron, and Aaron Trammell, eds. *Analog Game Studies, Volume 2*. I have read some but not all of the essays.
