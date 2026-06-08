@@ -45,6 +45,10 @@ A rather interdisciplinary field by its nature, to be clear!
 - Jeremy Black. *Rethinking Geopolitics*. 2024. **to-read**
 - Dirk Liesemer. *Phantom Islands: In Search of Mythical Lands*.
 
+# History: Japan
+- Liza Dalby. *Kimono: Fashioning Culture*.
+- Yoko Kawaguchi. *Authentic Japanese Gardens: Creating Japanese Design and Detail in the Western Garden*. This isn't history as such, but I use it as a reference.
+
 # History: Labor
 - David Brody. *Housekeeping by Design: Hotels and Labor*.
 
