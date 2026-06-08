@@ -14,6 +14,9 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 - Julie Damron and EunSun You. *Korean Stories for Language Learners: Traditional Folktales in Korean and English*.
 - Talk to Me in Korean. *Easy Korean Reading for Beginners*.
 
+# Latin
+- Frederic M. Wheelock and Richard A. LaFleur. *Wheelock's Latin*, 7th ed.
+
 # Linguistics: General
 - Peter Bowler. *The Superior Person's Book of Words*. I hate this title but the words are delicious.
 - Walter E. Meyers. *Aliens and Linguists: Language Study and Science Fiction*. **Recommended** though dated.
