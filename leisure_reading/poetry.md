@@ -7,4 +7,5 @@
 - Ted Hughes. *The Thought-Fox*. Many thanks to Ursula Whitcher. **Recommended**.
 - Thomas Babbington Macaulay. *Lays of Ancient Rome: Complete New Edition*. Thanks to Jennifer S. I imprinted on *Horatius* as a child. The poetry is in the public domain. **Recommended**.
 - Ursula Schulze and Siegfried Grosse. Reclam. *Das Nibelungenlied: Mittelhochdeutsch/Neuhochdeutsch*. Apologies, I've probably messed up the attribution but I only had one year of German...
+- Algernon Charles Swinburn. *Swinburne's Poems*. **Recommended**, but admittedly one of my favorite poems of all time is Swinburn's "Garden of Proserpine."
 - William Whobrey, ed. and trans. *The Nibelungenlied with the Klage*. A prose translation. **Recommended**.
