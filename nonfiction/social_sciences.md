@@ -1,6 +1,9 @@
 # Cartography and Geography
 - Mark Monmonier. *How to Lie with Maps*, 3rd ed.
 
+# Economics
+- Eduardo Porter. *The Price of Everythign: Finding Method in the Madness of What Things Cost*.
+
 # Japan
 - Karen Nakamura. *Deaf in Japan: Signing and the Politics of Identity*.
 - Emiko Ohnuki-Tierney. *Illness and Culture in Contemporary Japan: An Anthropological View*.
