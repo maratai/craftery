@@ -22,6 +22,7 @@ A rather interdisciplinary field by its nature, to be clear!
 - Krista D. Ball. *What Kings Ate and Wizardss Drank: A Fantasy Lover's Food Guide*.
 
 # History: General
+- Ann Blair, Paul Duguid, Anja-Silvia Goeing, and Anthony Grafton, eds. *Information: A Historical Companion*.
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
 - Eric Langenbacher, Bill Niven, and Ruth Wittinger, eds. *Dynamics of Memory and Identity in Contemporary Europe*.
