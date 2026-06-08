@@ -38,6 +38,7 @@ TK.
 
 # Set Theory and Foundations
 - Thomas J. Jech. *The Axiom of Choice*.
+- Gregory H. Moore. *Zermelo's Axiom of Choice: Its Origins, Development, and Influence*.
 
 # Topology
 I'm afraid I didn't get beyond undergrad point-set.
