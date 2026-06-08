@@ -1,3 +1,6 @@
+# Asia, General
+- Gina L. Barnes. *Archaeology of East Asia: The Rise of Civilization in China, Korea, and Japan*.
+
 # Cartography and Geography
 - Mark Monmonier. *How to Lie with Maps*, 3rd ed.
 
