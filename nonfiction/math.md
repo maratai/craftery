@@ -9,8 +9,9 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 # Differential Equations
 - Michio Kuga. *Galois' Dream: Group Theory and Differential Equations*.
 
-# Ethnomathematics
-- Marcia Ascher. *Ethnomathematics* and *Mathematics Elsewhere: An Exploration of Ideas Across Cultures*.
+# Ethnomathematics and Math History
+- Marcia Ascher. *Ethnomathematics* and *Mathematics Elsewhere: An Exploration of Ideas Across Cultures*. **Recommended**.
+- Tsukune Ogawa and Mitsuo Morimoto, eds. *Mathematics of Takebe Katahiro and History of Mathematics in East Asia*.
 
 # Geometry
 - Colin Adams. *The Tiling Book: An Introduction to the Mathematical Theory of Tilings*.
