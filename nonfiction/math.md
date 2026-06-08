@@ -25,13 +25,15 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 - Colin C. Adams. *The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots*. **Recommended**.
 - A. B. Sossinsky. *Knots, Links and Their Invariants: An Elementary Course in Contemporary Knot Theory*.
 
+# Math: General
+TK.
+
 # Pedagogy
+My M.A. was in secondary math education so that's my background.
+
 - Mindy Capaldi, ed. *Teaching Mathematics Through Games*.
 - Jane Emerson and Patricia Babtie. *The Dyscalculia Assessment*, 2nd ed.
 - Liping Ma. *Knowing and Teaching Elementary Mathematics: Teachers' Underestanding of Fundamental Mathematics in China and the United States*. A *tour de force*. Thanks to Manny Medina.
-
-# Math: General
-TK.
 
 # Proof
 - Philip Ording. *99 Variations on a Proof*. **Recommended**.
