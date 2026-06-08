@@ -127,6 +127,7 @@ I have books but they're in Hangeul/Korean!
 - Betty Briand. *The Art of Weaving*.
 - Eric Broudy. *The Book of Looms: A History of the Handloom from Ancient Times to the Present*.
 - Deborah Chandler. *Learning to Weave*.
+- Chinese Red (series). *Traditional Handicraft*. English-Chinese bilingual edition.
 - Peter Collingwood. *The Techniques of Tablet Weaving*.
 - Candace Crockett. *Card Weaving*.
 - Inge Dam. *Tablet-Woven Accents for Designer Fabrics: Contemporary Uses for Ancient Techniques*.
