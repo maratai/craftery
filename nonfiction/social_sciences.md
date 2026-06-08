@@ -2,6 +2,7 @@
 - Mark Monmonier. *How to Lie with Maps*, 3rd ed.
 
 # Japan
+- Karen Nakamura. *Deaf in Japan: Signing and the Politics of Identity*.
 - Emiko Ohnuki-Tierney. *Illness and Culture in Contemporary Japan: An Anthropological View*.
 
 # Psychology
