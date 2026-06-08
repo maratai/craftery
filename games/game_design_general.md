@@ -46,8 +46,8 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 - Issue 2.
   - Greg Costikyan. "I Have No Words and I Must Design." Also [available online as a PDF](http://www.costik.com/nowords2002.pdf). **Recommended**.
   - Alan Cox with Malcolm Campbell. "Multi-User Dungeons."
-  - Nicole Frein. "Cahutauqua and hte Art of Interactive Education."
-  - Nathan Gribble. "THe Munckin Examined."
+  - Nicole Frein. "Cahutauqua and the Art of Interactive Education."
+  - Nathan Gribble. "THe Munchkin Examined."
   - Andrew P. Malcolm. "Role-plying and Dyslexia."
   - Paul Mason. "Trend vs Dogma."
   - Phil Masters. "On the Vocabulary of Role-Playing."
