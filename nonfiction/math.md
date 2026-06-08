@@ -13,6 +13,7 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 - Marcia Ascher. *Ethnomathematics* and *Mathematics Elsewhere: An Exploration of Ideas Across Cultures*.
 
 # Geometry
+- Colin Adams. *The Tiling Book: An Introduction to the Mathematical Theory of Tilings*.
 - Saul Stahl. *Geometry from Euclid to Knots*.
 
 # Graph Theory
