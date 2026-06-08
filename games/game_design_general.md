@@ -5,7 +5,8 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 - Geoffrey Engelstein and Isaac Shalev. *Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms*, 2nd ed.
 
 # Game Design: General
-- Brenda Brathwaite and Ian Schreiber. *Challenges for Game Designers: Non-Digital Exercises for Video Game Designers*.
+- Brenda Brathwaite and Ian Schreiber. *Challenges for Game Designers: Non-Digital Exercises for Video Game Designers*. **Recommended**.
+- Tracy Fullerton. *Game Design Workshop: A Playcentric Approach to Creating Innovative Games*, 4th ed.
 - Daz Gazaway. *Introduction to Game Systems Design*.
 - Johan Huizinga. *Homo Ludens: A Study of the Play-Element in Culture*. If you need to write about game design and theory in an *academic* sense, this book is impossible to escape.
 - Richard Lemarchand. Foreword by Amy Hennig. *A Playful Production Process: For Game Designers (And Everyone)*. 2021.
