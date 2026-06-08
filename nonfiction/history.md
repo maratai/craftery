@@ -1,6 +1,9 @@
 History and allied disciplines.
 
-**Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference.
+**Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference. These subcategories are based on my specific use cases.
+
+# History: China
+- C. Hucker. *The Censorial System of Ming China*.
 
 # History: Classical
 - Robert Knapp. *Invisible Romans*.
