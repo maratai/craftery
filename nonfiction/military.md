@@ -19,6 +19,7 @@ Military history and allied disciplines are a substantial part of my (leisure?!)
 - Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
 
 # Leadership
+- John M. Jennings and Chjuck Steele, eds. *The Worst Military Leaders in History*.
 - Jason S. Ridler. *Mavericks of War: The Unconventional, Unorthodox Innovators and Thinkers, Scholars, and Outsiders Who Mastered the Art of War*. Discusses T. E. Lawrence, Wilhelm Wassmuss, Cora Du Bois, Monty Woodhouse, Bernard Fall, Edward Lansdale, Charles Bohannan, Gertrude Bell, Sarah Chayes, and Emma Sky, among others.
 - W. J. Wood. *Leaders and Battles: The Art of Military Leadership*. Presidio Press, 1984.
   - Anthony Wayne at Stony Point, 1779
