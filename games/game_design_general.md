@@ -1,8 +1,9 @@
 General game design, ludology, etc that might apply to video games, TTRPGs, board games, etc.
 
 # Game Design: Board and Tabletop Games
-- Gabe Barrett. *Board Game Design Advice: From the Best in the World*, 2nd ed.
+- Gabe Barrett. *Board Game Design Advice: From the Best in the World*, 2nd ed. **Recommended**.
 - Geoffrey Engelstein and Isaac Shalev. *Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms*, 2nd ed.
+- Jeremy Holcomb. *The White Box Essays*. An excellent compact guide, including physical fulfillment considerations. **Recommended**.
 
 # Game Design: General
 - Brenda Brathwaite and Ian Schreiber. *Challenges for Game Designers: Non-Digital Exercises for Video Game Designers*. **Recommended**.
