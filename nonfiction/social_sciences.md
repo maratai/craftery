@@ -3,6 +3,7 @@
 
 # Economics and Finance
 - Ron Chernow. *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance*. Thanks to Karanguni.
+- Michael Lewis. *The Big Short: Inside the Doomsday Machine*. Thanks to Seth Dickinson.
 - Eduardo Porter. *The Price of Everythign: Finding Method in the Madness of What Things Cost*.
 
 # Japan
