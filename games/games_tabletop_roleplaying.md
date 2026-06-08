@@ -12,6 +12,7 @@ I've broken TTRPGs into their own category because, well.
 - *Power Kill/Puppetland*. A twofer by John Tynes, 1996. *Power Kill* is notably a metagame commenting scathingly on the "murder hobo" strand of gaming arising from e.g. Dungeons & Dragons. Tynes has generously made [*Power Kill* available online](https://johntynes.com/revland2000/rl_powerkill.html); *Puppetland* has a revised edition.
 - *Ten Candles* by Stephen Dewey. Post-apocalyptic horror that incorporates ritual to build atmosphere.
 - *Tiny Frontiers* by Alan Bahr.
+- *The Ultimate Micro-RPG Book: 40 Fast, Easy, and Fun Tabletop Games*, ed. James D'Amato. **Recommended.**
 
 # FATE
 - *FATE Core System*.
@@ -22,7 +23,7 @@ I've broken TTRPGs into their own category because, well.
 - John Wick. *The Way of the Scorpion*. I was not expecting a secondhand copy off the internet to have been signed by John Wick. (The game designer, not the movie character!) **Recommended**.
 
 # Tiny Tome series
-Collections of mini/micro-TTRPGs.
+Collections of mini/micro-TTRPGs. **Recommended**.
 
 - *Tiny Tome 1*.
 - *Tiny Tome 2*.
