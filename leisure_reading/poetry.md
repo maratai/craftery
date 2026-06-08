@@ -6,4 +6,5 @@
 - Elias Lönnrot, after oral tradition. Trans. Keith Bosley. *The Kalevala*. Here is where I admit that it was from Joan D. Vinge's science fiction novel *The Summer Queen* that I learned of *The Kalevala*... **to-read**
 - Ted Hughes. *The Thought-Fox*. Many thanks to Ursula Whitcher. **Recommended**.
 - Thomas Babbington Macaulay. *Lays of Ancient Rome: Complete New Edition*. Thanks to Jennifer S. I imprinted on *Horatius* as a child. The poetry is in the public domain. **Recommended**.
+- Ursula Schulze and Siegfried Grosse. Reclam. *Das Nibelungenlied: Mittelhochdeutsch/Neuhochdeutsch*. Apologies, I've probably messed up the attribution but I only had one year of German...
 - William Whobrey, ed. and trans. *The Nibelungenlied with the Klage*. A prose translation. **Recommended**.
