@@ -4,6 +4,9 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 - Lora Heller, ed. *Easy Guide to American Sign Language*.
 - Lottie L. Riekehof. *The Joy of Signing: The New Illustrated Guide for Mastering Sign Language and the Manual Alphabet*.
 
+# German (Deutsch) and mhd (Mittelhochdeutsch)
+- Howard Jones and Martin H. Jones. *The Oxford Guide to Middle High German*.
+
 # Greek
 - Alston Hurd Chase and Henry Phillips, Jr. *A New Introduction to Greek*, 3rd ed., revised and enlarged.
 
