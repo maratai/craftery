@@ -2,7 +2,11 @@ History and allied disciplines.
 
 **Nota bene**: Military history is listed in [**Military**](https://github.com/maratai/craftery/blob/main/nonfiction/military.md) instead for my ease of reference. These subcategories are based on my specific use cases.
 
+# History: Asia, general
+- R. H. King. *Farmers of Forty Centuries: Organic Farming in China, Korea, and Japan*. Dover Publications reprint of a 1911 text.
+
 # History: China
+- Charis Chan. *Architectural Guides for Travellers: Imperial China*.
 - C. Hucker. *The Censorial System of Ming China*.
 
 # History: Classical
