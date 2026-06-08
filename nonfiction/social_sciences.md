@@ -1,7 +1,8 @@
 # Cartography and Geography
 - Mark Monmonier. *How to Lie with Maps*, 3rd ed.
 
-# Economics
+# Economics and Finance
+- Ron Chernow. *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance*. Thanks to Karanguni.
 - Eduardo Porter. *The Price of Everythign: Finding Method in the Madness of What Things Cost*.
 
 # Japan
