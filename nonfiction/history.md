@@ -8,6 +8,8 @@ History and allied disciplines.
 # History: China
 - Charis Chan. *Architectural Guides for Travellers: Imperial China*.
 - C. Hucker. *The Censorial System of Ming China*.
+- Amy McNair. *The Upright Brush: Yan Zhenqing's Calligraphy and Song Literati Politics*.
+- Sung Ying-Hsing. *Chinese Technology in the Seventeenth Century (T'ien-Kung K'ai-Wu)*. Trans. E-Tu Zen Sun and Shou-Chuan Sun.
 
 # History: Classical
 - Robert Knapp. *Invisible Romans*.
