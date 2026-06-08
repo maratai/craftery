@@ -3,3 +3,5 @@
 
 # Religion
 I'm not a specialist so my categorizations are likely to be arbitrary.
+
+- Rania Huntington. *Alien Kind: Foxes and Late Imperial Chinese Narrative*. **Recommended**.
