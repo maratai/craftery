@@ -4,6 +4,9 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 - Lora Heller, ed. *Easy Guide to American Sign Language*.
 - Lottie L. Riekehof. *The Joy of Signing: The New Illustrated Guide for Mastering Sign Language and the Manual Alphabet*.
 
+# Greek
+- Alston Hurd Chase and Henry Phillips, Jr. *A New Introduction to Greek*, 3rd ed., revised and enlarged.
+
 # Inuktitut
 - Arthur Thibert. *Eskimo-English English-Eskimo Dictionary*, revised edition; the original edition was from 1954, hence the title/terminology. I'm also convinced the grammar summary is describing "nominative" and "accusative" cases in what appears to be an attempt to explain *ergative-absolutive* cases, but I'm not a specialist.
 
