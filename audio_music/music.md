@@ -8,7 +8,7 @@ I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace 
 - Richard Boulanger, ed. *The Csound Book: Perspecxtives in Software Synthesis, Sound Design, SIgnal Processing, and Programming*. 2000. It's been a while since I played around with Csound; very exciting! **to-read**
 
 # Ethnomusicology and related topics
-Take it as read that I'm aware of the issues of the term/framing of "ethnomusicology."
+Take it as read that I'm aware of the issues regarding the term/framing of "ethnomusicology."
 
 - William H. McNeill. *Keeping Together in Time: Dance and Drill in Human History*. Harvard UP, 1995. A somewhat speculative work by a historian on sociological exegeses/aetiologies of music/dance/drill. I'm curious as to what follow-up research, if any, says about this thirty years later, but haven't had time to investigate. **Recommended** as food for thought.
 
