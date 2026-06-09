@@ -7,4 +7,5 @@ Pulled out from the coding topics because it's a specialty area.
 - Richard Boulanger, ed. *The Csound Book: Perspectives in Software Synthesis, Sound Design, Signal Processing, and Programming*.
 
 # Audio Programming, General
+- Andy Farnell. *Designing Sound*.
 - Guy Somberg, ed. *Game Audio Programming: Principles and Practices*.
