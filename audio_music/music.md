@@ -19,6 +19,7 @@ Take it as read that I'm aware of the issues regarding the term/framing of "ethn
 - Royal S. Brown. *Overtones and Undertones: Reading Film Music*.
 - James Buhler and David Neumeyer. *Hearing the Movies: Music and Sound in Film History*, 2nd ed.
 - Daniel Goldmark. *Tunes for 'Toons: Music and the Hollywood Cartoon*.
+- Daniel Goldmark, Lawrence Kramer, and Richard Leppert, eds. *Beyond the Soundtrack: Representing Music in Cinema*.
 
 # Instruments: Instruction
 
