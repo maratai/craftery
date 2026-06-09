@@ -12,6 +12,9 @@ Take it as read that I'm aware of the issues of the term/framing of "ethnomusico
 
 - William H. McNeill. *Keeping Together in Time: Dance and Drill in Human History*. Harvard UP, 1995. A somewhat speculative work by a historian on sociological exegeses/aetiologies of music/dance/drill. I'm curious as to what follow-up research, if any, says about this thirty years later, but haven't had time to investigate. **Recommended** as food for thought.
 
+# Film and TV Scoring
+- Daniel Goldmark. *Tunes for 'Toons: Music and the Hollywood Cartoon*.
+
 # Instruments: Instruction
 
 ## Instruments: Guqin
