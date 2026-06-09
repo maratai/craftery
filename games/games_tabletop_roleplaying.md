@@ -1,6 +1,7 @@
 # Tabletop Roleplaying Games (general)
 I've broken TTRPGs into their own category because, well.
 
+- *Agon*I by John Harper and Sean Nittner. Myth and glory.
 - *Bullets & Bourbon: Reloaded* by Sean "Mac" McClellan. Interesting mechanics based on a standard poker deck (including jokers).
 - *Dialect: A Game About Language and How It Dies*.
 - *Dog Eat Dog: A Game of Imperialism and Assimilation in the Pacific Islands* by Liam Liwanag Burke. A tour-de-force of social commentary via design but I'm terrified to ever play it.
