@@ -61,6 +61,7 @@ Take it as read that I'm aware of the issues regarding the term/framing of "ethn
   - The Sentence
     - (more TK)
 - William E. Caplin. *Cadence: A Study of Closure in Tonal Music*.
+- Patrik N. Juslin. *Musical Emotions Explained*.
 - Jenefer Robinson, ed. *Music and Meaning*. Essay/chapter list TK.
        
 ## Musicology: Schenekerian Analysis
