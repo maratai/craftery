@@ -13,3 +13,8 @@ Some of these resources will be a bit out of field.
 
 # Animation Timing
 - Harold Whitaker and John Halas. Updated by Tom Sito. *Timing for Animation*, 3rd ed. 2021. **to-read**
+
+# Character Design
+Animation has particular considerations vs., say, illustration.
+
+- Kenneth Anderson, Devon Cady-Lee, Cécile Carre, and Hollie Mengert. *Creating Characters for the Entertainment Industry: Character Design for Animation, Illustration and Video Games*. **Recommended**.
