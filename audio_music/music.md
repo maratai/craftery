@@ -4,6 +4,9 @@ I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace 
 # Composition
 - Alan Belkin. *Musical Composition: Craft and Art*. Prerequisites: (Western) music notation, music theory (at least through harmonic progressions, Roman numeral analysis). **Recommended**.
 
+## Composition: Scoring to Picture
+- Andy Hill. *Scoring the Screen: The Secret Language of Film Music*.
+
 # Csound
 - Richard Boulanger, ed. *The Csound Book: Perspecxtives in Software Synthesis, Sound Design, SIgnal Processing, and Programming*. 2000. It's been a while since I played around with Csound; very exciting! **to-read**
 
@@ -12,7 +15,8 @@ Take it as read that I'm aware of the issues regarding the term/framing of "ethn
 
 - William H. McNeill. *Keeping Together in Time: Dance and Drill in Human History*. Harvard UP, 1995. A somewhat speculative work by a historian on sociological exegeses/aetiologies of music/dance/drill. I'm curious as to what follow-up research, if any, says about this thirty years later, but haven't had time to investigate. **Recommended** as food for thought.
 
-# Film Studies, Film and TV Scoring
+# Film Studies
+- Royal S. Brown. *Overtones and Undertones: Reading Film Music*.
 - James Buhler and David Neumeyer. *Hearing the Movies: Music and Sound in Film History*, 2nd ed.
 - Daniel Goldmark. *Tunes for 'Toons: Music and the Hollywood Cartoon*.
 
