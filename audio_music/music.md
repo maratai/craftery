@@ -67,5 +67,7 @@ Take it as read that I'm aware of the issues of the term/framing of "ethnomusico
 - Eric Taylor. *Music Theory in Practice, Grade 5*. Irregular time divisions, tenor clef, ornaments etc.
 - *The Theory of Music, Grade 4: Integrated Course and Workbook*. Tetrachords, intervals, transposition, form etc.
 
+# Orchestration
+I'm including instrumentation and arrangement under this heading.
 
-#
+- Norman Ludwin. *Music for Movies: the Hollywood Sound: Composition, Development, and Orchestration*. **Recommended**.
