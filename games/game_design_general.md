@@ -89,3 +89,6 @@ Note that as of this writing (2025-11-03), any traditionally printed books perta
 
 - Michael Futter. *The Gamedev Business Handbook: How to Build the Business You'll Build Games With!*, 2017, and *The Gamedev Budgeting Handbook: How to Finish Your Game in Time and On Budget!*, 2018. Otherwise known as "please do a math BEFORE you start your company." **Recommended**.
 - Richard Hill-Whittall. *The Indie Game Developer Handbook*. 2015. Large portions of this book are dated (link rot, discussions of specific software platforms, etc) but the developer diary portions are still of interest.
+
+# User Interface Design
+- Nathan Shedroff and Christopher Noessel. *Make It So: Interaction Design Lessons from Science Fiction*. Foreword by Bruce Sterling.
