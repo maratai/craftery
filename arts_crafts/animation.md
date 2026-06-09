@@ -6,6 +6,7 @@ Some of these resources will be a bit out of field.
 - Allan and Barbara Pease. *The Definitive Book of Body Language*.
 
 # Animation Principles and Theory
+- Nancy Beiman. *Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life*, 2nd ed.
 - Ellen Besen, illus. Bryce Hallett. *Animation Unleashed*. Terrific overview; the illustrations are integral to the text. **Recommended**.
 - Preston Blair. *Advanced Animation*.
 - Richard Williams. *The Animator's Survival Kit*, expanded edition. **Recommended**.
