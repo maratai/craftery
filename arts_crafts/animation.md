@@ -8,7 +8,7 @@ Some of these resources will be a bit out of field.
 # Animation Principles and Theory
 - Nancy Beiman. *Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life*, 2nd ed.
 - Ellen Besen, illus. Bryce Hallett. *Animation Unleashed*. Terrific overview; the illustrations are integral to the text. **Recommended**.
-- Preston Blair. *Advanced Animation*.
+- Preston Blair. *Cartoon Animation* and the harder-to-find *Advanced Animation*. **Recommended**.
 - Richard Williams. *The Animator's Survival Kit*, expanded edition. **Recommended**.
 
 # Animation Timing
