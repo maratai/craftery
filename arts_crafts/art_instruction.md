@@ -26,6 +26,7 @@ Note that the **Comics (etc)** category contains books that overlaps with other 
 # Composition
 The visual art and design kind, not the music kind! (Probably.)
 
+- Molly Bang. *Picture This: How Pictures Work*, rev. and expanded 25th anniversary edition.
 - Marcos Mateu-Mestre. *Framed Ink: Drawing and Composition for Visual Storytellers*, *Framed Ink Vol. 2: Frame Format, Energy, and Composition for Visual Storytellers*, *Framed Perspective Vol. 1: Technical Perspective and Visual Storytelling*. **to-read**
 
 # Environment Design
