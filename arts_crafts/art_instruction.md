@@ -6,12 +6,14 @@ Note that the **Comics (etc)** category contains books that overlaps with other 
 - Randy Bishop. *Beyond Anatomy: Proportion, Power, and Personality*. "An artist's guide to bridging the gap between anatomy and character." I am excited for this!
 
 # Comics, Graphic Novels, Sequential Art
+- Rockhe Kim. *Rockhe Kim's Line Drawing Technique*, Vols. 1-2.
 - Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
 
 ## Comics: Figure Drawing
 - Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
 - Syu Itadori, Kishi Ueno, KiKi, and GomTang. *Manga Muscles: An Artist's Guide to Drawing Powerful Male Bodies*. This includes exaggerated physiques common in comics (etc) but less so in real life! **to-read**
+- Rockhe Kim. *Rockhe Kim's Anatomy Drawing Class*.
 
 - Masters of Anatomy. *Clothing of Body Language*. Excited for this!
 
@@ -42,6 +44,9 @@ The visual art and design kind, not the music kind! (Probably.)
 
 ## Figure Drawing: Gesture Drawing
 - Michael Hampton. *Gesture Drawing: Dynamic Movement and Form*. **to-read**
+
+# Graphic Design
+- Mike W. Lin, ASLA. *Drawing and Designin wtih Confidence: A Step-By-Step Guide*.
 
 # Paints and Pigments
 Caveat that I have zero background in *chemistry*.
