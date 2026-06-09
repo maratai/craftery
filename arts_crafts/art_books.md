@@ -5,3 +5,6 @@
 # Chinese Art
 - W. M. Hawley. *Chinese Folk Designs: A Colleciton of 300 Cut-Paper Designs*. **Recommended**.
 - C. A. S. Williams. *Outlines of Chinese Symbolism and Art Motives*, 3rd revised ed.
+
+# Fashion
+- Hannah Kane. *The Style Thesaurus*.
