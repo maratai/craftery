@@ -9,7 +9,7 @@
 - [Inform 7](https://ganelson.github.io/inform-website/). **Recommended**.
 
 # Interactive Fiction: Twine
-- [Dialectic](https://gcbaccaris.itch.io/template4), a Twine VN template by Grim Baccaris. Excited to explore this when I'm not buried under orchestration homework!
+- [Dialectic](https://gcbaccaris.itch.io/template4) (on itch.io), a Twine VN template by Grim Baccaris. Excited to explore this when I'm not buried under orchestration homework!
 - [Twinery](https://twinery.org). **Recommended**.
 
 # Visual Novels: Defold
