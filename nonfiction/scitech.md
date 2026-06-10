@@ -1,5 +1,8 @@
 # Science and Technology
 
+# Engineering
+- Henry T. Brown. *507 Mechanical Movements: Mechanisms and Devices*. There's also a delightful [animated internet version](https://507movements.com)!
+
 # Physics
 - A. Zee. *Fly by Night Physics: How Physicists Use the Backs of Envelopes*.
 
