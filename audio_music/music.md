@@ -76,6 +76,8 @@ Take it as read that I'm aware of the issues regarding the term/framing of "ethn
 
 # Music Theory
 ## Music Theory: ABRSM
+Thanks to Vass for recommending these texts.
+
 - Eric Taylor. *Music Theory in Practice, Grade 5*. Irregular time divisions, tenor clef, ornaments etc.
 - *The Theory of Music, Grade 4: Integrated Course and Workbook*. Tetrachords, intervals, transposition, form etc.
 
