@@ -33,7 +33,7 @@ Advice on GMing and so on.
 - Chris Chinn. *Hella Folks and Drama Happpens*. An eminently pragmatic zine on GMing! **Recommended**.
 
 # Mörk Borg
-I really hope I have the heavy metal umlaut (?) in the right place! There's also at least one series of solo RPG conversion supplements for this system, starting with *Sölitary Defilement* (Max Moon Games).
+I really hope I have the heavy metal umlaut (?) in the right place! There's also at least one series of solo RPG conversion supplements for this system, starting with *Sölitary Defilement* (Max Moon Games). In general, supplements for *Mörk Borg* are also compatible with *Sölitary Defilement* (unless stated otherwise).
 
 - *Alöne in the Crowd: Cursed Cities, Doomed Dërives and Fatalistic Flâneurs*. Third-party supplement by 1d0+5.
 - *Mörk Borg*. The main rulebook.
