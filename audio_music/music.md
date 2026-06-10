@@ -10,6 +10,11 @@ I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace 
 # Csound
 - Richard Boulanger, ed. *The Csound Book: Perspecxtives in Software Synthesis, Sound Design, SIgnal Processing, and Programming*. 2000. It's been a while since I played around with Csound; very exciting! **to-read**
 
+# Engraving and Score Preparation
+I use, variously: Dorico, LilyPond, Sibelius; I have in the past used Cakewalk and Finale.
+
+- [Score preparation and production notes](https://www.scoringnotes.com/tips/score-preparation-production-notes/) by David MacDonald. Thanks to Lassi Tani for pointing out this resource (generally, not to me personally!).
+
 # Ethnomusicology and related topics
 Take it as read that I'm aware of the issues regarding the term/framing of "ethnomusicology."
 
