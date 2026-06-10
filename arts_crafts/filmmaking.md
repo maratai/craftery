@@ -4,6 +4,7 @@ Filmmaking and allied disciplines. I don't have any expertise here so I won't ge
 
 ## Acting: Voice Acting
 - James R. Alburger. *The Art of Voice Acting: The Craft and Business of Performing for Voiceover*, 5th ed.
+- Yuri Lowenthal and Tara Platt. *Voice-Over Voice Actor*, 2nd ed. (extended).
 
 # Casting
 - Hester Schell. *Casting Revealed: A Guide for Film Directors*, 2nd ed.
