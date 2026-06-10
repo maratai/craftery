@@ -4,6 +4,7 @@
 - Bryher. *Arrow Music*. The one genuinely rare book in my collection, although the cover was so destroyed that I had it rebound by Trappist monks. The poetry is in the public domain. **Recommended**.
 - Sarah Campbell. *We Used to Be Generals*. Chapbook. **Recommended**.
 - H. B. Cotterill, M.A., trans. *Homer's Odyssey*.
+- Julia Drescher. *VIZ*. Chapbook. **Recommended**.
 - Geoffrey Hill. *Collected Poems*. **Recommended**.
 - Elina Katrin. *If My House Has a Voice*. **Recommended**.
 - Elias Lönnrot, after oral tradition. Trans. Keith Bosley. *The Kalevala*. Here is where I admit that it was from Joan D. Vinge's science fiction novel *The Summer Queen* that I learned of *The Kalevala*... **to-read**
