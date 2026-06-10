@@ -13,7 +13,7 @@ I'm indebted generally to Jane Conners for reading suggestions, also ThinkSpace 
 # Engraving and Score Preparation
 I use, variously: Dorico, LilyPond, Sibelius; I have in the past used Cakewalk and Finale.
 
-- [LilyPond](https://lilypond.org) - Free/open-source engraving; I don't believe it's industry-standard, and it relies on markup-like coding, but I used it for years and love it.
+- [LilyPond](https://lilypond.org) - Free/open-source engraving; I don't believe it's industry-standard, and it relies on markup-like coding, but I used it for years and love it. I believe precompiled binaries are available for Linux, macOS, and Windows.
 - [Score preparation and production notes](https://www.scoringnotes.com/tips/score-preparation-production-notes/) by David MacDonald. Thanks to Lassi Tani for pointing out this resource (generally, not to me personally!).
 
 # Ethnomusicology and related topics
