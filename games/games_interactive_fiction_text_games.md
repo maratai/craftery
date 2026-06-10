@@ -17,7 +17,7 @@
 - [MatchaNovel by Halfstar Atelier](https://www.halfstaratelier.com). **Recommended**.
 
 # Visual Novels: Narrat
-- [Narrat](https://narrat.dev).
+- [Narrat](https://narrat.dev). To investigate!
 
 # Visual Novels: Ren'Py
 - [Ren'Py](https://renpy.org). **Recommended**.
