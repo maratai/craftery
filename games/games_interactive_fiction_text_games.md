@@ -6,3 +6,8 @@
 
 # Interactive Fiction: Inform 7
 - Aaron A. Reed. *Creating Interactive Fiction with Inform 7*. **Recommended**.
+- [Inform 7](https://ganelson.github.io/inform-website/). **Recommended**.
+
+# Interactive Fiction: Twine
+- [Dialectic](https://gcbaccaris.itch.io/template4), a Twine VN template by Grim Baccaris. Excited to explore this when I'm not buried under orchestration homework!
+- [Twinery](https://twinery.org). **Recommended**.
