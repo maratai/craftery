@@ -1,5 +1,7 @@
 # Tabletop Roleplaying Games (general)
-I've broken TTRPGs into their own category because, well.
+I've broken TTRPGs into their own category because, well. More TK.
+
+*See* **Meta** for general notes on GMing, playing, etc.
 
 - *Agon* by John Harper and Sean Nittner. Myth and glory.
 - *Bullets & Bourbon: Reloaded* by Sean "Mac" McClellan. Interesting mechanics based on a standard poker deck (including jokers).
