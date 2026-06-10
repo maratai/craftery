@@ -15,6 +15,7 @@ I've broken TTRPGs into their own category because, well.
 - *Ten Candles* by Stephen Dewey. Post-apocalyptic horror that incorporates ritual to build atmosphere.
 - *Tiny Frontiers* by Alan Bahr.
 - *The Ultimate Micro-RPG Book: 40 Fast, Easy, and Fun Tabletop Games*, ed. James D'Amato. **Recommended.**
+- *The Wolf-King's Son:A Coming-of-Age Story* by Meguey Baker and D. Vincent Baker.
 
 # FATE
 - *FATE Core System*.
