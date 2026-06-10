@@ -25,6 +25,16 @@ I've broken TTRPGs into their own category because, well.
 - ?. *Bearers of Jade*.
 - John Wick. *The Way of the Scorpion*. I was not expecting a secondhand copy off the internet to have been signed by John Wick. (The game designer, not the movie character!) **Recommended**.
 
+# Meta
+Advice on GMing and so on.
+
+- Chris Chinn. *Hella Folks and Drama Happpens*. An eminently pragmatic zine on GMing! **Recommended**.
+
+# Mörk Borg
+I really hope I have the heavy metal umlaut (?) in the right place! There's also at least one series of solo RPG conversion supplements for this system, starting with *Sölitary Defilement* (Max Moon Games).
+
+- *Mörk Borg*.
+
 # Tiny Tome series
 Collections of mini/micro-TTRPGs. **Recommended**.
 
