@@ -1,2 +1,3 @@
 # Mimeograph and Similar
 - Rich Dana. *Cheap Copies! The OBSOLETE! Press Guide to DIY Hectography, Mimeography and Spirit Duplication*. Terrific book based on a master's thesis. [Available for purchase from the USA](https://www.printedmatter.org/catalog/64393). Alternately, the [2021 master's thesis PDF for download](https://iro.uiowa.edu/view/pdfCoverPage?instCode=01IOWA_INST&filePid=13809743140002771&download=true). (The print version is updated and includes *samples*. **Recommended**.
+- Julia Gfrörer. *Thuban Press Guide to Analog Self Publishing: Step-by-Step Instruction to Make Your Own Book Without a Computer*. A delightful zine. **Recommended**.
