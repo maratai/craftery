@@ -156,6 +156,7 @@ I have books but they're in Hangeul/Korean!
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Mary Elizabeth Laughlin. *More Than Four: A Book for Multiple Harness Weavers*. Terrific in-depth discussion of satin and sateen weaves.
 - Jaana van Ledden-Valk. *Janna weeft* (*Janna Weaves*).
+- Los Angeles County Museum in Collaboration with the Cleveland Museum of Art and the Detroit Institute of Arts. *2000 Years of Silk Weaving*. E. Weyhe, New York, 1944.
 - Laila Lundell and Elisabeth Windesjö. *The Big Book of Weaving*.
 - Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
 - Syne Mitchell. *Inventive Weaving on a Little Loom: Discover the Full Potential of the Rigid-Hedde Loom for Beginners and Beyond*.
