@@ -38,6 +38,7 @@ I really hope I have the heavy metal umlaut (?) in the right place! There's also
 - *A Collection of the Most Disgusting and Terribly Vile Monsters!*. Third-party supplement.
 - *Alöne in the Crowd: Cursed Cities, Doomed Dërives and Fatalistic Flâneurs*. Third-party supplement by 1d0+5.
 - *Mörk Borg*. The main rulebook.
+- *Park Pale: Hunting Necromantic Bastards in a Schleswig Country Garden*. Third-party supplement.
 
 # Tiny Tome series
 Collections of mini/micro-TTRPGs. **Recommended**.
