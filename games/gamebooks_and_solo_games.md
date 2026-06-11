@@ -43,6 +43,7 @@ I haven't played these yet but I'm looking forward!
 Max Moon Games: This is an add-on compatible with the TTRPG *Mörk Borg*.
 
 - *Rottener Blacker Sludge: A One-Shot Playthrough with Sölitary Defilement*.
+- *Shadow King*. Third-party solitaire adventure by 1d10+5.
 - *Sölitary Depths*. Third-party supplement by Chaoclypse.
 
 # Solo Journaling Games: General
