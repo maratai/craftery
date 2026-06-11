@@ -1,6 +1,6 @@
 # Fiber Arts Books and Magazines: Masterlist
 
-So very WIP. Note that some books in Korean and Japanese are not listed here, and that the categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
+So very WIP. Note that some books in Korean and Japanese are not listed here (I could type in Hangeul, laboriously, if I had to, but I don't read/write Japanese). The categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
 
 # Cobblery, Leatherworking, Shoemaking
 Not "fiber arts" as such but with crossover (e.g. stitching techniques). Also I'm too lazy to start another Markdown file.
