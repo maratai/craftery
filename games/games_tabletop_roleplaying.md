@@ -49,3 +49,9 @@ Collections of mini/micro-TTRPGs. **Recommended**.
 
 # TTRPGS: Meta and Gaming Advice
 - John Wick. *Play Dirty* and *Play Dirty 2*. **Recommended** although this is very YMMV.
+
+# Twelve Years
+By Max Moon. Can be played as a group TTRPG or as a solo RPG.
+
+- *The Demon Lord Expansion*.
+- *Twelve Years*. Main rulebook.
