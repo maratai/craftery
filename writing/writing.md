@@ -14,7 +14,7 @@ Books concern fiction and prose writing unless otherwise specified.
   - (more TK)
 
 # General Writing Instruction
-- (more TK)
+- Brian Kitely. *The 4 A.M. Breakthrough: Unconventional Writing Exercises That Transform Your Fiction*. I describe this affectionately as the most bonkers writing exercise book *that's still serious business* I have ever encountered: Write a character obsessed with two specific numbers! An entire story/vignette in the imperative mood! Delightful. **Recommended**.
 
 # Genre: Memoir
 - Lindsey Grant. *Ready, Set, Memoir!*
