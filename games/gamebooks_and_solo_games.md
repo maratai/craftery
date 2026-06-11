@@ -30,6 +30,9 @@ By Anna Blackwell.
 - *Love and Lust Expansion*.
 - *War! Expansion*.
 
+# Gamebooks and Solo Games: General
+- Sam Gorski and D. F. Lovett, eds. *Top Ten Games You Can Play in Your Head by Yourself*, 2nd ed. I'm convinced this is a loving parody but it's a *terrific* loving parody.
+
 # Mike Lambo Solitaire Games
 I haven't played these yet but I'm looking forward!
 
