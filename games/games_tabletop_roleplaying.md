@@ -47,4 +47,4 @@ Collections of mini/micro-TTRPGs. **Recommended**.
 - *Tiny Tome 3*.
 
 # TTRPGS: Meta and Gaming Advice
-- John Wick. *Play Dirty* and Play Dirty 2*.
+- John Wick. *Play Dirty* and *Play Dirty 2*. **Recommended** although this is very YMMV.
