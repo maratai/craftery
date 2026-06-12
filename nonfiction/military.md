@@ -42,9 +42,11 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 # Sociology
 - Mary Louise Roberts. *What Soldiers Do: Sex and the American GI in World War II France*.
 
-# Special Forces (including assassins, snipers)
+# Special Forces (including assassins, snipers, etc)
 - Nigel Cawthorne. *Confirmed Kill: Heroic Sniper Stories from the Jungles of Vietnam to the Mountains of Afghanistan*.
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
+- U.S. Department of Defense. *U.S. Army Survival, Evasion, and Recovery*. Skyhorse Publishing, 2008 edition of the relevant field manual. 
+- U.S. Department of the Army. *U.S. Army Special Forces Handbook*. Skyhorse Publishing, 2008 edition of (I'm guessing) the relevant field manual
 - John Withington. *Assassins' Deeds: A History of Assassination from Ancient Egypt to the Present Day*.
 
 # Strategy
