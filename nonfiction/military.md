@@ -21,6 +21,9 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 - Archer Jones. *The Art of War in the Western World*.
 - Caitlin Talmadge. *The Dictator's Army: Battlefield Effectiveness in Authoritiarian Regimes*.
 
+# Imjin War
+- Jo Seong-do. *Admiral Yi Sun-Sin: A National Hero of Korea*. Revised and enlarged by Korean Naval Academy Museum, Kim Joo-sik, and Jeong Jin-sool.
+
 # Justice and Law
 - Eugene R. Fidell. *Military Justice: A Very Short Introduction*.
 - Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
