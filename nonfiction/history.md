@@ -71,6 +71,9 @@ A rather interdisciplinary field by its nature, to be clear!
 # History: Naval
 - Frank C. Bowen. *Ships*, 2nd ed. I *believe* this to be from the turn of the 20th century or thenabouts; it's old enough that it doesn't list a copyright or printing date. 
 
+# History: Science and Technology
+- Korean Spiurita nd Culture Promotion Project. *Fifty Wonders of Korea, Vol. 2: Science and Technology*.
+
 # History: Sex (and related topics)
 - Brian Fagan and Nadia Durrani. *What We Did in Bed: A Horizontal History*.
 - Mels van Driel. *With the Hand: A Cultural History of Masturbation*.
