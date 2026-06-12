@@ -1,7 +1,10 @@
-Military history and allied disciplines are a substantial part of my (leisure?!) reading so I've broken them out separately. Keep in mind, I'm not a military practitioner, and my use case (such as it is) is constructing crass entertainment in military *space opera*, so my criteria for how "useful" a book is *to me* are skewed accordingly, and need not involve strict historicity or academic rigor.
+Military history and allied disciplines (e.g. bushcraft, ~survival) are a substantial part of my (leisure?!) reading so I've broken them out separately. Keep in mind, I'm not a military practitioner, and my use case (such as it is) is constructing crass entertainment in military *space opera*, so my criteria for how "useful" a book is *to me* are skewed accordingly, and need not involve strict historicity or academic rigor.
 
 # Aerial Warfare
 - Frank Ledwidge. *Aerial Warfare: A Very Short Introduction*.
+
+# Bushcraft and Survival
+- Dave Canterbury. *A Field Guide to the Art of Wilderness Survival*.
 
 # Classical Military History
 - Jeremiah B. McCAll. *The Cavalry of the Roman Republic*.
