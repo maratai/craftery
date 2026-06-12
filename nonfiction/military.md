@@ -43,6 +43,9 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 # Logistics and Supply
 - Jennifer M. Hazen. *What Rebels Want: Resources and Supply Networks in Wartime*.
 
+# Maps, Reconnaissance, Scouting
+- U.S. War Department Field Manual. *FM 21-26 Advanced Map and Aerial Photograph Reading*. December 1944.
+
 # Sociology
 - Mary Louise Roberts. *What Soldiers Do: Sex and the American GI in World War II France*.
 
