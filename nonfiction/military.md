@@ -5,6 +5,9 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 
 # Bushcraft and Survival
 - Dave Canterbury. *A Field Guide to the Art of Wilderness Survival*.
+- U.S. Department of Defense. *U.S. Army Survival, Evasion, and Recovery*. Skyhorse Publishing, 2008 edition of the relevant field manual. 
+- U.S. Department of the Army. *The Complete U.S. Army Survival Guide to Foraging Skills, Tactics, and Techniques*. Skyhorse Publishing, 2017 edition of the relevant field manual.
+- John "Lofty Wiseman. *SAS Survival Handbook: The Ultimate Guide to Surviving Anywhere*, 3rd ed.
 
 # Classical Military History
 - Jeremiah B. McCAll. *The Cavalry of the Roman Republic*.
@@ -45,7 +48,6 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 # Special Forces (including assassins, snipers, etc)
 - Nigel Cawthorne. *Confirmed Kill: Heroic Sniper Stories from the Jungles of Vietnam to the Mountains of Afghanistan*.
 - Viktor Suvorov. *Spetsnaz: The Inside Story of the Soviet Special Forces*.
-- U.S. Department of Defense. *U.S. Army Survival, Evasion, and Recovery*. Skyhorse Publishing, 2008 edition of the relevant field manual. 
 - U.S. Department of the Army. *U.S. Army Special Forces Handbook*. Skyhorse Publishing, 2008 edition of (I'm guessing) the relevant field manual
 - John Withington. *Assassins' Deeds: A History of Assassination from Ancient Egypt to the Present Day*.
 
