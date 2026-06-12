@@ -34,6 +34,7 @@ By Anna Blackwell.
 - Paul Czege. *We're Just Friends*. A "choose your own adventure" mythic narrative (for older readers - I'd rate this at teen and up). **Recommended**.
 - Sam Gorski and D. F. Lovett, eds. *Top Ten Games You Can Play in Your Head by Yourself*, 2nd ed. I'm convinced this is a loving parody but it's a *terrific* loving parody. **Recommended**.
 - Tim Hutchings. *Thousand Year Old Vampire*. **Recommended**.
+- P. H. Lee with Aura Belle. *Four Ways to Die in the Future*. **Recommended**.
 - Ella Lim. *The Lighthouse at the Edge of the Universe*. I want to play this sometime, in my infinite free time!
 
 # Mike Lambo Solitaire Games
