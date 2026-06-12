@@ -46,9 +46,11 @@ I haven't played these yet but I'm looking forward!
 # Sölitary Defilement
 Max Moon Games: This is an add-on compatible with the TTRPG *Mörk Borg*.
 
+- *Aqua Mortis*. Third-party solitaire adventure with a sewer-based dungeon crawl by 1d10+5.
 - *Rottener Blacker Sludge: A One-Shot Playthrough with Sölitary Defilement*.
 - *Shadow King*. Third-party solitaire adventure by 1d10+5.
 - *Sölitary Depths*. Third-party supplement by Chaoclypse.
+- *Tragic Castle Obsession*. Third-party vampire-themed adventure by 1d10+5.
 
 # Solo Journaling Games: General
 - *Alone on a Journey: A Collection of Solo Adventuring Games* by Takuma Okada.
