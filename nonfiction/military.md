@@ -26,7 +26,23 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 - Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
 
 # Leadership
+Or, in some cases, *anti*-leadership.
 - John M. Jennings and Chjuck Steele, eds. *The Worst Military Leaders in History*.
+  - Roman Fedorovich von Ungern-Sternberg
+  - Nathan Bedford Forrest
+  - John M. Chivington
+  - David Beatty
+  - Gideon J. Pillow
+  - Antonio Lopez de Santa Anna (sorry, I can't do diacriticals on this system, will fix later)
+  - Frnz Conrad von Hotzendorf
+  - Lewis Brereton
+  - George A. Custer
+  - Marcus Licinius Crassus
+  - Nikias
+  - Raymond VI, Count of Toulouse
+  - Nogi Maresuke
+  - Romanus IV Diogenes
+  - Lord Wolseley
 - Jason S. Ridler. *Mavericks of War: The Unconventional, Unorthodox Innovators and Thinkers, Scholars, and Outsiders Who Mastered the Art of War*. Discusses T. E. Lawrence, Wilhelm Wassmuss, Cora Du Bois, Monty Woodhouse, Bernard Fall, Edward Lansdale, Charles Bohannan, Gertrude Bell, Sarah Chayes, and Emma Sky, among others.
 - W. J. Wood. *Leaders and Battles: The Art of Military Leadership*. Presidio Press, 1984.
   - Anthony Wayne at Stony Point, 1779
