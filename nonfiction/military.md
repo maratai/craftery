@@ -5,6 +5,7 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 
 # Bushcraft and Survival
 - Dave Canterbury. *A Field Guide to the Art of Wilderness Survival*.
+- Mastt Larsen, Sergeant First Class, revised and updated by. *U.S. Military Pocket Survival Guide Plus Evasion and Recovery*. Rowman and Littlefield, 2009 edition of the relevant field manual.
 - U.S. Department of Defense. *U.S. Army Survival, Evasion, and Recovery*. Skyhorse Publishing, 2008 edition of the relevant field manual. 
 - U.S. Department of the Army. *The Complete U.S. Army Survival Guide to Foraging Skills, Tactics, and Techniques*. Skyhorse Publishing, 2017 edition of the relevant field manual.
 - John "Lofty Wiseman. *SAS Survival Handbook: The Ultimate Guide to Surviving Anywhere*, 3rd ed.
