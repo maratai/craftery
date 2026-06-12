@@ -1,6 +1,7 @@
 General game design, ludology, etc that might apply to video games, TTRPGs, board games, etc.
 
 # Game Design: Board and Tabletop Games
+- Avery Alder. *Dear Diary*. *Monsterhearts* design notes in zine format.
 - Gabe Barrett. *Board Game Design Advice: From the Best in the World*, 2nd ed. **Recommended**.
 - Gabe Barrett. *Find the Fun: Learn How to Go from Idea to Published Game*. **Recommended**.
 - Geoffrey Engelstein and Isaac Shalev. *Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms*, 2nd ed. Obviously nothing will be completely comprehensive here, but this is a magisterial reference. **Recommended**.
