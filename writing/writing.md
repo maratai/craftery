@@ -1,5 +1,7 @@
 Books concern fiction and prose writing unless otherwise specified.
 
+You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'd on reading them a couple *decades* ago and, ironically, own very few these days specific to those genres.
+
 # Characterization, Character Creation
 - Don Clifton. *Strengthsfinder 2.0: Discover Your CliftonStrengths*; *Strengths Leadership*. I realize this is a psychometry (?) industrial/organizational psychology tool but I use it for writing in terms of building characters. People seem (observationally, anecdotally) to aggressively vibe with CliftonStrengths as a tool *or not*, so if it isn't for you, it isn't for you.
 - Tami D. Cowden. *Fallen Heroes: Sixteen Master Villain Archetypes*. *See* notes on *The Complete Writer's Guide to Heroes and Heroines* by Cowden et al., below, to which this is a companion volume. **Recommended** (with the same caveats).
