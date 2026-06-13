@@ -49,6 +49,9 @@ A rather interdisciplinary field by its nature, to be clear!
 - Liza Dalby. *Kimono: Fashioning Culture*.
 - Yoko Kawaguchi. *Authentic Japanese Gardens: Creating Japanese Design and Detail in the Western Garden*. This isn't history as such, but I use it as a reference.
 
+- # History: Korea
+- - Jeon Sang-woon. *A History of Science in Korea*.
+
 # History: Labor
 - David Brody. *Housekeeping by Design: Hotels and Labor*.
 
