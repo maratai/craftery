@@ -186,6 +186,13 @@ I have books but they're in Hangeul/Korean!
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 
+## Ciba Review
+- #20. *The Development of the Textile Crafts in Spain*.
+  - A. Wittlin. "Europe and Spain."
+  - A. Wittlin. "The Development of Wool Weaving in Spain."
+  - A. Wittlin. "The Development of Silk Weaving in Spain."
+  - A. Wittlin. "Tapestry Weaving and Carpet Knotting in Spain."
+
 ## Handwoven (magazine)
 - Issue 168. January/February 2014. Silk, kumihimo.
 - Issue 174. March/April 2015. "East Meets West" and "ethnic weaving: sakiori, Navajo weqaving, shifu (paper yarn), Japanese design inspirations.
