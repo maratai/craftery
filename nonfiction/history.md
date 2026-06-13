@@ -47,6 +47,7 @@ A rather interdisciplinary field by its nature, to be clear!
 
 # History asnd Culture: Japan
 - Liza Dalby. *Kimono: Fashioning Culture*.
+- Pradyhumna P. Karan. *Japan in the 21st Century: Environment, Economy, and Society*.
 - Yoko Kawaguchi. *Authentic Japanese Gardens: Creating Japanese Design and Detail in the Western Garden*. This isn't history as such, but I use it as a reference.
 - Kazuo Nishi and Kazuo Hozuni. *What Is Japanese Architecture?: A Survey of Traditional Japanese Architecture*.
 
