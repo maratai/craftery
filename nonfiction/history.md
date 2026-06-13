@@ -48,6 +48,7 @@ A rather interdisciplinary field by its nature, to be clear!
 # History asnd Culture: Japan
 - Liza Dalby. *Kimono: Fashioning Culture*.
 - Yoko Kawaguchi. *Authentic Japanese Gardens: Creating Japanese Design and Detail in the Western Garden*. This isn't history as such, but I use it as a reference.
+- Kazuo Nishi and Kazuo Hozuni. *What Is Japanese Architecture?: A Survey of Traditional Japanese Architecture*.
 
 - # History and Culture: Korea
 - Jeon Sang-woon. *A History of Science in Korea*.
