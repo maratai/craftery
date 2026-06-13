@@ -51,7 +51,10 @@ A rather interdisciplinary field by its nature, to be clear!
 
 - # History: Korea
 - Jeon Sang-woon. *A History of Science in Korea*.
-- Korea Heritage Series. *Taekwondo*.
+- Korea Heritage Series.
+  - *Folk Paintings*.
+  - *Seshi Customs*.
+  - *Taekwondo*.
 
 # History: Labor
 - David Brody. *Housekeeping by Design: Hotels and Labor*.
