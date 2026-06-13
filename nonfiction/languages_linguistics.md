@@ -15,6 +15,7 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 
 # Korean (Hangeul)
 - Julie Damron and EunSun You. *Korean Stories for Language Learners: Traditional Folktales in Korean and English*.
+- Young-Key Kim-Renaud, ed. *The Korean Alphabet: Its History and Structure*.
 - Talk to Me in Korean. *Easy Korean Reading for Beginners*.
 
 # Latin
