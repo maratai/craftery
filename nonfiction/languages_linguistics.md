@@ -13,6 +13,9 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 # Inuktitut
 - Arthur Thibert. *Eskimo-English English-Eskimo Dictionary*, revised edition; the original edition was from 1954, hence the title/terminology. I'm also convinced the grammar summary is describing "nominative" and "accusative" cases in what appears to be an attempt to explain *ergative-absolutive* cases, but I'm not a specialist.
 
+# Japanese Sign Language
+- Karen Nakamura. *Deaf in Japan: Signing and the Politics of Identity*.
+
 # Korean (Hangeul)
 - Julie Damron and EunSun You. *Korean Stories for Language Learners: Traditional Folktales in Korean and English*.
 - Young-Key Kim-Renaud, ed. *The Korean Alphabet: Its History and Structure*.
