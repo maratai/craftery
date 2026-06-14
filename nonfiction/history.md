@@ -61,6 +61,8 @@ A rather interdisciplinary field by its nature, to be clear!
   - *Folk Paintings*.
   - *Seshi Customs*.
   - *Taekwondo*.
+- Jill Matthews. *Korean Gardens: Tradition, Symbolism and Resilience*.
+- Kari Randall. *Modern and Traditional Korean Games and Sports*.
 - Michael D. Shin, ed. *Everyday Life in Joseon-Era Korea: Economy and Society*. **Recommended**.
 - Michael D. Shin, ed. *Korean History in Maps: From Prehistory to the Twenty-First Century*. **Recommended**.
 - Shin Myung-ho. *Joseoh Royal  Court Culture: Ceremonial and Daily Life*. Trans. Timothy V. Atkinson.
