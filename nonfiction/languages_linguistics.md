@@ -16,7 +16,9 @@ There's no attempt at thoroughness here. I've given languages first by their Eng
 # Japanese (Nihongo)
 Sorry, still working on learning the kana, let alone anything else!
 
-- Tae Kim. *A Guide to Japanese Grammar: A Japanese Approach to Learning Japanese Grammar*. There's a [free online version](https://guidetojapanese.org/learn/) with links to resources.
+- Tae Kim. *A Guide to Japanese Grammar: A Japanese Approach to Learning Japanese Grammar*. There's a [free online version](https://guidetojapanese.org/learn/) with [links to resources](https://guidetojapanese.org/learn/resources/), some of which are additionally linked below:
+  - [Hiragana Chart with Sound](https://www.tokyowithkids.com/fyi/hiragana_chart.html).
+  - [Hiragana Writing Practice](http://japanese-lesson.com/characters/hiragana/hiragana_writing.html) - PDF downloads.
 
 # Japanese Sign Language
 - Karen Nakamura. *Deaf in Japan: Signing and the Politics of Identity*.
