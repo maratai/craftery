@@ -52,6 +52,7 @@ A rather interdisciplinary field by its nature, to be clear!
 - Kazuo Nishi and Kazuo Hozuni. *What Is Japanese Architecture?: A Survey of Traditional Japanese Architecture*.
 
 - # History and Culture: Korea
+- Robert E. Buswell Jr. *Religions of Korea in Practice*.
 - Jeon Sang-woon. *A History of Science in Korea*.
 - Korea Heritage Series.
   - *Folk Paintings*.
