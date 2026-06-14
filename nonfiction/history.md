@@ -56,14 +56,15 @@ A rather interdisciplinary field by its nature, to be clear!
 - Jeon Sang-woon. *A History of Science in Korea*.
 - JaHyun Kim Haboush, trans. *The Memoirs of Lady Hyegyeong: The Autobiographical Writings of a Crown Princess of Eighteenth-Century Korea*.
 - JaHyun Kim Haboush, ed. *Epistolary Korea: Letters in the Communicative Space of the Choseon, 1392-1910*.
-- Yung-Chung Kim, ed. and trans. *Women of Korea: A History from Ancient Times to 1945*.
+- Yung-Chung Kim, ed. and trans. *Women of Korea: A History from Ancient Times to 1945*. **Recommended**.
 - Korea Heritage Series.
   - *Folk Paintings*.
   - *Seshi Customs*.
   - *Taekwondo*.
-- Michael D. Shin, ed. *Everyday Life in Joseon-Era Korea: Economy and Society*.
-- Michael D. Shin, ed. *Korean History in Maps: From Prehistory to the Twenty-First Century*.
+- Michael D. Shin, ed. *Everyday Life in Joseon-Era Korea: Economy and Society*. **Recommended**.
+- Michael D. Shin, ed. *Korean History in Maps: From Prehistory to the Twenty-First Century*. **Recommended**.
 - Shin Myung-ho. *Joseoh Royal  Court Culture: Ceremonial and Daily Life*. Trans. Timothy V. Atkinson.
+- Hong-Key Yoon. *The Culture of Fengshui in Korea: An Exploration of East Asian Geomancy*. One of the rare English-language texts specifically this topic (the *Korean* practice of pungsu-jiri).
 
 # History: Labor
 - David Brody. *Housekeeping by Design: Hotels and Labor*.
