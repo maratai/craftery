@@ -54,12 +54,14 @@ A rather interdisciplinary field by its nature, to be clear!
 - # History and Culture: Korea
 - Robert E. Buswell Jr. *Religions of Korea in Practice*.
 - JaHyun Kim Haboush, trans. *The Memoirs of Lady Hyegyeong: The Autobiographical Writings of a Crown Princess of Eighteenth-Century Korea*.
+- JaHyun Kim Haboush, ed. *Epistolary Korea: Letters in the Communicative Space of the Choseon, 1392-1910*.
 - Jeon Sang-woon. *A History of Science in Korea*.
 - Korea Heritage Series.
   - *Folk Paintings*.
   - *Seshi Customs*.
   - *Taekwondo*.
-- Michael D. Shin, ed. *Korean History in MAps: From Prehistory to the Twenty-First Century*.
+- Michael D. Shin, ed. *Everyday Life in Joseon-Era Korea: Economy and Society*.
+- Michael D. Shin, ed. *Korean History in Maps: From Prehistory to the Twenty-First Century*.
 - Shin Myung-ho. *Joseoh Royal  Court Culture: Ceremonial and Daily Life*. Trans. Timothy V. Atkinson.
 
 # History: Labor
