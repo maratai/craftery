@@ -26,6 +26,7 @@ Sorry, still working on learning the kana, let alone anything else!
 # Korean (Hangeul)
 - Julie Damron and EunSun You. *Korean Stories for Language Learners: Traditional Folktales in Korean and English*.
 - Young-Key Kim-Renaud, ed. *The Korean Alphabet: Its History and Structure*.
+- Iksop Lee and S. Robert Ramsey. *The Korean Language*.
 - Talk to Me in Korean. *Easy Korean Reading for Beginners*.
 
 # Latin
