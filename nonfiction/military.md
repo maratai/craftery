@@ -33,6 +33,9 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 - Eugene R. Fidell. *Military Justice: A Very Short Introduction*.
 - Gary D. Solis. *The Law of Armed Conflict: International Humanitarian Law in War*.
 
+# Korean Military History and Related
+- Katharine H. S. Moon. *Sex Among Allies: Military Prostitution in U.S.-Korea Relations*.
+
 # Leadership
 Or, in some cases, *anti*-leadership.
 - John M. Jennings and Chjuck Steele, eds. *The Worst Military Leaders in History*.
