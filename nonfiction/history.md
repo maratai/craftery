@@ -58,6 +58,7 @@ A rather interdisciplinary field by its nature, to be clear!
   - *Seshi Customs*.
   - *Taekwondo*.
 - Michael D. Shin, ed. *Korean History in MAps: From Prehistory to the Twenty-First Century*.
+- Shin Myung-ho. *Joseoh Royal  Court Culture: Ceremonial and Daily Life*. Trans. Timothy V. Atkinson.
 
 # History: Labor
 - David Brody. *Housekeeping by Design: Hotels and Labor*.
