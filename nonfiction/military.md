@@ -26,6 +26,7 @@ Military history and allied disciplines (e.g. bushcraft, ~survival) are a substa
 - Stephen Turnbull. *Samurai Invasion: Japan's Korean War, 1592-1598*. **Note:** There's an egregious error in the description of tidal currents at Hansan-do (which has, thanks to citations by people who apparently have zero clue how the tides work, propagated in English-language references).
 
 # Japanese Military History
+- Oscar Ratti and Adele Westbrook. *Secrets of the Samurai: A Survey of the Martial Arts of Feudal Japan*.
 - Dr. Stephen Turnbull. *Samurai Warfare*.
 
 # Justice and Law
