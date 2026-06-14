@@ -53,6 +53,7 @@ A rather interdisciplinary field by its nature, to be clear!
 
 - # History and Culture: Korea
 - Robert E. Buswell Jr. *Religions of Korea in Practice*.
+- JaHyun Kim Haboush, trans. *The Memoirs of Lady Hyegyeong: The Autobiographical Writings of a Crown Princess of Eighteenth-Century Korea*.
 - Jeon Sang-woon. *A History of Science in Korea*.
 - Korea Heritage Series.
   - *Folk Paintings*.
