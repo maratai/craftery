@@ -18,6 +18,7 @@ I realize it's modern practice to use "cryptography" as an umbrella term for cod
 - Saul Stahl. *Geometry from Euclid to Knots*.
 
 # Graph Theory
+- Lowell W. Beineke and Robin J. Wilson, eds. *Selected Topics in Graph Theory*. I'll be honest: I picked this up for the fascinating paper by Nash-Williams on "The Reconstruction Problem" (p. 205).
 - Arthur Benjamin, Gary Chartrand, and Ping Zhang. *The Fascinating World of Graph Theory*.
 - Gary Chartrand. *Introductory Graph Theory**.
 - Richard J. Trudeau. *Introduction to Graph Theory*.
