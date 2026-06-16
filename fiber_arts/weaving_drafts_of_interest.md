@@ -48,7 +48,8 @@ where I mean "of interest *to me*.
 ## Yarn Barn of Kansas
 - [Dancing Butterfly scarf](https://www.yarnbarn-ks.com/Dancing-Butterfly-pattern/productinfo/WP-YB-584-/) - 8H point twill with butterfly motif.
 - [Plaited Twill doormat](https://www.yarnbarn-ks.com/Plaited-Twill-Door-Mat-pattern/productinfo/WP-YB-561-/).
-- [Shades of Winter](https://www.yarnbarn-ks.com/Shades-of-Winter-pattern/productinfo/WP-YB-539-/) - 8H twill variation.
+- [Shades of Winter stole](https://www.yarnbarn-ks.com/Shades-of-Winter-pattern/productinfo/WP-YB-539-/) - 8H twill variation.
+- [Tumbling Blocks scarf](https://www.yarnbarn-ks.com/Tumbling-Blocks-pattern/productinfo/WP-YB-566-/) - 8H 
 
 # Sixteen-Harness Drafts
 - [Handweaving Draft #81252 "vintage star, broken twill"](https://handweaving.net/draft-detail/81252/vintage-star-broken-twill-amanda-cutler-2004-2026).
