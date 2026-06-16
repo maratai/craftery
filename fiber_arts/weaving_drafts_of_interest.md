@@ -3,6 +3,10 @@ where I mean "of interest *to me*.
 
 # Four-Harness Drafts
 
+## Gist Yarn drafts
+- [Constellation Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/constellations-placemats-weaving-pattern) by Christina Tsai. I bought the pattern, haven't had a chance to weave 'em yet!
+- [Lakeview Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/lakeview-placemats-weaving-pattern) by Christina Nichols. I've done this and it weaves up so pretty! Approachable as a newbie, too.
+
 ## Handweaving.net drafts
 - [Handweaving Draft #14087 "crackle design project"](https://handweaving.net/draft-detail/14087/xc00065-crackle-design-project-ralph-griswold-united-states-2004).
 - [Handweaving Draft #33992](https://handweaving.net/draft-detail/33992/figure-403-a-handbook-of-weaves-by-g-h-oelsner-germany-1915).
