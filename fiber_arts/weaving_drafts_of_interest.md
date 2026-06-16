@@ -5,6 +5,7 @@ where I mean "of interest *to me*.
 
 ## Yarn Barn of Kansas Drafts
 - [Gelato Placemats](https://www.yarnbarn-ks.com/Gelato-Placemats-Pattern/productinfo/WP-YB-581-/) - Plainweave stripes.
+- [Loose and Comfy Kimono](https://www.yarnbarn-ks.com/Loose-and-Comfy-Kimono-Pattern-Leaflet/productinfo/WP-YB-264-/) - Plainweave. I'm on the fence because drafting a basic kimono (made of RECTANGLES) is pretty easy!
 
 # Four-Harness Drafts
 
