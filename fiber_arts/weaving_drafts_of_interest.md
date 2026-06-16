@@ -1,5 +1,5 @@
 # Weaving Drafts of Interest
-where I mean "of interest *to me*.
+where I mean "of interest *to me*."
 
 # Two-Harness Drafts
 
