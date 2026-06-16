@@ -50,6 +50,7 @@ where I mean "of interest *to me*.
 - [4-Harness Rep Mug Rugs](https://www.yarnbarn-ks.com/4-Harness-Rep-Mug-Rugs-Pattern-Leaflet/productinfo/WP-YB-178-/) - 4H rep weave with crammed warp.
 - [Ad Astra Rainbow Color Study](https://www.yarnbarn-ks.com/Ad-Astra-Rainbow-Color-Study-pattern-leaflet/productinfo/WP-YB-580-/) - 4H color gamp (?).
 - [Botanical Bliss scarf](https://www.yarnbarn-ks.com/Botanical-Bliss-pattern/productinfo/WP-YB-592-/) - 4H twill variation.
+- [Home Spa Towels](https://www.yarnbarn-ks.com/Home-Spa-Towels-Pattern-Leaflet/productinfo/WP-YB-452-/) - 4H (?).
 - [Shetland and Linen Table Runner](https://www.yarnbarn-ks.com/Shetland-and-Linen-Table-Runner-Pattern-Leaflet/productinfo/WP-YB-227-/) - 4H overshot.
 - [Summer Daydream towels](https://www.yarnbarn-ks.com/Summer-Daydream-pattern/productinfo/WP-YB-572-/) - 4H twill variation and stripes.
 - [Summer Teatime Coasters](https://www.yarnbarn-ks.com/Summer-Tea-Time-Coasters-Pattern-Leaflet/productinfo/WP-YB-322-/) - 4H Atwater-Bronson lace.
