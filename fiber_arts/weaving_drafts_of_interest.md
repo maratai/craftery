@@ -12,6 +12,7 @@ where I mean "of interest *to me*.
 - [Constellation Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/constellations-placemats-weaving-pattern) by Christina Tsai. I bought the pattern, haven't had a chance to weave 'em yet!
 - [Dawning scarf](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/dawning-scarf-weaving-pattern) - 4H or 8H stripes.
 - [Lakeview Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/lakeview-placemats-weaving-pattern) by Christina Nichols. I've done this and it weaves up so pretty! Approachable as a newbie, too.
+- [Meditation Towels](https://www.gistyarn.com/products/meditation-towels-weaving-pattern) by Sue Ann Sullivan. 4H Name Draft + overshot (?).
 - [Sunlit Seas runner](https://www.gistyarn.com/products/sunlit-seas-runner-weaving-pattern) - 4H plainweave gradient.
 
 ## Handweaving.net drafts
@@ -53,6 +54,9 @@ where I mean "of interest *to me*.
 
 ## Handweaving.net Drafts
 - Handweaving Draft #12967 8H 8T satin.
+
+## Jane Stafford Textiles
+- [Sugar Plum Spice Bamboo Scarves](https://janestaffordtextiles.com/products/sugar-plum-spice-bamboo-scarves) - 8H turned twill.
 
 ## Other Drafts
 - [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version woven is a 4-harness one.
