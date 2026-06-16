@@ -47,8 +47,10 @@ where I mean "of interest *to me*.
   - Suzie Liles. "Linen and Lace Curtains." 4H, Swedish lace.
 
 ## Yarn Barn of Kansas drafts
+- [4-Harness Rep Mug Rugs](https://www.yarnbarn-ks.com/4-Harness-Rep-Mug-Rugs-Pattern-Leaflet/productinfo/WP-YB-178-/) - 4H rep weave with crammed warp.
 - [Ad Astra Rainbow Color Study](https://www.yarnbarn-ks.com/Ad-Astra-Rainbow-Color-Study-pattern-leaflet/productinfo/WP-YB-580-/) - 4H color gamp (?).
 - [Botanical Bliss scarf](https://www.yarnbarn-ks.com/Botanical-Bliss-pattern/productinfo/WP-YB-592-/) - 4H twill variation.
+- [Shetland and Linen Table Runner](https://www.yarnbarn-ks.com/Shetland-and-Linen-Table-Runner-Pattern-Leaflet/productinfo/WP-YB-227-/) - 4H overshot.
 - [Summer Daydream towels](https://www.yarnbarn-ks.com/Summer-Daydream-pattern/productinfo/WP-YB-572-/) - 4H twill variation and stripes.
 
 # Six-Harness Drafts
