@@ -45,5 +45,8 @@ where I mean "of interest *to me*.
 ## Other Drafts
 - [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version woven is a 4-harness one.
 
+## Yarn Barn of Kansas
+- [Shades of Winter](https://www.yarnbarn-ks.com/Shades-of-Winter-pattern/productinfo/WP-YB-539-/) - 8H twill variation.
+
 # Sixteen-Harness Drafts
 - [Handweaving Draft #81252 "vintage star, broken twill"](https://handweaving.net/draft-detail/81252/vintage-star-broken-twill-amanda-cutler-2004-2026).
