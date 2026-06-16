@@ -1,6 +1,11 @@
 # Weaving Drafts of Interest
 where I mean "of interest *to me*.
 
+# Two-Harness Drafts
+
+## Yarn Barn of Kansas Drafts
+- [Gelato Placemats](https://www.yarnbarn-ks.com/Gelato-Placemats-Pattern/productinfo/WP-YB-581-/) - Plainweave stripes.
+
 # Four-Harness Drafts
 
 ## Gist Yarn drafts
@@ -35,6 +40,7 @@ where I mean "of interest *to me*.
 ## Yarn Barn of Kansas drafts
 - [Ad Astra Rainbow Color Study](https://www.yarnbarn-ks.com/Ad-Astra-Rainbow-Color-Study-pattern-leaflet/productinfo/WP-YB-580-/) - 4H color gamp (?).
 - [Botanical Bliss scarf](https://www.yarnbarn-ks.com/Botanical-Bliss-pattern/productinfo/WP-YB-592-/) - 4H twill variation.
+- [Summer Daydream towels](https://www.yarnbarn-ks.com/Summer-Daydream-pattern/productinfo/WP-YB-572-/) - 4H twill variation and stripes.
 
 # Six-Harness Drafts
 
