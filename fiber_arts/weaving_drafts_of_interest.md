@@ -32,6 +32,10 @@ where I mean "of interest *to me*.
 - Issue 4. Spring 2026.
   - Suzie Liles. "Linen and Lace Curtains." 4H, Swedish lace.
 
+## Yarn Barn of Kansas drafts
+- [Ad Astra Rainbow Color Study](https://www.yarnbarn-ks.com/Ad-Astra-Rainbow-Color-Study-pattern-leaflet/productinfo/WP-YB-580-/) - 4H color gamp (?).
+- [Botanical Bliss scarf](https://www.yarnbarn-ks.com/Botanical-Bliss-pattern/productinfo/WP-YB-592-/) - 4H twill variation.
+
 # Six-Harness Drafts
 
 ## Handwoven (magazine)
