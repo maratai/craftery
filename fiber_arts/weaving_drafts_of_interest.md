@@ -10,7 +10,9 @@ where I mean "of interest *to me*.
 
 ## Gist Yarn drafts
 - [Constellation Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/constellations-placemats-weaving-pattern) by Christina Tsai. I bought the pattern, haven't had a chance to weave 'em yet!
+- [Dawning scarf](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/dawning-scarf-weaving-pattern) - 4H or 8H stripes.
 - [Lakeview Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/lakeview-placemats-weaving-pattern) by Christina Nichols. I've done this and it weaves up so pretty! Approachable as a newbie, too.
+- [Sunlit Seas runner](https://www.gistyarn.com/products/sunlit-seas-runner-weaving-pattern) - 4H plainweave gradient.
 
 ## Handweaving.net drafts
 - [Handweaving Draft #14087 "crackle design project"](https://handweaving.net/draft-detail/14087/xc00065-crackle-design-project-ralph-griswold-united-states-2004).
