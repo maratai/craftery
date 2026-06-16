@@ -9,6 +9,7 @@ where I mean "of interest *to me*.
 # Four-Harness Drafts
 
 ## Gist Yarn drafts
+- [Bars and Stripes Bathmat](https://www.gistyarn.com/products/bars-stripes-bathmat-multishaft) - 4H or 8H with ribbing and stripes.
 - [Constellation Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/constellations-placemats-weaving-pattern) by Christina Tsai. I bought the pattern, haven't had a chance to weave 'em yet!
 - [Dawning scarf](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/dawning-scarf-weaving-pattern) - 4H or 8H stripes.
 - [Lakeview Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/lakeview-placemats-weaving-pattern) by Christina Nichols. I've done this and it weaves up so pretty! Approachable as a newbie, too.
