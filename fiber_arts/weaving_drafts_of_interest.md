@@ -52,6 +52,7 @@ where I mean "of interest *to me*.
 - [Botanical Bliss scarf](https://www.yarnbarn-ks.com/Botanical-Bliss-pattern/productinfo/WP-YB-592-/) - 4H twill variation.
 - [Shetland and Linen Table Runner](https://www.yarnbarn-ks.com/Shetland-and-Linen-Table-Runner-Pattern-Leaflet/productinfo/WP-YB-227-/) - 4H overshot.
 - [Summer Daydream towels](https://www.yarnbarn-ks.com/Summer-Daydream-pattern/productinfo/WP-YB-572-/) - 4H twill variation and stripes.
+- [Summer Teatime Coasters](https://www.yarnbarn-ks.com/Summer-Tea-Time-Coasters-Pattern-Leaflet/productinfo/WP-YB-322-/) - 4H Atwater-Bronson lace.
 
 # Six-Harness Drafts
 
