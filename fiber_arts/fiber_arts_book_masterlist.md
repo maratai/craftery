@@ -26,6 +26,7 @@ I am not a quilter but I like looking at the pictures; my primary interest is in
 
 # Dyeing
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
+- Anne Bliss. *North American Dye Plants*. Thanks to Anne Davis.
 - Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
 - Kristine Vejar. *The Modern Natural Dyer: A Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*.
 
