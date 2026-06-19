@@ -57,6 +57,12 @@ where I mean "of interest *to me*."
 - [Summer Daydream towels](https://www.yarnbarn-ks.com/Summer-Daydream-pattern/productinfo/WP-YB-572-/) - 4H twill variation and stripes.
 - [Summer Teatime Coasters](https://www.yarnbarn-ks.com/Summer-Tea-Time-Coasters-Pattern-Leaflet/productinfo/WP-YB-322-/) - 4H Atwater-Bronson lace.
 
+# Five-Harness Drafts
+I confess my primary interest here is five-harness *satin*.
+
+## Handweaving.net Drafts
+- [Handweaving Draft #11119](https://handweaving.net/draft-detail/11119/05-zu-05-004-old-german-pattern-book-untitled-and-unbound-germany-uncertain-date-1850-1900-), ,a weft-faced satin.
+
 # Six-Harness Drafts
 
 ## Handwoven (magazine)
