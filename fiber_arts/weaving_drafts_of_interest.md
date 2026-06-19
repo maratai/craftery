@@ -61,7 +61,7 @@ where I mean "of interest *to me*."
 I confess my primary interest here is five-harness *satin*.
 
 ## Handweaving.net Drafts
-- [Handweaving Draft #11119](https://handweaving.net/draft-detail/11119/05-zu-05-004-old-german-pattern-book-untitled-and-unbound-germany-uncertain-date-1850-1900-), ,a weft-faced satin.
+- [Handweaving Draft #11119](https://handweaving.net/draft-detail/11119/05-zu-05-004-old-german-pattern-book-untitled-and-unbound-germany-uncertain-date-1850-1900-), a weft-faced satin.
 - [Handweaving Draft #75210](https://handweaving.net/draft-detail/75210/05sh004-satin-thrilling-twills-ingrid-boesel-canada-2002), a warp-faced satin (I think?).
 
 # Six-Harness Drafts
