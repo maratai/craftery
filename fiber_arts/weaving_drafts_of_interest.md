@@ -72,7 +72,7 @@ I confess my primary interest here is five-harness *satin*.
 # Eight-Harness Drafts
 
 ## Handweaving.net Drafts
-- Handweaving Draft #12967 8H 8T satin.
+- [Handweaving Draft #12967](https://handweaving.net/draft-detail/12967/figure-186-glossary-of-weaves-serial-501-international-textbook-company-united-states-1905), 8H 8T weft-faced satin.
 
 ## Jane Stafford Textiles
 - [Sugar Plum Spice Bamboo Scarves](https://janestaffordtextiles.com/products/sugar-plum-spice-bamboo-scarves) - 8H turned twill.
