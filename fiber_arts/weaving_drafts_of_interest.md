@@ -74,9 +74,9 @@ where I mean "of interest *to me*."
 - [Pin-Wheel Scarf](https://spaeted.wordpress.com/2019/01/27/pin-wheel-scarf/). An 8-harness draft is shown (e.g.); the version woven is a 4-harness one.
 
 ## Yarn Barn of Kansas
-- [Dancing Butterfly scarf](https://www.yarnbarn-ks.com/Dancing-Butterfly-pattern/productinfo/WP-YB-584-/) - 8H point twill with butterfly motif.
-- [Plaited Twill doormat](https://www.yarnbarn-ks.com/Plaited-Twill-Door-Mat-pattern/productinfo/WP-YB-561-/).
-- [Shades of Winter stole](https://www.yarnbarn-ks.com/Shades-of-Winter-pattern/productinfo/WP-YB-539-/) - 8H twill variation.
+- [Dancing Butterfly scarf](https://www.yarnbarn-ks.com/Dancing-Butterfly-pattern/productinfo/WP-YB-584-/) - 8H point twill with butterfly motif. Pamphlet obtained, not yet woven!
+- [Plaited Twill doormat](https://www.yarnbarn-ks.com/Plaited-Twill-Door-Mat-pattern/productinfo/WP-YB-561-/). Pamphlet obtained, not yet woven!
+- [Shades of Winter stole](https://www.yarnbarn-ks.com/Shades-of-Winter-pattern/productinfo/WP-YB-539-/) - 8H twill variation. Pamphlet obtained, not yet woven!
 - [Tumbling Blocks scarf](https://www.yarnbarn-ks.com/Tumbling-Blocks-pattern/productinfo/WP-YB-566-/) - 8H 
 
 # Sixteen-Harness Drafts
