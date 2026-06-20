@@ -39,3 +39,11 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
   - Sample D: coarse twill backed with fine plain weave on eight shafts.
 - Placemats and table runner with twill blocks, broken twill blocks on eight shafts for false damask (pp. 54-55).
 - Shawl in Swiss Ms and Os (pp. 56-57).
+
+# Weaving with Echo and Iris (Marian Stubenitsky)
+
+## Four-Shaft Patterns
+- Four-shaft shadow weave, noted as "blocky" (pp. 11-12).
+
+## Eight-Shaft Patterns
+- Eight-shaft shadow weave with flowing contours (pp. 12-13).
