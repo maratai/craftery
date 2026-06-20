@@ -51,5 +51,11 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Echo weave (pp. 16-17).
 - Sbadow weave with flowing contours (pp. 12-13)
 
+## Twelve-Shaft Patterns
+- Echo weave (p. 19).
+
+## Sixteen-Shaft Patterns
+- Echo weave (p. 18).
+
 ## Twenty-Four-Shaft Patterns
 - Echo weave (p. 17).
