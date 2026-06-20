@@ -6,11 +6,13 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 
 ## Four-Shaft Patterns
 - Mixed green warp projects (pp. 22 onward).
+  - Green cushion in honeycomb (p. 29).
   - Light green on beige placemats, tabby (p. 25).
-  - Overshot on opposites (p. 26).
+  - Placemats in overshot on opposites (p. 27).
   - Placemats in Tile Pattern, summer-and-winter treadled "brick fashion" (p. 24).
   - Small Placemats, tabby (p. 24).
   - White on Green Placemats, tabby (p. 25).
+- Off-white and black cushion in honeycomb (pp. 30-31).
 - **Placemats and Towels with Mock Damask**, mock damask or three-end twill blocks (pp. 16-18). Checkerboard vibes.
 - Towels in Molly's rib block weave, rib block weave variation (pp. 19-21).
 - Towels with Black Warp Stripes, plainweave and/or twill (pp. 6-13).
