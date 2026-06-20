@@ -2,6 +2,8 @@
 
 Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones of particular interest *to me*.
 
+**Nota bene:** I have 2-, 4-, 6-, and 8-harness looms so anything calling for more harnesses is strictly theoretical for me!
+
 # The Ashford Book of Weaving Patterns from Four to Eight Shafts
 
 ## Four-Shaft Patterns
@@ -43,7 +45,11 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 # Weaving with Echo and Iris (Marian Stubenitsky)
 
 ## Four-Shaft Patterns
-- Four-shaft shadow weave, noted as "blocky" (pp. 11-12).
+- Shadow weave, noted as "blocky" on four shafts (pp. 11-12).
 
 ## Eight-Shaft Patterns
-- Eight-shaft shadow weave with flowing contours (pp. 12-13).
+- Echo weave (pp. 16-17).
+- Sbadow weave with flowing contours (pp. 12-13)
+
+## Twenty-Four-Shaft Patterns
+- Echo weave (p. 17).
