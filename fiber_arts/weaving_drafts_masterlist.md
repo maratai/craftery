@@ -26,5 +26,9 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 
 ## Six-Shaft Patterns
 - Bronson towel, five-shaft bronson on six shaFTS (pp. 46-49).
+- Dishtowels with twill blcosk (pp. 52-43).
+- Summer-and-winter table runner, placemats (pp. 50-51).
 
 ## Eight-Shaft Patterns
+- Placemats and table runner with twill blocks, broken twill blocks on eight shafts for false damask (pp. 54-55).
+- Shawl in Swiss Ms and Os (pp. 56-57).
