@@ -21,4 +21,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Towels with Black Warp Stripes, plainweave and/or twill (pp. 6-13).
 - Towels with Colored Warp Stripes, plainweave/twill (pp. 14-15).
 
+## Five-Shaft Patterns
+- Placemats wtih "roses" in summer-and-winter, treadled in one of the X-&-O variations (ref. Sullivan and Tidball) (pp. 42-45), including matching napkins.
+
 ## Eight-Shaft Patterns
