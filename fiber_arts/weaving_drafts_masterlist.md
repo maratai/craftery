@@ -46,6 +46,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 
 ## Four-Shaft Patterns
 - Color-and-weave iridescence with colored warps (pp. 40-41).
+- Four-color double weave on four shafts (pp. 66-75).
 - Woven iridescence with four parallel lines, echo-4 (pp. 36-37).
 - Woven iridescence with parallel threadings (pp. 32-35).
 - Shadow weave, noted as "blocky" on four shafts (pp. 11-12).
@@ -56,6 +57,10 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 ## Eight-Shaft Patterns
 - Echo weave (pp. 16-17).
 - Eight colors, echo-8 (pp. 61-63); the following pages discuss designs for  more than eight shafts.
+- Four-color double weave with four-shaft groups in two threading blocks on eight shafts.
+  - checkered (p. 77).
+  - striped lengthwise (p. 76).
+  - windows (p. 78).
 - Four parallel lines on eight shafts (pp. 43-46); the following pages discuss designs for more than eight shafts.
 - Moire (pp. 22-23).
 - Shadow weave with flowing contours (pp. 12-13).
