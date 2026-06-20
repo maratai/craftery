@@ -59,7 +59,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - "Colonial" overshot in one layer, plain weave in bottom layer (pp. 84-85).
 - Echo weave (pp. 16-17).
 - Eight colors, echo-8 (pp. 61-63); the following pages discuss designs for  more than eight shafts.
-- Eight pattern blocks and a short tie-up (pp. 88-89).
+- Eight pattern blocks and a short tie-up (pp. 88-91).
 - Four-color double weave with four pattern blocks (pp. 86-87).
 - Four-color double weave with four-shaft groups in two threading blocks on eight shafts.
   - checkered (p. 77).
@@ -80,4 +80,5 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Moire (pp. 26-29).
 
 ## Twenty-Four-Shaft Patterns
+- Design line on 1/3 network (pp. 92-93), also shown with a compressed version for eight shafts.
 - Echo weave (p. 17).
