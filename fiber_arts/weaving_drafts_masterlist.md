@@ -42,6 +42,11 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Placemats and table runner with twill blocks, broken twill blocks on eight shafts for false damask (pp. 54-55).
 - Shawl in Swiss Ms and Os (pp. 56-57).
 
+# Handwoven's Design Collection 6
+
+## Two-Harness Patterns
+- Cotton Placemats with Pattern Accents, plain weave with borders enhanced with warp float pattern; includes rigid heddle instructions (p. 4).
+
 # Weaving with Echo and Iris (Marian Stubenitsky)
 
 ## Four-Shaft Patterns
