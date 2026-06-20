@@ -55,11 +55,15 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 
 ## Eight-Shaft Patterns
 - Echo weave (pp. 16-17).
+- Eight colors, echo-8 (pp. 61-63); the following pages discuss designs for  more than eight shafts.
+- Four parallel lines on eight shafts (pp. 43-46); the following pages discuss designs for more than eight shafts.
 - Moire (pp. 22-23).
-- Sbadow weave with flowing contours (pp. 12-13)
+- Shadow weave with flowing contours (pp. 12-13).
+- Telescoped draft from 24 shafts to 8 shafts (pp. 58-59).
 
 ## Twelve-Shaft Patterns
 - Echo weave (pp. 19-20).
+- Eight colors, echo-8 on twelve shafts (p. 65).
 - Moire (pp. 24-25).
 
 ## Sixteen-Shaft Patterns
