@@ -45,6 +45,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 # Weaving with Echo and Iris (Marian Stubenitsky)
 
 ## Four-Shaft Patterns
+- Iridescence with parallel threadings (pp. 32-33).
 - Shadow weave, noted as "blocky" on four shafts (pp. 11-12).
 
 ## Eight-Shaft Patterns
@@ -58,7 +59,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 
 ## Sixteen-Shaft Patterns
 - Echo weave (p. 18)
-- Moire (pp. 26-27)..
+- Moire (pp. 26-29).
 
 ## Twenty-Four-Shaft Patterns
 - Echo weave (p. 17).
