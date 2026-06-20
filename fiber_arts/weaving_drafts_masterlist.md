@@ -24,4 +24,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 ## Five-Shaft Patterns
 - Placemats wtih "roses" in summer-and-winter, treadled in one of the X-&-O variations (ref. Sullivan and Tidball) (pp. 42-45), including matching napkins.
 
+## Six-Shaft Patterns
+- Bronson towel, five-shaft bronson on six shaFTS (pp. 46-49).
+
 ## Eight-Shaft Patterns
