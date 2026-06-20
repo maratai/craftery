@@ -75,10 +75,12 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 ## Twelve-Shaft Patterns
 - Echo weave (pp. 19-20).
 - Eight colors, echo-8 on twelve shafts (p. 65).
+- Four-color double-weave on echo-4 threading (p. 103).
 - Moire (pp. 24-25).
 
 ## Sixteen-Shaft Patterns
-- Echo weave (p. 18)
+- Echo weave (p. 18).
+- Four-color double-weave on echo-4 threading (p. 103), sixteen and more shafts.
 - Moire (pp. 26-29).
 
 ## Twenty-Four-Shaft Patterns
