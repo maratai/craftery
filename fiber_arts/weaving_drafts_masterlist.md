@@ -22,13 +22,20 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Towels with Colored Warp Stripes, plainweave/twill (pp. 14-15).
 
 ## Five-Shaft Patterns
+- **Jacket and suit material in backed weaves** (pp. 58-65).
+  - Sample A: coarse basket weave backed with fine plain weave on five shafts.
 - Placemats wtih "roses" in summer-and-winter, treadled in one of the X-&-O variations (ref. Sullivan and Tidball) (pp. 42-45), including matching napkins.
 
 ## Six-Shaft Patterns
 - Bronson towel, five-shaft bronson on six shaFTS (pp. 46-49).
 - Dishtowels with twill blcosk (pp. 52-43).
+- **Jacket and suit material in backed weaves** (pp. 58-65).
+  - Sample B: coarse basket weave backed with fine plain weave on six shafts.
+  - Sample C: coarse plain weave backed with fine plain weave on six shafts.
 - Summer-and-winter table runner, placemats (pp. 50-51).
 
 ## Eight-Shaft Patterns
+- **Jacket and suit material in backed weaves** (pp. 58-65).
+  - Sample D: coarse twill backed with fine plain weave on eight shafts.
 - Placemats and table runner with twill blocks, broken twill blocks on eight shafts for false damask (pp. 54-55).
 - Shawl in Swiss Ms and Os (pp. 56-57).
