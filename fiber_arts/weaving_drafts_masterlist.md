@@ -61,6 +61,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Eight colors, echo-8 (pp. 61-63); the following pages discuss designs for  more than eight shafts.
 - Eight pattern blocks and a short tie-up (pp. 88-91).
 - Eight shafts, eight pattern blocks, and a long tie-up (pp. 94-99).
+- Four-color double twill (pp. 116-123).
 - Four-color double weave on echo-4 threading (pp. 100-102), plus vertical stripes variant (p. 102).
 - Four-color double weave with four pattern blocks (pp. 86-87).
 - Four-color double weave with four-shaft groups in two threading blocks on eight shafts.
@@ -86,3 +87,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 ## Twenty-Four-Shaft Patterns
 - Design line on 1/3 network (pp. 92-93), also shown with a compressed version for eight shafts.
 - Echo weave (p. 17).
+- Four-color double twill (pp. 124-134).
+
+## Thirty-Two-Shaft Patterns
+- Four-color double twill (pp. 135-137).
