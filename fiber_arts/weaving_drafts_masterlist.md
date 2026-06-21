@@ -94,6 +94,7 @@
 ## Eight-Harness Patterns
 - Alpaca Scarf, wavy twill on eight shafts (pp. 148-149).
 - **Bathroom mats**, block twill on eight shafts (pp. 146-147).
+- Colourful cushions, block double weave in plain weave (pp. 176-179).
 - Co-ordinated furnishing fabrics, Samples 2, 4, 5, 8 (pp. 172-175).
   - Sample 1: color effect in basket weave.
   - Sample 2: block damask.
@@ -112,6 +113,10 @@
 
 ## Ten-Harness Patterns
 - Linen table runners and hand towels, dräll with 5-shaft satin background (pp. 170-171).
+
+## Twelve-Harness Patterns
+- Picnic blanket, block double weave in plain weave (pp. 180-181).
+- Woollen baby blanket, block double weave in tabby (pp. 182-183).
 
 # Handwoven's Design Collection 6
 
