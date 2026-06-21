@@ -81,8 +81,12 @@
 - Striped kitchen hand towels, plain weave with weft stripes in twill and broken twill (pp. 62-64).
 
 ## Eight-Harness Patterns
+- Alpaca Scarf, wavy twill on eight shafts (pp. 148-149).
 - **Bathroom mats**, block twill on eight shafts (pp. 146-147).
 - Cord-striped bags, weft cord (pp. 94-95).
+- **Four decorative sample strips** (on six- or eight harnesses) (pp. 150-155).
+  - Strips 1, 2, and 4: Russian weave, plain weave, Dukagång, twill and plain weave with pattern treadles.
+  - Strip 3, rosepath and plain weave.
 
 # Handwoven's Design Collection 6
 
