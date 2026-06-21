@@ -45,23 +45,43 @@
 # The Big Book of Weaving (Laila Lundell and Elisabeth Windesjö)
 
 ## Two-Harness Patterns
+- **Inlay rag rug**, weft-effect rep with inlay of rya knots, loops, and HV-technique (pp. 140-141).
 - Kitchen towels with small blocks, plain weave (pp. 58-59).
 - Large checked rep rug, warp-effect rep with color effect (pp. 108-110).
+
+## Three-Harness Patterns
+- Bags with bead panels, three-treadle weave (pp. 118-119).
+- Cotton summer curtains, plain weave and Swedish lace "mosquito lace" block (pp. 114-116).
+- Dice-weave cushion, pattern weft on plain weave background ("dice weave") (pp. 128-129).
+- **Paper yarn screen**, lace weave variation (pp. 134-135).
 
 ## Four-Harness Patterns
 - Checked fabric, reinforced weft weave structure (pp. 96-97).
 - Colour-effect mohair throw, twill with hound's tooth color effect (pp. 74-75).
+- Decorative rosepath weaving, bound rosepath (pp. 122-123).
+- Decorative weaving with paper yarn, plain weave with warp floats (pp. 132-133).
+- Double-width throw, double weave in basket weave (pp. 130-131).
+- **Half-linen mats**, half dräll (pp. 138-139).
 - Long table runners in rep weave, warp-effect rep with color effects (pp. 98-99).
+- **Large alpaca shawl**, lace and plain weave (pp. 120-121).
+- Old-fashioned weaving, monk's belt (pp. 142-143).
 - Rosepath band, rosepath lengthways (pp. 111-113).
 - Small alpaca throw, goose-eye (pp. 76-77).
 - Striped cushions, weft-effect broken twill (pp. 72-73).
 - Twill rag rug, like-sided straight twill (pp. 70-71).
+- Warp-printed fabric, plain weave (threaded on four shafts because of the tight sett) (pp. 136-137).
+
+## Five-Harness Patterns
+- Boa with rya knots, block twill with rya knots (pp. 124-125).
+- Slit rya for a bench, different-sided point twill with rya knots (pp. 126-127).
 
 ## Six-Harness Patterns
+- **Rag rug x 2**, weft-enhanced plain weave (pp. 144-145).
 - Small reverse-treadled rag rug, diamond twill with reverse treadling (pp. 78-79).
 - Striped kitchen hand towels, plain weave with weft stripes in twill and broken twill (pp. 62-64).
 
 ## Eight-Harness Patterns
+- **Bathroom mats**, block twill on eight shafts (pp. 146-147).
 - Cord-striped bags, weft cord (pp. 94-95).
 
 # Handwoven's Design Collection 6
