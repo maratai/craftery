@@ -65,6 +65,11 @@ I confess my primary interest here is five-harness *satin*.
 - [Handweaving Draft #75210](https://handweaving.net/draft-detail/75210/05sh004-satin-thrilling-twills-ingrid-boesel-canada-2002), a warp-faced satin (I think?).
 
 # Six-Harness Drafts
+The Inagaki Kiryou R-25 I have arriving *very soon* is a six-harness counterbalance loom, so...
+
+## Handweaving.net drafts
+- [Handweaving Draft #50025](https://handweaving.net/draft-detail/50025/figure-15-combination-weaves-serial-508-international-textbook-company-united-states-1905) - diamonds.
+- [Handweaving Draft #75309](https://handweaving.net/draft-detail/75309/06sn021-check-or-crepe-thrilling-twills-ingrid-boesel-canada-2002) - check or crepe.
 
 ## Handwoven (magazine)
 - Issue 174. March/April 2015. Margaret Zeps. "Japanese Noren Door Panels." 6H, plain weave with supplementary warp and weft.
