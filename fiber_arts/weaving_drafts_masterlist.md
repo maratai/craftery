@@ -117,6 +117,18 @@
 - Shadow Weave Scarves (pp. 10-11).
 - Spring Showers Baby Blanket (pp. 4-5).
 
+## Issue 24:  Mock Satin Damask
+
+### Damask and Techniques
+- ***Damask, Mock Satin Damask** (pp. 2-5).
+
+### Four-Harness Patterns
+- **Snowflakes and Pine Tree in Simplified Mock Satin Damask** (pp. 6-9).
+- **Snowflakes in True Mock Satin Damask** (pp. 10-13).
+
+### Eight-Harness Patterns
+- **Damask Scarf** (pp. 14-15).
+
 # Weaving with Echo and Iris (Marian Stubenitsky)
 
 ## Four-Shaft Patterns
