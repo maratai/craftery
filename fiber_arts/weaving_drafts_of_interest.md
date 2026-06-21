@@ -65,7 +65,7 @@ I confess my primary interest here is five-harness *satin*.
 - [Handweaving Draft #75210](https://handweaving.net/draft-detail/75210/05sh004-satin-thrilling-twills-ingrid-boesel-canada-2002), a warp-faced satin (I think?).
 
 # Six-Harness Drafts
-The Inagaki Kiryou R-25 I have arriving *very soon* is a six-harness counterbalance loom, so...
+The [Inagaki Kiryou](https://inagakikiryo-weaving.com) [R-25](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25) I have arriving *very soon* is a 6H 6T counterbalance loom, so...
 
 ## Handweaving.net drafts
 - [Handweaving Draft #44236](https://handweaving.net/draft-detail/44236/figure-1711-a-handbook-of-weaves-by-g-h-oelsner-germany-1915) - checkered diamonds.
