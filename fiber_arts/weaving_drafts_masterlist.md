@@ -94,6 +94,16 @@
 ## Two-Harness Patterns
 - Cotton Placemats with Pattern Accents, plain weave with borders enhanced with warp float pattern; includes rigid heddle instructions (p. 4).
 
+# Weaver's Craft (magazine)
+
+## Issue 19: Log Cabin and Where It Leads
+
+### Four-Harness Patterns
+- **Bamboo Shoots Rep Placemats**, ripsmatta (pp. 6-7).
+- Crocus in Snow Towels (pp. 12-13).
+- Shadow Weave Scarves (pp. 10-11).
+- Spring Showers Baby Blanket (pp. 4-5).
+
 # Weaving with Echo and Iris (Marian Stubenitsky)
 
 ## Four-Shaft Patterns
