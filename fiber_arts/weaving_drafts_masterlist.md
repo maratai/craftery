@@ -79,6 +79,7 @@
 - **Rag rug x 2**, weft-enhanced plain weave (pp. 144-145).
 - Small reverse-treadled rag rug, diamond twill with reverse treadling (pp. 78-79).
 - Striped kitchen hand towels, plain weave with weft stripes in twill and broken twill (pp. 62-64).
+- **Transparent interior furnishing fabric**, HV-technique (?) (pp. 150, 162-163).
 
 ## Eight-Harness Patterns
 - Alpaca Scarf, wavy twill on eight shafts (pp. 148-149).
