@@ -96,6 +96,19 @@
 
 # Weaver's Craft (magazine)
 
+## Issue 9: Easy Inlays, Scarves with Stars, Gifts with Flowers
+
+### Inlay and Techniques
+- **How Inlay Works** (p. 3).
+- **Inlay with Space-Dyed Yarn** (p. 2).
+- **Sett and the Size of Inlay Weft** (p. 4).
+- Stretchy Yarns with Inlay (p. 11).
+
+### Four-Harness Patterns
+- Armoire Set (pp. 12-15).
+- Checked Pillow with Inlay Motifs (pp. 8-10).
+- Scarf with Inlaid Star Motifs (pp. 5-7),
+
 ## Issue 19: Log Cabin and Where It Leads
 
 ### Four-Harness Patterns
