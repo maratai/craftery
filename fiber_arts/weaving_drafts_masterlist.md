@@ -46,9 +46,13 @@
 
 ## Two-Harness Patterns
 - Kitchen towels with small blocks, plain weave (pp. 58-59).
+- Large checked rep rug, warp-effect rep with color effect (pp. 108-110).
 
 ## Four-Harness Patterns
+- Checked fabric, reinforced weft weave structure (pp. 96-97).
 - Colour-effect mohair throw, twill with hound's tooth color effect (pp. 74-75).
+- Long table runners in rep weave, warp-effect rep with color effects (pp. 98-99).
+- Rosepath band, rosepath lengthways (pp. 111-113).
 - Small alpaca throw, goose-eye (pp. 76-77).
 - Striped cushions, weft-effect broken twill (pp. 72-73).
 - Twill rag rug, like-sided straight twill (pp. 70-71).
@@ -56,6 +60,9 @@
 ## Six-Harness Patterns
 - Small reverse-treadled rag rug, diamond twill with reverse treadling (pp. 78-79).
 - Striped kitchen hand towels, plain weave with weft stripes in twill and broken twill (pp. 62-64).
+
+## Eight-Harness Patterns
+- Cord-striped bags, weft cord (pp. 94-95).
 
 # Handwoven's Design Collection 6
 
