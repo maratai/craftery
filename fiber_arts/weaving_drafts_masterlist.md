@@ -45,6 +45,15 @@
 # The Big Book of Weaving (Laila Lundell and Elisabeth Windesjö)
 
 ## Two-Harness Patterns
+- Co-ordinated furnishing fabrics, Samples 1, 3, 6, 7 (pp. 172-175).
+  - Sample 1: color effect in basket weave.
+  - Sample 2: block damask.
+  - Sample 3: color effect in basket weave.
+  - Sample 4: block damask.
+  - Sample 5: block damask.
+  - Sample 6: color effect in plain weave "Pepita."
+  - Sample 7: color effect in plain weave.
+  - Sample 8: block damask.
 - **Inlay rag rug**, weft-effect rep with inlay of rya knots, loops, and HV-technique (pp. 140-141).
 - Kitchen towels with small blocks, plain weave (pp. 58-59).
 - Large checked rep rug, warp-effect rep with color effect (pp. 108-110).
@@ -76,6 +85,7 @@
 - Slit rya for a bench, different-sided point twill with rya knots (pp. 126-127).
 
 ## Six-Harness Patterns
+- Furnishing fabrics x2, taqueté (pp. 164-165).
 - **Rag rug x 2**, weft-enhanced plain weave (pp. 144-145).
 - Small reverse-treadled rag rug, diamond twill with reverse treadling (pp. 78-79).
 - Striped kitchen hand towels, plain weave with weft stripes in twill and broken twill (pp. 62-64).
@@ -84,10 +94,24 @@
 ## Eight-Harness Patterns
 - Alpaca Scarf, wavy twill on eight shafts (pp. 148-149).
 - **Bathroom mats**, block twill on eight shafts (pp. 146-147).
+- Co-ordinated furnishing fabrics, Samples 2, 4, 5, 8 (pp. 172-175).
+  - Sample 1: color effect in basket weave.
+  - Sample 2: block damask.
+  - Sample 3: color effect in basket weave.
+  - Sample 4: block damask.
+  - Sample 5: block damask.
+  - Sample 6: color effect in plain weave "Pepita."
+  - Sample 7: color effect in plain weave.
+  - Sample 8: block damask.
 - Cord-striped bags, weft cord (pp. 94-95).
+- Cotton baby blankets, block double weave in tabby (pp. 168-169).
 - **Four decorative sample strips** (on six- or eight harnesses) (pp. 150-155).
   - Strips 1, 2, and 4: Russian weave, plain weave, Dukagång, twill and plain weave with pattern treadles.
   - Strip 3, rosepath and plain weave.
+- Furnishing fabrics x2, Kuvikas (pp. 164-165).
+
+## Ten-Harness Patterns
+- Linen table runners and hand towels, dräll with 5-shaft satin background (pp. 170-171).
 
 # Handwoven's Design Collection 6
 
