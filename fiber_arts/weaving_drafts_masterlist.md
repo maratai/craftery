@@ -1,8 +1,8 @@
 # Weaving Drafts
 
-Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones of particular interest *to me*.
+**WIP**. Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones of particular interest *to me*.
 
-**Nota bene:** I have 2-, 4-, 6-, and 8-harness looms so anything calling for more harnesses is strictly theoretical for me!
+**Nota bene:** I have 2-harness (Saori Piccolo, 2H 2T counterbalance), 4-harness (Saori WX60, 4H 6T sinking shed), 6-harness (Inagaki R-25, 6H 6T counterbalance), and 8-harness (Toika Laila, 8H 8T countermarche) looms so anything calling for more than eight harnesses is strictly theoretical *for me*!
 
 # The Ashford Book of Weaving Patterns from Four to Eight Shafts
 
@@ -29,7 +29,7 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
 - Placemats wtih "roses" in summer-and-winter, treadled in one of the X-&-O variations (ref. Sullivan and Tidball) (pp. 42-45), including matching napkins.
 
 ## Six-Shaft Patterns
-- Bronson towel, five-shaft bronson on six shaFTS (pp. 46-49).
+- Bronson towel, five-shaft bronson on six shafts (pp. 46-49).
 - Dishtowels with twill blcosk (pp. 52-43).
 - **Jacket and suit material in backed weaves** (pp. 58-65).
   - Sample B: coarse basket weave backed with fine plain weave on six shafts.
@@ -41,6 +41,11 @@ Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones o
   - Sample D: coarse twill backed with fine plain weave on eight shafts.
 - Placemats and table runner with twill blocks, broken twill blocks on eight shafts for false damask (pp. 54-55).
 - Shawl in Swiss Ms and Os (pp. 56-57).
+
+# The Big Book of Weaving (Laila Lundell and Elisabeth Windesjö)
+
+## Two-Harness Patterns
+- Kitchen towels with small blocks, plain weave (pp. 58-59).
 
 # Handwoven's Design Collection 6
 
