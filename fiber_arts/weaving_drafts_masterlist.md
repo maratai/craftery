@@ -143,3 +143,11 @@
 
 ## Thirty-Two-Shaft Patterns
 - Four-color double twill (pp. 135-137).
+
+# Yarn Barn of Kansas
+They offer PDFs as well as printed pamphlets!
+
+## Eight-Harness Patterns
+- **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
+- **Plaited Twill Door Mat**, sett at 6 ends per inch, four skeins each of 160 Dark Grey and 128 Pale Grey Heavy Rug Wool, 6-dent reed.
+- **Shades of Winter** stole, sett at 12 ends per inch, multiple skeins of Nature Spun Sport, 12-dent reed.
