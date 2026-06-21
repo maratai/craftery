@@ -71,7 +71,7 @@ The [Inagaki Kiryou](https://inagakikiryo-weaving.com) [R-25](https://inagakikir
 - [Handweaving Draft #44236](https://handweaving.net/draft-detail/44236/figure-1711-a-handbook-of-weaves-by-g-h-oelsner-germany-1915) - checkered diamonds.
 - [Handweaving Draft #50025](https://handweaving.net/draft-detail/50025/figure-15-combination-weaves-serial-508-international-textbook-company-united-states-1905) - diamonds.
 - [Handweaving Draft #52456](https://handweaving.net/draft-detail/52456/figure-117-c-a-manual-of-weave-construction-ivo-kastanek-austria-1903) - log cabin vibe.
-- [Handweaaving Draft #54185](https://handweaving.net/draft-detail/54185/plate-no-1-weave-no-2-a-treatise-on-designing-and-weaving-plain-and-fancy-woolen-cloths-a-a-baldwin-brasher-falls-st-lawrence-co-new-york-u-s-a-1878) - diamond vibe.
+- [Handweaving Draft #54185](https://handweaving.net/draft-detail/54185/plate-no-1-weave-no-2-a-treatise-on-designing-and-weaving-plain-and-fancy-woolen-cloths-a-a-baldwin-brasher-falls-st-lawrence-co-new-york-u-s-a-1878) - diamond vibe.
 - [Handweaving Draft #75309](https://handweaving.net/draft-detail/75309/06sn021-check-or-crepe-thrilling-twills-ingrid-boesel-canada-2002) - check or crepe.
 
 ## Handwoven (magazine)
