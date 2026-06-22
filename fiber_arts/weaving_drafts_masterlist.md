@@ -164,7 +164,7 @@
 ## Issue 24:  Mock Satin Damask
 
 ### Damask and Techniques
-- ***Damask, Mock Satin Damask** (pp. 2-5).
+- **Damask, Mock Satin Damask** (pp. 2-5).
 
 ### Four-Harness Patterns
 - **Snowflakes and Pine Tree in Simplified Mock Satin Damask** (pp. 6-9).
