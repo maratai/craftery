@@ -35,6 +35,7 @@ A rather interdisciplinary field by its nature, to be clear!
 - Roelf Bolt. *The Encyclopaedia of Liars and Deceivers*.
 - Anne Green. *Gloves: An Intimate History*. **to-read**
 - Eric Langenbacher, Bill Niven, and Ruth Wittinger, eds. *Dynamics of Memory and Identity in Contemporary Europe*.
+- Andrew Pettegree. *The Book at War: Libraries and Readers in an Age of Conflict*. Thank you to you-know-who-you-are.
 - Nassim Nicholas Taieb. *The Black Swan: The Impact of the Highly Improbable*.
 
 # History: Genocide Studies
