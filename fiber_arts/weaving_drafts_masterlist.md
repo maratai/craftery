@@ -125,6 +125,21 @@
 
 # Weaver's Craft (magazine)
 
+## December 2000/January 2001, Volume 1, Number 6: Weaving and Fulling Wool, Long Narrow Warps
+
+### Four-Harness Patterns
+- The Breakers Scarf, 2/2 twill variation (p. 14).
+- Origami Pillows, plainweave (pp. 6-8).
+- Swirl Hat or Tea Cozy, 2/2 twill variation (pp. 9-11).
+
+## Summer 2001, Volume 2, Number 2: Gingham Towels, Changing Yarn Size, Little Helpers
+
+### Four-Harness Patterns
+- **Large Check Gingham Towels in Green and White**, plain weave and straight twill (pp. 6-7).
+- **Medium Check Gingham Towels in Red and White** (pp. 8-9).
+- **Small Check Gingham Towels in Blue and White** (pp. 10-11).
+- **Tiny Check Gingham Towels in Orange and White** (pp. 12-13).
+
 ## Issue 9: Easy Inlays, Scarves with Stars, Gifts with Flowers
 
 ### Inlay and Techniques
