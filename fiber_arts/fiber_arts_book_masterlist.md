@@ -163,6 +163,7 @@ I have books but they're in Hangeul/Korean!
 - Laila Lundell and Elisabeth Windesjö. *The Big Book of Weaving*.
 - Annie MacHale. *In Celebration of Plain Weave: Color and Design Inspiration for Inkle Weavers*.
 - Syne Mitchell. *Inventive Weaving on a Little Loom: Discover the Full Potential of the Rigid-Hedde Loom for Beginners and Beyond*.
+- Jennifer Moore. *Doubleweave*, revised and expanded.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
 - Anne E. Nygård. *Weaving Damask*.
 - Peggy Osterkamp. *Weaving for Beginners: An Illustrated Guide*, 4th ed.
