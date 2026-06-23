@@ -55,9 +55,9 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 # Floor Looms
 
 ## [Inagaki Kiryou](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. I have one on order (paid in advance and being built to order). It will be at least three months of build time (ETA June 2026) plus shipping - not cheap, since it's international freight, plus whatever customs duties are levied. As of June 5, 2026, I'm informed they're conducting final checks and it should ship in the next two weeks!
+Japanese floor loom. Newly arrived, plan to assemble this week! It took about three months of build time plus shipping - not cheap, since it's international freight, plus customs duties.
 
-Generously, they sent me an image of the loom being constructed:
+Generously, they sent me an image of the loom being constructed before its arrival:
 
 ![Inagaki Kiryou R-25 loom in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-05-r25.jpg?raw=true)
 
