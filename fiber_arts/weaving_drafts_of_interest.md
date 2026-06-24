@@ -43,6 +43,9 @@ where I mean "of interest *to me*."
   - Susan Wilson. "Bold Brights and Tranquil Tones: Polychrome Crackle Scarves." 4H 6T, twill-based block weave.
   - Tien Chiu. "Little Luxuries: Silk Bag and Sachets." 4H or 8H, huck lace.
 
+## Learn to Weave with Anne Field
+- Table mats (pp. 108-119), plainweave and rose path.
+
 ## Weft (magazine) drafts
 - Issue 4. Spring 2026.
   - Suzie Liles. "Linen and Lace Curtains." 4H, Swedish lace.
