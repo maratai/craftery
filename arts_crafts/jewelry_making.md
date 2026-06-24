@@ -1,3 +1,6 @@
+# Beading and Beadweaving
+- Laura McCabe. *Laura McCabe's Embellished Beadweaving: Jewelry Lavished with Fringe, Fronds, Lacework and More*. Library book.
+
 # Resin Jewelry
 - Gay Isber. *Learn to Make Amazing Resin and Epoxy Clay Jewelry: Basic Step-by-Step Projects for Beginners*.
 - Sara Naumann. *How to Make Resin Jewellery*.
