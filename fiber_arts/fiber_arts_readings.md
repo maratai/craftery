@@ -7,6 +7,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 # Embroidery
 - Julia D. Gray. *Traditional Japanese Embroidery*. Lovely photos and explanations of specific Japanese techniques and tools for silk embroidery. That said, in stitch terms, it's 80% satin  stitch by volume.
 - Sarah Homfray. *Silk Shading*. I will be destashing this in a friend's direction. If you know anything about color and some embroidery stitches, this is nothing new. Lovely photos though, and a reasonable reference/starting point for a beginner.
+- Katherine Kennedy. *Learn Swedish Weaving and Huck Embroidery*. Library book.
 - Shuji Tamura. *The Techniques of Japanese Embroidery*. Superlative. **Recommended**.
 
 # Fiber Reference
@@ -395,14 +396,13 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Kelly Casanova. [Weaving Cost Estimator](https://kellycasanovaweavinglessons.com/weaving-cost-estimator).
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Discusses lace techniques (Leno, Spanish lace, Danish medallion, pick-up Bronson lace, Brooks bouquet), simple inlay, monk's belt, and dukagang.
-- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
+- Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
+- R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
 - Mi Young Suh and Park Kil Soon. [*Traditional Textile Materials of Baekje Kingdom*](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=tsaconf).
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
-- R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
-- Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).
-
+- Roseann S. Willink and Paul G. Zolbrod. *Weaving a World: Textiles and the Navajo Way of Seeing*. Library book.
 
 ## Weaving: Card/Tablet Weaving
 - Peter Collingwood. *Techniques of Tablet Weaving*. An extraordinary academic overview. Recommended.
