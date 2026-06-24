@@ -72,7 +72,7 @@ They've recently (as of May 2026) revamped their website, which now includes an 
 This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) Inagaki Kiryou shared with me is for the H25, but I was told that it involves the same steps. (I had an assembly question ahead of time.)
 
 **Specs**
-- **weight:** I've inquired out of curiosity!
+- **weight:** about 70 lbs
 - **weaving width:** 48 cm (about 19")
 - **total width:** 86 cm (about 34")
 - **height:** 165 cm (about 65")
