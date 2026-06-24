@@ -44,6 +44,7 @@ where I mean "of interest *to me*."
   - Tien Chiu. "Little Luxuries: Silk Bag and Sachets." 4H or 8H, huck lace.
 
 ## Learn to Weave with Anne Field
+Library book.
 - Table mats (pp. 108-119), plainweave and rose path.
 
 ## Weft (magazine) drafts
