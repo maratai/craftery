@@ -396,6 +396,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Kelly Casanova. [Weaving Cost Estimator](https://kellycasanovaweavinglessons.com/weaving-cost-estimator).
 - Harriet C. Douglas. *Handweaver's Instruction Manual*. 1949. **to-read**
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Discusses lace techniques (Leno, Spanish lace, Danish medallion, pick-up Bronson lace, Brooks bouquet), simple inlay, monk's belt, and dukagang.
+- Sara Lamb. *Woven Treasures: One-of-a-Kind Bags with Folk Weaving Techniques*. Library book.
 - Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
 - R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
 - Mi Young Suh and Park Kil Soon. [*Traditional Textile Materials of Baekje Kingdom*](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=tsaconf).
