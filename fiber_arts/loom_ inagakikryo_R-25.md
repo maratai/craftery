@@ -1,5 +1,5 @@
 # [Inagaki Kiryo](https://inagakikiryo-weaving.com)'s [R-25 floor loom](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25) (6H 6T counterbalance, 48 cm weaving width)
-I'm documenting this beautiful loom for my own reference; I am not an expert; I'm a weaving hobbyist.
+I'm documenting this beautiful loom for my own reference; I am not an expert; I'm a weaving hobbyist. Many thanks to Inagaki Kiryo, who were an absolute pleasure to work with.
 
 Here the R-25 is assembled although I have not finished adjustments to the tie-up etc. The [H-25 assembly manual PDF](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) is available for your reference; there are some minor divergences from the R-25 (which is the updated version of the H-25) but they're straightforward to figure out.
 
