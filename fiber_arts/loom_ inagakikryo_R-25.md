@@ -19,7 +19,7 @@ The back beam ratchet and pawl, held under light tension with the aid of the spr
 
 The harnesses have a clever "lock" system with wires whose curved ends hook into holes in the side harness rails. The harness frames have enough "play" to make sliding the rails out of the slots, one end at a time, straightforward. The heddles arrived prestrung onto elastic rescue cords.
 
-![harness lock system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-05.jpghttps://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-05.jpg)
+![harness lock system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-05.jpg)
 
 Partly assembled:
 
