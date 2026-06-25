@@ -1,4 +1,17 @@
-# Specifications (English)
+# [Inagaki Kiryo](https://inagakikiryo-weaving.com) [R-25 floor loom](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25) (6H 6T counterbalance, 48 cm weaving width)
+I'm documenting this beautiful loom for my own reference; I am not an expert; I'm a weaving hobbyist.
+
+Partly assembled:
+
+![partly assembled](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-01.jpg)
+
+Some of the below is from an earlier version of the website, which I saved for my reference
+
+Tools for assembly, which came with the loom, labeled and sorted:
+
+![tools](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-02.jpg)
+
+## Specifications (English)
 The weaving machine uses the upper heddle type.
 
 This creates more space inside than the lower heddle type, making it easier to operate the treadle.
