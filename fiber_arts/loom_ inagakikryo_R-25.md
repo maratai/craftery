@@ -1,17 +1,41 @@
-# [Inagaki Kiryo](https://inagakikiryo-weaving.com) [R-25 floor loom](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25) (6H 6T counterbalance, 48 cm weaving width)
+# [Inagaki Kiryo](https://inagakikiryo-weaving.com)'s [R-25 floor loom](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25) (6H 6T counterbalance, 48 cm weaving width)
 I'm documenting this beautiful loom for my own reference; I am not an expert; I'm a weaving hobbyist.
+
+Here the R-25 is assembled although I have not finished adjustments to the tie-up etc:
+
+![R-25 kimono loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-01.jpg?raw=true)
+
+The castle, with slots for the overhanging beater and the horses for the counterbalance harnesses.
+
+![castle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-07.jpg?raw=true)
+
+The back beam ratchet and pawl, held under light tension with the aid of the spring, with a mysterious cord...
+
+![back beam](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-04.jpg)
+
+...which turns out to make releasing the ratchet from the *front* of the loom possible!
+
+![back beam release, side view of loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-03.jpg)
 
 Partly assembled:
 
 ![partly assembled](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-01.jpg)
 
-Some of the below is from an earlier version of the website, which I saved for my reference
+One pic from unboxing, showing the excellent lashing job done for packing.
+
+![lashing](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-02.jpg?raw=true)
 
 Tools for assembly, which came with the loom, labeled and sorted:
 
 ![tools](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-02.jpg)
 
+Excellent labeling made assembly, alongside the included assembly guides, straightforward although I regrettably don't read Japanese.
+
+![labeled parts](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-03.jpg?raw=true)
+
 ## Specifications (English)
+**NOTE:** From an earlier version of the site.
+
 The weaving machine uses the upper heddle type.
 
 This creates more space inside than the lower heddle type, making it easier to operate the treadle.
