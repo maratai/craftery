@@ -17,9 +17,17 @@ The back beam ratchet and pawl, held under light tension with the aid of the spr
 
 ![back beam release, side view of loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-03.jpg)
 
+The harnesses have a clever "lock" system with wires whose curved ends hook into holes in the side harness rails. The harness frames have enough "play" to make sliding the rails out of the slots, one end at a time, straightforward. The heddles arrived prestrung onto elastic rescue cords.
+
+![harness lock system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-05.jpghttps://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-05.jpg)
+
 Partly assembled:
 
 ![partly assembled](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-01.jpg)
+
+I genuinely don't know if this is the intended use for the *very* long bamboo poles connected at one end like extra-long cooking chopsticks, but they are in fact the perfect length to "hold" the harnesses in place while adjusting them without an assistant.
+
+![harnesses](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-25-loom-06.jpg?raw=true)
 
 One pic from unboxing, showing the excellent lashing job done for packing.
 
