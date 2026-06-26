@@ -228,6 +228,7 @@ They offer PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
 - [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/), plain weave, 12- or 12.5-dent reed. Currently warping this!
+  - warp: one 8-oz. tube each of 3 colors Carpet Warp (I went with Colonial Blue, Jade, and Aqua Green).
 
 ## Eight-Harness Patterns
 - **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
