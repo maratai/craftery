@@ -118,6 +118,14 @@
 - Picnic blanket, block double weave in plain weave (pp. 180-181).
 - Woollen baby blanket, block double weave in tabby (pp. 182-183).
 
+# Gist Yarn
+
+## Four-Harness Patterns
+- Checkerboard Placemats by Rheanna Davison, monk's belt plus color-and-weave ground cloth. PDF.
+- [Constellations Placemats](https://www.gistyarn.com/products/constellations-placemats-weaving-pattern?_pos=1&_psq=constellations&_ss=e&_v=1.0) by Christina Tsai, stitched double cloth, PDF.
+- Cozy Alpaca Poncho by Andrea Carpenter, adapted and rewoven by Christine Jablonski, plain weave. **Free PDF.**
+- [Lakeview Placemats](https://www.gistyarn.com/products/lakeview-placemats-weaving-pattern) by Kristina Nichols, shadow weave. I've woven this!
+
 # Handwoven's Design Collection 6
 
 ## Two-Harness Patterns
