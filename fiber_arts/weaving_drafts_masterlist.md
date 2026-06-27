@@ -134,6 +134,12 @@
 ## Two-Harness Patterns
 - Cotton Placemats with Pattern Accents, plain weave with borders enhanced with warp float pattern; includes rigid heddle instructions (p. 4).
 
+# [School of SweetGeorgia](https://www.sweetgeorgia.co/home)
+
+## Eight-Harness Patterns
+- Baker Street Scarf by Felicia Lo, waffle weave. PDF.
+- **Sunset Scarves** by Felicia Lo, 4-shaft twill. PDF.
+
 # Weaver's Craft (magazine)
 
 ## December 2000/January 2001, Volume 1, Number 6: Weaving and Fulling Wool, Long Narrow Warps
