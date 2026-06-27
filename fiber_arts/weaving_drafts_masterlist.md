@@ -124,7 +124,10 @@
 - Checkerboard Placemats by Rheanna Davison, monk's belt plus color-and-weave ground cloth. PDF.
 - [Constellations Placemats](https://www.gistyarn.com/products/constellations-placemats-weaving-pattern?_pos=1&_psq=constellations&_ss=e&_v=1.0) by Christina Tsai, stitched double cloth, PDF.
 - Cozy Alpaca Poncho by Andrea Carpenter, adapted and rewoven by Christine Jablonski, plain weave. **Free PDF.**
+- Dawning Scarf by Stephanie Ford, plain weave. PDF.
+- Fade Gamp by Amanda Rataj, plain weave. PDF.
 - [Lakeview Placemats](https://www.gistyarn.com/products/lakeview-placemats-weaving-pattern) by Kristina Nichols, shadow weave. I've woven this!
+- Radiant Gradient Scarf by Jennifer Leigh, color-and-weave. PDF.
 
 # Handwoven's Design Collection 6
 
