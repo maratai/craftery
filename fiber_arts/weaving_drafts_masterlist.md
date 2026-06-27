@@ -136,9 +136,12 @@
 
 # [School of SweetGeorgia](https://www.sweetgeorgia.co/home)
 
+## Four-Harness Patterns
+- Bitmap Towels by Felicia Lo, summer and winter, PDF.
+- **Sunset Scarves** by Felicia Lo, 4-shaft twill. PDF.
+    
 ## Eight-Harness Patterns
 - Baker Street Scarf by Felicia Lo, waffle weave. PDF.
-- **Sunset Scarves** by Felicia Lo, 4-shaft twill. PDF.
 
 # Weaver's Craft (magazine)
 
