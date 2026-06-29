@@ -58,6 +58,7 @@ Library book.
 - [Elegance coasters](https://www.yarnbarn-ks.com/Elegance-Pattern/productinfo/WP-YB-485-/) - 4H overshot.
 - [Home Spa Towels](https://www.yarnbarn-ks.com/Home-Spa-Towels-Pattern-Leaflet/productinfo/WP-YB-452-/) - 4H (?).
 - [Iridescent Napkin](https://www.yarnbarn-ks.com/Iridescent-Napkin-Pattern/productinfo/WP-BI-001/) - 4H broken twill.
+- [**One Too Many Margaritas Napkins Kit**](https://www.yarnbarn-ks.com/One-Too-Many-Margaritas-Napkins-Kit/productinfo/WK-BI-001/) - 4H broken twill crepe kit showcasing iridescent colors, draft/design by Bobbie Irwin.
 - [Shetland and Linen Table Runner](https://www.yarnbarn-ks.com/Shetland-and-Linen-Table-Runner-Pattern-Leaflet/productinfo/WP-YB-227-/) - 4H overshot.
 - [Summer Daydream towels](https://www.yarnbarn-ks.com/Summer-Daydream-pattern/productinfo/WP-YB-572-/) - 4H twill variation and stripes.
 - [Summer Teatime Coasters](https://www.yarnbarn-ks.com/Summer-Tea-Time-Coasters-Pattern-Leaflet/productinfo/WP-YB-322-/) - 4H Atwater-Bronson lace.
