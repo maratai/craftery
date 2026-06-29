@@ -39,7 +39,8 @@ I am not a quilter but I like looking at the pictures; my primary interest is in
 # Knitting
 - Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to be but this one booklet has been handy. Thanks to Kate Salter.
 
-# Kumihimo
+# Kumihimo (and Braids, Cords, etc)
+- Jacqui Carey. *200 Braids to Twist, Knot, Loop, or Weave*.
 - Catherine Martin. *Kumihimo: Japanese Silk Braiding Techniques*.
 - Claudia Wollny. *The Secrets of Kikko: With 85 Variations of the Famous Tortoise Shell Pattern for Braiding on the Marudai*. Deutsch, English.
 - Claudia Wollny. *The Transformations of Sakura: How to Create the Famous Cherry Blossom Pattern: 48 Hira Genji Variations for Braiding on the Marudai*. Deutsch, English.
@@ -128,6 +129,7 @@ I have books but they're in Hangeul/Korean!
 - Francesca Bray. *Technology and Gender: Fabrics of Power in Late Imperial China*.
 - Betty Briand. *The Art of Weaving*.
 - Eric Broudy. *The Book of Looms: A History of the Handloom from Ancient Times to the Present*.
+- Jacqui Carey. *200 Braids to Twist, Knot, Loop, or Weave*. Also listed under Kumihimo; discusses handheld as well as inkle loom weaving techniques.
 - Deborah Chandler. *Learning to Weave*.
 - Chinese Red (series). *Traditional Handicraft*. English-Chinese bilingual edition.
 - Peter Collingwood. *The Techniques of Tablet Weaving*.
