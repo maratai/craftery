@@ -1,17 +1,18 @@
 # Keyboards
-Typing keyboards. I'm in a music program so I have to specify! I generally go through two or three keyboards a year because I'm a *writer* and I learned touch-typing on a manual typewriiter, so I tend to wear them out fast.
+Typing keyboards. I'm in a music program so I have to specify! I generally go through two or three keyboards a year because I'm a *writer* and I learned touch-typing on a manual typewriiter (and still use manual typewriters regularly), so I tend to wear them out fast.
 
 # My preferences
 So you know how I evaluate them for my own use.
 
-- I learned on a manual typewriter. I BANG on the keys. I've accepted that I wear out keyboards a few times a year.
+- I learned on a manual typewriter. I BANG on the keys. I wear out keyboards a few times a year and budget accordingly.
 - I prefer mechanical keyboards and love the satisfying clicky feel.
+- I don't mind *loud* clicky keyboards, since...I learned on a manual typewriter. I've never met a computer keyboard that's *louder* than my typewriters!
 - I don't mind slim keyboards as long as they don't feel MUSHY.
 - For travel, I often favor very lightweight keyboards. I have health issues that make carrying even modest weight difficult sometimes.
-- I can't tolerate persistent "stuck keys." At that point the keyboard gets binned.
+- I can't tolerate persistent "stuck keys" or "repeating keys." At that point the keyboard gets binned.
 - I'm fine with trackpads when built-in although I usually use mice.
-- I STRONGLY prefer arrow keys to have an actual inverted-T or similar layout. I cannot cope with the arrow-keys-in-a-horizontal-row nonsense.
-- I can tolerate the weird "Fn key + [whatever]" for writing (not for music production), especially on lighter/smaller/portable keyboards as a space-saving measure, although I don't love it. For a full-sized keyboard, I prefer actual extra keys, including Home and End.
+- I STRONGLY prefer arrow keys to have an inverted-T or similar layout. I cannot cope with the arrow-keys-in-a-horizontal-row nonsense for any length of time.
+- I can tolerate the weird "Fn key + [whatever]" for writing (not for music production), especially on lighter/smaller/portable keyboards as a space-saving measure, although I don't love it. For a full-sized keyboard, I prefer most of the extra keys, including Home and End.
 - For most uses, I don't need a separate numpad. (Sibelius uses them integrally as keyboard shortcuts for NOTE ENTRY.) I own dedicated numpad devices. So lack of numpad is not a dealbreaker.
 - I dislike Bluetooth because I have rotten luck getting devices to pair reliably, but I do have some Bluetooth-only or Bluetooth-added devices to reduce Cable Hell.
 - I have 2.4GHz wireless for the "extra" computing devices (Micro Journal, rpi) because I lose the dongles and USB-A is a Problem on MacBook Pro. :] I do find that, unlike Bluetooth, these tend to just work.
@@ -24,12 +25,16 @@ So you know how I evaluate them for my own use.
 One-handed chording Bluetooth keyboard (charges over USB-C). I haven't had time to try this out.
 
 ## Epomaker
+These have a mixed reputation but so far I've had good experiences.
 
-**Epomaker Luma40**\
+**[Epomaker Glyph](https://epomaker.com/products/epomaker-glyph)**
+A  75% "retro" design not dissimilar to the Qwerkywriter although it's *less* "retro typewriter" than the Qwerkywriter. I'm currently using this with my MacBook Pro and really enjoy it. I don't know that I *love* round keys on a computer keyboard, so I may swap those out, but they're not an impediment either.
+
+**Epomaker Luma40**
 Ultra-compact layout although it's surprisingly tanky for its size. Lots of modifier keys, which can be customized using [Via](https://caniusevia.com/). There's a learning curve that I'm still working on. This could be a travel keyboard for size if you're okay with the weight, which is modest in the grand scheme of things for most people. (I have health factors that mean I often need to minimize the weight of my travel gear.)
 
 **[Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro)**\
-My current at-home daily driver. I swapped out some of the keycaps for see-through glowy ones from US-based Etsy seller [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (great experience, recommended) because I end up using Cubase's F1-F15 function keys in the dark, but this is a fantastic tri-mode rechargeable keyboard (USB-C, Bluetooth, and 2.4GHz wireless dongle) with an adorable little display that tells you battery charge level. The volume-control knob is surprisingly useful when one is wrangling music program stuff! (You might be able to remap that; I haven't tried.) In general, [Epomaker](https://epomaker.com/) makes *terrific* keyboards.
+One of my at-home daily drivers, currently set up on my Windows desktop machine. I swapped out some of the keycaps for see-through glowy ones from US-based Etsy seller [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (great experience, recommended) because I end up using Cubase's F1-F15 function keys in the dark, but this is a fantastic tri-mode rechargeable keyboard (USB-C, Bluetooth, and 2.4GHz wireless dongle) with an adorable little display that tells you battery charge level. The volume-control knob is surprisingly useful when one is wrangling music program stuff! (You might be able to remap that; I haven't tried.) In general, [Epomaker](https://epomaker.com/) makes *terrific* keyboards.
 
 ## iClever
 They make slightly finicky devices but their travel/folding keyboards are often very light.
@@ -73,3 +78,7 @@ This is comparatively light although not *very* light. Works great. The touchpad
 ## Vilros
 **Vilros VILP108 keyboard with touchpad** (USB-A, wired)\
 This is a slim, very lightweight wired keyboard + touchpad over USB-A. The keyboard has no numpad and the keys are shallow but pleasant. The touchpad works fine. When I need a "nearly full size but no numpad" travel keyboard, this one is usually it.
+
+# Keycaps
+
+- [Keygeak](https://keygeak.com) - I'll report back!
