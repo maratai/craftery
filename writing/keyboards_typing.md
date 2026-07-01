@@ -74,12 +74,12 @@ The Epomaker and Royal Kludge keyboards have a similar "typing feel" for me, if 
 
 # Samsers
 
-## Samsers Foldable Bluetooth Keyboard with Touchpad** (Bluetooth, charges over USB-C)
+## Samsers Foldable Bluetooth Keyboard with Touchpad (Bluetooth, charges over USB-C)
 This is comparatively light although not *very* light. Works great. The touchpad and its mouse-buttons work over Linux as well. No numpad, very shallow key travel, smaller layout even when folded out, but a great travel option.
 
 # Vilros
 
-## Vilros VILP108 keyboard with touchpad** (USB-A, wired)
+## Vilros VILP108 keyboard with touchpad (USB-A, wired)
 This is a slim, very lightweight wired keyboard + touchpad over USB-A. The keyboard has no numpad and the keys are shallow but pleasant. The touchpad works fine. When I need a "nearly full size but no numpad" travel keyboard, this one is usually it.
 
 # Keycaps
@@ -88,4 +88,6 @@ This is a slim, very lightweight wired keyboard + touchpad over USB-A. The keybo
 I'll report back! I wanted to inject some fun into my keyboard life, so I have a couple sets of keycaps on order. Also, since I run through *keyboards* but can usually replace *keycaps*...
 
 ## [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (Etsy)
-Currently taking a break but I had a great experience ordering see-through and custom keycaps through them.
+Currently taking a break but I had a great experience ordering see-through and custom keycaps through them, including a spacebar with a custom (silly) Ninefoxy design I came up with! (I needed to be able to see the GLOW through specific keys at nighttime for DAW reasons.)
+
+![custom spacebar](https://github.com/maratai/craftery/blob/main/writing/writing_images/2026-01-22-spacebar.jpg?raw=true)
