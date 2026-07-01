@@ -67,7 +67,7 @@ I picked this up to be a travel "full-sized" keyboard for the rpi. Terrific desi
 # [Qwerkywriter](https://www.qwerkywriter.com/)
 Typewriter vibes, with a "carriage return" lever that default-maps onto carriage return for your computer! I have the black gold one and associated numpad. Spendy but unbelievably luxe typing experience, with a sensibly designed phone/tablet holder built in. Lighter than you'd think despite the size. The case is beautifully overengineered down to the curvatures on the *corners* for a smooth zipping/unzipping experience. This is extremely clicky, if you're sensitive to noise. I love it but it's not for everyone.
 
-# Royal Kludge
+# [Royal Kludge](https://rkgamingstore.com)
 I've had one defective unit (sadly, it was the folding travel one, although that was heavier than I prefer anyway) but otherwise, these are terrific mechanical keyboards and one of them has been a daily driver at times. I've gotten the mechanical keyboards, which also support Bluetooth and have fun LED lights. These tend to be solid, heavier devices - not as much "built like tank" factor as the Kinesis but I don't travel with them. I'd own more of these if they weren't a bit slow to ship from China.
 
 The Epomaker and Royal Kludge keyboards have a similar "typing feel" for me, if that's helpful.
@@ -84,4 +84,8 @@ This is a slim, very lightweight wired keyboard + touchpad over USB-A. The keybo
 
 # Keycaps
 
-- [Keygeak](https://keygeak.com) - I'll report back! I wanted to inject some fun into my keyboard life.
+## [Keygeak](https://keygeak.com) 
+I'll report back! I wanted to inject some fun into my keyboard life, so I have a couple sets of keycaps on order. Also, since I run through *keyboards* but can usually replace *keycaps*...
+
+## [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (Etsy)
+Currently taking a break but I had a great experience ordering see-through and custom keycaps through them.
