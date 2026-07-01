@@ -64,7 +64,7 @@ Charges over USB-C, separate keyboard and mouse connecting over USB-A 2.5 GHz wi
 
 I picked this up to be a travel "full-sized" keyboard for the rpi. Terrific design! The keyboard is folding and has shallow key travel BUT it is just large enough to include a numpad. I love this for when I don't need the additional laptop stand of the Logitech Casa (which is a great all-in-one travel kit).
 
-# Qwerkywriter
+# [Qwerkywriter](https://www.qwerkywriter.com/)
 Typewriter vibes, with a "carriage return" lever that default-maps onto carriage return for your computer! I have the black gold one and associated numpad. Spendy but unbelievably luxe typing experience, with a sensibly designed phone/tablet holder built in. Lighter than you'd think despite the size. The case is beautifully overengineered down to the curvatures on the *corners* for a smooth zipping/unzipping experience. This is extremely clicky, if you're sensitive to noise. I love it but it's not for everyone.
 
 # Royal Kludge
