@@ -24,16 +24,16 @@ So you know how I evaluate them for my own use.
 ## [DecaTxt 3](https://decatxt.com/)
 One-handed chording Bluetooth keyboard (charges over USB-C). I haven't had time to try this out.
 
-# Epomaker
+# [Epomaker](https://epomaker.com)
 These have a mixed reputation but so far I've had good experiences.
 
 ## [Epomaker Glyph](https://epomaker.com/products/epomaker-glyph)
 A  75% "retro" design not dissimilar to the Qwerkywriter although it's *less* "retro typewriter" than the Qwerkywriter. I'm currently using this with my MacBook Pro and love it. I don't know that I *love* round keys on a computer keyboard, so I may swap those out, but they're not an impediment either.
 
-## Epomaker Luma40
+## [Epomaker Luma40](https://epomaker.com/products/epomaker-luma40)
 Ultra-compact layout although it's surprisingly tanky (and heavy!) for its size. Lots of modifier keys, which can be customized using [Via](https://caniusevia.com/). There's a learning curve that I'm still working on. This could be a travel keyboard for size if you're okay with the weight, which is modest in the grand scheme of things for most people. (I have health factors that mean I often need to minimize the weight of my travel gear.)
 
-## [Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro)**\
+## [Epomaker TH99 Pro](https://epomaker.com/products/epomaker-th99-pro)
 One of my at-home daily drivers, currently set up on my Windows desktop machine. I swapped out some of the keycaps for see-through glowy ones from US-based Etsy seller [MaxKeycap](https://www.etsy.com/shop/MaxKeycap) (great experience, recommended) because I end up using Cubase's F1-F15 function keys in the dark, but this is a fantastic tri-mode rechargeable keyboard (USB-C, Bluetooth, and 2.4GHz wireless dongle) with an adorable little display that tells you battery charge level. The volume-control knob is surprisingly useful when one is wrangling music program stuff! (You might be able to remap that; I haven't tried.) The larger full-size-ish format does take up more desk real estate, though.
 
 # iClever
