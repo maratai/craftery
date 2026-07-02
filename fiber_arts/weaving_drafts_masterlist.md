@@ -270,6 +270,15 @@ They offer PDFs as well as printed pamphlets!
   - pattern weft: 5/2 Perle Cotton
   - The kit makes 8 hemmed coasters with finished measurements of 6.5" x 7.5". The coasters can be machine washed and dried.
 - [**Nestled Blooms towel kit**](https://www.yarnbarn-ks.com/Nestled-Blooms-kit/productinfo/WK-YB-554/) - I have the kit on order.
+  - overshot
+  - 16.7" weaving width, 4 harnesses
+  - 8-dent reed
+  - 265 heddles
+  - 2 boat shuttles and bobbins
+  - warp: 8/2 unmercerized cotton sett at 16 epi
+  - tabby weft: 8/2 unmercerized cotton
+  - pattern weft: 5/2 perle cotton
+  - The kit makes 3 hemmed towels with finished measurements of 13.5" x 20". The towels can be machine washed and dried.
 
 ## Eight-Harness Patterns
 - **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
