@@ -247,15 +247,24 @@
 They offer PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
-- [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/), plain weave, 12- or 12.5-dent reed. Currently warping this!
+- [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). Currently beaming on for this!
+  - plain weave
   - warp: one 8-oz. tube each of 3 colors Carpet Warp. I went with Colonial Blue, Jade, and Aqua Green, which make soothing analogous color gradient but are maybe a little lower contrast (value/hue) than ideal, plus 2 cones Carpet Warp in natural.
   - weft: one 1-lb. tube of 8/16 Cotton in 0100 Natural.
-  - sett: 12 or 12.5 ends per inch
+  - sett: 12 or 12.5 ends per inch, 12 or 12.5 dents/inch reed
   - weaving width: 24"
   - 155 heddles
   - finished measurements
     - one (1) yoga blanket: 19.5" x 59"
     - one (1) yoga towel: 19" x 48"
+
+## Four-Harneses Patterns
+- [**Elegance coasters**](https://www.yarnbarn-ks.com/Elegance/productinfo/WK-YB-485/) - I have the kit on order.
+  - overshot
+  - warp:  8/2 unmercerized cotton sett at 20 epi
+  - tabby weft: 8/2 unmercerized cotton
+  - pattern weft: 5/2 Perle Cotton
+  - The kit makes 8 hemmed coasters with finished measurements of 6.5" x 7.5". The coasters can be machine washed and dried.
 
 ## Eight-Harness Patterns
 - **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
