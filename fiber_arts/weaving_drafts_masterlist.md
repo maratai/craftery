@@ -258,9 +258,13 @@ They offer PDFs as well as printed pamphlets!
     - one (1) yoga blanket: 19.5" x 59"
     - one (1) yoga towel: 19" x 48"
 
-## Four-Harneses Patterns
+## Four-Harness Patterns
 - [**Elegance coasters**](https://www.yarnbarn-ks.com/Elegance/productinfo/WK-YB-485/) - I have the kit on order.
   - overshot
+  - 7" weaving width, 4 harnesses
+  - 10 dents/inch reed
+  - 149 heddles
+  - 2 boat shuttles and bobbins
   - warp:  8/2 unmercerized cotton sett at 20 epi
   - tabby weft: 8/2 unmercerized cotton
   - pattern weft: 5/2 Perle Cotton
