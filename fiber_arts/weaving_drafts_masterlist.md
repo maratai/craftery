@@ -17,7 +17,7 @@
   - White on Green Placemats, tabby (p. 25).
 - Off-white and black cushion in honeycomb (pp. 30-31).
 - Scarves in pointed twill variation (pp. 34-37).
-- Scarves in turned Ms adn Os on a mixed warp (pp. 38-41).
+- Scarves in turned Ms and Os on a mixed warp (pp. 38-41).
 - **Placemats and Towels with Mock Damask**, mock damask or three-end twill blocks (pp. 16-18). Checkerboard vibes.
 - Towels in Molly's rib block weave, rib block weave variation (pp. 19-21).
 - Towels with Black Warp Stripes, plainweave and/or twill (pp. 6-13).
