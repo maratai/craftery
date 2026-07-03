@@ -200,6 +200,7 @@ I have books but they're in Hangeul/Korean!
   - A. Wittlin. "Tapestry Weaving and Carpet Knotting in Spain."
 
 ## Handwoven (magazine)
+- November/December 1986. Fabric for Fashion. Sewing with handwoven, samples.
 - Issue 168. January/February 2014. Silk, kumihimo.
 - Issue 174. March/April 2015. "East Meets West" and "ethnic weaving: sakiori, Navajo weqaving, shifu (paper yarn), Japanese design inspirations.
 
