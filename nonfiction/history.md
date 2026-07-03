@@ -56,6 +56,7 @@ A rather interdisciplinary field by its nature, to be clear!
 - Robert E. Buswell Jr. *Religions of Korea in Practice*.
 - Stewart Culin. *Korean Games with Notes on the Corresponding Games of China and Japan*. Dover Publications reprint of the original from U. Penn, 1895. Note that Culin uses what appears to be a bespoke (older?) romanization system for Hangeul.
 - Jeon Sang-woon. *A History of Science in Korea*.
+- Laurel Kendall and Mark Peterson, eds. *Korean Women: View from the Inner Room*.
 - JaHyun Kim Haboush, trans. *The Memoirs of Lady Hyegyeong: The Autobiographical Writings of a Crown Princess of Eighteenth-Century Korea*.
 - JaHyun Kim Haboush, ed. *Epistolary Korea: Letters in the Communicative Space of the Choseon, 1392-1910*.
 - Yung-Chung Kim, ed. and trans. *Women of Korea: A History from Ancient Times to 1945*. **Recommended**.
