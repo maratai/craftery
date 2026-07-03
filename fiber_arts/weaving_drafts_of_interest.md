@@ -12,7 +12,7 @@ where I mean "of interest *to me*."
 
 ## Gist Yarn drafts
 - [Bars and Stripes Bathmat](https://www.gistyarn.com/products/bars-stripes-bathmat-multishaft) - 4H or 8H with ribbing and stripes.
-- [Constellation Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/constellations-placemats-weaving-pattern) by Christina Tsai. I bought the pattern, haven't had a chance to weave 'em yet!
+- [Constellation Placemats](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/constellations-placemats-weaving-pattern) by Christina Tsai. I bought the pattern, currently warping a loom for this.
 - [Cozy Alpaca Poncho](https://www.gistyarn.com/products/cozy-alpaca-poncho-weaving-pattern) - 4H free pattern.
 - [Dawning scarf](https://www.gistyarn.com/collections/weaving-patterns-and-kits/products/dawning-scarf-weaving-pattern) - 4H or 8H stripes. Bought the pattern, not woven yet.
 - [Fade Gamp](https://www.gistyarn.com/products/fade-gamp-weaving-pattern) by Amanda Rataj. 4H gamp.
