@@ -2,11 +2,11 @@
 
 **WIP**. Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones of particular interest *to me*.
 
-**Nota bene:** I have the following looms:
-- Saori Piccolo, 2H 2T counterbalance, 40 cm / 16" weaving width
-- Saori WX60, 4H 6T sinking shed, 60 cm / 24" weaving width
-- Inagaki R-25, 6H 6T counterbalance, 48 cm / 19" weaving width
-- Toika Laila, 8H 8T countermarche, 28" weaving width
+**Nota bene:** I have the following looms, with the following projects:
+- Saori Piccolo, 2H 2T counterbalance, 40 cm / 16" weaving width - just finished a plain weave scarf
+- Saori WX60, 4H 6T sinking shed, 60 cm / 24" weaving width - Lakeview Placemats (Gist Yarn, *see* below)
+- Inagaki R-25, 6H 6T counterbalance, 48 cm / 19" weaving width - Constellations Placemats (Gist Yarn, *see* below)
+- Toika Laila, 8H 8T countermarche, 28" weaving width - Yoga Towel and Blanket (Yarn Barn of Kansas, *see* below)
 
 Anything calling for more than eight harnesses is strictly theoretical *for me*!
 
@@ -253,7 +253,7 @@ Anything calling for more than eight harnesses is strictly theoretical *for me*!
 They offer downloadable PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
-- [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). Currently beaming on for this!
+- [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). I have a warp wound for this, I just need to free up a loom!
   - plain weave
   - warp: one 8-oz. tube each of 3 colors Carpet Warp. I went with Colonial Blue, Jade, and Aqua Green, which make soothing analogous color gradient but are maybe a little lower contrast (value/hue) than ideal, plus 2 cones Carpet Warp in natural.
   - weft: one 1-lb. tube of 8/16 Cotton in 0100 Natural.
