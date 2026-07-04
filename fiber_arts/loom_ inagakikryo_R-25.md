@@ -1,5 +1,5 @@
 # [Inagaki Kiryo](https://inagakikiryo-weaving.com)'s [R-25 floor loom](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25) (6H 6T counterbalance, 48 cm weaving width)
-I'm documenting this beautiful loom for my own reference; I am not an expert; I'm a weaving hobbyist. Many thanks to Inagaki Kiryo, who were an absolute pleasure to work with.
+I'm documenting this beautiful loom for my own reference; I am not an expert; I'm a weaving hobbyist. Many thanks to Inagaki Kiryo, who were an absolute pleasure to work with. It looks like I could readily add some more *harnesses* but I'm limited to six treadles.
 
 Here the R-25 is assembled although I have not finished adjustments to the tie-up etc. The [H-25 assembly manual PDF](https://github.com/maratai/craftery/blob/main/fiber_arts/H25_assembly.pdf) is available for your reference; there are some minor divergences from the R-25 (which is the updated version of the H-25) but they're straightforward to figure out.
 
@@ -40,6 +40,9 @@ Tools for assembly, which came with the loom, labeled and sorted:
 Excellent labeling made assembly, alongside the included assembly guides, straightforward although I regrettably don't read Japanese.
 
 ![labeled parts](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-24-loom-03.jpg?raw=true)
+
+## Other Notes
+Beaming on: appears to use the "slot" method described by Peggy Osterkamp (will update with the book and page number).
 
 ## Specifications (English)
 **NOTE:** From an earlier version of the site.
