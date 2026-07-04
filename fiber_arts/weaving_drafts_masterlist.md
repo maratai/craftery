@@ -250,7 +250,7 @@ Anything calling for more than eight harnesses is strictly theoretical *for me*!
 - Four-color double twill (pp. 135-137).
 
 # Yarn Barn of Kansas
-They offer PDFs as well as printed pamphlets!
+They offer downloadable PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
 - [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). Currently beaming on for this!
