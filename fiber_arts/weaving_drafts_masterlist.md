@@ -2,7 +2,13 @@
 
 **WIP**. Master list of weaving drafts in books, PDFs, etc. I own. I've **bolded** ones of particular interest *to me*.
 
-**Nota bene:** I have 2-harness (Saori Piccolo, 2H 2T counterbalance), 4-harness (Saori WX60, 4H 6T sinking shed), 6-harness (Inagaki R-25, 6H 6T counterbalance), and 8-harness (Toika Laila, 8H 8T countermarche) looms so anything calling for more than eight harnesses is strictly theoretical *for me*!
+**Nota bene:** I have the following looms:
+- Saori Piccolo, 2H 2T counterbalance, 40 cm / 16" weaving width
+- Saori WX60, 4H 6T sinking shed, 60 cm / 24" weaving width
+- Inagaki R-25, 6H 6T counterbalance, 48 cm / 19" weaving width
+- Toika Laila, 8H 8T countermarche, 28" weaving width
+
+Anything calling for more than eight harnesses is strictly theoretical *for me*!
 
 # The Ashford Book of Weaving Patterns from Four to Eight Shafts
 
