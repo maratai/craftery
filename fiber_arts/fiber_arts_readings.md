@@ -400,6 +400,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
 - R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
 - Mi Young Suh and Park Kil Soon. [*Traditional Textile Materials of Baekje Kingdom*](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=tsaconf).
+- Ann Sutton. *The Structure of Weaving*. Photography by David Cripps. Gorgeous photos and explanations of weave structures, floats, etc. Library book.
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
 - Harriet Tidball. *The Weaver's Book: A practical, authoritative step-by-step guide for beginners by an expert weaver*. 1961. Secondhand acquisition, with a lot of handwritten notes in it from a previous owner! (I love that.) **to-read**
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
