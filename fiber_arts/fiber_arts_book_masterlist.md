@@ -271,7 +271,7 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 - Woodington UK Folding Tablet Loom
 
 ## Looms: Floor Looms
-- Inagaki Kiryou R-25 (6H 6T counterbalance, can expand to more harnesses but not more treadles, 10 dents/cm reed)
+- Inagaki Kiryou R-25 (6H 6T counterbalance, can expand to more harnesses but not more treadles, 10 dents/cm (25 dents/inch) reed; 18 dents/cm (~40 dents/inch) reed on order)
 - Saori Piccolo (2H 2T counterbalance, 7 dents/cm reed)
 - Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
 - Toika Laila (8H 8T countermarche; 10 dents/cm reed, 25 dents/cm reed, 50-70 cm temple, 70 cm raddle A)
