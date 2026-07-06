@@ -54,7 +54,7 @@ Here it is with the warp beamed on.
 
 Earlier: preparing to beam the warp. I clamped the raddle to the back beam and the lease sticks (plus Handywoman lease stick holders) to...the breast beam of the Toika Laila behind the R-25.
 
-Currently I'm threading heddles; not difficult as such but I have schoolwork!
+Currently I'm threading heddles; not difficult as such but I have (music) schoolwork that takes precedence...
 
 ## Specifications (English)
 **NOTE:** From an earlier version of the site.
