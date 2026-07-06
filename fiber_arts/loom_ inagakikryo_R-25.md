@@ -44,6 +44,18 @@ Excellent labeling made assembly, alongside the included assembly guides, straig
 ## Other Notes
 Beaming on: appears to use the "slot" method described by Peggy Osterkamp in *Warping Your Loom and Tying on New Warps*, 4th ed., p. 25 **Aprons and Grooved Beams**. As far as I can tell, the "warp cartridge" (which fits onto the beam to form the "warp beam" so one can warp away from the loom, similar to the simpler cardboard warp tubes for Saori looms) has a groove (for a grooved beam) as well as a permanently attached *long* "apron" with a slot in the end for the metal rod or "end stick". I can't tell if the length is so that you don't waste any warp (which would make a lot of sense for *silk* warps) or if it's meant to double as permanently affixed "packing paper"; I suspect the former since Inagaki Kiryo *also* sells packing paper. In which case I need to contend with **Making and Adjusting Canvas Aprons** (p. 27).
 
+**Sunday, July 5, 2026**: Beaming on per Peggy Osterkamp works a treat!
+
+![R-25 with warp beamed on](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-01.jpg)
+
+Here it is with the warp beamed on, with threading the heddles deferred to another day.
+
+![R-25 with warp about to be beamed on](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-02.jpghttps://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-02.jpg)
+
+Earlier: preparing to beam the warp. I clamped the raddle to the back beam and the lease sticks (plus Handywoman lease stick holders) to...the breast beam of the Toika Laila behind the R-25.
+
+
+
 ## Specifications (English)
 **NOTE:** From an earlier version of the site.
 
