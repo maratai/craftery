@@ -48,13 +48,13 @@ Beaming on: appears to use the "slot" method described by Peggy Osterkamp in *Wa
 
 ![R-25 with warp beamed on](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-01.jpg)
 
-Here it is with the warp beamed on, with threading the heddles deferred to another day.
+Here it is with the warp beamed on.
 
-![R-25 with warp about to be beamed on](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-02.jpghttps://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-02.jpg)
+![R-25 with warp about to be beamed on](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-05-r25-02.jpg)
 
 Earlier: preparing to beam the warp. I clamped the raddle to the back beam and the lease sticks (plus Handywoman lease stick holders) to...the breast beam of the Toika Laila behind the R-25.
 
-
+Currently I'm threading heddles; not difficult as such but I have schoolwork!
 
 ## Specifications (English)
 **NOTE:** From an earlier version of the site.
