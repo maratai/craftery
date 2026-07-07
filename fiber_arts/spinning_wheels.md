@@ -112,22 +112,22 @@ If you have a choice for your treadle wheel and you're trying to decide:
 ## [LWS Autowinder](https://myautowinder.com/collections/autowinders) on my Pocket Wheel (both secondhand, came together)
 - runs off two AAA batteries
 - not silent, but whisper-quiet
-- easy to install and use (mind you turn it off when not in use, so as not to drain the battery unnecessarily)
+- easy to install and use (as long as you turn it off when not in use, so as not to drain the battery unnecessarily)
 - uses your "regular" bobbins
 - LWS Autowinders are available for a number of other wheels e.g. Ashford, Dreaming Robots EEW 6.0 and 6.1, Hansen, Kromski, Schacht etc (not a complete list)
 
-## [SpinPerfect PaulyWinder](https://spinperfect.com/collections/spinperfect-for-spinolution) on my Spinolution Mach III (Mach II was secondhand, PaulyWinder I ordered new)
+## [SpinPerfect PaulyWinder](https://spinperfect.com/collections/spinperfect-for-spinolution) on my Spinolution Mach III (Mach III was secondhand, PaulyWinder was ordered new)
 - purely mechanical through physics + clever geometry
-- essentially silent, or at least, doesn't introduce added inherent noise
+- silent, or at least, doesn't introduce added inherent noise
 - easy to install and use, but I had to watch the video as the winding path for the spun fiber is different than what I'm used to
-- uses your "regular" bobbins with the appropriate size "regular" flyer - they're compatible with the PaulyWinder
+- uses your "regular" bobbins with the appropriate size "regular" flyer; they're compatible with the PaulyWinder
 - **only** available for SpinPerfect and Spinolution wheels due to the construction of the flyer
 
 ## [WooLee Winder](https://www.wooleewinderstore.com/) on my Louët S90 (Louët S90 was secondhand, WooLee Winder and bobbins I ordered new)
 - purely mechanical through interlocking gears (flyer + special bobbins)
 - mechanical gear noises (I like these a lot and find them pleasant, but it is some background sound)
 - easy to install and use, with (for the Louët anyway) a clever adjustable orifice due to varying maiden lengths on different Louëts
-- does introduce additional "pull" or "friction" inherently due to the gears...but between the adjustable orifice and the fact that the S90 is a grabby thoroughbred (affectionate), I actually find the pull **easier** to manage/adjust through the brake band with the WooLee Winder on this wheel!
+- does introduce additional "pull" or "friction" inherently due to the gears...but between the adjustable orifice and the fact that the S90 is a grabby thoroughbred (affectionate), I find the pull **easier** to manage/adjust through the brake band with the WooLee Winder on this wheel!
 - uses "special" bobbins with the aforementioned gears, so that's an added expense if you're using this system
 - available for a number of other wheels e.g. Ashford, Jensen, Kromski, Lendrum, Majacraft (not a complete list)
 - NOTE: I was interested in trying one for my Pocket Wheel so I have a purely mechanical option, but at present, they only appear to be available with a new Pocket Wheel, not sold separately (my current Pocket Wheel came secondhand). You *can* get the special WooLee Winder bobbins for Pocket Wheel from either WooLee or from Pocket Wheel, however.
@@ -135,11 +135,11 @@ If you have a choice for your treadle wheel and you're trying to decide:
 # Wheels I Dream Of
 If wishes were wheels?
 
-I admit I long for one really nice "traditional"-style Saxony wheel (a [Kromski Polonaise](https://kromski.com/product/the-polonaise-spinning-wheel/) or [Canadian Production Wheel (Jillian Eve)](https://jillianeve.com/canadian-production-wheel/)) in my collection too, but right now I'm mostly in castle wheels or the niche ultraportable travel/folding wheels. 
+I admit I long for one really nice "traditional"-style Saxony wheel (a [Kromski Polonaise](https://kromski.com/product/the-polonaise-spinning-wheel/) or [Canadian Production Wheel (Jillian Eve)](https://jillianeve.com/canadian-production-wheel/)) if I had the budget to add one more wheel. 
 
 I see that [Lendrum Wheels](https://lendrumwheels.ca/) (Canada) has risen from the ashes, so I will keep an eye out if they start producing Saxony wheels again!
 
-I'd absolutely try a Jensen spinning wheel if I had the opportunity, but this is unlikely at this point.
+I'd absolutely try a Jensen spinning wheel if I had the opportunity.
 
 ## [Carson Cooper](https://www.ztwist.com/) accelerated wheel
 I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD) since I also got into [floor looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md#floor-looms) for handweaving...
