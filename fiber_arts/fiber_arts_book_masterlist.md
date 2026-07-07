@@ -191,6 +191,7 @@ I have books but they're in Hangeul/Korean!
 - Palmy Weigle. *Double Weave*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
+- Yarn Barn of Kansas. *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for the included patterns! 
 
 ## Ciba Review
 - #20. *The Development of the Textile Crafts in Spain*.
