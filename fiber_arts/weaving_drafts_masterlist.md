@@ -254,6 +254,7 @@ They offer downloadable PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
 - Eggplant, Carrots, and Avocados. Towels in plain weave. *The Best of Yarn Barn*, pp. 2-3.
+- It's Dryin' Time! Towels in plain weave, color-and-weave. *The Best of Yarn Barn*, pp. 4-5.
 - [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). I have a warp wound for this, I just need to free up a loom!
   - plain weave
   - warp: one 8-oz. tube each of 3 colors Carpet Warp. I went with Colonial Blue, Jade, and Aqua Green, which make soothing analogous color gradient but are maybe a little lower contrast (value/hue) than ideal, plus 2 cones Carpet Warp in natural.
@@ -276,6 +277,7 @@ They offer downloadable PDFs as well as printed pamphlets!
   - tabby weft: 8/2 unmercerized cotton
   - pattern weft: 5/2 Perle Cotton
   - The kit makes 8 hemmed coasters with finished measurements of 6.5" x 7.5". The coasters can be machine washed and dried.
+- Live Blocks in Summer and Winter. Summer and winter. *The Best of Yarn Barn*, pp. 6-7.
 - [**Nestled Blooms towel kit**](https://www.yarnbarn-ks.com/Nestled-Blooms-kit/productinfo/WK-YB-554/) - I have the kit on order.
   - overshot
   - 16.7" weaving width, 4 harnesses
