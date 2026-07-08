@@ -254,7 +254,10 @@ They offer downloadable PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
 - Eggplant, Carrots, and Avocados. Towels in plain weave. *The Best of Yarn Barn*, pp. 2-3.
+- Everyday Placemats. Plain Weave. *The Best of Yarn Barn*, pp. 28-29.
+- Fiesta Placemats. Warp-faced weave. *The Best of Yarn Barn*, pp. 30-31.
 - It's Dryin' Time! Towels in plain weave, color-and-weave. *The Best of Yarn Barn*, pp. 4-5.
+- **Pixelated Scarf**. Plain weave. *The Best of Yarn Barn*, pp. 18-19.
 - [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). I have a warp wound for this, I just need to free up a loom!
   - plain weave
   - warp: one 8-oz. tube each of 3 colors Carpet Warp. I went with Colonial Blue, Jade, and Aqua Green, which make soothing analogous color gradient but are maybe a little lower contrast (value/hue) than ideal, plus 2 cones Carpet Warp in natural.
@@ -265,9 +268,10 @@ They offer downloadable PDFs as well as printed pamphlets!
   - finished measurements
     - one (1) yoga blanket: 19.5" x 59"
     - one (1) yoga towel: 19" x 48"
+- Zig-Zag One-Skein Wonder. Scarf. Plain weave. ("Zig-Zag" is a rayon bouclé yarn from Interlacement.) *The Best of Yarn Barn*, p. 15.
 
 ## Four-Harness Patterns
-- [**Elegance coasters**](https://www.yarnbarn-ks.com/Elegance/productinfo/WK-YB-485/) - I have the kit on order.
+- [**Elegance coasters**](https://www.yarnbarn-ks.com/Elegance/productinfo/WK-YB-485/) - *The Best of Yarn Barn* pp. 24-25. I picked up the kit as well.
   - overshot
   - 7" weaving width, 4 harnesses
   - 10 dents/inch reed
@@ -277,6 +281,8 @@ They offer downloadable PDFs as well as printed pamphlets!
   - tabby weft: 8/2 unmercerized cotton
   - pattern weft: 5/2 Perle Cotton
   - The kit makes 8 hemmed coasters with finished measurements of 6.5" x 7.5". The coasters can be machine washed and dried.
+- Latte or Mocha? scarf. Overshot. *The Best of Yarn Barn*, pp. 12-14.
+- Lickety-Split Bathmat. Swedish lace. *The Best of Yarn Barn*, pp. 32-33.
 - Live Blocks in Summer and Winter. Towels. Summer and winter. *The Best of Yarn Barn*, pp. 6-7.
 - [**Nestled Blooms towel kit**](https://www.yarnbarn-ks.com/Nestled-Blooms-kit/productinfo/WK-YB-554/) - I have the kit on order.
   - overshot
@@ -288,7 +294,13 @@ They offer downloadable PDFs as well as printed pamphlets!
   - tabby weft: 8/2 unmercerized cotton
   - pattern weft: 5/2 perle cotton
   - The kit makes 3 hemmed towels with finished measurements of 13.5" x 20". The towels can be machine washed and dried.
+- Red-Winged Blackbird. Rug. *The Best of Yarn Barn*, pp. 34-35.
+- **Rep Mug Rugs**. Coasters ("mug rugs"?!). Rep weave. *The Best of Yarn Barn* pp. 22-23. I picked up the kit for this; it's in the queue!
+- Shadowed Spheres. Shawl. Shadow weave. *The Best of Yarn Barn*, pp. 20-21.
 - Simple Waffle Weave Dishtowels. Waffle weave. *The Best of Yarn Barn*, pp. 8-9.
+
+## Six-Harness Patterns.
+- Everyday Napkins. Maybe this is overshot?? *The Best of Yarn Barn* ppp. 26-27.
 
 ## Eight-Harness Patterns
 - **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
