@@ -24,8 +24,15 @@ This is more of a cyberdeck running a bespoke system on ESP32, but it absolutely
 # Micro Journal series
 [Un Kyu Lee](https://www.tindie.com/stores/unkyulee/) designs and releases some of the *best* writerdecks for various use cases. He's a single maker who also releases the firmnware, specifications, and STL files for 3D-printed parts free/open source. I own several of his writerdecks/cyberdecks and treasure each one: Micro Journal [Rev. 2.1](https://www.tindie.com/products/unkyulee/micro-journal-rev21-cyberdeck/) (cyberdeck on a Raspberry Pi, with a longer boot time; the others are typically ESP32 and more or less "instant on"), Rev.5,  [Rev.5.1](https://www.tindie.com/products/unkyulee/micro-journal-rev51-a-personal-journey/), and [Rev. 7](https://www.tindie.com/products/unkyulee/micro-journal-rev7-kindred-gift-epaper/) (e-ink, retro typewriter vibe design).
 
-## Micro Journal Rev.5.1
-(pics)
+## [Micro Journal Rev.5.1](https://www.tindie.com/products/unkyulee/micro-journal-rev51-a-personal-journey/)
+
+![Micro Journal Rev.5.1](https://github.com/maratai/craftery/blob/main/writing/writing_images/2026-07-08-microjournal-rev5.1-01.jpg?raw=true)
+
+This is an update to the earlier Rev.5 (also one of my favorites!). They run on the same firmware; in fact, I carried over my SD card from the Rev.5 and it worked without a hitch.
+
+![Micro Journal Rev.5.1 with Epomaker Glyph keyboard](https://github.com/maratai/craftery/blob/main/writing/writing_images/2026-07-08-microjournal-rev5.1-02.jpg?raw=true)
+
+Here it is hard at work with an Epomaker Glyph keyboard for scale. (The "Poker" keycaps are from [Keygeak](https://keygeak.com), if you're wondering why mine doesn't look like pics of the Glyph from the manufacturer!)
 
 # [Zerowriter Ink](https://www.crowdsupply.com/zerowriter/zerowriter-ink) 
 An open-source/less spendy alternative to the Freewrite Alpha, although fulfillment may be slow. Mine finally arrived (late June, a year after my preorder) and is a delight. I don't love the horizontal arrow key layout, but unlike the Freewrite Alpha, it *has* arrow keys that don't require a modifier key! This has an e-ink screen, with the attendant limitations; I don't mind it but it's a sticking point for some people.
