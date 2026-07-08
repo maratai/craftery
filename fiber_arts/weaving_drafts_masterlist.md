@@ -277,7 +277,7 @@ They offer downloadable PDFs as well as printed pamphlets!
   - tabby weft: 8/2 unmercerized cotton
   - pattern weft: 5/2 Perle Cotton
   - The kit makes 8 hemmed coasters with finished measurements of 6.5" x 7.5". The coasters can be machine washed and dried.
-- Live Blocks in Summer and Winter. Summer and winter. *The Best of Yarn Barn*, pp. 6-7.
+- Live Blocks in Summer and Winter. Towels. Summer and winter. *The Best of Yarn Barn*, pp. 6-7.
 - [**Nestled Blooms towel kit**](https://www.yarnbarn-ks.com/Nestled-Blooms-kit/productinfo/WK-YB-554/) - I have the kit on order.
   - overshot
   - 16.7" weaving width, 4 harnesses
@@ -288,8 +288,10 @@ They offer downloadable PDFs as well as printed pamphlets!
   - tabby weft: 8/2 unmercerized cotton
   - pattern weft: 5/2 perle cotton
   - The kit makes 3 hemmed towels with finished measurements of 13.5" x 20". The towels can be machine washed and dried.
+- Simple Waffle Weave Dishtowels. Waffle weave. *The Best of Yarn Barn*, pp. 8-9.
 
 ## Eight-Harness Patterns
 - **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
 - **Plaited Twill Door Mat**, sett at 6 ends per inch, four skeins each of 160 Dark Grey and 128 Pale Grey Heavy Rug Wool, 6-dent reed.
 - **Shades of Winter** stole, sett at 12 ends per inch, multiple skeins of Nature Spun Sport, 12-dent reed.
+- Yellow Brick Road Towels. Point twill/reverse point twill variation. *The Best of Yarn Barn*, pp. 10-11.
