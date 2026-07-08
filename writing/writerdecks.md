@@ -18,9 +18,6 @@ A different writerdeck approach: a smaller backlit device/display that one pairs
 # Kingjim Pomera
 I don't own one but I have friends who swear by them. I've been told that the likeliest sticking point is the smaller keyboard.
 
-# [Nunomo Pocket Deck](https://shop.nunomo.net/products/pocket-deck-pre-order-status) 
-This is more of a cyberdeck running a bespoke system on ESP32, but it absolutely works for minimalist writing/drafting using the included Micropython-based text editor PEM; like the BYOK, you need your own keyboard. This is a *delight*; I do caution that I had to remove mine from the lower half of the case entirely while trying to add a LiPo battery (*that* works fine!), likely due to shrinkage; I built a replacement DIY (cardboard) box as I love this unreservedly and would love to have a go at coding for it in Micropython with the built-in interpreter/compiler. The creator has been updating the firmware and apps pretty frequently.
-
 # Micro Journal series
 [Un Kyu Lee](https://www.tindie.com/stores/unkyulee/) designs and releases some of the *best* writerdecks for various use cases. He's a single maker who also releases the firmnware, specifications, and STL files for 3D-printed parts free/open source. I own several of his writerdecks/cyberdecks and treasure each one: Micro Journal [Rev. 2.1](https://www.tindie.com/products/unkyulee/micro-journal-rev21-cyberdeck/) (cyberdeck on a Raspberry Pi, with a longer boot time; the others are typically ESP32 and more or less "instant on"), Rev.5,  [Rev.5.1](https://www.tindie.com/products/unkyulee/micro-journal-rev51-a-personal-journey/), and [Rev.7](https://www.tindie.com/products/unkyulee/micro-journal-rev7-kindred-gift-epaper/) (e-ink, retro typewriter vibe design).
 
@@ -39,6 +36,9 @@ Here it is hard at work with an Epomaker Glyph keyboard for scale. (The "Poker" 
 ![Micro Journal Rev.7 with fountain pens for scale](https://github.com/maratai/craftery/blob/main/writing/writing_images/2026-07-08-microjournal-rev7.jpg?raw=true)
 
 E-ink display and a retro "typewriter" design.
+
+# [Nunomo Pocket Deck](https://shop.nunomo.net/products/pocket-deck-pre-order-status) 
+This is more of a cyberdeck running a bespoke system on ESP32, but it absolutely works for minimalist writing/drafting using the included Micropython-based text editor PEM; like the BYOK, you need your own keyboard. This is a *delight*; I do caution that I had to remove mine from the lower half of the case entirely while trying to add a LiPo battery (*that* works fine!), likely due to shrinkage; I built a replacement DIY (cardboard) box as I love this unreservedly and would love to have a go at coding for it in Micropython with the built-in interpreter/compiler. The creator has been updating the firmware and apps pretty frequently.
 
 # [Zerowriter Ink](https://www.crowdsupply.com/zerowriter/zerowriter-ink) 
 
