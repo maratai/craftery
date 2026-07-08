@@ -258,6 +258,7 @@ They offer downloadable PDFs as well as printed pamphlets!
 - Fiesta Placemats. Warp-faced weave. *The Best of Yarn Barn*, pp. 30-31.
 - It's Dryin' Time! Towels in plain weave, color-and-weave. *The Best of Yarn Barn*, pp. 4-5.
 - **Pixelated Scarf**. Plain weave. *The Best of Yarn Barn*, pp. 18-19.
+- Vintage DK Baby Blanket. Plain weave. *The Best of Yarn Barn*, pp. 36-37.
 - [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). I have a warp wound for this, I just need to free up a loom!
   - plain weave
   - warp: one 8-oz. tube each of 3 colors Carpet Warp. I went with Colonial Blue, Jade, and Aqua Green, which make soothing analogous color gradient but are maybe a little lower contrast (value/hue) than ideal, plus 2 cones Carpet Warp in natural.
@@ -270,7 +271,11 @@ They offer downloadable PDFs as well as printed pamphlets!
     - one (1) yoga towel: 19" x 48"
 - Zig-Zag One-Skein Wonder. Scarf. Plain weave. ("Zig-Zag" is a rayon bouclé yarn from Interlacement.) *The Best of Yarn Barn*, p. 15.
 
+## Three-Harness Patterns
+- Krokbragd Tote. *The Best of Yarn Barn*, pp. 42-44.
+
 ## Four-Harness Patterns
+- Color-and-Weave Sampler. Plain weave. *The Best of Yarn Barn*, pp. 38-41.
 - [**Elegance coasters**](https://www.yarnbarn-ks.com/Elegance/productinfo/WK-YB-485/) - *The Best of Yarn Barn* pp. 24-25. I picked up the kit as well.
   - overshot
   - 7" weaving width, 4 harnesses
@@ -296,14 +301,23 @@ They offer downloadable PDFs as well as printed pamphlets!
   - The kit makes 3 hemmed towels with finished measurements of 13.5" x 20". The towels can be machine washed and dried.
 - Red-Winged Blackbird. Rug. *The Best of Yarn Barn*, pp. 34-35.
 - **Rep Mug Rugs**. Coasters ("mug rugs"?!). Rep weave. *The Best of Yarn Barn* pp. 22-23. I picked up the kit for this; it's in the queue!
+- Rings of Circles. Table runner. Overshot. *The Best of Yarn Barn*, pp. 54-55.
 - Shadowed Spheres. Shawl. Shadow weave. *The Best of Yarn Barn*, pp. 20-21.
 - Simple Waffle Weave Dishtowels. Waffle weave. *The Best of Yarn Barn*, pp. 8-9.
+- Thanksgiving Table Runner. *The Best of Yarn Barn*, pp. 45-47.
 
-## Six-Harness Patterns.
-- Everyday Napkins. Maybe this is overshot?? *The Best of Yarn Barn* ppp. 26-27.
+## Six-Harness Patterns
+- Everyday Napkins. Maybe this is overshot?? *The Best of Yarn Barn*, pp. 26-27.
+
+## Seven-Harness Patterns
+- Let It Snow Table Runner. *The Best of Yarn Barn*, pp. 48-50.
 
 ## Eight-Harness Patterns
 - **Dancing Butterflies** scarf, sett at 24 ends per inch, one skein each of two colors Kiku Silk (20/2 IIRC?), 12-dent reed.
+- Manhattan Table Runners. Rep weave. *The Best of Yarn Barn*, pp. 51-53.
 - **Plaited Twill Door Mat**, sett at 6 ends per inch, four skeins each of 160 Dark Grey and 128 Pale Grey Heavy Rug Wool, 6-dent reed.
+- **Reflecting Pool**. Table runner. Ascending/descending twill. *The Best of Yarn Barn*, pp. 56-57.
 - **Shades of Winter** stole, sett at 12 ends per inch, multiple skeins of Nature Spun Sport, 12-dent reed.
 - Yellow Brick Road Towels. Point twill/reverse point twill variation. *The Best of Yarn Barn*, pp. 10-11.
+
+- Reflecting Pool. Table runner.
