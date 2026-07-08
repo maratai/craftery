@@ -253,6 +253,7 @@ Anything calling for more than eight harnesses is strictly theoretical *for me*!
 They offer downloadable PDFs as well as printed pamphlets!
 
 ## Two-Harness Patterns
+- Eggplant, Carrots, and Avocados. Towels in plain weave. *The Best of Yarn Barn*, pp. 2-3.
 - [**Yoga Towel and Blanket**](https://www.yarnbarn-ks.com/Yoga-Towel-Blanket-Pattern-Leaflet/productinfo/WP-YB-472-/). I have a warp wound for this, I just need to free up a loom!
   - plain weave
   - warp: one 8-oz. tube each of 3 colors Carpet Warp. I went with Colonial Blue, Jade, and Aqua Green, which make soothing analogous color gradient but are maybe a little lower contrast (value/hue) than ideal, plus 2 cones Carpet Warp in natural.
