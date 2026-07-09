@@ -57,15 +57,19 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 ## [Inagaki Kiryo](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
 Japanese floor loom. Newly arrived (June 23, 2026), nearly done with assembly (June 25, 2026)! It took about three months of build time plus shipping - not cheap, since it's international freight, **plus customs duties** (from Japan to the USA). Communications with Inagaki Kiryou was excellent, highly recommended. (To be updated.)
 
-Here it is assembled with four harnesses tied up; I have two more harnesses, but threading heddles is a pain!
+Here it is assembled with four harnesses tied up; I have two more harnesses, but putting heddles on the harnesses is a pain! I'l get to it eventually.
 
 ![Inagaki R-25](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-27-r-25.jpg?raw=true)
+
+![Inagaki R-25 with a C-clamp for task lighting](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-08-r25-light.jpg?raw=true)
+
+Turns out that C-clamps are great friends for task lighting (or holding the raddle on the back beam).
 
 [More details](https://github.com/maratai/craftery/blob/main/fiber_arts/loom_%20inagakikryo_R-25.md) of the assembly process.
 
 Generously, they sent me an image of the loom being constructed before its arrival:
 
-![Inagaki Kiryou R-25 loom in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-05-r25.jpg?raw=true)
+![Inagaki Kiryo R-25 loom in progress](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-05-r25.jpg?raw=true)
 
 They've recently (as of May 2026) revamped their website, which now includes an easier way to order online on the English-language version of the site! I covet the [65 cm warping drum](https://inagakikiryo-weaving.com/collections/warping-board-%E3%82%B3%E3%83%94%E3%83%BC/products/warping-drum-65cm) (which also requires 60 [spools](https://inagakikiryo-weaving.com/collections/warping-tool-accessories/products/japanese-style-spool-set-of-10) and a [spool winder](https://inagakikiryo-weaving.com/collections/spool-winder/products/guide-system-spool-winder)). Someday, if I am very good...?
 
