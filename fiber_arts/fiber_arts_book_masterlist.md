@@ -96,6 +96,7 @@ I have books but they're in Hangeul/Korean!
 - Grace Shalom Hopkins. *Card: You Control the Colourway*.
 - Cheryl Kolander. *A Silkworker's Notebook*, reproduction first edition.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
+- Elizabeth Lovick. [*Fine Spinning Workbook*](https://www.etsy.com/listing/73570485/pdf-of-the-fine-spinning-workbook-by) (Etsy). Down-to-earth, practical, helpfully systematic.
 - Judith MacKenzie. *The Practical Spinner's Guide: Rare Luxury Fibers*.
 - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Giude to Creating Traditional and Art Yarns*. Includes plans for a DIY spinning wheel from PVC pipe and similar materials; I have not done a test build.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
