@@ -4,9 +4,9 @@
 
 **Nota bene:** I have the following looms, with the following projects:
 - Saori Piccolo, 2H 2T counterbalance, 40 cm / 16" weaving width - just finished a plain weave scarf
-- Saori WX60, 4H 6T sinking shed, 60 cm / 24" weaving width - Lakeview Placemats (Gist Yarn, *see* below)
+- Saori WX60, 4H 6T sinking shed, 60 cm / 24" weaving width - Lakeview Placemats (Gist Yarn), Yoga Towel and Blanket (Yarn Barn of Kansas)
 - Inagaki R-25, 6H 6T counterbalance, 48 cm / 19" weaving width - Constellations Placemats (Gist Yarn, *see* below)
-- Toika Laila, 8H 8T countermarche, 28" weaving width - Yoga Towel and Blanket (Yarn Barn of Kansas, *see* below)
+- Toika Laila, 8H 8T countermarche, 28" weaving width - on hold
 
 Anything calling for more than eight harnesses is strictly theoretical *for me*!
 
