@@ -21,11 +21,11 @@
 - Misfit Bicycle (???).
 - Misfit Bucket Bass.
 - **Misfit Fiddle**.
-- **Misfit Harmonica**.
+- **Misfit Harmonica**. Fun for effects, fussy if you're trying to program a *specific* harmonica performance.
 - Misfit Stringed Diddley Bow.
 - **Misfit Whistling**.
-- **Requiem Professional**. Choral.
-- **Silka**. Choral.
+- **Requiem Professional**. Choir.
+- **Silka**. Choir.
 
 # Audiobro (Kontakt)
 - **Eternity Choir** - "...Sopranos, Altos, Tenors, and Basses. Simple to use while having advanced features such as Latin Syllables, polyphonic legato, Melisma, Latin word building, and balanced ensemble weighting using our Auto Divisi engine."
@@ -56,6 +56,7 @@
 - Nashville Scoring Strings.
 
 # Best Service
+- **Arabic Oud** (Engine Player).
 - **Chris Hein Solo Cello** (Kontakt).
 - **Chris Hein Solo Contrasbass** (Kontakt).
 - **Chris Hein Solo Viola** (Kontakt).
@@ -81,6 +82,7 @@
 # EastWest (Opus)
 Uses their own VST hosts (Opus etc).
 - EW Ancient Kingdom.
+- **EW The Dark Side**. Hybrid scoring, various.
 - **EW Gypsy**. "Ethnic," various.
 - EW Hollywood Fantasy Brass.
 - EW Voices of Passion. Operatic solo vocals.
@@ -119,8 +121,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Toy Piano**.
 
 # Have Audio (Kontakt)
-- Balkan Clarinet.
+- **Balkan Clarinet**. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
+- Nordic Cello.
+- Nordic Metal Cello.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
+- Rebec.
 
 # Heavyocity (Kontakt)
 - **Aeon Melodic**.
@@ -133,7 +138,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Machina** - "From the relentless churn of industrial gears to the intricate ticking of analog clocks, this is where machines find their grooves."
 - **Novo - Modern Strings** - "A new hybrid strings vitual instrument...."
 - **Sonara** - "An instantly inspiring, captivating vocal collection designed to spark creativity and infuse tracks with dynamic and emotive vocal power."
-- **Symphonic Destruction**. Processed/hybrid orchestral/sound design.
+- **Symphonic Destruction Redux**. Processed/hybrid orchestral/sound design.
 - **Vocalise 2** - "Featuring a diverse array of sound sources - including vocal pads, phrases, and a truly innovative collection of rhythmic pedals and motifs...."
 
 # Impact Soundworks (Kontakt)
@@ -149,7 +154,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Special Reserve Colossal Hybrid Drums** - "Powerful, massive drums combining organic kits with synthesized modeled sounds and hyper-processing, perfect for epic trailer music. Includes a super hybrid drum kit, world percussion ensemble, and mega tom ensemble. An easy-to-use library with immediate results and a fantastic sound. From the personal collection of ISW founder Andrew Aversa."
 - Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
-- **Tokyo Scoring Drum Kits**.
+- **Tokyo Scoring Drum Kits**. Quirky placement of flams on velocity layers; I like the sound though.
 - **Tokyo Scoring Strings**. Quite dry, crisp studio strings.
 
 # iZotope
@@ -165,7 +170,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
 - **Berserkr Pro - Tribal Punk Folk Drums**.
 - **Evolution - Devastator Deathmatch**. Sound design.
-- **Evolution - Devastator Warzone**. Sound design.
+- **Evolution - Devastator Warzone**. Sound design. Also some terrific hybrid drum kits.
 - **Evolution Dragon**. Sound design.
 - **Ferrum: Modern Trailer Percussion - Free Edition**.
 - **Risenge - Free Edition**.
