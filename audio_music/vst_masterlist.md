@@ -149,6 +149,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Shreddage 3 Darkwall - A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
 - **Shreddage 3 Jupiter** - "A deep, dark 7-string guitar ideal for heavy rock & metal rhythms."
 - **Shreddage Drums**.
+- Sounds from Hell.
 - **Special Reserve Colossal Hybrid Drums** - "Powerful, massive drums combining organic kits with synthesized modeled sounds and hyper-processing, perfect for epic trailer music. Includes a super hybrid drum kit, world percussion ensemble, and mega tom ensemble. An easy-to-use library with immediate results and a fantastic sound. From the personal collection of ISW founder Andrew Aversa."
 - Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
@@ -186,6 +187,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 
 # Musical Sampling (Kontakt)
 - Midnight Tenor Sax.
+- Trailer Brass.
 
 # Native Instruments (...Kontakt)
 - **Action Strikes**. Cinematic percussion.
@@ -297,7 +299,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Tom Holkenborg's Brass**.
 
 # Performance Samples (Kontakt)
-- **Angry Brass**.
+- **Angry Brass Pro**.
 - **Oceania II**. Choir.
 - **Pacific Brass**.
 - **Pacific Ensemble Strings**.
@@ -312,6 +314,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 # Sample Logic (Kontakt)
 - **Drum Fury**.
 - **Morphestra 2**. Hybrid.
+- Stadium Instruments.
 - **Trailer Expression** 1 through 4.
 - **World Fury**. Hybrid.
 
@@ -326,6 +329,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Thunder Drum**. Free!
 
 # Sonuscore (Kontakt)
+- Dark Horizon.
 - **Elysion 2**. Synths.
 
 # Soundiron (Kontakt)
