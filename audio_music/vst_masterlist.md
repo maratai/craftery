@@ -7,8 +7,6 @@
 - If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
 
-**NOTE:** this just in, [Native Instruments is in preliminary insolvency](https://cdm.link/ni-insolvency/). MORE TK.
-
 # 8dio (Kontakt)
 - **Catmosphere**.
 - **Clocks**.
