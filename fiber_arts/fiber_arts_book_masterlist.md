@@ -205,6 +205,7 @@ I have books but they're in Hangeul/Korean!
 - November/December 1986. Fabric for Fashion. Sewing with handwoven, samples.
 - Issue 168. January/February 2014. Silk, kumihimo.
 - Issue 174. March/April 2015. "East Meets West" and "ethnic weaving: sakiori, Navajo weqaving, shifu (paper yarn), Japanese design inspirations.
+- Issue ?. November/December 2018. PDF/digital edition from Long Thread Media.
 
 ## Little Looms (magazine)
 - Spring 2025. Inkle lace, inlay.
