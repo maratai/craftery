@@ -25,6 +25,7 @@ I am not a quilter but I like looking at the pictures; my primary interest is in
 - Shuji Tamura. *The Techniques of Japanese Embroidery*.
 
 # Dyeing
+Also for love of spork, please check safety re: toxicity (including on naturally gathered herbs etc).
 - Rita J. Adrosko. *Natural Dyes and Home Dyeing: A Practical Guide with Over 150 Recipes*.
 - Anne Bliss. *North American Dye Plants*. Thanks to Anne Davis.
 - Catharine Ellis. *Woven Shibori*. Despite the title, this incluodes a fair amount of information on shibori and shibori-like dyeing methods.
