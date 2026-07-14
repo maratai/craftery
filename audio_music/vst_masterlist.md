@@ -8,22 +8,25 @@
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
 
 # 8dio (Kontakt)
-- **Catmosphere**.
+- Catmosphere.
 - **Clocks**.
-- **Emperium Destiny**. Choral.
+- **Emperium Destiny**. Choir.
 - **Epic Taiko Ensemble**.
 - **Hybrid Action Tools Equinox.** Sound design.
 - **Hybrid Tools Terminus**. Sound design.
 - **Insolidus Choir**.
 - **Liberis Angelic Choir**.
-- Misfit Bicycle (???).
+- Misfit Bicycle (?!).
 - Misfit Bucket Bass.
 - **Misfit Fiddle**.
-- **Misfit Harmonica**. Fun for effects, fussy if you're trying to program a *specific* harmonica performance.
+- Misfit Harmonica. Fun for effects, fussy if you're trying to program a *specific* harmonica performance.
 - Misfit Stringed Diddley Bow.
 - **Misfit Whistling**.
 - **Requiem Professional**. Choir.
 - **Silka**. Choir.
+
+# Aria Sounds (Kontakt)
+- **Aurora Choir**.
 
 # Audiobro (Kontakt)
 - **Eternity Choir** - "...Sopranos, Altos, Tenors, and Basses. Simple to use while having advanced features such as Latin Syllables, polyphonic legato, Melisma, Latin word building, and balanced ensemble weighting using our Auto Divisi engine."
@@ -65,6 +68,7 @@
 - **Whistler** (???)
 
 # Blue Cat Audio
+- Blue Cat's Axiom.
 - Blue Cat Free Amp.
 
 # Cinesamples
@@ -119,10 +123,11 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Toy Piano**.
 
 # Have Audio (Kontakt)
-- **Balkan Clarinet**. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
+- Balkan Clarinet. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
 - Nørdic Cello.
 - Nordic Metal Cello.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
+- **Omnidrums**.
 - Rebec.
 
 # Heavyocity (Kontakt)
