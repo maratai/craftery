@@ -328,14 +328,14 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **World Fury**. Hybrid.
 
 # Soniccouture (Kontakt)
-- **Hammersmith Free**. "A free verison of the most detailed sampled piano available. 21 velocity layers."
+- Hammersmith Free. "A free verison of the most detailed sampled piano available. 21 velocity layers."
 - **Morpheus**. "...the Morpheus is a modular aluminum percussion instrument: the keys can be rearranged in any order you like, as each metal bar is attached to its own tuned resonator. The aluminum gives Morpheus one of the purest percussion sounds you will hear - add tremolo and it sounds very much like a vibraphone, but with an extra 'glass-like' quality."
 - **Music Boxes**. Free! "Two original music boxes: the sound is almost universally evocative of early childhood."
 - **Rocksichord**. Free! "Vintage electric harpsichord with 12 stops."
 - **Samulnori Percussion**. Korean folk drums!
-- **Skiddaw Stones** - A lithophone - ancient tuned rocks gathered in the mountains of Cumbria, UK. Truly heavy rock music."
+- Skiddaw Stones - A lithophone - ancient tuned rocks gathered in the mountains of Cumbria, UK. Truly heavy rock music."
 - **Tape Choir**. Free!
-- **Thunder Drum**. Free!
+- Thunder Drum. Free!
 
 # Sonuscore (Kontakt)
 - Dark Horizon.
@@ -348,7 +348,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - High School Drum Corps.
 
 # Soundmorph
-- Dust.
+- Dust. Sound design??
 
 # Soundpaint (Soundpaint)
 - Requiem Solus. Choral.
@@ -370,7 +370,7 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 - **Glass and Steel**. Tonal percussion and effects.
 - Hans Zimmer Percussion.
 - Harpsichord - Steven Devine.
-- **Kepler Orchestra**.
+- Kepler Orchestra
 - **Originals - Cimbalom**.
 - **Originals - Cinematic Frozen Strings**.
 - **Originals - Drumline**. Marching band drums.
@@ -378,7 +378,7 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 - **Originals - Epic Strings**. Great for sketching and/or layering.
 - **Originals - Firewood Piano**. I like this for a "warm," more character-ful acoustic piano.
 - **Originals - Intimate Strings**. As above.
-- **Peter Gregson - Electric Cellist**.
+- Peter Gregson - Electric Cellist.
 - **Resonate**. Reverb.
 - **Spitfire Harp**.
 - Spitfire Solo Strings.
@@ -392,7 +392,7 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 - **Steve Slate Drums 5**.
 
 # Tempest Instruments
-- **Sona Chroma** - "...a groundbreaking and experimental approach to orchestral instrument blending...."
+- Sona Chroma - "...a groundbreaking and experimental approach to orchestral instrument blending...."
 
 # Vienna Symphonic Library (VSL)
 Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vienna Instruments Pro.
@@ -413,7 +413,7 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
   - Piccolo Trumpet
   - Cornet
   - Flugelhorn
-- **Studio Special Keyboards**.
+- Studio Special Keyboards.
   - Harpsichord
   - Harmonium
   - Prepared Piano
