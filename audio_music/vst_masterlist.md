@@ -186,8 +186,8 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **SpiritBox: Mike Stringer**. Effects.
 
 # Musical Sampling (Kontakt)
-- Midnight Tenor Sax.
-- Trailer Brass.
+- **Midnight Tenor Sax**.
+- **Trailer Brass**.
 
 # Native Instruments (...Kontakt)
 - **Action Strikes**. Cinematic percussion.
@@ -284,18 +284,21 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 
 # Orchestral Tools (SINE)
 I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
-- **Benjamin Wallfisch Strings**.
+- **Benjamin Wallfisch Strings** and **Stringscapes**.
 - **Berlin Brass**.
 - **Berlin Harpsichord**.
 - **Berlin Solo Strings**.
 - **Berlin Strings**. My go-to for orchestral strings.
 - **Berlin Woodwinds**.
+- **Dagu**. Chinese theater drums.
 - **Igudesman Solo Violin**.
-- **Manifold**.
+- **Igudesman Viola Grotesca**.
+- **Manifold**. Studio voices (free).
 - **Metropolis Ark 1**. Orchestral; I reach for the brasses *a lot*.
 - **Modus - Jeff Russo**. Eclectic orchestral scoring.
 - **Monolith - Richard Harvey**. Percussion.
-- **Rotary**. Brass.
+- **Phoenix Orchestra**. Chinese instruments.
+- **Rotary**. Big band horns (free).
 - **Tom Holkenborg's Brass**.
 
 # Performance Samples (Kontakt)
@@ -305,7 +308,8 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Pacific Ensemble Strings**.
 - **Pacific Percussion**.
 - Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
-- Vista II Small Ensemble Strings.
+- **River Piano**.
+- **Vista II Small Ensemble Strings**.
 
 # Realitone
 - **Sunset Choir Ultimate** - "Sunet Choir specializes in experimental and evolving movement-based choral articulations, along with traditional articulations and legato. It features a 2-Layer system, plus Attack and Release slow bands, scatters, and even consonants."
@@ -315,7 +319,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Drum Fury**.
 - **Morphestra 2**. Hybrid.
 - Stadium Instruments.
-- **Trailer Expression** 1 through 4.
+- **Trailer Expressions** 1 through 4.
 - **World Fury**. Hybrid.
 
 # Soniccouture (Kontakt)
