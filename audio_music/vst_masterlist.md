@@ -50,7 +50,7 @@
 - **Cerberus**. Cinematic percussion.
 - **Jaeger**. Orchestral strings + Merethe Solvedt's soprano legato vocals.
 - **Talos**. Cinematic/epic brass.
-- **Trailer Guitars 2** - "Trailer Guitars 2 has everything you need from clean tones to gritty distortion and sonic drones, loops, kits, and curated content...."
+- Trailer Guitars 2 - "Trailer Guitars 2 has everything you need from clean tones to gritty distortion and sonic drones, loops, kits, and curated content...."
 
 # Audio Ollie (Kontakt)
 - **LA Modern Percussion**.
@@ -65,18 +65,18 @@
 - **Dark Era** and **Dark Era II** (Engine Player).
 - **ERA II Medieval Legends** (Engine Player).
 - **ERA II Vocal Codex** (Engine Player).
-- **Whistler** (???)
+- Whistler (?).
 
 # Blue Cat Audio
 - Blue Cat's Axiom.
 - Blue Cat Free Amp.
 
 # Cinesamples
-- **Accent Pianos** (Kontakt). "Percussive" orchestral pianos.
+- Accent Pianos (Kontakt). "Percussive" orchestral pianos.
 - **Apocalyptica** (Kontakt). Solo electric cello. Also available in Musio.
 - **Drums of War 1** (Kontakt). Cinematic percussion. Also available in Musio.
 - **Drums of War 2** (Kontakt). Cinematic percussion. Also avialable in Musio.
-- **Viola Da Gamba** (Kontakt).
+- Viola Da Gamba (Kontakt).
 
 # Cinematic Studio (Kontakt)
 - **Cinematic Strings Monster Staccatos**.
@@ -92,9 +92,9 @@ Uses their own VST hosts (Opus etc).
 
 # Embertone (Kontakt)
 Terrific solo strings.
-- **Embertone Fischer Viola**.
+- Embertone Fischer Viola.
 - **Embertone Joshua Bell Violin**.
-- **Friedlander Violin 1.5**.
+- Friedlander Violin 1.5.
 
 # Eventide
 - **Articulate**. Mixing/mastering.
@@ -116,7 +116,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Gentle Brass**.
 - **Blueprint Greenhead Chimes**.
 - **Blueprint Music Box**.
-- **Blueprint Short Strings**.
+- Blueprint Short Strings.
 - **Blueprint Textural Cello**.
 - **Blueprint Textural Viola**.
 - **Blueprint Textural Violin**.
@@ -127,34 +127,34 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Nørdic Cello.
 - Nordic Metal Cello.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
-- **Omnidrums**.
+- **Omnidrums**. Drum kit VST.
 - Rebec.
 
 # Heavyocity (Kontakt)
-- **Aeon Melodic**.
-- **Aeon Rhthmic**.
+- **Aeon Melodic**. Synths.
+- **Aeon Rhythmic**. Synths.
 - **Analog Hybrid Drums**.
 - **Damage**. Cinematic percussion.
 - **Damage 2**. Cinematic percussion.
-- **Forzo - Modern Brass**.
-- **Foundations Piano**.
+- Forzo - Modern Brass.
+- Foundations Piano.
 - **Machina** - "From the relentless churn of industrial gears to the intricate ticking of analog clocks, this is where machines find their grooves."
-- **Novo - Modern Strings** - "A new hybrid strings vitual instrument...."
+- **Novo - Modern Strings** - "A new hybrid strings virtual instrument...."
 - **Sonara** - "An instantly inspiring, captivating vocal collection designed to spark creativity and infuse tracks with dynamic and emotive vocal power."
 - **Symphonic Destruction Redux**. Processed/hybrid orchestral/sound design.
-- **Vocalise 2** - "Featuring a diverse array of sound sources - including vocal pads, phrases, and a truly innovative collection of rhythmic pedals and motifs...."
+- Vocalise 2 - "Featuring a diverse array of sound sources - including vocal pads, phrases, and a truly innovative collection of rhythmic pedals and motifs...."
 
 # Impact Soundworks (Kontakt)
 - Bass Sculptor.
 - **Furia Staccato Strings**.
 - **Hammer Klavier** - "An avant-grade piano with a twist: its felt hammers have been replaced with real metal hammers. Hammer Klavier sounds a little like a powerful and full-voiced harpsichord, with the dynamic responsiveness of a regular piano and the percussive nature of a hammered dulcimer."
 - **Handbells**.
-- Mega Brass.
+- **Mega Brass**.
 - **Shreddage 3 Abyss** - A "custom six-string Muckelroy Bass."
 - Shreddage 3 Darkwall - A "prog metal...Dingwall bass in all its brutal glory: a colossal low end, an aggressive attack, and a massive versatility of tone. Available in Drop E as well as standard tuning..." (Look, I'm not a guitarist or bassist.)
 - **Shreddage 3 Jupiter** - "A deep, dark 7-string guitar ideal for heavy rock & metal rhythms."
 - **Shreddage Drums**.
-- Sounds from Hell.
+- **Sounds from Hell**. Sound design.
 - **Special Reserve Colossal Hybrid Drums** - "Powerful, massive drums combining organic kits with synthesized modeled sounds and hyper-processing, perfect for epic trailer music. Includes a super hybrid drum kit, world percussion ensemble, and mega tom ensemble. An easy-to-use library with immediate results and a fantastic sound. From the personal collection of ISW founder Andrew Aversa."
 - Super Audio Boy. Chiptunes etc.
 - **Stroh Violin**. Great "sound design" solo violin.
@@ -167,7 +167,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Ozone 10 Standard**. Mastering.
 - **Tonal Balance Control 2**. Mastering.
 - **Trash**. Distortion.
-- **VocalSynth 2**. Vocal processing/effects.
+- VocalSynth 2. Vocal processing/effects.
 
 # Keep Forest (Kontakt)
 - **AizerX - Free Edition**. Sound design IIRC.
@@ -180,24 +180,24 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Risenge - Free Edition**.
 
 # Krotos
-- Dehumaniser.
-- Reformer Pro.
-- Weaponiser.
+- Dehumaniser. Sound design.
+- Reformer Pro. Sound design.
+- Weaponiser. Sound design.
 
 # Loot Audio (Kontakt)
-- **Balvi Cello**.
+- Balvi Cello.
 
 # MixWave
 - **SpiritBox: Mike Stringer**. Effects.
 
 # Musical Sampling (Kontakt)
-- **Midnight Tenor Sax**.
+- Midnight Tenor Sax.
 - **Trailer Brass**.
 
 # Native Instruments (...Kontakt)
 - **Action Strikes**. Cinematic percussion.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
-- **Amati Viola**. Can be quite nice if you're willing to micromanage the articulations. I have *feelings* about viola!
+- **Amati Viola**. Quite lovely if you're willing to micromanage the articulations. I have *feelings* about viola!
 - Anima Ascent - "Visionary, contemporary, genre-defying pop - vintage synths, hybrid keys, and popped percussion."
 - Arcane Attic - "Distinctive, percussive crunch with jagged field recordings for unconventional rhythms."
 - Arkhis - "Powerful instrument for creating cutting-edge, cinematic atmospheres and underscores, from specialized orchestral sound sources."
@@ -223,7 +223,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - District Xeo - "Submerge in the sound of underground electro, with whiplashing beats, aquatic synths, and spacey pads."
 - Driver - "A versatile, creative distortion and filter effect. Take tracks from subtle filtering to all out mayhem."
 - Drop Squad - "The sound of dubstep, with punchy drums, wobbles, synths and deep basses."
-- **East Asia**. Listen, they have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
+- **East Asia**. They have Korean folk/traditional instruments in here too! Tons of controls for tuning and ~scales.
 - Enhanced EQ.
 - FM8 - FM synthesis.
 - **Freak**. Modulation effect.
@@ -261,10 +261,10 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Sacred Futures - "The next-gen sounds of trap and hip hop - hard-hitting drums, crisp hooks, and hazy atmospheres."
 - Schema - Dark - "Create dark, driving patterns and pulses from four layers of expertly recorded acoustic, synthetic, and organic loops."
 - Schema - Light - "Scuplt evolving melodic patterns and textures from four layers of soft, creatively processed loops."
-- **Session Bassist: Icon Bass**.
-- **Session Bassist: Prime Bass**.
-- **Session Guitarist: Electric Mint**.
-- **Session Guitarist: Electric Sunburst Deluxe**.
+- Session Bassist: Icon Bass.
+- Session Bassist: Prime Bass.
+- Session Guitarist: Electric Mint.
+- Session Guitarist: Electric Sunburst Deluxe.
 - **Session Horns Pro** - "10 instruments sampled in surgical detail, intuitively playable, and arranged for realistic, contemporary performance."
 - **Session Percussionist** - "Intuitive, acoustic drum and percussion library with over 2000 customizable patterns and an advanced step sequencer."
 - Solid Dynamic FX.
@@ -289,21 +289,21 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 
 # Orchestral Tools (SINE)
 I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
-- **Benjamin Wallfisch Strings** and **Stringscapes**.
+- Benjamin Wallfisch Strings and Stringscapes.
 - **Berlin Brass**.
 - **Berlin Harpsichord**.
 - **Berlin Solo Strings**.
 - **Berlin Strings**. My go-to for orchestral strings.
 - **Berlin Woodwinds**.
-- **Dagu**. Chinese theater drums.
+- Dagu. Chinese theater drums.
 - **Igudesman Solo Violin**.
 - **Igudesman Viola Grotesca**.
 - **Manifold**. Studio voices (free).
 - **Metropolis Ark 1**. Orchestral; I reach for the brasses *a lot*.
-- **Modus - Jeff Russo**. Eclectic orchestral scoring.
+- Modus - Jeff Russo. Eclectic orchestral scoring.
 - **Monolith - Richard Harvey**. Percussion.
 - **Phoenix Orchestra**. Chinese instruments.
-- **Rotary**. Big band horns (free).
+- Rotary. Big band horns (free).
 - **Tom Holkenborg's Brass**.
 
 # Performance Samples (Kontakt)
@@ -312,8 +312,8 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Pacific Brass**.
 - **Pacific Ensemble Strings**.
 - **Pacific Percussion**.
-- Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space and my current school assignment doesn't require woodwinds... /o\
-- **River Piano**.
+- Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space...
+- River Piano.
 - **Vista II Small Ensemble Strings**.
 
 # Realitone
