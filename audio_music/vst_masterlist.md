@@ -120,7 +120,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 
 # Have Audio (Kontakt)
 - **Balkan Clarinet**. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
-- Nordic Cello.
+- Nørdic Cello.
 - Nordic Metal Cello.
 - **Nordisk Kontrabass**. Terrific "sound design" string bass.
 - Rebec.
@@ -169,7 +169,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
 - **Berserkr Pro - Tribal Punk Folk Drums**.
 - **Evolution - Devastator Deathmatch**. Sound design.
-- **Evolution - Devastator Warzone**. Sound design. Also some terrific hybrid drum kits.
+- **Evolution - Devastator Warzone**. Sound design. Also terrific hybrid drum kits.
 - **Evolution Dragon**. Sound design.
 - **Ferrum: Modern Trailer Percussion - Free Edition**.
 - **Risenge - Free Edition**.
