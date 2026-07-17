@@ -54,7 +54,15 @@ Here it is with the warp beamed on.
 
 Earlier: preparing to beam the warp. I clamped the raddle to the back beam and the lease sticks (plus Handywoman lease stick holders) to...the breast beam of the Toika Laila behind the R-25.
 
-Currently I'm threading heddles; not difficult as such but I have (music) schoolwork that takes precedence...
+**Friday, July 17, 2026**: Threading the heddles was straightforward. It turns out that the *front* also uses the "slot" method. Instead of tying directly onto the apron rod, one can tie bundles of warp threads at the end (I found a simple overhand knot sufficed), push the rod through the loops thus formed in order, drop it into the slot, and then wind on.
+
+![R-25: preparing to "tie onto" the apron rod](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-17-r25-03.jpg)
+
+![R-25: wound onto the fron](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-17-r25-02.jpg)
+
+![R-25: loom is warped!](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-17-r25-01.jpg?raw=true)
+
+Note that I need to adjust the height of the *harnesses* as the warp threads are shoved against the top of the reed; that's a task for this weekend.
 
 ## Specifications (English)
 **NOTE:** From an earlier version of the site.
