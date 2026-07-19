@@ -1,8 +1,15 @@
 # Interactive Fiction: Analysis and Theory
 - Nick Montfort. *Twisty Little Passages: An Approach to Interactive Fiction*. **Recommended**.
 
+# Interactive Fiction: Competitions and Challenges
+- [IntroComp](https://introcomp.org), "an annual competition where participants develop excerpts of interactive fiction, gain feedback from audience reactions, and (hopefully!) use this feedback to release a fantastic final product."
+
 # Interactive Fiction (etc) History
 - Aaron A. Reed. *50 Years of Text Games: From Oregon Trail to AI Dungeon and Everything*. Absolutely magisterial. (Full disclosure: I found out about this after a friend emailed me because a parser game I wrote 20+ years ago got briefly namechecked!) **Recommended**.
+
+# Interactive Fiction and Narrative Scripting: Ink
+- [Inkle Studios' Ink](https://www.inklestudios.com/ink/), a narrative scripting language.
+- [Ink Story Template](https://remyvim.github.io/ink-if-story-template/). Third-party template by RemyVim to gussy up narrative games written primarily in Ink. Includes (e.g.) support for very basic game audio. I enjoyed using this!
 
 # Interactive Fiction: Inform 7
 - Aaron A. Reed. *Creating Interactive Fiction with Inform 7*. **Recommended**.
