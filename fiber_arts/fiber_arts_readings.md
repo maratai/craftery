@@ -1,5 +1,7 @@
 I've put all the fiber arts together on the grounds that there's so much crossover. I don't currently knit or crochet, sorry! But I'm sure there are *plenty* of resources elsewhere for both.
 
+*See* also [Fiber Arts Book Masterlist](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_book_masterlist.md), which includes some books I own that aren't listed here. (I'm not attempting a strict concordance and the linked list of owned books is rather more diligently attended to since that's for my own reference.)
+
 # Dyeing
 - Felicia Lo. *Dyeing to Spin and Knit: Techniques and Tips to Make Custom Hand-Dyed Yarns*.
 - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*.
