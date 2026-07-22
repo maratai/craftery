@@ -425,12 +425,13 @@ I'm still learning the basics so haven't explored these thoroughly.
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
 - Cay Garrett. *Warping All by Yourself*. Recommended by Mara Stolurow during an exchange on School of SweetGeorgia. Interlibrary loan. A clear, well-illustrated guide to **warping front-to-back**. Primarily discusses rising shed jack looms and counterbalance looms, with en passant mentions of sinking shed looms. There is not specific guidance on countermarche looms. I prefer warping back-to-front but I enjoyed perusing this!
+- Rabbit Goody. *Pattern Weaving: Basics for the Handloom*. The example discussed is a rising shed jack loom; lots of clear explanations and photos plus an introduction to reading drafts. Library book (746.42).
 - Peggy Osterkamp. [What Are Skeleton and Universal Tie-Ups?](https://peggyosterkamp.com/2020/12/what-are-skeleton-and-universal-tie-ups/).
 - Else Regenstiner. *Weaver's Study Course: Sourcebook for Idea and Techniques*. Likely intermediate to advanced discussion of fabric construction and techniques. This assumes that one already knows weaving fundamentals, likely with table or floor looms, likely for four harnesses and up, so right now this is of largely academic interest for my purposes. Library book.
 - Deborah Silver. *The Technique of Split-Shed Weaving*. Fantastic "pictorial" technique with supplementary warp for looms with 4+ harnesses. Requires familiarity with 4+ shafts and weaving drafts.
 - Marian Stubenitsky. *Weaving with Echo and Iris*. Over my head right now, but extraordinary to page through.
 - [Weberei Hamburg](https://www.weberei-hamburg.com/en/store). Books on loom construction and design, available auf Deutsch and in English.
-- Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms, and my only looms are two-harness, so this is of academic
+- Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms.
   
 ## Weaving: Rigid Heddle Looms
 - Liz Gipson. *Weaving Made Easy: 17 Projects Using a Rigid-Heddle Loom, Revised and Updated*.
