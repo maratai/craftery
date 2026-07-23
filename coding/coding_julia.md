@@ -1,7 +1,9 @@
 # Julia
 I'm a casual; I'm here out of curiosity.
 
-- [The Julia Programming Language](https://julialang.org) - The official site, especially [Getting Started: The Julia Language](https://docs.julialang.org/en/v1/manual/getting-started/).
+- [The Julia Programming Language](https://julialang.org) - The official site.
+  - [Getting Started: The Julia Language](https://docs.julialang.org/en/v1/manual/getting-started/).
+  - [Pkg, the package manager - documentation](https://docs.julialang.org/en/v1/stdlib/Pkg/).
 - [From Zero to Julia!](https://techytok.com/from-zero-to-julia/) - Introductory lessons (online).
 - [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/home.html), Julia edition. Freely available online; also [available for purchase in print](https://my.siam.org/Store/Product/viewproduct/?ProductId=41831895).
 - [GameZero](https://juliapackages.com/p/gamezero) - "Zero overhead game development library for the Julia programming language" by aviks.
