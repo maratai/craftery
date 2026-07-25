@@ -94,6 +94,7 @@ I have books but they're in Hangeul/Korean!
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*; *Guide to Making Spinning Wheels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*; *Guide to Restoring an Antique Spinning Wheel*.
 - Stephenie Gaustaud. *The Practical Spinner's Guide: Cotton, Flax, Hemp*.
+- Linda Heinrich. *Linen: From Flax Seed to Woven Cloth*.
 - Grace Shalom Hopkins. *Card: You Control the Colourway*.
 - Cheryl Kolander. *A Silkworker's Notebook*, reproduction first edition.
 - Sara Lamb. *The Practical Spinner's Guide: Silk*. A great deep dive for one of my (sigh) favorite spins.
@@ -154,9 +155,14 @@ I have books but they're in Hangeul/Korean!
 - Liz Gipson. *Weaving Made Easy: 17 Projects Using a Rigid-Heddle Loom*, revised and updated.
 - Russell E. Groff. *Card Weaving or Tablet Weaving*.
 - Joanne Hall. *Tying Up the Countermarch Loom*.
+- Joanne Hall. *Weaving with Long Eyed Heddles*. Really looking forward to perusing this!
+- Linda Heinrich. *Linen: From Flax Seed to Woven Cloth*.
 - Nancy Arthur Hoskins. *Weft-Faced Pattern Weaves: Tabby to Taqueté*.
 - Bobbie Irwin. *Weaving Iridescence: Color Play for the Handweaver*.
 - Misao Jo and Kenzo Jo. *Saori: Self-Innovation Through Free Weaving*.
+- Lillemor Johansson. *Damask and Opphämta with Weaving Sword or Drawloom*. With a new appendix by Amy Blair and Becky Ashenden.
+- Lillemor Johansson, ed. *Damast* (*Damask*). This came from [Vävstuga](https://vavstuga.com) (whence I ordered it) with an English-language supplement/translation.
+- - Lillemor Johansson, ed. VävMagasinet. *Weaver's Delight*. In English (translation?).
 - Anete Karlsone. *Rakstainās Jostas: Kopīgais Kultūrslānis* (*Patterned Sashes: The Common Cultural Layer*). Latvian and English.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
@@ -191,6 +197,7 @@ I have books but they're in Hangeul/Korean!
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
 - Elizabeth Wagner. *My Weaving Workbook*.
 - Palmy Weigle. *Double Weave*.
+- Susan Wilson. *Weave Classic Crackle and More*.
 - Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 - Yarn Barn of Kansas. *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for the included patterns! 
@@ -232,7 +239,7 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 - Issue 42. Cushions, preserving the USA's industrial textile heritage, Triangle Shirtwaist Factory Fire, Orient Express, white leather gloves in the Fashion Museum in Bath, detective fashion in fiction, the history of legal dress, textile-related crime and punishment in Victorian Britian, indigo and woad.
 - Issue 44. Harris tweed; "demure" fashion; School Prints Ltd; from Jacquard to jobs and back; sewing for survival among the Inuktitut.
 - Issue 46. Signature cloths and social networking, traditional textiles in Pakistan, Tyrian purple, coronation textiles (UK), the psychology of the appeal of handmade textiles, chiffon, handbags, musicians in fashion.
-- ISsue 47. Fabric necklace, Suzhou silk, fabrics for sports, saddles and equestrian wear, the history of balls (sports), Jeckells sails, swim and diving wear.
+- Issue 47. Fabric necklace, Suzhou silk, fabrics for sports, saddles and equestrian wear, the history of balls (sports), Jeckells sails, swim and diving wear.
 - Issue 71. Cotton, Central American indigo, American feedsacks (linen), African-American quilts at Colonial Williamsburg, Mexican textiles in Oaxaca, redefining dresscodes, fashion and exoticism, block printing, textiles of the Kuna of Panama.
 - Issue 72. Irish textiles, tartans, sustainability, tweeds, Marseille Soap, Indian textile history, Lebanese craftmanship.
 - Issue 73. Sequins, textiles in St. Petersburg, domestic and decorative embroidery (fictional characters), 1920s fashion design, costume design in miniature, English medieval embroidery, Pandora Dolls as portable mannequins, costume design for theater/drama.
