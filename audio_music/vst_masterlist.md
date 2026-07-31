@@ -1,7 +1,7 @@
 # VSTs
 
 ## Notes
-- I own a distressing number of VSTs and these are the ones that I have *installed* at present.
+- I own a distressing number of VSTs and these are the ones that I have *installed* at present. I also don't always update this list in a timely fashion, so there are *more*...
 - Take it as read that "ethnic" (like "ethnomusicology") is a troubled descriptor but it's also the term one ends up with in the industry.
 - Assume these are Kontakt libraries unless otherwise stated.
 - If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
@@ -315,6 +315,9 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - Pacific Woodwinds. I own this; not currently installed because guess who's still cramped for external SSD space...
 - River Piano.
 - **Vista II Small Ensemble Strings**.
+
+# QLAudio
+- **Josun Series Platinum Bundle**. Korean traditional instruments.
 
 # Realitone
 - **Sunset Choir Ultimate** - "Sunet Choir specializes in experimental and evolving movement-based choral articulations, along with traditional articulations and legato. It features a 2-Layer system, plus Attack and Release slow bands, scatters, and even consonants."
