@@ -50,6 +50,7 @@ I'm a raw beginner but interested in learning.
 ## Patterns: Clothing
 - Helen Joseph Armstrong. *Patternmaking for Fashion Design*, 5th ed. **to-read**
 - Jo Barnfield and Andrew Richards. *The Pattern Making Primer*. For beginners. **to-read**
+- Jan Bones. *Lingerie Secrets: Sew a perfect fit for every body*. Library book (Dewey Decimal 646.4).
 - Gillian Conahan. *Handwear Handbook: Make Gloves, Cuffs, and Vambraces for Cosplay and Beyond*. Terrific.
 - Simon Crompton. *The Finest Menswear in the World: The Craftsmanship of Luxury*. Honestly, I keep this more as a character design (outfit) reference. It's a beautiful coffee table type book, though.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. 1988. A superlative book in terms of explanations and diagrams despite the stick-figure nature of the figures. Includes a bit of sociocultural context as well as adaptations for "modern" (USAn?) wear. **Recommended**.
@@ -401,6 +402,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Irene Francisco. *Opening a Door to Two-Harness Techniques*. Discusses lace techniques (Leno, Spanish lace, Danish medallion, pick-up Bronson lace, Brooks bouquet), simple inlay, monk's belt, and dukagang.
 - Sara Lamb. *Woven Treasures: One-of-a-Kind Bags with Folk Weaving Techniques*. Library book.
 - Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
+- [Marcy Petrini, Weaver](https://www.marcypetrini.com). I met Marcy at HGA Convergence 2026 in New Orleans and have ordered some of her books; looking forward to reporting back!
 - R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
 - Mi Young Suh and Park Kil Soon. [*Traditional Textile Materials of Baekje Kingdom*](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=tsaconf).
 - Ann Sutton. *The Structure of Weaving*. Photography by David Cripps. Gorgeous photos and explanations of weave structures, floats, etc. Library book.
@@ -434,6 +436,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Deborah Silver. *The Technique of Split-Shed Weaving*. Fantastic "pictorial" technique with supplementary warp for looms with 4+ harnesses. Requires familiarity with 4+ shafts and weaving drafts.
 - Marian Stubenitsky. *Weaving with Echo and Iris*. Over my head right now, but extraordinary to page through.
 - [Weberei Hamburg](https://www.weberei-hamburg.com/en/store). Books on loom construction and design, available auf Deutsch and in English.
+- Weavers Guild of Greater Baltimore. *Sixty Scarves for 60 Years*, rev. ed. with bonus content. A gorgeous collection of drafts and project details; this does include some plain weave patterns though!
 - Palmy Weigle. *Double Weave*. 1978. These are all techniques for 4-harness looms.
   
 ## Weaving: Rigid Heddle Looms
