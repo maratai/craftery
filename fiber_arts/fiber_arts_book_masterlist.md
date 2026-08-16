@@ -41,7 +41,7 @@ Also for love of spork, please check safety re: toxicity (including on naturally
 - Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to be but this one booklet has been handy. Thanks to Kate Salter.
 
 # Kumihimo (and Braids, Cords, etc)
-- Jacqui Carey. *200 Braids to Twist, Knot, Loop, or Weave*.
+- Jacqui Carey. *200 Braids to Twist, Knot, Loop, or Weave*. A staggering variety of techniques with photographs of examples.
 - Catherine Martin. *Kumihimo: Japanese Silk Braiding Techniques*.
 - Claudia Wollny. *The Secrets of Kikko: With 85 Variations of the Famous Tortoise Shell Pattern for Braiding on the Marudai*. Deutsch, English.
 - Claudia Wollny. *The Transformations of Sakura: How to Create the Famous Cherry Blossom Pattern: 48 Hira Genji Variations for Braiding on the Marudai*. Deutsch, English.
