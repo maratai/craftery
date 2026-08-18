@@ -84,4 +84,5 @@ Thanks to Vass for recommending these texts.
 # Orchestration
 I'm including instrumentation and arrangement under this heading.
 
+- Dave Black and Tom Gerou. *Essential Dictionary of Orchestration*. **Recommended**. Astonishing how much useful information is packed into such a tiny pocket volume!
 - Norman Ludwin. *Music for Movies: the Hollywood Sound: Composition, Development, and Orchestration*. **Recommended**.
