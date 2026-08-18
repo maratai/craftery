@@ -1,6 +1,8 @@
 # Fiber Arts Books and Magazines: Masterlist
 
-So very WIP. Note that some books in Korean and Japanese are not listed here (I could type in Hangeul, laboriously, if I had to, but I don't read/write Japanese). The categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
+**NOTES:** So very WIP. Note that some books in Korean and Japanese are not listed here (I could type in Hangeul, laboriously, if I had to, but I don't read/write Japanese). The categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
+
+This will generally be more up-to-date for *books I own* than other lists since it's for my own reference.
 
 # Cobblery, Leatherworking, Shoemaking
 Not "fiber arts" as such but with crossover (e.g. stitching techniques). Also I'm too lazy to start another Markdown file.
@@ -79,6 +81,7 @@ I have books but they're in Hangeul/Korean!
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - Korea Craft and Design Foundation (Ministry of Culture, Sports and Tourism). *Chimseon: Korean Traditional Sewing*. The text is in English (Hangeul terminology is romanized).
+- Maddie Klug. *Sew Lingerie: Make Size-Inclusive Bras, Panties, Swimwear and More*.
 - Jan Saunders Maresh. *Sewing for Dummies*, 3rd ed.
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*.
 - Kate Mathews. *Quick and Easy Vests and Jackets: Creative Fashions to Sew*.
