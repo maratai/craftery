@@ -289,9 +289,15 @@ I default to Clover knitting needles as a beginner.
 - Woodington UK Folding Tablet Loom
 
 ## Looms: Floor Looms
-- Inagaki Kiryo R-25 (6H 6T counterbalance, can expand to more harnesses but not more treadles, 10 dents/cm (25 dents/inch) reed; 18 dents/cm (~40 dents/inch))
-- Saori Piccolo (2H 2T counterbalance, 7 dents/cm reed)
-- Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
+- **Inagaki Kiryo R-25**.
+  - 6H 6T counterbalance, can expand to more harnesses but not more treadles.
+  - Weaving width: 48 cm (~19").
+  - Reeds: 10 dents/cm (25 dents/inch), 18 dents/cm (~40 dents/inch). Note that the beater has very narrow slots to hold the reed; I think Saori reeds may be compatible with it but "standard" half-inch-wide European or USAn reeds need extra jiggering to stay affixed.
+- **Saori Piccolo**.
+  - 2H 2T counterbalance.
+  - Reed: 7 dents/cm (~18 dents/inch).
+- **Saori WX60**.
+  - 4H 6T sinking shed conversion, can revert to 2H 2T counterbalance. Built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
 - Toika Laila (8H 8T countermarche; 10 dents/cm reed, 25 dents/cm reed, 50-70 cm temple, 70 cm raddle A)
 
 ## Looms: Pin Looms, Tapestry Looms
