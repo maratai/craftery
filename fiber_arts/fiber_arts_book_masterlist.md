@@ -304,10 +304,12 @@ I default to Clover knitting needles as a beginner.
 ## Looms: Warping
 - Ashford tabletop vertical warping mill
 - Blazing Shuttles cross holder
-- Fiber Artist Supply Co. bobbin winder, cone holder, warping peg, yarn swift, yarn winder
+- Fiber Artist Supply Co. bobbin winder, cone holder, jumbo yarn winder, warping peg, yarn swift
 - Saori cross holder, Saori Kenzo ready-made warp system (for Saori Piccolo and WX60)
 - Spinolution lazy kate, niddy noddy
 - vintage skein winder
+
+Note that the Clover Sakiori floor loom has a built-in
 
 ## Spinning: Fiber Preparation
 - Ashford hand cards
