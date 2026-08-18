@@ -24,6 +24,9 @@ You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'
 # Genre: Mystery, Thriller, Suspense
 - Jennifer Hilt and Sara Rosett. *The Trope Thesaurus: Mystery and Thriller*.
 
+# Genre: Romantasy
+- Jenna Moreci. *How to Write Romantasy*. The more general writing instruction is pretty 101 but I appreciated the romantasy-specific analysis, especially the breakdowns vs. "just" romance or "just" fantasy. (I read romantasy and romance, but I don't *write* it!)
+
 # Plot
 - Paul Tomlinson. *Plot Basics: Plot Your Novel or Screenplay in Eight Sequences*. This is specific to "standard" commercial fiction structures.
 
