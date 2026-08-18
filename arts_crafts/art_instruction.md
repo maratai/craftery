@@ -9,6 +9,7 @@ Note that the **Comics (etc)** category contains books that overlaps with other 
 - Rockhe Kim. *Rockhe Kim's Line Drawing Technique*, Vols. 1-2.
 - Gary Martin with Steve Rude. *The Art of Comic Book Inking*. Terrific examples. Thanks to Gavin Michelli for the rec! **Recommended**.
 - Shawn Martinbrough. *How to Draw Noir Comics: The Art and Technique of Visual Storytelling*. A masterclass. This is advanced and does not step through beginner material first. **Recommended**.
+- Usborne Books. *Write and Draw Your Own Comics*. This is aimed at children but listen, I stan for Usborne's offerings forever.
 
 ## Comics: Figure Drawing
 - Daniel Cooney. *The Complete Guide to Figure Drawing for Comics and Graphic Novels*. **to-read**
