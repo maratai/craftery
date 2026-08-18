@@ -280,13 +280,16 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 
 # Equipment
 
+## Knitting
+I default to Clover knitting needles as a beginner.
+
 ## Looms: Band, Box, Tape
 - Daedalus Penelope
 - Handywoman Tiny Box Loom
 - Woodington UK Folding Tablet Loom
 
 ## Looms: Floor Looms
-- Inagaki Kiryo R-25 (6H 6T counterbalance, can expand to more harnesses but not more treadles, 10 dents/cm (25 dents/inch) reed; 18 dents/cm (~40 dents/inch) reed on order)
+- Inagaki Kiryo R-25 (6H 6T counterbalance, can expand to more harnesses but not more treadles, 10 dents/cm (25 dents/inch) reed; 18 dents/cm (~40 dents/inch))
 - Saori Piccolo (2H 2T counterbalance, 7 dents/cm reed)
 - Saori WX60 (4H 6T sinking shed conversion, can revert to 2H 2T counterbalance; built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
 - Toika Laila (8H 8T countermarche; 10 dents/cm reed, 25 dents/cm reed, 50-70 cm temple, 70 cm raddle A)
@@ -318,11 +321,8 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 
 ## Spinning: Spinning Wheels
 - Ashford Traveller (Scotch tension, built-in kate)
-- Athena Capricorn
 - Dreaming Robots EEW 6.1 (e-spinner)
-- itoguruma from Japan
+- itoguruma (modern) from Japan
 - Louët S90 (Scotch tension, built-in kate) + WooLee Winder
 - Pocket Wheel + LWS Autowinder
 - Spinolution Mach III with 4A and 8-oz flyers + SpinPerfect Paulywinders
-
-
