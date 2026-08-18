@@ -40,7 +40,8 @@ Also for love of spork, please check safety re: toxicity (including on naturally
 - Amy Miller. *Dressed to Kill: British Naval Uniform, Masculinity and Contemporary Fashions, 1748-1857*. Includes (scaled-down) pattern tracings!
 
 # Knitting
-- Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to be but this one booklet has been handy. Thanks to Kate Salter.
+- Nancy Marchant. *Knitting Fresh Brioche: Creating Two-Color Twists and Turns*. Hat-tip to Ursula Whitcher, who created the [Jedao Gloves](https://www.ravelry.com/patterns/library/jedao-gloves) (Ravelry) knitting pattern!
+- Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to do it as a main hobby but this one booklet has been handy. Thanks to Kate Salter.
 
 # Kumihimo (and Braids, Cords, etc)
 - Jacqui Carey. *200 Braids to Twist, Knot, Loop, or Weave*. A staggering variety of techniques with photographs of examples.
