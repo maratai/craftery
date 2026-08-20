@@ -133,6 +133,7 @@ I have books but they're in Hangeul/Korean!
 - Mary Meigs Atwater. *The Shuttle-Craft Book of American Hand-Weaving*.
 - Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*.
 - June H. Beveridge. *Warp/Weft/Sett: A Reference Manual for Handweavers*.
+- Deb Brandon. *Threads Around the World: From Arabian Weaving to Batik in Zimbabwe*. Beautiful pictorial overview of a wide range of fiber and textile arts.
 - Francesca Bray. *Technology and Gender: Fabrics of Power in Late Imperial China*.
 - Betty Briand. *The Art of Weaving*.
 - Eric Broudy. *The Book of Looms: A History of the Handloom from Ancient Times to the Present*.
