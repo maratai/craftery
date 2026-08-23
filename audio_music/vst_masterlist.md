@@ -136,7 +136,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Orchestral Atmospheres**.
 - **Petrichor**.
 
-# Have Audio (Kontakt)
+# [Have Audio](https://haveaudio.com) (Kontakt)
 - Balkan Clarinet. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
 - Nørdic Cello.
 - Nordic Metal Cello.
@@ -144,7 +144,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Omnidrums**. Drum kit VST.
 - Rebec.
 
-# Heavyocity (Kontakt)
+# [Heavyocity](https://heavyocity.com) (Kontakt)
 - **Aeon Melodic**. Synths.
 - **Aeon Rhythmic**. Synths.
 - **Analog Hybrid Drums**.
