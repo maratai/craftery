@@ -121,6 +121,19 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Textural Viola**.
 - **Blueprint Textural Violin**.
 - **Blueprint Toy Piano**.
+- **Brass Band Soloists**.
+- **Compendium - Eldenvale**. Fantasy and folk toolkit.
+  - Bouzouki.
+  - Chamber Strings.
+  - Cimbalom.
+  - Hammered Dulcimer.
+  - Percussion??
+  - Uilleann Pipes.
+  - Wooden Flute.
+- **Emotive Woodwind Soloists**.
+- **Majestic Brass Soloists**.
+- **Orchestral Atmospheres**.
+- **Petrichor**.
 
 # Have Audio (Kontakt)
 - Balkan Clarinet. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
