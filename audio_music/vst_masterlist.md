@@ -72,17 +72,17 @@
 - Blue Cat's Axiom.
 - Blue Cat Free Amp.
 
-# Cinesamples
+# [Cinesamples](https://cinesamples.com)
 - Accent Pianos (Kontakt). "Percussive" orchestral pianos.
 - **Apocalyptica** (Kontakt). Solo electric cello. Also available in Musio.
 - **Drums of War 1** (Kontakt). Cinematic percussion. Also available in Musio.
 - **Drums of War 2** (Kontakt). Cinematic percussion. Also avialable in Musio.
 - Viola Da Gamba (Kontakt).
 
-# Cinematic Studio (Kontakt)
+# [Cinematic Studio Series](https://cinematicstudioseries.com) (Kontakt)
 - **Cinematic Strings Monster Staccatos**.
 
-# EastWest (Opus)
+# [EastWest Sounds](https://www.soundsonline.com) (Opus)
 Uses their own VST hosts (Opus etc).
 - EW Ancient Kingdom.
 - **EW The Dark Side**. Hybrid scoring, various.
@@ -91,7 +91,7 @@ Uses their own VST hosts (Opus etc).
 - EW Voices of Passion. Operatic solo vocals.
 - **EW Voices of the Empire**. "Ethnic" solo vocals.
 
-# Embertone (Kontakt)
+# [Embertone](https://embertone.com) (Kontakt)
 Terrific solo strings.
 - Embertone Fischer Viola.
 - **Embertone Joshua Bell Violin**.
@@ -103,15 +103,15 @@ Terrific solo strings.
 # Evolution Series
 - **Bukhu**. "In collaboration with Mongolian composer and one of a kind talent Bukhu Ganburged we introduce this chapter of inspiring sounds. The beauty of Bukhu's voice matched with horse fiddle opens a doorway to the early 13th century."
 
-# Fallout Music Group
+# [Fallout Music Group](https://falloutmusicgroup.com)
 - Quake. Sound design.
 - **Steampunk**. Sound design.
 - **Unstrung**. Sound design.
 
-# Fever Audio (Kontakt)
+# [Fever Audio](https://www.feveraudio.com) (Kontakt)
 - **Fever Dreams**. Terrific solo vocals with sound design patches as well.
 
-# Fracture Sounds (Kontakt)
+# [Fracture Sounds](https://fracturesounds.com) (Kontakt)
 The "Blueprint" series is free; within that, the "Textural" series is terrific for sound design/atmosphere/ambience.
 - **Blueprint Epic Grand**.
 - **Blueprint Gentle Brass**.
