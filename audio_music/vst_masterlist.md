@@ -358,7 +358,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - Dark Horizon.
 - **Elysion 2**. Synths.
 
-# Soundiron (Kontakt)
+# [Soundiron](https://soundiron.com) (Kontakt)
 - **Artillery Shell Cello**.
 - Blazer - Retro Anime FX.
 - **ClickClickBang**. Sampled M1 Garand Rifle!
@@ -371,7 +371,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - Requiem Solus. Choral.
 - Hybrid Cinema - Analog Modular Percussion I.
 
-# Soundtoys
+# [Soundtoys](https://www.soundtoys.com)
 - **Crystallizer**. Granular echo synthesizer.
 - **Decapitator**.
 - **EchoBoy** and **EchoBoy Jr**. Analog echo processor.
@@ -411,10 +411,10 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 # [Strezov Sampling](https://www.strezov-sampling.com)
 - **Tropar**. Orthodox Male Choir.
 
-# Tempest Instruments
+# [Tempest Instruments](https://tempest.audio)
 - Sona Chroma - "...a groundbreaking and experimental approach to orchestral instrument blending...."
 
-# Vienna Symphonic Library (VSL)
+# [Vienna Symphonic Library](https://www.vsl.co.at) (VSL)
 Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vienna Instruments Pro.
 
 - Hello Free Violin Runs.
