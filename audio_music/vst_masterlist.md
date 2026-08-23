@@ -158,7 +158,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Symphonic Destruction Redux**. Processed/hybrid orchestral/sound design.
 - Vocalise 2 - "Featuring a diverse array of sound sources - including vocal pads, phrases, and a truly innovative collection of rhythmic pedals and motifs...."
 
-# Impact Soundworks (Kontakt)
+# [Impact Soundworks](https://impactsoundworks.com) (Kontakt)
 - Bass Sculptor.
 - **Furia Staccato Strings**.
 - **Hammer Klavier** - "An avant-grade piano with a twist: its felt hammers have been replaced with real metal hammers. Hammer Klavier sounds a little like a powerful and full-voiced harpsichord, with the dynamic responsiveness of a regular piano and the percussive nature of a hammered dulcimer."
@@ -183,7 +183,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Trash**. Distortion.
 - VocalSynth 2. Vocal processing/effects.
 
-# Keep Forest (Kontakt)
+# [Keep Forest](https://keep-forest.com/store) (Kontakt)
 - **AizerX - Free Edition**. Sound design IIRC.
 - **AizerX - Hybrid Cyberpunk Free Pack**. Sound design.
 - **Berserkr Pro - Tribal Punk Folk Drums**.
@@ -193,18 +193,18 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Ferrum: Modern Trailer Percussion - Free Edition**.
 - **Risenge - Free Edition**.
 
-# Krotos
+# [Krotos Audio](https://www.krotosaudio.com)
 - Dehumaniser. Sound design.
 - Reformer Pro. Sound design.
 - Weaponiser. Sound design.
 
-# Loot Audio (Kontakt)
+# [Loot Audio](https://www.lootaudio.com) (Kontakt)
 - Balvi Cello.
 
 # MixWave
 - **SpiritBox: Mike Stringer**. Effects.
 
-# Musical Sampling (Kontakt)
+# [Musical Sampling](https://musicalsampling.com) (Kontakt)
 - Midnight Tenor Sax.
 - **Trailer Brass**.
 
@@ -294,14 +294,14 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Void Eclipse - "Hard-edged techno meets acid, electro, and EBM in this underground-inspired Expansion, with dark grooves and synths."
 - **Yangqin** - "YANGQIN captures the authentic sound of a traditional Chinese hamemred dulcimer...."
 
-# Norrland Samples (Kontakt)
+# [Norrland Samples](https://www.norrlandsamples.com) (Kontakt)
 - **Norrland Solo Trumpet.** Free and great!
 
-# Ocean Swift Synthesis (Kontakt)
+# [Ocean Swift Synthesis](https://oceanswift.net) (Kontakt)
 - **Porphyra Hybrid** - "...a richly detailed go to instrument which combines sample and wavetable substractive synthesis with hundreds of source sounds for extensive sonic exploration and advanced wavetable manipulation...."
 - **Tyrian Tine** - "...a compact, yet potent Kontakt NKS instrument for generating unique, randomized bell and chime tones. Its asymmetric dual-layer engine pairs a wavetable oscillator - with purposeful instability, morphing, and controlled randomization - with a sample oscillator curated from bells, kalimbas, music boxes, and other metallic oddities. The result ranges from crystalline fantasy tintinnabulation to gritty, bronze-like strikes and haloed sci-fi swells."
 
-# Orchestral Tools (SINE)
+# [Orchestral Tools](https://orchestraltools.com) (SINE)
 I think it's obvious that I stan for Orchestral Tools. I saved for a couple *years* for Berlin Strings as my first big orchestral string VST purchase! Runs in SINE.
 - Benjamin Wallfisch Strings and Stringscapes.
 - **Berlin Brass**.
