@@ -320,7 +320,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - Rotary. Big band horns (free).
 - **Tom Holkenborg's Brass**.
 
-# Performance Samples (Kontakt)
+# [Performance Samples](https://www.performancesamples.com) (Kontakt)
 - **Angry Brass Pro**.
 - **Oceania II**. Choir.
 - **Pacific Brass**.
@@ -364,7 +364,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **ClickClickBang**. Sampled M1 Garand Rifle!
 - High School Drum Corps.
 
-# Soundmorph
+# [Soundmorph](https://soundmorph.com)
 - Dust. Sound design??
 
 # Soundpaint (Soundpaint)
