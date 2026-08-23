@@ -330,21 +330,21 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - River Piano.
 - **Vista II Small Ensemble Strings**.
 
-# QLAudio
+# [QLAudio](https://www.qlaudio.com)
 - **Josun Series Platinum Bundle**. Korean traditional instruments.
 
-# Realitone
+# [Realitone](https://realitone.com)
 - **Sunset Choir Ultimate** - "Sunet Choir specializes in experimental and evolving movement-based choral articulations, along with traditional articulations and legato. It features a 2-Layer system, plus Attack and Release slow bands, scatters, and even consonants."
 - **Sunset Strings** - "Sunset Strings, with it's [sic] 2-Layer system as well as its unique attack and release options, opens up new possibilities in the world of textural strings. You can have a sul tasto or tremolo or harmonic (dozens of articulations to choose from) in one layer, then with the mod wheel, bring in ricochets or trills or sudden swells or whatever you like from the second layer. So you can fully control when to bring in extra 'emotion' to your track. Plus we have slow bends, quick slides, scatter, converge, sforzando, crescendo and decrescendo options for Attack adn Release. Actual samples, tweaked for each sustain option."
 
-# Sample Logic (Kontakt)
+# [Sample Logic](https://www.samplelogic.com) (Kontakt)
 - **Drum Fury**.
 - **Morphestra 2**. Hybrid.
 - Stadium Instruments.
 - **Trailer Expressions** 1 through 4.
 - **World Fury**. Hybrid.
 
-# Soniccouture (Kontakt)
+# [Soniccouture](https://www.soniccouture.com/en/) (Kontakt)
 - Hammersmith Free. "A free verison of the most detailed sampled piano available. 21 velocity layers."
 - **Morpheus**. "...the Morpheus is a modular aluminum percussion instrument: the keys can be rearranged in any order you like, as each metal bar is attached to its own tuned resonator. The aluminum gives Morpheus one of the purest percussion sounds you will hear - add tremolo and it sounds very much like a vibraphone, but with an extra 'glass-like' quality."
 - **Music Boxes**. Free! "Two original music boxes: the sound is almost universally evocative of early childhood."
@@ -354,7 +354,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Tape Choir**. Free!
 - Thunder Drum. Free!
 
-# Sonuscore (Kontakt)
+# [Sonuscore](https://www.sonuscore.com) (Kontakt)
 - Dark Horizon.
 - **Elysion 2**. Synths.
 
