@@ -6,8 +6,9 @@
 - Assume these are Kontakt libraries unless otherwise stated.
 - If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
+- Adding links slooooowly for my own convenience.
 
-# 8dio (Kontakt)
+# [8dio](https://8dio.com) (Kontakt)
 - Catmosphere.
 - **Clocks**.
 - **Emperium Destiny**. Choir.
@@ -25,7 +26,7 @@
 - **Requiem Professional**. Choir.
 - **Silka**. Choir.
 
-# Aria Sounds (Kontakt)
+# [Aria Sounds](https://ariasounds.com/) (Kontakt)
 - **Aurora Choir**.
 
 # Audiobro (Kontakt)
