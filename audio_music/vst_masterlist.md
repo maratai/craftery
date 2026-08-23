@@ -407,6 +407,9 @@ Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower
 # Steven Slate
 - **Steve Slate Drums 5**.
 
+# [Strezov Sampling](https://www.strezov-sampling.com)
+- **Tropar**. Orthodox Male Choir.
+
 # Tempest Instruments
 - Sona Chroma - "...a groundbreaking and experimental approach to orchestral instrument blending...."
 
