@@ -5,9 +5,9 @@
 The instruments I nominally have played even a little:
 
 - classical guitar, three summers of lessons from a S Korean gentleman who had studied *and performed* in Spain when he was younger!
-- harmonica, self-taught (blues harp diatonic, tremolo, chromatic)
-- piano, obligatory Asian-American lessons
-- viola
+- harmonica, self-taught (blues harp diatonic, tremolo, chromatic).
+- piano, obligatory Asian-American lessons. Various piano teachers in S Korea plus Houston Music Institute for a couple of years.
+- viola, middle school and high school orchestra. I'm ten years out of practice as my student instrument was a flood casualty.
 
 # Musical Instrument Inventory
 - **Accordion** inherited from in-laws. I need to fix the leather strap!
