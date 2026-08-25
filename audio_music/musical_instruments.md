@@ -12,7 +12,7 @@ The instruments I nominally have played even a little:
 # Musical Instrument Inventory
 - **Accordion** inherited from in-laws. I need to fix the leather strap!
 - **Bugle**, secondhand off eBay solely for the purposes of finding out in person about "embouchure." (Mine's nonexistent but I come from piano + strings!)
-- **Chord zither**, an example modified with chromatic major/minor tuning keys. (I'm losing the word for this, will update later.)
+- **Chord zither**, a German example modified with chromatic major/minor modulators by an abbey in France. (Having trouble looking up the name of the abbey in Etsy's purchase history - GrantsEmporium, superb service from that seller.)
 - **Classical guitar**. I got it on sale at Guitar Center because I was the first person in *years* who'd come in asking after a classical guitar! Nice to have a full-size one despite my small hands; my former classical guitar (flood casualty) was a 3/4 and the difference in tone is palpable.
 - **Digital piano**. A Yamaha intermediate/student model that isn't made anymore.
 - **Duduk**. I can just about get a honking noise out of this.
