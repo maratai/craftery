@@ -13,7 +13,6 @@ The instruments I nominally have played even a little:
 - Chord zither, an example modified with chromatic major/minor tuning keys. (I'm losing the word for this, will update later.)
 - A classical guitar I got on sale at Guitar Center because I was the first person in *years* who'd come in asking after a classical guitar!
 - Duduk. I can just about get a honking noise out of this.
-- Fiddlerman 5-string viola.
 - Hammered dulcimer, obtained secondhand. It's in lovely condition given its age (over four decades) but also, a beast to tune.
 - Harmonicas. A Hohner CX-12 Jazz chromatic and a Hohner diatonic (blues harp in Richter tuning) in G. I miss my four-octave chromatic but it was a flood casualty.
 - Hyang piri, bought from S Korea. I'm not aware of local-to-the-US suppliers! Traditional double reed, astonishingly loud for its tiny size.
@@ -22,6 +21,7 @@ The instruments I nominally have played even a little:
 - Ocarina. A basic chromatic instrument.
 - Soprano recorders, an Adler and another one I'll look up when it's not ass o' clock.
 - Suling. Bamboo fipple flute.
+- Viola, a 5-string Fiddlerman. I'm working on getting my calluses back!
 - Yamaha digital piano. It's a model that isn't produced anymore, sort of an intermediate student instrument.
 
 # Musical Instrument Suppliers
