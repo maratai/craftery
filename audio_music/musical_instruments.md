@@ -13,7 +13,7 @@ The instruments I nominally have played even a little:
 - **Accordion** inherited from in-laws. I need to fix the leather strap!
 - **Bugle**, secondhand off eBay solely for the purposes of finding out in person about "embouchure." (Mine's nonexistent but I come from piano + strings!)
 - **Chord zither**, an example modified with chromatic major/minor tuning keys. (I'm losing the word for this, will update later.)
-- **Classical guitar**. I got it on sale at Guitar Center because I was the first person in *years* who'd come in asking after a classical guitar!
+- **Classical guitar**. I got it on sale at Guitar Center because I was the first person in *years* who'd come in asking after a classical guitar! Nice to have a full-size one despite my small hands; my former classical guitar (flood casualty) was a 3/4 and the difference in tone is palpable.
 - **Digital piano**. A Yamaha intermediate/student model that isn't made anymore.
 - **Duduk**. I can just about get a honking noise out of this.
 - **Hammered dulcimer**, obtained secondhand. It's in lovely condition given its age (over four decades) but also, a beast to tune.
@@ -28,7 +28,7 @@ The instruments I nominally have played even a little:
 - **Pennywhistle** from Lark in the Morning.
 - **Soprano recorders**, an Adler with a slightly nasal tone and another one with a sweeter tone I'll look up when it's not ass o' clock.
 - **Suling**. Bamboo fipple flute, from Lark in the Morning.
-- **Viola**, a 5-string Fiddlerman from Fiddlershop. I'm working on getting my calluses back!
+- **Viola**, a 5-string Fiddlerman from Fiddlershop. I'm working on getting my calluses back! After ten years, I replaced the student instrument that was a flood casualty.
 
 # Musical Instrument Suppliers
 - [Dusty Strings](https://dustystrings.com). Lever harps and hammered dulcimers. I've never ordered from them but their informational pages are terrific.
