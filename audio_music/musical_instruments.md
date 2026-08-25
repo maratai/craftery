@@ -24,7 +24,7 @@ The instruments I nominally have played even a little:
 - **Jaw harp**. I bought this off Etsy and have been pleased with it, although it's certainly a teeth-rattling experience to play!
 - **Kalimba**. I have a bonkers three-octave chromatic, which was a gift!
 - **Morin khuur**, purchased from eBay from overseas. It arrived in perfect condition with the most conscientious packaging known to humankind.
-- **Ocarina**. A basic chromatic instrument.
+- **Ocarina**. A basic "potato-shaped" chromatic instrument.
 - **Pennywhistle** from Lark in the Morning.
 - **Soprano recorders**, an Adler with a slightly nasal tone and another one with a sweeter tone I'll look up when it's not ass o' clock.
 - **Suling**. Bamboo fipple flute, from Lark in the Morning.
