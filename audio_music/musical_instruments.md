@@ -4,6 +4,7 @@
 
 The instruments I nominally have played even a little:
 
+- classical guitar, three summers of lessons from a S Korean gentleman who had studied *and performed* in Spain when he was younger!
 - harmonica, self-taught (blues harp diatonic, tremolo, chromatic)
 - piano, obligatory Asian-American lessons
 - viola
