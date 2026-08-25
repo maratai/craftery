@@ -9,6 +9,7 @@ The instruments I nominally have played even a little:
 - viola
 
 # Musical Instrument Inventory
+- **Accordion** inherited from in-laws. I need to fix the leather strap!
 - **Bugle**, secondhand off eBay solely for the purposes of finding out in person about "embouchure." (Mine's nonexistent but I come from piano + strings!)
 - **Chord zither**, an example modified with chromatic major/minor tuning keys. (I'm losing the word for this, will update later.)
 - **Classical guitar**. I got it on sale at Guitar Center because I was the first person in *years* who'd come in asking after a classical guitar!
@@ -31,6 +32,7 @@ The instruments I nominally have played even a little:
 - [Dusty Strings](https://dustystrings.com). Lever harps and hammered dulcimers. I've never ordered from them but their informational pages are terrific.
 - [Fiddlershop](https://fiddlershop.com). Look, it's absolutely preferable to purchase a violin or viola (etc) after trying *in person*, but that wasn't logistically viable for me as I was looking for a five-string viola. I purchased a [Fiddlerman Concert 5-String Viola Outfit](https://fiddlershop.com/products/fiddlerman-concert-5-string-viola-outfit?_pos=1&_psq=fiddlerman+viola&_psid=7156af7c2&_ss=e) from here a while back and am delighted with it.
 - [Harpsicle Harps](https://harpsicleharps.com/). Noting for future reference; a harpist friend told me these are likely the best bet for a functional entry-level harp.
+- [Hobgoblin Music]. Celtic, folk, acoustic instruments. I've just put in a small order (again, for some instruments for sound design) so we'll see how it goes!
 - [Lark in the Morning](https://larkinthemorning.com). Terrific place to shop for a variety of world/folk instruments, although if you have a particular interest in a specific items it may make more sense to look for specialized luthiers/suppliers.
 - [Nerdy Gurdy](https://www.nerdygurdy.nl). Supplier of affordable hurdy gurdy kits (affordable relative to what working hurdy gurdies normally cost) and nyckelharpa kits. I'm currently assembling a [Petite Linotte V2](https://www.nerdygurdy.nl/product/ng-petite-linotte-kit/) kit and so far extremely pleased with the tolerances! They also sell pre-assembled and completed instruments. Note that these are made available in small batchea and you have to watch the site like a *hawk* to score one of the kits.
 - [Songbird Dulcimers](https://songbirdhd.com). Hammered dulcimers. Haven't bought from them but I'm looking at cases and stands, so...
