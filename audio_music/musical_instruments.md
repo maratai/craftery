@@ -21,11 +21,13 @@ The instruments I nominally have played even a little:
 - **Kalimba**. I have a bonkers three-octave chromatic, which was a gift!
 - **Morin khuur**, purchased from eBay from overseas. It arrived in perfect condition with the most conscientious packaging known to humankind.
 - **Ocarina**. A basic chromatic instrument.
+- **Pennywhistle** from Lark in the Morning.
 - **Soprano recorders**, an Adler with a slightly nasal tone and another one with a sweeter tone I'll look up when it's not ass o' clock.
-- **Suling**. Bamboo fipple flute.
-- **Viola**, a 5-string Fiddlerman. I'm working on getting my calluses back!
+- **Suling**. Bamboo fipple flute, from Lark in the Morning.
+- **Viola**, a 5-string Fiddlerman from Fiddlershop. I'm working on getting my calluses back!
 
 # Musical Instrument Suppliers
 - [Dusty Strings](https://dustystrings.com). Lever harps and hammered dulcimers. I've never ordered from them but their informational pages are terrific.
 - [Fiddlershop](https://fiddlershop.com). Look, it's absolutely preferable to purchase a violin or viola (etc) after trying *in person*, but that wasn't logistically viable for me as I was looking for a five-string viola. I purchased a [Fiddlerman Concert 5-String Viola Outfit](https://fiddlershop.com/products/fiddlerman-concert-5-string-viola-outfit?_pos=1&_psq=fiddlerman+viola&_psid=7156af7c2&_ss=e) from here a while back and am delighted with it.
 - [Lark in the Morning](https://larkinthemorning.com). Terrific place to shop for a variety of world/folk instruments, although if you have a particular interest in a specific items it may make more sense to look for specialized luthiers/suppliers.
+- [Songbird Dulcimers](https://songbirdhd.com). Hammered dulcimers. Haven't bought from them but I'm looking at cases and stands, so...
