@@ -16,6 +16,7 @@ The instruments I nominally have played even a little:
 - **Digital piano**. A Yamaha intermediate/student model that isn't made anymore.
 - **Duduk**. I can just about get a honking noise out of this.
 - **Hammered dulcimer**, obtained secondhand. It's in lovely condition given its age (over four decades) but also, a beast to tune.
+- **Hand bells**. I have a cheap plastic-and-enameled-metal children's set (diatonic in C) and they have a delightful tone, honestly! For sound design purposes, they're lovely, and also stand up to (FOR SOUND DESIGN) partial dunking in water while recording, which is not something I would do with "serious" instruments...
 - **Harmonicas**. A Hohner CX-12 Jazz chromatic and a Hohner diatonic (blues harp in Richter tuning) in G. I miss my four-octave chromatic but it was a flood casualty along with the rest of the herd.
 - **Hurdy gurdy** in theory: I'm currently assembling a Nerdy Gurdy Petite Linotte V2 and in the looooong stage of C-clamps and watching glue dry.
 - **Hyang piri**, bought from S Korea. I'm not aware of local-to-the-US suppliers! Traditional double reed, astonishingly loud for its tiny size.
