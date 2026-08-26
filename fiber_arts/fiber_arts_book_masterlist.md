@@ -222,6 +222,7 @@ I have books but they're in Hangeul/Korean!
 - Issue 168. January/February 2014. Silk, kumihimo.
 - Issue 174. March/April 2015. "East Meets West" and "ethnic weaving: sakiori, Navajo weqaving, shifu (paper yarn), Japanese design inspirations.
 - Issue ?. November/December 2018. PDF/digital edition from Long Thread Media.
+- Summer 2026. Color, gradient "glow" optical effects, variegated yarns and color, Sedona Rigsby's "Midnight Reflection Scarf" draft (bird's eye twill, 4S loom, 15" weaving width, 12-dent reed; Beam 3/2 and Sero).
 
 ## Little Looms (magazine)
 - Spring 2025. Inkle lace, inlay.
