@@ -28,6 +28,7 @@ The instruments I nominally have played even a little:
 - **Pennywhistle** from Lark in the Morning.
 - **Soprano recorders**, an Adler with a slightly nasal tone and another one with a sweeter tone I'll look up when it's not ass o' clock.
 - **Suling**. Bamboo fipple flute, from Lark in the Morning.
+- [**Taishōgoto**](https://en.wikipedia.org/wiki/Taish%C5%8Dgoto) (or **Nagoya Harp**) from Suzuki, an interesting hybrid string instrument, a beautiful Christmas gift.
 - **Viola**, a 5-string Fiddlerman from Fiddlershop. I'm working on getting my calluses back! After ten years, I replaced the student instrument that was a flood casualty.
 
 # Musical Instrument Suppliers
