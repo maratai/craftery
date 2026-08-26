@@ -97,6 +97,7 @@ I have books but they're in Hangeul/Korean!
 # Spinning and Fiber Preparation
 - Sarah Anderson. *The Spinner's Book of Yarn Designs: Techniques for Creating 80 Yarns*. A delight.
 - Carson Cooper. *Guide to Making Spinning Wheel Flyers and Wheels*; *Guide to Making Spinning Wheels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*; *Guide to Restoring an Antique Spinning Wheel*.
+- Terry Dwyer. *Caring for Your Loom and Spinning Wheel*. Detailed instruction on the *maintenance* that a lot of books gloss over (or perhaps figure you already know or have mentors to tell you about)!
 - Stephenie Gaustaud. *The Practical Spinner's Guide: Cotton, Flax, Hemp*.
 - Linda Heinrich. *Linen: From Flax Seed to Woven Cloth*.
 - Grace Shalom Hopkins. *Card: You Control the Colourway*.
@@ -185,6 +186,8 @@ I have books but they're in Hangeul/Korean!
 - Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
+- Marcy Petrini. *From Four to More*. Multishaft weaving. The charts/drafts here are extraordinarily clear, with detailed explanations.
+- Marcy Petrini. *Structure and Function*. Designing fabric for specific functions, from weave structure to fiber and yarn choice and sett. I'm selfishly happy this includes discussion of satin weaves, which I don't always see in books that talk about weave structures for 4+ shafts!
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Virginia Postrel. *The Fabric of Civilization: How Textiles Made the World*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
