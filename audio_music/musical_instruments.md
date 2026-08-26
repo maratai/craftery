@@ -12,24 +12,24 @@ The instruments I nominally have played even a little:
 # Musical Instrument Inventory
 - **Accordion** inherited from in-laws. I need to fix the leather strap!
 - **Bugle**, secondhand off eBay solely for the purposes of finding out in person about "embouchure." (Mine's nonexistent but I come from piano + strings!)
-- **Chord zither**, a German example modified with chromatic major/minor modulators by an abbey in France. (Having trouble looking up the name of the abbey in Etsy's purchase history - GrantsEmporium, superb service from that seller.)
+- **Chord zither**, a German example modified with chromatic major/minor modulators by an abbey in France. (Having trouble looking up the name of the abbey in Etsy's purchase history - [GrantsEmporium](https://www.etsy.com/shop/GrantsEmporium), superb service from that seller.)
 - **Classical guitar**. I got it on sale at Guitar Center because I was the first person in *years* who'd come in asking after a classical guitar! Nice to have a full-size one despite my small hands; my former classical guitar (flood casualty) was a 3/4 and the difference in tone is palpable.
 - **Digital piano**. A Yamaha intermediate/student model that isn't made anymore.
-- **Duduk**. I can just about get a honking noise out of this.
+- **Duduk**. I can just about get a honking noise out of this! Extremely cool instrument.
 - **Hammered dulcimer**, obtained secondhand. It's in lovely condition given its age (over four decades) but also, a beast to tune.
 - **Hand bells**. I have a cheap plastic-and-enameled-metal children's set (diatonic in C) and they have a delightful tone, honestly! For sound design purposes, they're lovely, and also stand up to (FOR SOUND DESIGN) partial dunking in water while recording, which is not something I would do with "serious" instruments...
 - **Harmonicas**. A Hohner CX-12 Jazz chromatic and a Hohner diatonic (blues harp in Richter tuning) in G. I miss my four-octave chromatic, a Hohner Chromonica, but it was a flood casualty along with the rest of the herd. I've got a Lee Oskar around here somewhere and someday I hope to treat myself to a Seydel Saxony or Volcany, or one of the fancy Suzuki chromatics.
-- **Hurdy gurdy** in theory: I'm currently assembling a Nerdy Gurdy Petite Linotte V2 and in the looooong stage of C-clamps and watching glue dry.
+- **Hurdy gurdy** in theory: I'm currently assembling a [Nerdy Gurdy](https://www.nerdygurdy.nl) kit for a [Petite Linotte V2](https://www.nerdygurdy.nl/product/ng-petite-linotte-kit/) and in the looooong stage of C-clamps and watching glue dry.
 - **Hyang piri**, bought from S Korea. I'm not aware of local-to-the-US suppliers! Traditional double reed, astonishingly loud for its tiny size.
 - **Jaw harp**. I bought this off Etsy and have been pleased with it, although it's certainly a teeth-rattling experience to play!
-- **Kalimba**. I have a bonkers three-octave chromatic, which was a gift!
+- **Kalimba**. I have a bonkers amazing three-octave chromatic, which was a gift!
 - **Morin khuur**, purchased via eBay from overseas. It arrived in perfect condition with the most conscientious packaging known to humankind.
 - **Ocarina**. A basic "potato-shaped" chromatic instrument.
-- **Pennywhistle** from Lark in the Morning.
-- **Soprano recorders**, an Adler with a slightly nasal tone and another one with a sweeter tone I'll look up when it's not ass o' clock.
-- **Suling**. Bamboo fipple flute, from Lark in the Morning.
+- **Pennywhistle** from [Lark in the Morning](https://larkinthemorning.com).
+- **Soprano recorders**, an entry-level Adler with a slightly nasal tone and a nicer Moeck with a sweeter tone.
+- **Suling**. Sundanese (Indonesian) bamboo fipple flute, from [Lark in the Morning](https://larkinthemorning.com).
 - [**Taishōgoto**](https://en.wikipedia.org/wiki/Taish%C5%8Dgoto) (or **Nagoya Harp**) from Suzuki, an interesting hybrid string instrument, a beautiful Christmas gift.
-- **Viola**, a 5-string Fiddlerman from Fiddlershop. I'm working on getting my calluses back! After ten years, I replaced the student instrument that was a flood casualty.
+- **Viola**, a [5-string Fiddlerman outfit](https://fiddlershop.com/products/fiddlerman-concert-5-string-viola-outfit?_pos=6&_sid=8bbb00b43&_ss=r) from [Fiddlershop](https://fiddlershop.com). I'm working on getting my calluses back! After ten years, I replaced the student instrument that was a flood casualty. (Yes, one prefers to try out the instrument in person, but there were no 5-string violas local to me and health/life meant I couldn't travel for the purpose.)
 
 # Musical Instrument Suppliers
 - [Dusty Strings](https://dustystrings.com). Lever harps and hammered dulcimers. I've never ordered from them but their informational pages are terrific.
