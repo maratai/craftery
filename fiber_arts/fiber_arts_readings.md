@@ -320,6 +320,7 @@ I'm a raw beginner but interested in learning.
 - Amy King. *Spin Control: Techniques for Spinning the Yarn You Want*. This is a good introduction focusing on spinning at the wheel. Note that discussion of yarn properties is heavily focused on knitting as a use case. Library book (746.12).
 - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Guide to Creating Traditional and Art Yarns*. Notable for the inclusion of **plans for a DIY spinning wheel** based on PVC pipe and similar lower-cost hardware store supplies; I don't know of anyone who's done a test build to ascertain how well it works. **Recommended**.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning: Building Exactly the Yarn You Want*. Many people swear by this book. It does look excellent, with clear explanations. It's possibly more nerdy about yarn that I will ever be (I like randomness in my spinning, which I do recreationally) and the author is pretty clear that it's *strongly* oriented toward mostly wool yarns mostly for knitting with a side of crochet. As someone whose use cases are usually hand-sewing, embroidery, or needle lace, and who neither knits nor crochets, my reaction to the thought of DELIBERATELY creating very "springy" handspun for *those* endeavors is OH HECK NO. So this isn't a book I reference much, although I imagine others get a lot out of it!
+- [Thomas Victor Studio](https://www.thomasvictor.com). I was fortunate enough to take a Cobweb Spinning workshop with him at HGA Convergence 2026 (New Orleans)!
 
 ## Spinning Cotton, Flax, Hemp, Ramie, Cellulose Fibers etc
 Spinning cotton is one of my interests since it's one of the most readily available local fibers (I live in Louisiana), and ramie is "ancestral" as it's commonly used in Korea: I'm Korean-American, lived in S Korea for half my childhood, and my mother's parents *were originally textile merchants*.)
@@ -403,6 +404,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 - Sara Lamb. *Woven Treasures: One-of-a-Kind Bags with Folk Weaving Techniques*. Library book.
 - Eunjin Lee, Jaehwi Han, Soohyun Jang, and Doeun Kim. [Current status of Jinju's Patterned Textile Weaving Techniques](https://ijcf.kr/journal/2022/2022%20Journal%20_%20Articles(Eun-jin%20LEE)_p.pdf).- Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*. 1979.
 - R. G. Panneerselvam, C. Prakash, and M. Rashma. [*Constructing principles of compound weave structures by digital design papers*](https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2418609).
+- [School of SweetGeorgia](https://www.sweetgeorgia.co/). I started with their spinning video courses but have branched out into handweaving and knitting and dyeing!
 - Mi Young Suh and Park Kil Soon. [*Traditional Textile Materials of Baekje Kingdom*](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=tsaconf).
 - Ann Sutton. *The Structure of Weaving*. Photography by David Cripps. Gorgeous photos and explanations of weave structures, floats, etc. Library book.
 - Blair Tate. *The Warp: A Weaving Reference*. 1984. So many photos, although they're in grayscale.
