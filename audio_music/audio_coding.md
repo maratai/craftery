@@ -11,4 +11,5 @@ Pulled out from the coding topics because it's a specialty area.
 - Guy Somberg, ed. *Game Audio Programming: Principles and Practices*.
 
 # Audio Programming, Other
-- [Strudel REPL](https://strudel.cc). "[L]ive coding platform to write dynamic music pieces in the browser." Also, [source code repository](https://codeberg.org/uzu/strudel).
+- [Strudel REPL](https://strudel.cc). "[L]ive coding platform to write dynamic music pieces in the browser." Also, [source code repository](https://codeberg.org/uzu/strudel). Based on Tidal Cycles (?). To investigate.
+- [Tidal Cycles](https://tidalcycles.org). "Live coding music with Algorithmic patterns." To investigate.
