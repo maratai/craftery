@@ -9,3 +9,6 @@ Pulled out from the coding topics because it's a specialty area.
 # Audio Programming, General
 - Andy Farnell. *Designing Sound*.
 - Guy Somberg, ed. *Game Audio Programming: Principles and Practices*.
+
+# Audio Programming, Other
+- [Strudel REPL](https://strudel.cc). "[L]ive coding platform to write dynamic music pieces in the browser." Also, [source code repository](https://codeberg.org/uzu/strudel).
