@@ -1,6 +1,6 @@
 # Musical Instruments
 
-**Disclaimer**: I'm not a performance musician; when I own and play an instrument, it's either recreational or I'm recording it for sound design or research purposes! In particular, I'm not a wind player or percussionist so all of that is very mysterious.
+**Disclaimer**: I'm not a performance musician; when I own and play an instrument, it's either recreational or I'm recording it for sound design or research purposes! In particular, I'm not a wind player or percussionist so all of that is very mysterious. This is all very hobbyist/experimentation.
 
 The instruments I nominally have played even a little:
 
