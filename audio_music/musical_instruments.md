@@ -26,7 +26,7 @@ The instruments I nominally have played even a little:
 - **Morin khuur**, purchased via eBay from overseas. It arrived in perfect condition with the most conscientious packaging known to humankind.
 - **Ocarina**. A basic "potato-shaped" chromatic instrument.
 - **Pennywhistle** from [Lark in the Morning](https://larkinthemorning.com).
-- **Soprano recorders**, an entry-level Adler with a slightly nasal tone and a nicer Moeck with a sweeter tone.
+- **Soprano recorders**, an entry-level Adler with a slightly nasal tone and a nicer entry-level Moeck with a sweeter tone.
 - **Suling**. Sundanese (Indonesian) bamboo fipple flute, from [Lark in the Morning](https://larkinthemorning.com).
 - [**Taishōgoto**](https://en.wikipedia.org/wiki/Taish%C5%8Dgoto) (or **Nagoya Harp**) from Suzuki, an interesting hybrid string instrument, a beautiful Christmas gift.
 - **Viola**, a [5-string Fiddlerman outfit](https://fiddlershop.com/products/fiddlerman-concert-5-string-viola-outfit?_pos=6&_sid=8bbb00b43&_ss=r) from [Fiddlershop](https://fiddlershop.com). I'm working on getting my calluses back! After ten years, I replaced the student instrument that was a flood casualty. (Yes, one prefers to try out the instrument in person, but there were no 5-string violas local to me and health/life meant I couldn't travel for the purpose.)
