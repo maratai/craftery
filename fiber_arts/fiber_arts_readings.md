@@ -17,6 +17,7 @@ I've put all the fiber arts together on the grounds that there's so much crossov
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook*. An indispensable magisterial reference for hand spinning; popular for a reason. Focuses on sheep breeds and varieties, with some segments on other animal fibers (e.g. goats, alpacas). **Recommended**.
 
 # Knitting
+- Ros Badger. *Simple Knitting: 30 Quick-to-Knit Projects for Stylish Accessories*. I'm attempting a couple of the smaller projects in this as a way to get into knitting. Library book (Dewey Decimal 746.432).
 - Virginia D. McGlynn, illus. Walter J. McGlynn. *Knitting Illustrated for Beginners and Others*. Terrific instructional booklet. It's no one else's fault that I bounced off knitting after trying it for a few years! **Recommended**.
 
 # Kumihimo
