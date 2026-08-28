@@ -32,6 +32,7 @@ The instruments I nominally have played even a little:
 - **Viola**, a [5-string Fiddlerman outfit](https://fiddlershop.com/products/fiddlerman-concert-5-string-viola-outfit?_pos=6&_sid=8bbb00b43&_ss=r) from [Fiddlershop](https://fiddlershop.com). I'm working on getting my calluses back! After ten years, I replaced the student instrument that was a flood casualty. (Yes, one prefers to try out the instrument in person, but there were no 5-string violas local to me and health/life meant I couldn't travel for the purpose.)
 
 # Musical Instrument Suppliers
+- [The Dulcimer Shoppe](https://mcspaddendulcimers.com). McSpaddern mountain (Appalachian) dulcimers. I wish!
 - [Dusty Strings](https://dustystrings.com). Lever harps and hammered dulcimers. I've never ordered from them but their informational pages are terrific.
 - [Fiddlershop](https://fiddlershop.com). Look, it's absolutely preferable to purchase a violin or viola (etc) after trying *in person*, but that wasn't logistically viable for me as I was looking for a five-string viola. I purchased a [Fiddlerman Concert 5-String Viola Outfit](https://fiddlershop.com/products/fiddlerman-concert-5-string-viola-outfit?_pos=1&_psq=fiddlerman+viola&_psid=7156af7c2&_ss=e) from here a while back and am delighted with it.
 - [Harpsicle Harps](https://harpsicleharps.com/). Noting for future reference; a harpist friend told me these are likely the best bet for a functional entry-level harp.
@@ -41,3 +42,4 @@ The instruments I nominally have played even a little:
 - [Rockin Rons Music](https://rockinronsmusic.com). Harmonica specialists!
 - [Songbird Dulcimers](https://songbirdhd.com). Hammered dulcimers. Haven't bought from them but I'm looking at cases and stands, so...
 - [Stoney End Music](https://stoneyendmusic.com/). Recommended to me by a harpist friend when I was looking into harps some years back. They also produce mountain (Appalachian) dulcimers and banjos.
+- [Sunny Day Dulcimers](https://sunnydaydulcimers.wixsite.com/john). A more budget, less traditional mountain dulcimer.
