@@ -7,6 +7,8 @@ This will generally be more up-to-date for *books I own* than other lists since 
 # Cobblery, Leatherworking, Shoemaking
 Not "fiber arts" as such but with crossover (e.g. stitching techniques). Also I'm too lazy to start another Markdown file.
 
+- Nigel Armitage. *A Guide to Making Leather Belts with 12 Complete Projects*. Unreasonably excited for this.
+- Yoko Ganaha. *Crafting Leatther Totes, Backpacks and BBags: Detailed Patterns and Step-by-Step Instructions for 18 Projects*. Looks like typically excellent Japanese instructional craft writing!
 - Jake Garrett. *Mastering the Art of Shoemaking: A Practical Beginner's Guide to Handcrafting Custom Footwear from Scratch*.
 - Valerie Michael. *The Leatherworking Handbook: A Practical Illustrated Sourcebook of Techniques and Projects*.
 - Wade Motawi. *Footwear Pattern Making and Last Design: A Beginner's Guide to the Fundamental Techniques of Shoemaking*.
@@ -40,8 +42,12 @@ Also for love of spork, please check safety re: toxicity (including on naturally
 - Amy Miller. *Dressed to Kill: British Naval Uniform, Masculinity and Contemporary Fashions, 1748-1857*. Includes (scaled-down) pattern tracings!
 
 # Knitting
+...I have succumbed, although the backstory is that my loom room was tied up because I was assembling a [Nerdy Gurdy](https://www.nerdygurdy.nlhttps://www.nerdygurdy.nl) Petite Linotte V2 kit in there and I didn't want to risk messing up the smol hurdy gurdy weaving at the same time so I stepped back into knitting.
+
 - Nancy Marchant. *Knitting Fresh Brioche: Creating Two-Color Twists and Turns*. Hat-tip to Ursula Whitcher, who created the [Jedao Gloves](https://www.ravelry.com/patterns/library/jedao-gloves) (Ravelry) knitting pattern!
-- Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. I'm not a knitter and don't aspire to do it as a main hobby but this one booklet has been handy. Thanks to Kate Salter.
+- Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. Knitting is not (currently?) a main hobby for me but this one booklet has been handy, with extraordinarily clear diagrams and explanations. Thanks to Kate Salter.
+- Hitomi Shida. *Japanese Knitting Stitch Bible: 260 Exquisite Patterns by Hitomi Shida*. Trans. Gayle Roehm. Too advanced for me right now but gorgeous to flip through and be inspired by.
+- Vogue Magazine. *Vogue Knitting: The Ultimate Knitting Book*. Picked up a used copy as a reference, although most of it is going to be over my head for some time to come!
 
 # Kumihimo (and Braids, Cords, etc)
 - Jacqui Carey. *200 Braids to Twist, Knot, Loop, or Weave*. A staggering variety of techniques with photographs of examples.
