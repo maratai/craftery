@@ -326,6 +326,7 @@ I'm a raw beginner but interested in learning.
 ## Spinning Cotton, Flax, Hemp, Ramie, Cellulose Fibers etc
 Spinning cotton is one of my interests since it's one of the most readily available local fibers (I live in Louisiana), and ramie is "ancestral" as it's commonly used in Korea: I'm Korean-American, lived in S Korea for half my childhood, and my mother's parents *were originally textile merchants*.)
 
+- JillianEve. [How to Spin Flax - It's Easier Than You Think!](https://www.youtube.com/watch?v=9Tn47G_nAuk) (YouTube). I haven't been diligent about linking videos, but Jillian's videos are consistently helpful and cover a wide range of spinning (etc) topics!
 - Stephenie Gaustad. *The Practical Spinner's Guide: Cotton, Flax, Hemp*. Great reference. **Recommended**.
 - Olive and Harry Linder, updated by Joan S. Ruane. *Hand-Spinning Cotton*. Good reference in a slim volume. **Recommended**.
 - Joan Shepard Ruane. *Beginning Cotton Spinning on a Wheel*. Terrific cotton-spinning information that's often missing in books that focus on spinning wools. **Recommended**.
