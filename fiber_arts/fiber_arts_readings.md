@@ -333,6 +333,7 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 
 ## Spinning Silk
 - Sarah Lamb. *The Practical Spinner's Guide: Silk*. Terrific reference. **Recommended**.
+- vampyx. [Spinning silk on the EEW 6.0](https://www.youtube.com/watch?v=OACntPcPQX0) (YouTube). This is on a particular e-spinner but does demonstrate how to spin silk from various preparations, e.g. hankies, sari/recycled silk, etc. I love spinning silk but had hesitated to attempt the pile of hankies I bought from a spinner's destash; maybe that's next!
 
 ## Spinning Wheel Construction and Design
 - Carson Cooper. *Guide to Making Spinning WHeels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*, *Guide to Making Spinning Wheel Flyers and Wheels*, and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
