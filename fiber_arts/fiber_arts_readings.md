@@ -336,7 +336,7 @@ Spinning cotton is one of my interests since it's one of the most readily availa
 - vampyx. [Spinning silk on the EEW 6.0](https://www.youtube.com/watch?v=OACntPcPQX0) (YouTube). This is on a particular e-spinner (Dreaming Robots' EEW 6.0), but demonstrates how to spin silk from various preparations, e.g. hankies, sari/recycled silk, etc.; I think a lot of the advice on drafting and spinning would apply to whatever wheel you're using. I love spinning silk but had hesitated to attempt the pile of hankies I bought from a spinner's destash; maybe that's next!
 
 ## Spinning: Supported Spindles
-There's not a ton of information specifically on supported spindles in book format.
+There's not a ton of information specifically on supported spindles in dedicated book format (although a lot in videos, magazine articles, etc).
 
 - TheGossamerWeb. [Fleegle Spins Supported](https://www.etsy.com/listing/1832122249/fleegle-spins-supported-hard-cover) (Etsy). This is the hardcover book, which I have on order; there's also a less pricey [downloadable ebook edition](https://www.etsy.com/listing/1057083417/direct-download-of-fleegle-spins) for sale.
 
