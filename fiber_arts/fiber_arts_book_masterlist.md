@@ -44,9 +44,11 @@ Also for love of spork, please check safety re: toxicity (including on naturally
 # Knitting
 ...I have succumbed, although the backstory is that my loom room was tied up because I was assembling a [Nerdy Gurdy](https://www.nerdygurdy.nlhttps://www.nerdygurdy.nl) Petite Linotte V2 kit in there and I didn't want to risk messing up the smol hurdy gurdy weaving at the same time so I stepped back into knitting.
 
+- Donna Kooler. *Donna Kooler's Encyclopedia of Knitting*.
 - Nancy Marchant. *Knitting Fresh Brioche: Creating Two-Color Twists and Turns*. Hat-tip to Ursula Whitcher, who created the [Jedao Gloves](https://www.ravelry.com/patterns/library/jedao-gloves) (Ravelry) knitting pattern!
 - Virginia D. McGlynn. *Knitted Illustrated for Beginners and Others*. Knitting is not (currently?) a main hobby for me but this one booklet has been handy, with extraordinarily clear diagrams and explanations. Thanks to Kate Salter.
 - Hitomi Shida. *Japanese Knitting Stitch Bible: 260 Exquisite Patterns by Hitomi Shida*. Trans. Gayle Roehm. Too advanced for me right now but gorgeous to flip through and be inspired by.
+- Meg Swansen, ed. *A Gathering of Lace*.
 - Vogue Magazine. *Vogue Knitting: The Ultimate Knitting Book*. Picked up a used copy as a reference, although most of it is going to be over my head for some time to come!
 
 # Kumihimo (and Braids, Cords, etc)
@@ -85,6 +87,7 @@ I have books but they're in Hangeul/Korean!
 - Bunka Fashion Series Garment Design Textbook. #1 *Fundamentals of Garment Design*, #2 *Skirts and Pants*, #3 *Blouses and Dresses*, #4 *Jackets and Vests*, #5 *Coats abnd Capes*.
 - Gillian Conahan. *Handwear Handbook: Make Gloves, Cuffs and Vambraces for Cosplay and Beyond*.
 - Simon Crompton. *The Finest Menswear in the World: The Craftsmanship of Luxury*.
+- J. François-Campbell. *Simple Tailoring and Alterations*.
 - Abigail Patner Glassenberg. *Stuffed Animals: From Concept to Construction*.
 - Vick Roling Hines. *How to Make Your Own Lightweight Camping and Hiking Gear*. Great overview with patterns; note that there have been further developments in appropriate available *fabrics and materials* since this was published in 1981.
 - Korea Craft and Design Foundation (Ministry of Culture, Sports and Tourism). *Chimseon: Korean Traditional Sewing*. The text is in English (Hangeul terminology is romanized).
@@ -95,6 +98,7 @@ I have books but they're in Hangeul/Korean!
 - Cinnamon Miles. *Idiot's Guide to Sewing*.
 - National Folk Museum of Korea. *Korean Costumes through the Ages: Commemorating the Centennial of Korean Immigration to the United States*. Fabulous photos of reconstructed garments dating back to (Korea's) Three Kingdoms; bilingual text, English/Korean (Hangeul).
 - Saori. *Intermediate Saori Clothing Design*.
+- Claire B. Shaeffer. *Couture Sewing Techniques*, rev. and updated.
 - Singer Sewing Reference Library. *Quick and Easy Sewing Projects*; *Sewing for Special Occasions: Bridal, Prom and Evening Dresses*.
 
 # Silk Painting
