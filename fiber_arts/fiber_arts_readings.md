@@ -323,6 +323,9 @@ I'm a raw beginner but interested in learning.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning: Building Exactly the Yarn You Want*. Many people swear by this book. It does look excellent, with clear explanations. It's possibly more nerdy about yarn that I will ever be (I like randomness in my spinning, which I do recreationally) and the author is pretty clear that it's *strongly* oriented toward mostly wool yarns mostly for knitting with a side of crochet. As someone whose use cases are usually hand-sewing, embroidery, or needle lace, and who neither knits nor crochets, my reaction to the thought of DELIBERATELY creating very "springy" handspun for *those* endeavors is OH HECK NO. So this isn't a book I reference much, although I imagine others get a lot out of it!
 - [Thomas Victor Studio](https://www.thomasvictor.com). I was fortunate enough to take a Cobweb Spinning workshop with him at HGA Convergence 2026 (New Orleans)!
 
+## Spinning Cobweb, Lace, Fine
+- vampyx. [Spinning cobweb weight on the EEW 6.0](https://www.youtube.com/watch?v=HZ8rua5VVqs) (YouTube).
+
 ## Spinning Cotton, Flax, Hemp, Ramie, Cellulose Fibers etc
 Spinning cotton is one of my interests since it's one of the most readily available local fibers (I live in Louisiana), and ramie is "ancestral" as it's commonly used in Korea: I'm Korean-American, lived in S Korea for half my childhood, and my mother's parents *were originally textile merchants*.)
 
