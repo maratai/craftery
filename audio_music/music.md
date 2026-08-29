@@ -86,3 +86,7 @@ I'm including instrumentation and arrangement under this heading.
 
 - Dave Black and Tom Gerou. *Essential Dictionary of Orchestration*. **Recommended**. Astonishing how much useful information is packed into such a tiny pocket volume!
 - Norman Ludwin. *Music for Movies: the Hollywood Sound: Composition, Development, and Orchestration*. **Recommended**.
+
+# Scores
+- [Chris Siddall Music Publishing](https://chrissiddallmusic.com/). I was reminded of this as a way to blow the budget on film scores!
+- [IMSLP](https://imslp.org). Free PDF music sheet music for public domain works. You can disable the delay timer on downloads by paying (IMO) a very reasonable annual membership fee to support the site.
