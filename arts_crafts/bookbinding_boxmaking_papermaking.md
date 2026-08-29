@@ -5,6 +5,7 @@
 
 # Paper Engineering and Pop-Ups
 - David A. Carter and James Diaz. *The Elements of Pop-Up*. The mechanisms are exposed for your examination; the entire book contains working examples. **Recommended**.
+- Seiji Tsukimoto. *Customizable Pop-Up Paper Spheres*.
 
 # Papermaking
 - Dard Hunter. *Papermaking: The History and Technique of an Ancient Craft*.
