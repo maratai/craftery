@@ -351,6 +351,11 @@ There's not a ton of information specifically on supported spindles in dedicated
 - Carson Cooper. *Guide to Making Spinning WHeels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*, *Guide to Making Spinning Wheel Flyers and Wheels*, and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
 - Richard and Myrna Schneider. *A No-Lathe Saxony-Style Spinning Wheel Construction Manual*. Note that several power tools are *strongly* recommended. Also: *A Small Upright Spinning Wheel Construction Manual*. Requires a wood lathe. Note that I don't have woodworking (or lathe) expertise, so I'm reading these in a spirit of inquiry; I can't evaluate any of this.
 
+## Spinning Wheels: [Spinolution](https://www.spinolution.com)
+I own a lovely secondhand Spinolution Mach III, currently set up with a 4A accelerated flyer, the older version of that wheel; the current version is the [Monarch](https://www.spinolution.com/monarch). Spinolution let me know (when I asked) that Monarch accessories are compatible with the Mach III!
+
+- [Spry Whimsy](https://www.sprywhimsy.com) has a guide to [Finding Ratios on Spinolution Wheels](https://www.youtube.com/watch?v=cyGcjBC6HBc) (YouTube) that's very helpful as the Spinolution flyers have changed over time so finding the correct (online) guide for your particular whorl(s) can be tricky.
+
 # Spin Off magazine
 - Summer 2001.
   - Alden Amos. "Yarn Grist: An Excerpt from *The Alden Amos Big Book of Handspinning*."
