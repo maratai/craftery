@@ -136,6 +136,7 @@ I have books but they're in Hangeul/Korean!
 - Summer 2001. Mahatma Gandhi, setting twist, spindle-spun tunic, Old World crochet, Viking sails, drum carders, ombré handspun scarves, spinning silk for weaving (by Sara Lamb).
 - Winter 2020. Camel fiber, wilk silks, paco-vicuña fiber, handspun lace repair, bison fiber, milkweed.
 - Fall 2025. Handknits, milkweed processing, fiber preparation tools (hand combs, blending boards, flickers, drum carders), supported spindles, lambswool, crewel.
+- Fall 2026. 3D-printed drop spindles, e-spinner batteries, Turkish spindles, spinning with chronic pain, Backyard Fingerless Mitts (Erika Zambello), whittled spindles.
 
 # Weaving, Textiles
 - Sharon Alderman. *A Handweaver's Notebook*.
