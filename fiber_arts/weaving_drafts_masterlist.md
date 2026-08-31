@@ -140,6 +140,11 @@ Anything calling for more than eight harnesses is strictly theoretical *for me*!
 ## Eight-Harness Patterns
 - A Turkish Coat by Alexis Yiorgos Xenakis. Includes sewing pattern and explanation of construction on narrow-width fabric. PDF (pp. 39-41).
 
+# Handwoven May-June 2012 (magazine)
+
+## Eight-Harness Patterns
+- Four-color doubleweave scarf on eight shafts by Su Butler. PDF (pp. 62-64).
+
 # Handwoven's Design Collection 6
 
 ## Two-Harness Patterns
