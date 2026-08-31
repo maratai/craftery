@@ -135,6 +135,11 @@ Anything calling for more than eight harnesses is strictly theoretical *for me*!
 - [Lakeview Placemats](https://www.gistyarn.com/products/lakeview-placemats-weaving-pattern) by Kristina Nichols, shadow weave. I've woven this!
 - Radiant Gradient Scarf by Jennifer Leigh, color-and-weave. PDF.
 
+# Handwoven March 1981 (magazine)
+
+## Eight-Harness Patterns
+- A Turkish Coat by Alexis Yiorgos Xenakis. Includes sewing pattern and explanation of construction on narrow-width fabric. PDF (pp. 39-41).
+
 # Handwoven's Design Collection 6
 
 ## Two-Harness Patterns
