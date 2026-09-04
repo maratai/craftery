@@ -118,6 +118,7 @@ I have books but they're in Hangeul/Korean!
 - Ashley Martineau. *Spinning and Dyeing Yarn: The Home Spinner's Giude to Creating Traditional and Art Yarns*. Includes plans for a DIY spinning wheel from PVC pipe and similar materials; I have not done a test build.
 - Jillian Moreno. *Yarnitecture: A Knitter's Guide to Spinning:  Building Exactly the Yarn You Want*. My use of this is limited because I don't knit (and don't wish to); also focused on wool and similar spins.
 - Deborah Robson and Carol Ekarius. *The Fleece and Fiber Sourcebook: More Than 200 Fibers from Animal to Spun Yarn*. Terrifying and delightfully thorough.
+- Susan Glinert Stevens. *Fleegle Spins Supported*. Absolutely magisterial, lavishly illustrated with photographs. [Available in hard copy](https://www.etsy.com/listing/1832122249/fleegle-spins-supported-hard-cover) via Etsy (TheGossamerWeb); there is also a [direct download version](https://www.etsy.com/listing/1057083417/direct-download-of-fleegle-spins) for purchase, including supplemental material (e.g. video files).
 - Penny Walsh. *Spinning, Dyeing and Weaving: Essential Guide for Beginners*. Surprisingly informative in a very compact volume.
 
 ## Ply (magazine)
