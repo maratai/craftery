@@ -17,6 +17,7 @@ Also!
 
 - [A curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy) (Github).
 - [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
+- [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
 
 # MiniScript
 - [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript.
