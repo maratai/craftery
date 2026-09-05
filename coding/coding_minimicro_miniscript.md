@@ -13,6 +13,10 @@ I chanced on this while looking for a lighter-weight game engine to put on a Clo
 - built-in code editor
 - code in [MiniScript](https://miniscript.org), a clean, modern language
 
+Also!
+
+- [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
+
 # MiniScript
 - [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript.
 - *Learn to Code in 30 Days: with MiniScript and Mini Micro* is available in hard copy or on Kindle Unlimited.
