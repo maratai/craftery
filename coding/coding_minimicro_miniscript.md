@@ -1,7 +1,7 @@
 # Mini Micro
 I chanced on this while looking for a lighter-weight game engine to put on a Clockwork Pi uConsole!
 
-- [Mini Micro](https://miniscript.org/MiniMicro/#about), "a neo-retro virtual computer" by Joe Strout. Alternately, [Mini Micro](https://joestrout.itch.io/mini-micro) on itch.io.
+- [Mini Micro](https://miniscript.org/MiniMicro/#about), "a neo-retro virtual computer" by Joe Strout. Alternately, [Mini Micro](https://joestrout.itch.io/mini-micro) on itch.io. There's a browser version, but note the WebGL limitations: "No exchange of clipboard (copy/paste) data with other apps" and "No saving programs or other data to disk."
 
 **Specifications**
 - 960 x 640 full-color (32-bit) display
