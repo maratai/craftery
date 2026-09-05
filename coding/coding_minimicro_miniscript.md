@@ -15,7 +15,7 @@ I chanced on this while looking for a lighter-weight game engine to put on a Clo
 
 Also!
 
-- [A curated list of available fantasy consoles](https://github.com/paladin-t/fantasy) (Github).
+- [A curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy) (Github).
 - [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
 
 # MiniScript
