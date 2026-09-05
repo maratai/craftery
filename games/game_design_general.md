@@ -79,6 +79,7 @@ General game design, ludology, etc that might apply to video games, TTRPGs, boar
 
 # Game Design: Narrative and Writing
 - Jon Ingold, collated by. *The Game Narrative Kaleidoscope*. Reading this slowly right now and enjoying it tremendously; *see* also the associated [podcast](https://www.inklestudios.com/kaleidoscope/) by Jon Ingold (Inkle) and Sagar Beroshi (The Chinese Room).
+- Sasha Kudryavtsev.  [Game Narrative Resources](https://sashakirlee.com/game-narrative-resources). "This is a curated collection of resources for narrative designers and game writers. Apart from books, everything else listed here is free."
 
 # Game Design: Videogames
 - Patrick Jagoda. *Experimental Games: Critique, Play, and Design in the Age of Gamification*. 2020.
