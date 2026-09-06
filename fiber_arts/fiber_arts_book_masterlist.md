@@ -219,11 +219,11 @@ I have books but they're in Hangeul/Korean!
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
 - Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
 - Elizabeth Wagner. *My Weaving Workbook*.
-- Palmy Weigle. *Double Weave*.
-- Susan Wilson. *Weave Classic Crackle and More*.
+- Palmy Weigle. *Double Weave*. [A review](https://nigelweaving.wordpress.com/2009/05/29/double-weave-at-last/) (Nigel's Weaving Blog).
+- [Susan Wilson](https://anwgconference.org/archive/2023/susan-wilson/). *Weave Classic Crackle and More*.
 - [Claudia Wollny](https://www.claudia-wollny-edition.com/en/). *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - [Claudia Wollny](https://www.claudia-wollny-edition.com/en/). *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
-- Yarn Barn of Kansas. *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for the included patterns! 
+- [Yarn Barn of Kansas](https://www.yarnbarn-ks.com). *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for all the included patterns! 
 
 ## Ciba Review
 - #20. *The Development of the Textile Crafts in Spain*.
@@ -232,7 +232,7 @@ I have books but they're in Hangeul/Korean!
   - A. Wittlin. "The Development of Silk Weaving in Spain."
   - A. Wittlin. "Tapestry Weaving and Carpet Knotting in Spain."
 
-## Handwoven (magazine)
+## [Handwoven](https://handwovenmagazine.com) (magazine)
 - November/December 1986. Fabric for Fashion. Sewing with handwoven, samples.
 - Issue 168. January/February 2014. Silk, kumihimo.
 - Issue 174. March/April 2015. "East Meets West" and "ethnic weaving: sakiori, Navajo weqaving, shifu (paper yarn), Japanese design inspirations.
@@ -291,7 +291,7 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 ## Weavers' Guild of Boston
 - *Weavers' Wisdom: 250 Aids to Happier Weaving*.
 
-## Weft (magazine)
+## [Weft](https://www.weftmagazine.com) (magazine)
 - Summer 2025, Issue 1. *Plain Weave*.
 - Autumn 2025. Issue 2. *Warp*.
 - Winter 2025. Issue 3. *Table*.
