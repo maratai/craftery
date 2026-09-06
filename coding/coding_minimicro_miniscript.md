@@ -20,7 +20,7 @@ Also!
 - [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
 
 # MiniScript
-- [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript.
+- [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript. Also available in hard copy.
 - *Learn to Code in 30 Days: with MiniScript and Mini Micro* is available in hard copy or on Kindle Unlimited.
 - [**MiniScript**](https://miniscript.org), "a clean, simple language for embedding or learning to program." Open-source.
 - [MiniScript Forums](https://forums.miniscript.org).
