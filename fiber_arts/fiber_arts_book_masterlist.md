@@ -203,11 +203,11 @@ I have books but they're in Hangeul/Korean!
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
 - [Marcy Petrini](https://www.marcypetrini.com). *From Four to More*. Multishaft weaving. The charts/drafts here are extraordinarily clear, with detailed explanations.
 - [Marcy Petrini](https://www.marcypetrini.com). *Structure and Function*. Designing fabric for specific functions, from weave structure to fiber and yarn choice and sett. I'm selfishly happy this includes discussion of satin weaves, which I don't always see in books that talk about weave structures for 4+ shafts!
-- Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
+- [Janet Phillips](https://www.janetphillips-weaving.co.uk). *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Virginia Postrel. *The Fabric of Civilization: How Textiles Made the World*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
-- Nadine Sanders. *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warpign Techniques, Warping a Second Warp Beam*.
-- Nadine Sanders and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
+- [Nadine Sanders](https://singingweaver.com). *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warpign Techniques, Warping a Second Warp Beam*.
+- [Nadine Sanders](https://singingweaver.com) and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
 - Mary Schoeser. *International Textile Design*.
 - [Deborah Silver](https://www.deborahsilverstudio.com). *The Technique of Split-Shed Weaving*. Staggeringly thorough; I had the pleasure of taking an introductory split-shed weaving workshop with her at HGA Convergence (New Orleans, 2026).
 - Carol Strickler, ed. *A Weaver's Book of 8-Shaft Patterns*.
@@ -217,7 +217,7 @@ I have books but they're in Hangeul/Korean!
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lessons*.
 - Heather Torgenrud. *Pick-Up Bandweaving Designs: 288 Charts for 13 Pattern Ends and Techniques for Arranging Color*.
 - Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
-- Madelyn van der Hoogt. *The Complete Book of Drafting for Handweavers*.
+- [Madelyn van der Hoogt](https://www.weaversschool.com/staff.htm). *The Complete Book of Drafting for Handweavers*.
 - Elizabeth Wagner. *My Weaving Workbook*.
 - Palmy Weigle. *Double Weave*. [A review](https://nigelweaving.wordpress.com/2009/05/29/double-weave-at-last/) (Nigel's Weaving Blog).
 - [Susan Wilson](https://anwgconference.org/archive/2023/susan-wilson/). *Weave Classic Crackle and More*.
