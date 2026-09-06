@@ -26,6 +26,7 @@ I am not a quilter but I like looking at the pictures; my primary interest is in
 - Gary Clarke. *Embroidery Illusions*.
 - Julia D. Gray. *Traditional Japanese Embroidery*. Sumptuous photos.
 - Flora Klickmann, ed. *Victorian Needlework: Techniques and Designs*. Includes netting, lacemaking, more.
+- Susan Stevens. [*Supplemental Notes for Japanese Embroidery*](https://www.etsy.com/listing/551486571/supplemental-notes-for-japanese) (PDF available for purchase via her Etsy shop, TheGossamerWeb). This looks delightfully thorough; I have only just started reading it.
 - Shuji Tamura. *The Techniques of Japanese Embroidery*.
 
 # Dyeing
