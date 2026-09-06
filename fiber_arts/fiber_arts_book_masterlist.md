@@ -299,10 +299,10 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 # Equipment
 
 ## Knitting
-I default to Clover knitting needles as a beginner.
+I default to [Clover Takumi bamboo knitting needles](https://clover-usa.com/collections/takumi-bamboo-knitting-needles) as a beginner.
 
-- Clover interchangeable circular needle set.
-- Skachel Addi Rocket circular needles in various sizes. Hat-tip to Ursula Whitcher for recommending these!
+- [Clover Takumi](https://clover-usa.com/collections/takumi-bamboo-knitting-needles) [Combo Set](https://clover-usa.com/products/takumi-combo-set) (interchangeable circular needles).
+- [Skacel](https://www.skacelknitting.com) Addi Rocket circular needles in various sizes. Hat-tip to Ursula Whitcher for recommending these!
 
 ## Looms: Band, Box, Tape
 - [Daedalus Penelope](https://shop.daedalusspinningwheels.com/collections/penelope).
