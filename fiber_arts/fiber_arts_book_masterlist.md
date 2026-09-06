@@ -199,15 +199,15 @@ I have books but they're in Hangeul/Korean!
 - Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
-- Marcy Petrini. *From Four to More*. Multishaft weaving. The charts/drafts here are extraordinarily clear, with detailed explanations.
-- Marcy Petrini. *Structure and Function*. Designing fabric for specific functions, from weave structure to fiber and yarn choice and sett. I'm selfishly happy this includes discussion of satin weaves, which I don't always see in books that talk about weave structures for 4+ shafts!
+- [Marcy Petrini](https://www.marcypetrini.com). *From Four to More*. Multishaft weaving. The charts/drafts here are extraordinarily clear, with detailed explanations.
+- [Marcy Petrini](https://www.marcypetrini.com). *Structure and Function*. Designing fabric for specific functions, from weave structure to fiber and yarn choice and sett. I'm selfishly happy this includes discussion of satin weaves, which I don't always see in books that talk about weave structures for 4+ shafts!
 - Janet Phillips. *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Virginia Postrel. *The Fabric of Civilization: How Textiles Made the World*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
 - Nadine Sanders. *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warpign Techniques, Warping a Second Warp Beam*.
 - Nadine Sanders and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
 - Mary Schoeser. *International Textile Design*.
-- Deborah Silver. *The Technique of Split-Shed Weaving*.
+- [Deborah Silver](https://www.deborahsilverstudio.com). *The Technique of Split-Shed Weaving*. Staggeringly thorough; I had the pleasure of taking an introductory split-shed weaving workshop with her at HGA Convergence (New Orleans, 2026).
 - Carol Strickler, ed. *A Weaver's Book of 8-Shaft Patterns*.
 - Marian Stubenitsky. *Weaving with Echo and Iris*.
 - Blair Tate. *The Warp: A Weaving Reference*.
@@ -219,8 +219,8 @@ I have books but they're in Hangeul/Korean!
 - Elizabeth Wagner. *My Weaving Workbook*.
 - Palmy Weigle. *Double Weave*.
 - Susan Wilson. *Weave Classic Crackle and More*.
-- Claudia Wollny. *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
-- Claudia Wollny. *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
+- [Claudia Wollny](https://www.claudia-wollny-edition.com/en/). *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
+- [Claudia Wollny](https://www.claudia-wollny-edition.com/en/). *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
 - Yarn Barn of Kansas. *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for the included patterns! 
 
 ## Ciba Review
