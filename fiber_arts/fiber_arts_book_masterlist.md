@@ -15,6 +15,7 @@ Not "fiber arts" as such but with crossover (e.g. stitching techniques). Also I'
 - [Valerie Michael](https://leatherworkinghandbook.com). *The Leatherworking Handbook: A Practical Illustrated Sourcebook of Techniques and Projects*.
 - [Wade Motawi](https://shoemakersacademy.com/who-is-wade-motawi-the-shoe-dog/). *Footwear Pattern Making and Last Design: A Beginner's Guide to the Fundamental Techniques of Shoemaking*.
 - [Harry Rogers](https://www.youtube.com/@harryrogers) (YouTube). *Making Handmade Shoes: A Step-by-Step Guide*. Discusses traditional shoes with hand-sewn welts, with a detailed overview of tools and two approaches to patterns (one is quick and dirty, the other more careful/exact).
+- [Secret Cobbler - A layman's journey into the art of shoemaking](https://secretcobbler.com). Website, noted to investigate later!
 - Studio Tac Creative, in partnership with Craft & Co., Ltd. *Leather Crafting Starter Book*.
 
 If you're starting in general leatherworking and can only pick one book, get the Studio Tac Creative one (it was affordable used at the time I obtained it); Japanese but in English translation, notably clear explanations and photos. If you can get *two*, I recommend the Valerie Michael text as your second; less detailed, but also very good and covers some more advanced techniques (a detailed consideration of gusset types and construction, e.g.) that the Studio Tac book doesn't.
