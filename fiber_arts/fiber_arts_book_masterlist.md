@@ -9,12 +9,12 @@ This will generally be more up-to-date for *books I own* than other lists since 
 # Cobblery, Leatherworking, Shoemaking
 Not "fiber arts" as such but with crossover (e.g. stitching techniques). Also I'm too lazy to start another Markdown file.
 
-- Nigel Armitage. *A Guide to Making Leather Belts with 12 Complete Projects*. Unreasonably excited for this.
-- Yoko Ganaha. *Crafting Leatther Totes, Backpacks and BBags: Detailed Patterns and Step-by-Step Instructions for 18 Projects*. Looks like typically excellent Japanese instructional craft writing!
+- [Nigel Armitage](https://armitageleather.com/about/). *A Guide to Making Leather Belts with 12 Complete Projects*.
+- Yoko Ganaha. [*Crafting Leatther Totes, Backpacks and Bags: Detailed Patterns and Step-by-Step Instructions for 18 Projects*](https://schifferbooks.com/products/crafting-leather-totes-backpacks-bags).
 - Jake Garrett. *Mastering the Art of Shoemaking: A Practical Beginner's Guide to Handcrafting Custom Footwear from Scratch*.
-- Valerie Michael. *The Leatherworking Handbook: A Practical Illustrated Sourcebook of Techniques and Projects*.
-- Wade Motawi. *Footwear Pattern Making and Last Design: A Beginner's Guide to the Fundamental Techniques of Shoemaking*.
-- Harry Rogers. *Making Handmade Shoes: A Step-by-Step Guide*. Discusses traditional shoes with hand-sewn welts, with a detailed overview of tools and two approaches to patterns (one is quick and dirty, the other more careful/exact).
+- [Valerie Michael](https://leatherworkinghandbook.com). *The Leatherworking Handbook: A Practical Illustrated Sourcebook of Techniques and Projects*.
+- [Wade Motawi](https://shoemakersacademy.com/who-is-wade-motawi-the-shoe-dog/). *Footwear Pattern Making and Last Design: A Beginner's Guide to the Fundamental Techniques of Shoemaking*.
+- [Harry Rogers](https://www.youtube.com/@harryrogers) (YouTube). *Making Handmade Shoes: A Step-by-Step Guide*. Discusses traditional shoes with hand-sewn welts, with a detailed overview of tools and two approaches to patterns (one is quick and dirty, the other more careful/exact).
 - Studio Tac Creative, in partnership with Craft & Co., Ltd. *Leather Crafting Starter Book*.
 
 If you're starting in general leatherworking and can only pick one book, get the Studio Tac Creative one (it was affordable used at the time I obtained it); Japanese but in English translation, notably clear explanations and photos. If you can get *two*, I recommend the Valerie Michael text as your second; less detailed, but also very good and covers some more advanced techniques (a detailed consideration of gusset types and construction, e.g.) that the Studio Tac book doesn't.
