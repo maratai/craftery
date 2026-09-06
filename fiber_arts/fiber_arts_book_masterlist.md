@@ -197,8 +197,8 @@ I have books but they're in Hangeul/Korean!
 - Jennifer Moore. *Doubleweave*, revised and expanded.
 - Phylis Morrison. *Spiders' Games: A Book for Beginning Weavers*.
 - Anne E. Nygård. *Weaving Damask*.
-- Peggy Osterkamp. *Weaving for Beginners: An Illustrated Guide*, 4th ed.
-- Peggy Osterkamp. #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
+- [Peggy Osterkamp](https://peggyosterkamp.com). *Weaving for Beginners: An Illustrated Guide*, 4th ed.
+- [Peggy Osterkamp](https://peggyosterkamp.com). #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
 - [Marcy Petrini](https://www.marcypetrini.com). *From Four to More*. Multishaft weaving. The charts/drafts here are extraordinarily clear, with detailed explanations.
@@ -242,7 +242,7 @@ I have books but they're in Hangeul/Korean!
 ## Little Looms (magazine)
 - Spring 2025. Inkle lace, inlay.
 
-## Selvedge (magazine)
+## [Selvedge](https://www.selvedge.org/) (magazine)
 I bought a number of these secondhand from a weaver who was destashing to make room for newer delights! Terrific to pore over.
 
 - Issue 14. Embroidery, cocktail frocks, Italian silks (Renaissance), Russian ikat patterned plates and textiles.
@@ -269,14 +269,14 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 - Issue 73. Sequins, textiles in St. Petersburg, domestic and decorative embroidery (fictional characters), 1920s fashion design, costume design in miniature, English medieval embroidery, Pandora Dolls as portable mannequins, costume design for theater/drama.
 - Issue 78. Tweed, Pennsylvania German textiles, plastic bags, millinery (Patey Hats), knitting (Scottish highlands and islands), smart materials and composite textiles, Frank Lloyd Wright.
 
-## Shuttle, Spindle, and Dyepot (magazine: Handweavers Guild of America)
+## Shuttle, Spindle, and Dyepot (magazine: [Handweavers Guild of America](https://www.handweavers.org))
 - Spring 2026. Indigo, huck, fine fleeces, rare books for weaving.
 
 ## Väv (magazine)
 - Nr. 2 1995. This is not in English, but I obtained this secondhand and it includes a typed? translation into English.
 - 2/11, English edition. Bridal weaves.
 
-## Weaver's Craft (magazine)
+## [Weaver's Craft](https://www.handweavers.org) (magazine)
 - June/July 2000, Issue 3. Canvas weave, huck, Swedish lace, weaving to measure.
 - Dec. 2000/January 2001. Vol. 1, #6. Weaving and fulling wool; long narrow warps.
 - Spring 2001. Vol. 2, #1. Weaving overshot, drawdowns, designing a name draft.
