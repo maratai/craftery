@@ -296,13 +296,14 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 - Spring 2026. Issue 4. *Drape*.
 - Summer 2026. Issue 5. *Twill*.
 
-# Equipment
-
-## Knitting
+# Equipment: Knitting
 I default to [Clover Takumi bamboo knitting needles](https://clover-usa.com/collections/takumi-bamboo-knitting-needles) as a beginner.
 
 - [Clover Takumi](https://clover-usa.com/collections/takumi-bamboo-knitting-needles) [Combo Set](https://clover-usa.com/products/takumi-combo-set) (interchangeable circular needles).
 - [Skacel](https://www.skacelknitting.com) Addi Rocket circular needles in various sizes. Hat-tip to Ursula Whitcher for recommending these!
+
+# Equipment: Looms
+*See* [Looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md) for more details.
 
 ## Looms: Band, Box, Tape
 - [Daedalus Penelope](https://shop.daedalusspinningwheels.com/collections/penelope).
@@ -310,7 +311,7 @@ I default to [Clover Takumi bamboo knitting needles](https://clover-usa.com/coll
 - [Woodington UK](https://woodingtonuk.com) Folding Tablet Loom.
 
 ## Looms: Floor Looms
-- **[Inagaki Kiryo](https://inagakikiryo-weaving.com) [R-25](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25)**.
+- **[Inagaki Kiryo](https://inagakikiryo-weaving.com) [R-25](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25)**. *See* [Inagaki R-25](https://github.com/maratai/craftery/blob/main/fiber_arts/loom_%20inagakikryo_R-25.md) for more details.
   - 6H 6T counterbalance, can expand to more harnesses but not more treadles.
   - Weaving width: 48 cm (~19").
   - Reeds: 10 dents/cm (25 dents/inch), 18 dents/cm (~40 dents/inch). Note that the beater has very narrow slots to hold the reed; I think Saori reeds may be compatible with it but "standard" half-inch-wide European or USAn reeds need extra jiggering to stay affixed.
@@ -331,11 +332,24 @@ I default to [Clover Takumi bamboo knitting needles](https://clover-usa.com/coll
 ## Looms: Pin Looms, Tapestry Looms
 - [Hello! Loom](https://helloloom.com)
 
+## Looms: Shuttles
+*See* [Fiber Tools](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_tools.md) for more details.
+
+My shuttle collection includes shuttles from:
+- [Bluster Bay](https://blusterbaywoodworks.com) (secondhand)
+- [Daedalus](https://shop.daedalusspinningwheels.com) (for the Penelope)
+- [Handywoman](https://www.handywomanshop.com)
+- [Leclerc](http://www.leclerclooms.com) (thanks to my sister!)
+- Lojan (stick shuttle)
+- [Saori](https://www.saoriglobal.com/)
+
 ## Looms: Table Looms
 - [Clover Sakiori](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) (Rochester Textile listing, but Clover is a Japanese company) ("rigid heddle"; built-in warping board).
 - Peacock Loom (2H 2T counterbalance). Obtained from my mother-in-law. Apparently these were *sixty cents* (USD) at one point in the nebulous past...
 
 ## Looms: Warping
+*See* [Fiber Tools](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_tools.md) for more details.
+
 - [Ashford](https://www.ashford.co.nz) tabletop vertical warping mill.
 - [Blazing Shuttles](https://www.blazingshuttles.com) cross holder.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com) bobbin winder, cone holder, jumbo yarn winder, warping peg, yarn swift.
@@ -345,7 +359,11 @@ I default to [Clover Takumi bamboo knitting needles](https://clover-usa.com/coll
 
 Note that the Clover Sakiori floor loom has a built-in warping board for which you can rearrange the pegs to get different warp lengths!
 
+# Equipment: Spinning
+
 ## Spinning: Fiber Preparation and Other Tools
+*See* [Fiber Tools](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_tools.md) for more details.
+
 - [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks) (available via [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com)). My favorite lazy kate.
 - [Ashford](https://www.ashford.co.nz/product/traveller-3/) hand cards.
 - [Fancy Kitty](https://www.fancy-kitty.com) benchtop wool picker, blending board.
@@ -358,6 +376,8 @@ Note that the Clover Sakiori floor loom has a built-in warping board for which y
 - [Snyder](https://snyderspindles.com) Turkish spindles.
 
 ## Spinning: Spinning Wheels
+*See* [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for more details.
+
 - [Ashford](https://www.ashford.co.nz) Traveller (Scotch tension, built-in kate, older model; the current production version is the [Traveller 3](https://www.ashford.co.nz/product/traveller-3/).
 - [Dreaming Robots](https://www.dreamingrobots.com) [EEW 6.1](https://www.dreamingrobots.com/eew-61/) (e-spinner).
 - itoguruma (modern) from Japan (eBay).
