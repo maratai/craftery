@@ -2,6 +2,8 @@
 
 **NOTES:** So very WIP. Note that some books in Korean and Japanese are not listed here (I could type in Hangeul, laboriously, if I had to, but I don't read/write Japanese). The categorization in edge cases is dependent on what's useful to *me*. If topics are listed for a book or magazine issue, it's a selection of topics likeliest to be useful/interesting to me, and not intended to be comprehensive.
 
+I'm slowly adding links where available, but it's likely to be a long process!
+
 This will generally be more up-to-date for *books I own* than other lists since it's for my own reference.
 
 # Cobblery, Leatherworking, Shoemaking
