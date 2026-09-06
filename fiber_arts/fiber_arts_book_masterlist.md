@@ -301,25 +301,35 @@ I bought a number of these secondhand from a weaver who was destashing to make r
 ## Knitting
 I default to Clover knitting needles as a beginner.
 
+- Clover interchangeable circular needle set.
+- Skachel Addi Rocket circular needles in various sizes. Hat-tip to Ursula Whitcher for recommending these!
+
 ## Looms: Band, Box, Tape
-- Daedalus Penelope
-- Handywoman Tiny Box Loom
-- Woodington UK Folding Tablet Loom
+- [Daedalus Penelope](https://shop.daedalusspinningwheels.com/collections/penelope).
+- [Handywoman](https://www.handywomanshop.com) Tiny Box Loom.
+- [Woodington UK](https://woodingtonuk.com) Folding Tablet Loom.
 
 ## Looms: Floor Looms
-- **Inagaki Kiryo R-25**.
+- **[Inagaki Kiryo](https://inagakikiryo-weaving.com) [R-25](https://inagakikiryo-weaving.com/collections/handloom/products/handloom-r25)**.
   - 6H 6T counterbalance, can expand to more harnesses but not more treadles.
   - Weaving width: 48 cm (~19").
   - Reeds: 10 dents/cm (25 dents/inch), 18 dents/cm (~40 dents/inch). Note that the beater has very narrow slots to hold the reed; I think Saori reeds may be compatible with it but "standard" half-inch-wide European or USAn reeds need extra jiggering to stay affixed.
-- **Saori Piccolo**.
+- **[Saori](https://www.saoriglobal.com/) Piccolo**.
   - 2H 2T counterbalance.
   - Reed: 7 dents/cm (~18 dents/inch).
-- **Saori WX60**.
-  - 4H 6T sinking shed conversion, can revert to 2H 2T counterbalance. Built-in bobbin winder; 5 dents/cm, 10 dents/cm, and comb reeds)
-- Toika Laila (8H 8T countermarche; 10 dents/cm reed, 25 dents/cm reed, 50-70 cm temple, 70 cm raddle A)
+- **[Saori](https://www.saoriglobal.com/) WX60**.
+  - 4H 6T sinking shed jack loom conversion, can revert to 2H 2T counterbalance.
+  - Weaving width: 60 cm (~24").
+  - Built-in bobbin winder.
+  - Reeds: 5 dents/cm (~12 dents/inch), 10 dents/cm (~25 dents/inch), and comb reed.
+- **[Toika](https://shop.toika.com) [Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles)**
+  - 8H 8T countermarche.
+  - Weaving width: 70 cm (~28").
+  - Reeds: 10 dents/cm (~25 dents/inch), 25 dents/cm (~63 dents/inch).
+  - 50-70 cm temple, 70 cm raddle A.
 
 ## Looms: Pin Looms, Tapestry Looms
-- Hello Loom
+- [Hello! Loom](https://helloloom.com)
 
 ## Looms: Table Looms
 - Clover Sakiori ("rigid heddle"; built-in warping board)
@@ -335,10 +345,12 @@ I default to Clover knitting needles as a beginner.
 
 Note that the Clover Sakiori floor loom has a built-in
 
-## Spinning: Fiber Preparation
-- Ashford hand cards
-- Fancy Kitty benchtop wool picker, blending board
-- Strauch drum carder
+## Spinning: Fiber Preparation and Other Tools
+- [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks) (available via [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com)). My favorite lazy kate.
+- Ashford hand cards.
+- Fancy Kitty benchtop wool picker, blending board.
+- Spinolution Standard Kate.
+- Strauch drum carder.
 
 ## Spinning: Hand Spindles
 - Jenkins Turkish spindles
