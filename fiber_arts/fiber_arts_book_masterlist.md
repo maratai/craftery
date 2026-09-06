@@ -353,14 +353,14 @@ Note that the Clover Sakiori floor loom has a built-in
 - Strauch drum carder.
 
 ## Spinning: Hand Spindles
-- Jenkins Turkish spindles
-- John Galen Designs supported spindles (tahkli-style)
-- Snyder Turkish spindles
+- [Jenkins](https://jenkinsspindles.com) Turkish spindles
+- [John Galen Designs](https://www.johngalen.com) supported spindle (tahkli-style)
+- [Snyder](https://snyderspindles.com) Turkish spindles
 
 ## Spinning: Spinning Wheels
-- Ashford Traveller (Scotch tension, built-in kate)
-- Dreaming Robots EEW 6.1 (e-spinner)
+- [Ashford](https://www.ashford.co.nz) Traveller (Scotch tension, built-in kate, older model; the current production version is the [Traveller 3](https://www.ashford.co.nz/product/traveller-3/)
+- [Dreaming Robots](https://www.dreamingrobots.com) [EEW 6.1](https://www.dreamingrobots.com/eew-61/) (e-spinner)
 - itoguruma (modern) from Japan
-- Louët S90 (Scotch tension, built-in kate) + WooLee Winder
-- Pocket Wheel + LWS Autowinder
-- Spinolution Mach III with 4A and 8-oz flyers + SpinPerfect Paulywinders
+- [Louët](https://louet-inc.odoo.com) [S90](https://louet.zendesk.com/hc/en-us/articles/360051418773-Spinning-Wheel-S90-product-information) (Scotch tension, built-in kate; this wheel is out of production and I obtained mine secondhand) + [WooLee Winder](https://www.wooleewinderstore.com)
+- [Pocket Wheel](https://www.pocket-wheel.com) + [LWS Autowinder](https://myautowinder.com)
+- [Spinolution](https://www.spinolution.com) Mach III (out of production; the new version is the [Monarch](https://www.spinolution.com/monarch); my Mach III was obtained secondhand) with 4A (2:1 to 73:1) and 8-oz (2:1 and 45:!) flyers + [SpinPerfect](https://spinperfect.com) [Paulywinders](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer)
