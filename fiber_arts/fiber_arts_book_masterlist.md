@@ -333,7 +333,7 @@ I default to Clover knitting needles as a beginner.
 
 ## Looms: Table Looms
 - [Clover Sakiori](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) (Rochester Textile listing, but Clover is a Japanese company) ("rigid heddle"; built-in warping board).
-- Peacock Loom (2H 2T counterbalance).
+- Peacock Loom (2H 2T counterbalance). Obtained from my mother-in-law. Apparently these were *sixty cents* (USD) at one point in the nebulous past...
 
 ## Looms: Warping
 - [Ashford](https://www.ashford.co.nz) tabletop vertical warping mill.
@@ -360,7 +360,7 @@ Note that the Clover Sakiori floor loom has a built-in warping board for which y
 ## Spinning: Spinning Wheels
 - [Ashford](https://www.ashford.co.nz) Traveller (Scotch tension, built-in kate, older model; the current production version is the [Traveller 3](https://www.ashford.co.nz/product/traveller-3/).
 - [Dreaming Robots](https://www.dreamingrobots.com) [EEW 6.1](https://www.dreamingrobots.com/eew-61/) (e-spinner).
-- itoguruma (modern) from Japan.
+- itoguruma (modern) from Japan (eBay).
 - [Louët](https://louet-inc.odoo.com) [S90](https://louet.zendesk.com/hc/en-us/articles/360051418773-Spinning-Wheel-S90-product-information) (Scotch tension, built-in kate; this wheel is out of production and I obtained mine secondhand) + [WooLee Winder](https://www.wooleewinderstore.com).
 - [Pocket Wheel](https://www.pocket-wheel.com) + [LWS Autowinder](https://myautowinder.com). On long-term loan to a friend.
 - [Spinolution](https://www.spinolution.com) Mach III (out of production; the new version is the [Monarch](https://www.spinolution.com/monarch); my Mach III was obtained secondhand) with 4A (2:1 to 73:1) and 8-oz (2:1 and 45:!) flyers + [SpinPerfect](https://spinperfect.com) [Paulywinders](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer).
