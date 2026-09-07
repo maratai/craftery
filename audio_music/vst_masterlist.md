@@ -7,6 +7,7 @@
 - If I say something is e.g. a "tube amp," it's *emulated* but it's tedious to type that out over and over again!
 - I've glossed some of these if the type of VST is unclear (e.g. Audio Imperia Jaeger - orchestral strings, solo soprano legato); in other cases, the name tells you!
 - Adding links slooooowly for my own convenience.
+- I'm listing things alphabetically because otherwise I will never be able to find anything.
 
 # [8dio](https://8dio.com) (Kontakt)
 - Catmosphere.
@@ -122,8 +123,13 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - **Blueprint Textural Viola**.
 - **Blueprint Textural Violin**.
 - **Blueprint Toy Piano**.
-- **Brass Band Soloists**.
-- **Compendium - Eldenvale**. Fantasy and folk toolkit.
+- [**Brass Band Soloists**](https://fracturesounds.com/product/brass-band-soloists/).
+  - Cornet.
+  - Euphonium.
+  - Flugelhorn.
+  - Soprano Cornet.
+  - Tenor Horn.
+- [**Compendium - Eldenvale**](https://fracturesounds.com/product/compendium-eldenvale/). Fantasy and folk toolkit.
   - Bouzouki.
   - Chamber Strings.
   - Cimbalom.
@@ -131,10 +137,22 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
   - Percussion??
   - Uilleann Pipes.
   - Wooden Flute.
-- **Emotive Woodwind Soloists**.
-- **Majestic Brass Soloists**.
+- [**Emotive Woodwind Soloists**](https://fracturesounds.com/product/emotive-woodwind-soloists/). Taking these for a spin!
+  - Bassoon.
+  - Clarinet.
+  - Cor Anglais.
+  - Flute.
+  - Oboe.
+  - Piccolo.
+- [**Majestic Brass Soloists**](https://fracturesounds.com/product/majestic-brass-soloists/).
+  - French Horn.
+  - Trombone.
+  - Trumpet.
+  - Tuba.
 - **Orchestral Atmospheres**.
-- **Petrichor**.
+- **Petrichor**. Patches can be combined in ensemble or played individually? Need to investigate workflow.
+  - High Winds: Alto Flute, Clarinet, Alto Sax, Soprano Sax.
+  - Low Winds: Bass Flute, Bass Clarinet, Bass Sax, Tenor Sax.
 
 # [Have Audio](https://haveaudio.com) (Kontakt)
 - Balkan Clarinet. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
