@@ -25,6 +25,8 @@ Also!
 - [**MiniScript**](https://miniscript.org), "a clean, simple language for embedding or learning to program." Open-source.
 - ["MiniScript: A New Language for Computer Programming Education"](https://miniscript.org/files/Strout_iSTEM-Ed2021.pdf) (PDF) by Joe Strout, *2021 International STEM Education Conference*.
 - [MiniScript Forums](https://forums.miniscript.org).
+- [**MiniScript Manual**](https://miniscript.org/files/MiniScript-Manual.pdf) (PDF).
+- [MiniScript Unity Integration Guide](https://miniscript.org/files/MiniScript-Integration-Guide.pdf) (PDF).
 - [MiniScript Wiki](https://miniscript.org/wiki/Main_Page).
   - [Apps using MiniScript](https://miniscript.org/wiki/Apps_using_MiniScript).
   - [Open-Source Projects](https://miniscript.org/wiki/Open-Source_Projects).
