@@ -22,6 +22,7 @@ Also!
 - [Mini Micro and MiniSCript: A Great Retro Programming Combination](https://www.goto10retro.com/p/mini-micro-and-miniscript-a-great) by Paul Lefebvre.
 - [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
 - [TextLabel for Mini Micro](https://dev.to/bibleclinger/textlabel-for-mini-micro-a0n) by Blbleclinger.
+- [Timer for MiniScript](https://dev.to/bibleclinger/timer-for-miniscript-2io5) by Bibleclinger.
 - [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa) by Joe Strout.
 - [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o) by Sebastian Nozzi.
 - [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
