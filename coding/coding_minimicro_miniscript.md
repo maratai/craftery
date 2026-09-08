@@ -38,6 +38,7 @@ By Kartik Patel, using Mini Micro.
 - #3: [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-even-is-game-gii).
 - #4: [Zero to Game Dev - Thinking Like Coder (Before Writing Code)](https://dev.to/kartik_patel/zero-to-game-dev-thinking-like-coder-before-writing-code-1be0).
 - #5: [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p).
+- #6: [Zero to Game Dev - First Line of Code](https://dev.to/kartik_patel/zero-to-game-dev-first-line-of-code-5efk).
 
 **_Fathom's Edge_ for Mini Micro** by Joe Strout
 - [*Fathom's Edge*: Progress Report #1](https://dev.to/joestrout/fathoms-edge-progress-report-1-2llb). Development notes for a retro-style RPG.
