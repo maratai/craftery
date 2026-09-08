@@ -20,6 +20,9 @@ Also!
 - [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa) by Joe Strout.
 - [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
 
+**Movement in Mini Micro** by Sebastian Nozzi.
+- [Movement-events on Mini Micro (part 1)](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7).
+
 **Sprites in Mini Micro** by Kartik Patel:
 - [How to render a sprite in Mini Micro](https://dev.to/kartik_patel/how-to-render-a-sprite-in-mini-micro-h03).
 - [How to register a click on sprite](https://dev.to/kartik_patel/how-to-register-sprite-clicks-in-mini-micro-2j42).
