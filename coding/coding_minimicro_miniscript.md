@@ -18,13 +18,14 @@ Also!
 - [API in Mini Micro](https://dev.to/kartik_patel/api-in-mini-micro-1bhk) by Kartik Patel, using an example Joke API and JSON.
 - [Apple II Text on Mini Micro!](https://dev.to/joestrout/apple-text-on-mini-micro-337) by Joe Strout.
 - [A curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy) (Github).
+- [How to make Main Menu](https://dev.to/kartik_patel/how-to-make-main-menu-3eba) by Kartik Patel.
 - [How to package a web game in Mini Micro](https://dev.to/kartik_patel/how-to-package-a-web-game-in-mini-micro-e1j) by Kartik Patel.
 - [Learn by Code 1.3](https://dev.to/kartik_patel/learn-by-code-13-4jba) by Kartik Patel.
 - [Mini Micro and the Game loop](https://dev.to/bibleclinger/mini-micro-and-the-game-loop-4aog) by Bibleclinger.
 - [Mini Micro and MiniSCript: A Great Retro Programming Combination](https://www.goto10retro.com/p/mini-micro-and-miniscript-a-great) by Paul Lefebvre.
 - [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
-- [TextLabel for Mini Micro](https://dev.to/bibleclinger/textlabel-for-mini-micro-a0n) by Blbleclinger.
-- [Timer for MiniScript](https://dev.to/bibleclinger/timer-for-miniscript-2io5) by Bibleclinger.
+- [TextLabel for Mini Micro](https://dev.to/bibleclinger/textlabel-for-mini-micro-a0n) by BlbleClinger.
+- [Timer for MiniScript](https://dev.to/bibleclinger/timer-for-miniscript-2io5) by BibleClinger.
 - [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa) by Joe Strout.
 - [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o) by Sebastian Nozzi.
 - [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
@@ -47,6 +48,7 @@ Also!
 - [Learn MiniScript in Y Minutes](https://learnxinyminutes.com/miniscript/).
 - *Learn to Code in 30 Days: with MiniScript and Mini Micro* is available in hard copy or on Kindle Unlimited.
 - [**MiniScript**](https://miniscript.org), "a clean, simple language for embedding or learning to program." Open-source.
+- [A MiniScript Enum Class](https://dev.to/bibleclinger/a-miniscript-enum-class-4pei) by BibleClinger.
 - ["MiniScript: A New Language for Computer Programming Education"](https://miniscript.org/files/Strout_iSTEM-Ed2021.pdf) (PDF) by Joe Strout, *2021 International STEM Education Conference*.
 - [MiniScript Forums](https://forums.miniscript.org).
 - [**MiniScript Manual**](https://miniscript.org/files/MiniScript-Manual.pdf) (PDF).
