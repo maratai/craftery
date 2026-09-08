@@ -13,7 +13,7 @@ I chanced on this while looking for a lighter-weight game engine to put on a Clo
 - built-in code editor
 - code in [MiniScript](https://miniscript.org), a clean, modern language
 
-Also!
+## Other Resources
 
 - [API in Mini Micro](https://dev.to/kartik_patel/api-in-mini-micro-1bhk) by Kartik Patel, using an example Joke API and JSON.
 - [Apple II Text on Mini Micro!](https://dev.to/joestrout/apple-text-on-mini-micro-337) by Joe Strout.
@@ -29,7 +29,15 @@ Also!
 - [Timer for MiniScript](https://dev.to/bibleclinger/timer-for-miniscript-2io5) by BibleClinger.
 - [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa) by Joe Strout.
 - [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o) by Sebastian Nozzi.
-- [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
+
+## Zero to Game Dev
+By Kartik Patel, using Mini Micro.
+
+- #1: [Zero to Game Dev - Introduction](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p).
+- #2: [Zero to Game Dev - What Even Is a Game?](https://dev.to/kartik_patel/zero-to-game-dev-what-even-is-game-gii).
+- #3: [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-even-is-game-gii).
+- #4: [Zero to Game Dev - Thinking Like Coder (Before Writing Code)](https://dev.to/kartik_patel/zero-to-game-dev-thinking-like-coder-before-writing-code-1be0).
+- #5: [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p).
 
 **_Fathom's Edge_ for Mini Micro** by Joe Strout
 - [*Fathom's Edge*: Progress Report #1](https://dev.to/joestrout/fathoms-edge-progress-report-1-2llb). Development notes for a retro-style RPG.
