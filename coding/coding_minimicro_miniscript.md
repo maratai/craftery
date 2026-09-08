@@ -25,6 +25,7 @@ Also!
 - [How to register a click on sprite](https://dev.to/kartik_patel/how-to-register-sprite-clicks-in-mini-micro-2j42).
 - [How to use bounds on sprites](https://dev.to/kartik_patel/bounds-in-mini-micro-3pl1).
 - [How to use SpriteSheets for Sprites](https://dev.to/kartik_patel/how-to-render-a-sprite-in-mini-micro-h03).
+- [Playing animations in Mini Micro](https://dev.to/kartik_patel/playing-animations-in-mini-micro-2m8m).
 
 # MiniScript
 - [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript. Also available in hard copy.
