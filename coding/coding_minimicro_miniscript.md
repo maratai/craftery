@@ -27,6 +27,9 @@ Also!
 - [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o) by Sebastian Nozzi.
 - [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
 
+**_Fathom's Edge_ for Mini Micro** by Joe Strout
+- [*Fathom's Edge*: Progress Report #1](https://dev.to/joestrout/fathoms-edge-progress-report-1-2llb). Development notes for a retro-style RPG.
+
 **Movement in Mini Micro** by Sebastian Nozzi.
 - [Movement-events on Mini Micro (part 1)](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7).
 
