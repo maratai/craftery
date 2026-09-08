@@ -1,5 +1,5 @@
 # Mini Micro
-I chanced on this while looking for a lighter-weight game engine to put on a Clockwork Pi uConsole!
+I chanced on this while looking for a lighter-weight game engine to put on a Clockwork Pi uConsole! Having fun exploring. I'm mostly collecting links for my own reference, per usual.
 
 - [Mini Micro](https://miniscript.org/MiniMicro/#about), "a neo-retro virtual computer" by Joe Strout. Alternately, [Mini Micro](https://joestrout.itch.io/mini-micro) on itch.io. There's a browser version, but note the WebGL limitations: "No exchange of clipboard (copy/paste) data with other apps" and "No saving programs or other data to disk."
 
@@ -15,6 +15,7 @@ I chanced on this while looking for a lighter-weight game engine to put on a Clo
 
 Also!
 
+- [API in Mini Micro](https://dev.to/kartik_patel/api-in-mini-micro-1bhk) by Kartik Patel, using an example Joke API and JSON.
 - [Apple II Text on Mini Micro!](https://dev.to/joestrout/apple-text-on-mini-micro-337) by Joe Strout.
 - [A curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy) (Github).
 - [Learn by Code 1.3](https://dev.to/kartik_patel/learn-by-code-13-4jba) by Kartik Patel.
@@ -52,4 +53,5 @@ Also!
 - [MiniScript Wiki](https://miniscript.org/wiki/Main_Page).
   - [Apps using MiniScript](https://miniscript.org/wiki/Apps_using_MiniScript).
   - [Open-Source Projects](https://miniscript.org/wiki/Open-Source_Projects).
+- [Proper Setup for a MiniScript GitHub Repo](https://dev.to/joestrout/proper-setup-for-a-miniscript-github-repo-4ian) by Joe Strout.
 - [Why MiniScript](https://luminaryapps.com/blog/miniscript-why/) by Joe Strout.
