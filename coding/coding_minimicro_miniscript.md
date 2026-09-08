@@ -18,6 +18,7 @@ Also!
 - [Apple II Text on Mini Micro!](https://dev.to/joestrout/apple-text-on-mini-micro-337) by Joe Strout.
 - [A curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy) (Github).
 - [Learn by Code 1.3](https://dev.to/kartik_patel/learn-by-code-13-4jba) by Kartik Patel.
+- [Mini Micro and the Game loop](https://dev.to/bibleclinger/mini-micro-and-the-game-loop-4aog) by Bibleclinger.
 - [Mini Micro and MiniSCript: A Great Retro Programming Combination](https://www.goto10retro.com/p/mini-micro-and-miniscript-a-great) by Paul Lefebvre.
 - [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
 - [TextLabel for Mini Micro](https://dev.to/bibleclinger/textlabel-for-mini-micro-a0n) by Blbleclinger.
