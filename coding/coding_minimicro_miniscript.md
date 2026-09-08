@@ -34,6 +34,7 @@ Also!
 
 # MiniScript
 - [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript. Also available in hard copy.
+- [Learn MiniScript in Y Minutes](https://learnxinyminutes.com/miniscript/).
 - *Learn to Code in 30 Days: with MiniScript and Mini Micro* is available in hard copy or on Kindle Unlimited.
 - [**MiniScript**](https://miniscript.org), "a clean, simple language for embedding or learning to program." Open-source.
 - ["MiniScript: A New Language for Computer Programming Education"](https://miniscript.org/files/Strout_iSTEM-Ed2021.pdf) (PDF) by Joe Strout, *2021 International STEM Education Conference*.
