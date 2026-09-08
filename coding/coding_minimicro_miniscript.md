@@ -16,10 +16,15 @@ I chanced on this while looking for a lighter-weight game engine to put on a Clo
 Also!
 
 - [A curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy) (Github).
-- [How to render a sprite in Mini Micro](https://dev.to/kartik_patel/how-to-render-a-sprite-in-mini-micro-h03) by Kartik Patel.
 - [Mini Micro games on itch.io](https://itch.io/games/tag-minimicro) (tagged "minimicro").
 - [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa) by Joe Strout.
 - [Zero to Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p) by Kartik Patel.
+
+**Sprites in Mini Micro** by Kartik Patel:
+- [How to render a sprite in Mini Micro](https://dev.to/kartik_patel/how-to-render-a-sprite-in-mini-micro-h03).
+- [How to register a click on sprite](https://dev.to/kartik_patel/how-to-register-sprite-clicks-in-mini-micro-2j42).
+- [How to use bounds on sprites](https://dev.to/kartik_patel/bounds-in-mini-micro-3pl1).
+- [How to use SpriteSheets for Sprites](https://dev.to/kartik_patel/how-to-render-a-sprite-in-mini-micro-h03).
 
 # MiniScript
 - [Introduction to Computer Programming for Kids of All Ages](https://introtocomputerprogramming.online/#cover) in MiniScript. Also available in hard copy.
