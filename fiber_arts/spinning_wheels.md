@@ -105,6 +105,10 @@ This is the heaviest wheel I own, but the footprint is not *that* much larger th
 
 ![mulberry (bombyx) silk singles WIP on a Spinolution Mach III with 4A accelerated flyer and SpinPerfect Paulywinder installed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-10-silk-01.jpg?raw=true)
 
+The blue is a more recent spin (September 10, 2026) where I achieved 50+ wraps per inch in singles!
+
+![tussah silk singles WIP at 50+ wraps per inch](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-09-11-silk.jpg?raw=true)
+
 # Autowinders for Treadle Spinning Wheels
 I've tried the LWS Autowinder, SpinPerfect PaulyWinder, and WooLee Winder. I genuinely like all three but they are all delightfully different in operation and mechanism and trade-offs. For my purposes (hobby emotional support spinning), all three work fine.
 
