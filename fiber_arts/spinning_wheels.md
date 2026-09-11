@@ -136,15 +136,17 @@ If you have a choice for your treadle wheel and you're trying to decide:
 # Wheels I Dream Of
 If wishes were wheels?
 
-I admit I long for one really nice "traditional"-style Saxony wheel (a [Kromski Polonaise](https://kromski.com/product/the-polonaise-spinning-wheel/) or [Canadian Production Wheel (Jillian Eve)](https://jillianeve.com/canadian-production-wheel/)) if I had the budget to add one more wheel. 
+I long for one really nice "traditional"-style Saxony wheel (a [Kromski Polonaise](https://kromski.com/product/the-polonaise-spinning-wheel/) or [Canadian Production Wheel (Jillian Eve)](https://jillianeve.com/canadian-production-wheel/)) if I had the budget to add one more wheel. 
 
-I see that [Lendrum Wheels](https://lendrumwheels.ca/) (Canada) has risen from the ashes, so I will keep an eye out if they start producing Saxony wheels again!
+I see that [Lendrum Wheels](https://lendrumwheels.ca/) (Canada) has risen from the ashes, so I will keep an eye out if they start producing Saxony wheels again! I've heard such good things, especially if the Very Fast Flyer becomes available again.
+
+At the local fiber guild, I recently had the opportunity to try spinning on a [Majacraft](https://www.majacraft.co.nz) [Suzie](https://www.majacraft.co.nz/?page_id=63), an absolutely beautiful treadling experience. If wishes were wheels. I'd love to try either a [Rose](https://www.majacraft.co.nz/?page_id=30) or a [Luna](https://www.majacraft.co.nz/?page_id=3371), as I also hear spinners consistently rave about how much they love Majacraft wheels.
 
 I'd absolutely try a Jensen spinning wheel if I had the opportunity.
 
 ## [Carson Cooper](https://www.ztwist.com/) accelerated wheel
-I covet an [Emily accelerated wheel](https://www.ztwist.com/) but doubt I will ever be able to afford one ($5,000+ USD) since I also got into [floor looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md#floor-looms) for handweaving...
+I covet an [Emily accelerated wheel](https://www.ztwist.com/) (ratios up to 40:1) but doubt I will ever be able to afford one ($5,000+ USD) since I got into [floor looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md#floor-looms) for handweaving...
 
 ## [Golding spinning wheel](https://dropspindle.info/product-category/spinning-wheels/)
-At this point, we're solidly into heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/). These *start* at $10,000+ USD but go up to 33:1 in ratio.
+At this point, we're in fancy heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/). These *start* at $10,000+ USD but go up to 33:1 in ratio.
 
