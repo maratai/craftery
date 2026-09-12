@@ -229,7 +229,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 # Native Instruments (...Kontakt)
 - **Action Strikes**. Cinematic percussion.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
-- **Amati Viola**. Quite lovely if you're willing to micromanage the articulations. I have *feelings* about viola!
+- **Amati Viola**. Quite lovely if you're willing to micromanage the articulations. I have *feelings* about viola! The **portamenti/glissades** are particularly noteworth.
 - Anima Ascent - "Visionary, contemporary, genre-defying pop - vintage synths, hybrid keys, and popped percussion."
 - Arcane Attic - "Distinctive, percussive crunch with jagged field recordings for unconventional rhythms."
 - Arkhis - "Powerful instrument for creating cutting-edge, cinematic atmospheres and underscores, from specialized orchestral sound sources."
