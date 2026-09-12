@@ -226,7 +226,7 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Midnight Tenor Sax.
 - **Trailer Brass**.
 
-# Native Instruments (...Kontakt)
+# [Native Instruments](https://www.native-instruments.com/) (...Kontakt)
 - **Action Strikes**. Cinematic percussion.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
 - **Amati Viola**. Quite lovely if you're willing to micromanage the articulations. I have *feelings* about viola! The **portamenti/glissades** are particularly noteworth.
@@ -334,7 +334,7 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Metropolis Ark 1**. Orchestral; I reach for the brasses *a lot*.
 - Modus - Jeff Russo. Eclectic orchestral scoring.
 - **Monolith - Richard Harvey**. Percussion.
-- **Phoenix Orchestra**. Chinese instruments.
+- **Phoenix Orchestra**. Chinese instruments. I particularly like the **suona** articulations.
 - Rotary. Big band horns (free).
 - **Tom Holkenborg's Brass**.
 
@@ -396,8 +396,9 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **EffectRack**.
 - **Little Alter Boy**. Pitch/formant shifting.
 
-# Spitfire Audio (Kontakt or Spitfire)
-Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches.
+# [Spitfire Audio](https://www.spitfireaudio.com/en-us) (Kontakt or Spitfire)
+Some of these now run in Spitfire Audio's host. The "Originals" tend to be lower-cost and excellent in their niches. Note that BBCSO can have stability issues, however.
+
 - **Albion Solstice**. One of my go-tos for folk/hybrid, especially the "Gut Circle" (hammered dulcimer/zither).
 - Aluphone.
 - **Aperture Strings**. A good workhorse orchestral strings sketching tool.
@@ -476,6 +477,8 @@ Best of class for "classical" orchestral mockup. Runs in Synchron Player or Vien
 - Music Box.
 
 # Zero-G (Kontakt)
+Uh-oh, site's down for me right now?
+
 - **Ethera Gold 2.5**. Cinematic solo vocals, male and female.
 - **Ethera Gold Atlantis**. Cinematic solo vocals, female.
 - World Studio Percussion.
