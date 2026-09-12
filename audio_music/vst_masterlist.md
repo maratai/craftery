@@ -226,6 +226,9 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
 - Midnight Tenor Sax.
 - **Trailer Brass**.
 
+# [Musio](https://musio.com/)
+I got lifetime access to some version of Musio early on; I'm sure I won't have access (eventually?) to the full catalogue, but it's an excellent supplement to my bread-and-butter libraries with a lot of interesting specialist libraries. A ton of CineSamples libraries, for instance!
+
 # [Native Instruments](https://www.native-instruments.com/) (...Kontakt)
 - **Action Strikes**. Cinematic percussion.
 - **Action Strings 2**. Preprogrammed patterns, can be edited.
