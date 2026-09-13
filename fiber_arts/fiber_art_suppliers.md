@@ -3,6 +3,7 @@ Not a comprehensive list!
 
 I'm US-based, so for availability reasons in a cursed polity, I'm noting *location*; some non-US-based suppliers (e.g.) may not ship physical items to the USA at any given point in time.
 
+- [Apple Creek Merinos](https://www.applecreekmerinos.com) - US-based, to investigate. Fleeces, fiber. yarn.
 - [Ashford Wheels and Looms](https://www.ashford.co.nz) - New Zealand-based. Ashford's wheels are ubiquitous in the USA and carried by many retailers, as well as being relatively common on the secondhand market (although this is regional). I own and have used a secondhand Ashford Traveller and Ashford Traditional. They're great wheels; I think of them as the Honda Civics of the spinning wheel world, not "flashy" but absolutely reliable. Even for older examples (folks on Ravelry dated my Traditional as being from 1981!), you can readily obtain replacement parts, which is great for those of us buying secondhand.
 - [AVL Looms](https://avllooms.com) - US-based. I don't expect these ever to be within my reach, but I like poring over the pages!
 - [Blazing Shuttles](https://www.blazingshuttles.com/) - US-based. Sumptuous hand-dyed warps and skeins, plus other tools.
