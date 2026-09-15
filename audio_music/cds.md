@@ -65,6 +65,7 @@ Formerly of (G)I-DLE (I-DLE).
 
 # Soundtracks
 - *Halo: Combat Evolved*.
+- *Lord of the Rings* trilogy.
 
 # Wendy
 K-pop.
