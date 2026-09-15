@@ -90,3 +90,6 @@ I'm including instrumentation and arrangement under this heading.
 # Scores
 - [Chris Siddall Music Publishing](https://chrissiddallmusic.com/). I was reminded of this as a way to blow the budget on film scores!
 - [IMSLP](https://imslp.org). Free PDF music sheet music for public domain works. You can disable the delay timer on downloads by paying (IMO) a very reasonable annual membership fee to support the site.
+
+# Score Analysis
+- Janet K. Halfyard. *Danny Elfman's Batman: A Film Score Guide*.
