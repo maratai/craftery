@@ -64,8 +64,12 @@ Formerly of (G)I-DLE (I-DLE).
 - *Rizz*.
 
 # Soundtracks
+- *Dream Songs: The Essential Joe Hisaishi*.
 - *Halo: Combat Evolved*.
+- *KPop Demon Hunters*.
 - *Lord of the Rings* trilogy.
+- *NieR:Automata*.
+- *Star Trek VI: The Undiscovered Country*.
 
 # Wendy
 K-pop.
