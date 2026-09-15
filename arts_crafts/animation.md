@@ -8,16 +8,16 @@ Some of these resources will be a bit out of field.
 # Animation Apps
 
 ## Animation Apps: iPadOS
-- [ToonSquid](https://toonsquid.com). What I use for pencil tests in an iPad. Note that 
+- [ToonSquid](https://toonsquid.com). What I use for pencil tests in an iPad. This is iPad-only, with no plans for other platforms. One-time payment.
 
 ## Animation Apps: Linux
 - [enve](https://maurycyliebner.github.io). Open-source 2D animation software.
 
 ## Animation Apps: Multi-Platform
-- [Callipeg](https://callipeg.com). Available for macOS, Windows, Linux, Android, iPadOS.
-- [LibreSprite](https://libresprite.github.io/#!/). 2D pixel art animation!
-- [RoughAnimator](https://www.roughanimator.com). Terrific pencil test animation software.
-- [TVPaint](https://tvpaint.com/en). I use TVPaint Pro on macOS. 2D raster animation.
+- [Callipeg](https://callipeg.com). Available for macOS, Windows, Linux, Android, iPadOS. One-time payment.
+- [LibreSprite](https://libresprite.github.io/#!/). 2D pixel art animation! Free and open source.
+- [RoughAnimator](https://www.roughanimator.com). Terrific pencil test animation software. One-time payment.
+- [TVPaint](https://tvpaint.com/en). I use TVPaint Pro on macOS. 2D raster animation. One-time payment.
 
 # Animation Principles and Theory
 - Nancy Beiman. *Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life*, 2nd ed.
