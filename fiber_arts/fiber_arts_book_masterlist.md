@@ -190,6 +190,7 @@ I have books but they're in Hangeul/Korean!
 - - Lillemor Johansson, ed. VävMagasinet. *Weaver's Delight*. In English (translation?).
 - Anete Karlsone. *Rakstainās Jostas: Kopīgais Kultūrslānis* (*Patterned Sashes: The Common Cultural Layer*). Latvian and English.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
+- Susan Kesler-Simpson. *Shadow Weave Simply: Understanding the Weave Structures*.
 - Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Mary Elizabeth Laughlin. *More Than Four: A Book for Multiple Harness Weavers*. Terrific in-depth discussion of satin and sateen weaves.
@@ -218,7 +219,8 @@ I have books but they're in Hangeul/Korean!
 - Mary Schoeser. *International Textile Design*.
 - [Deborah Silver](https://www.deborahsilverstudio.com). *The Technique of Split-Shed Weaving*. Staggeringly thorough; I had the pleasure of taking an introductory split-shed weaving workshop with her at HGA Convergence (New Orleans, 2026).
 - Carol Strickler, ed. *A Weaver's Book of 8-Shaft Patterns*.
-- Marian Stubenitsky. *Weaving with Echo and Iris*.
+- [Marian Stubenitsky](https://weefschool.nl/en/). *Weaving MAX8*.
+- [Marian Stubenitsky](https://weefschool.nl/en/). *Weaving with Echo and Iris*.
 - Blair Tate. *The Warp: A Weaving Reference*.
 - Harriet Tidball. *The Double Weave: Plain and Patterned*.
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lessons*.
@@ -230,7 +232,24 @@ I have books but they're in Hangeul/Korean!
 - [Susan Wilson](https://anwgconference.org/archive/2023/susan-wilson/). *Weave Classic Crackle and More*.
 - [Claudia Wollny](https://www.claudia-wollny-edition.com/en/). *Die fabelhafte Welt der brettchengewebten Stola und Manipel zu St. Donat, Arlon: Mit 29 Webbriefen*. Deutsch, Français, English, Nederlands.
 - [Claudia Wollny](https://www.claudia-wollny-edition.com/en/). *Tablets at Work*; *Köper: Twill 1+1: Understanding and Designing 4 Twill Techniques for Tablet Weaving* (Deutsch, English).
-- [Yarn Barn of Kansas](https://www.yarnbarn-ks.com). *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for all the included patterns! 
+- [Yarn Barn of Kansas](https://www.yarnbarn-ks.com). *The Best of Yarn Barn: Complete instructions for 25 of Yarn Barn's most popular projects*. Finally wised up and realized this was likely more economical than buying individual PDFs or leaflets for all the included patterns!
+- S. A. Zielinski. *Master Weaver Vol. 6: Technology of Handweaving (equipment and its use)*. Ed. Robert Leclerc.
+  - Shuttles and Shuttle-Races.
+  - Shuttles, Bobbins, Quills.
+  - Quills.
+  - The Lease and the Lease Rods.
+  - Raddles.
+  - Doubling Stand.
+  - Shed Regulators. I have a larger counterbalance loom so I'm particularly interested in this!
+  - Pattern Harness.
+  - Templets or Stretchers.
+  - Templets for Finn Weave.
+  - Flying Shuttle.
+  - Weaving with Two Shuttles.
+  - Bobbin Winders.
+  - Taking Care of the equipment.
+  - Gadgets.
+  - Paddles.
 
 ## Ciba Review
 - #20. *The Development of the Textile Crafts in Spain*.
