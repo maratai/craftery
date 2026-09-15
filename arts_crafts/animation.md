@@ -5,6 +5,18 @@ Some of these resources will be a bit out of field.
 
 - Allan and Barbara Pease. *The Definitive Book of Body Language*.
 
+# Animation Apps
+
+## Animation Apps: iPadOS
+- [ToonSquid](https://toonsquid.com). What I use for pencil tests in an iPad. Note that 
+
+## Animation Apps: Linux
+- [enve](https://maurycyliebner.github.io). Open-source 2D animation software.
+
+## Animation Apps: Multi-Platform
+- [Callipeg](https://callipeg.com). Available for macOS, Windows, Linux, Android, iPadOS.
+- [LibreSprite](https://libresprite.github.io/#!/).
+
 # Animation Principles and Theory
 - Nancy Beiman. *Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life*, 2nd ed.
 - Ellen Besen, illus. Bryce Hallett. *Animation Unleashed*. Terrific overview; the illustrations are integral to the text. **Recommended**.
