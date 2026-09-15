@@ -165,6 +165,7 @@ I have books but they're in Hangeul/Korean!
 - Marguerite P. Davison. *A Handweaver's Pattern Book*.
 - Anne Dixon. *The Handweaver's Pattern Directory: Over 600 Weaves for Four-Shaft Looms*.
 - Harriet C. Douglas. *Handweaver's Instruction Manual*.
+- Terry Dwyer. *Caring for Your Loom and Spinning Wheel*.
 - Catharine Ellis. *Woven Shibori*.
 - Irene Emery. *The Primary Structures of Fabrics: An Illustrated Classification*.
 - Mariana Eriksson, Gunnel Gustavsson, and Kerstin Lovallius. *Warp and Weft: Lessons in Drafting for Handweaving*.
@@ -204,8 +205,11 @@ I have books but they're in Hangeul/Korean!
 - [Peggy Osterkamp](https://peggyosterkamp.com). #1 *Winding a Warp and Using a Paddle*; #2 *Warping Your Loom and Tying On New Warps*, 4th ed.; #3 *Weaving and Drafting Your Own Cloth*.
 - Âsa Pärson and Amica Sundström. *The Weaving Handbook: The Art and the Craft: Theories, Materials, Techniques, and Projects*.
 - Jane Patrick. *The Weaver's Idea Book: Creative Cloth on a Rigid Heddle Loom*.
+- [Marcy Petrini](https://www.marcypetrini.com). *Avoiding and Correcting Weaving Errors*.
 - [Marcy Petrini](https://www.marcypetrini.com). *From Four to More*. Multishaft weaving. The charts/drafts here are extraordinarily clear, with detailed explanations.
+- [Marcy Petrini](https://www.marcypetrini.com). *Pictionary*.
 - [Marcy Petrini](https://www.marcypetrini.com). *Structure and Function*. Designing fabric for specific functions, from weave structure to fiber and yarn choice and sett. I'm selfishly happy this includes discussion of satin weaves, which I don't always see in books that talk about weave structures for 4+ shafts!
+- [Marcy Petrini](https://www.marcypetrini.com). *A Weaving Year of Wonder*.
 - [Janet Phillips](https://www.janetphillips-weaving.co.uk). *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Virginia Postrel. *The Fabric of Civilization: How Textiles Made the World*.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
