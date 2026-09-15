@@ -68,6 +68,7 @@ Formerly of (G)I-DLE (I-DLE).
 - *Halo: Combat Evolved*.
 - *KPop Demon Hunters*.
 - *Lord of the Rings* trilogy.
+- *Masters of the Universe: Revelation* and *Masters of the Universe: Revolution*.
 - *NieR:Automata*.
 - *Star Trek VI: The Undiscovered Country*.
 
