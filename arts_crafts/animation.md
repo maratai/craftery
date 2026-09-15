@@ -16,6 +16,7 @@ Some of these resources will be a bit out of field.
 ## Animation Apps: Multi-Platform
 - [Callipeg](https://callipeg.com). Available for macOS, Windows, Linux, Android, iPadOS.
 - [LibreSprite](https://libresprite.github.io/#!/). 2D pixel art animation!
+- [RoughAnimator](https://www.roughanimator.com). Terrific pencil test animation software.
 - [TVPaint](https://tvpaint.com/en). I use TVPaint Pro on macOS. 2D raster animation.
 
 # Animation Principles and Theory
