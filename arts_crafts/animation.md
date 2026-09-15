@@ -7,6 +7,8 @@ Some of these resources will be a bit out of field.
 
 # Animation Apps
 
+Not a comprehensive list! My lane is 2D raster frame-by-frame (ish). I mostly pencil test on an iPad, moving into TVPaint Pro. I don't check for support for vector art, bones rigging, or stop-motion, so if those are important to you, a different list of apps is probably more useful to you.
+
 ## Animation Apps: iPadOS
 - [ToonSquid](https://toonsquid.com). What I use for pencil tests in an iPad. This is iPad-only, with no plans for other platforms. One-time payment.
 
