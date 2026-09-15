@@ -7,8 +7,14 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 - *Tel Aviv 2019*.
 
 # I-DLE (formerly (G)I-DLE))
+- *I Am*.
 - *I Never Die*.
+- *I Sway*.
 - *We Are*.
+- *We Made*.
+
+# Itzy
+- *Gold*.
 
 # Jeon Somi
 - *Game Plan*.
@@ -38,6 +44,9 @@ Currently of I-DLE ((G)I-DLE).
 
 - *MY*.
 
+# Nayeon
+- *Na*.
+
 # Pink
 - *Greatest Hits*.
 
@@ -45,3 +54,8 @@ Currently of I-DLE ((G)I-DLE).
 Formerly of (G)I-DLE (I-DLE).
 
 - *Rizz*.
+
+# Wendy
+K-pop.
+
+- *I Wish You Hell*.
