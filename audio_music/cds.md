@@ -31,6 +31,15 @@ The disbanded K-pop group.
 
 - *A Class*.
 - *Independent Women, Part III*. As far as I can tell, there are no previous Parts I and II!
+- *Touch*.
+
+# Miyeon
+Currently of I-DLE ((G)I-DLE).
+
+- *MY*.
+
+# Pink
+- *Greatest Hits*.
 
 # Soojin
 Formerly of (G)I-DLE (I-DLE).
