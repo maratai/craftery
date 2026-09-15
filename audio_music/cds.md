@@ -3,8 +3,15 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 
 (More TK)
 
+# I-DLE (formerly (G)I-DLE))
+- *We Are*.
+
 # Jeon Somi
 - *Game Plan*.
 
-# Marina
+# Lady Gaga
+- *The Fame*.
+
+# Marina and the Diamonds
 - *Ancient Dreams in a Modern Land*.
+- *Froot Loop*.
