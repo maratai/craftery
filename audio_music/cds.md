@@ -3,7 +3,11 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 
 (More TK)
 
+# Eurovision
+- *Tel Aviv 2019*.
+
 # I-DLE (formerly (G)I-DLE))
+- *I Never Die*.
 - *We Are*.
 
 # Jeon Somi
@@ -11,14 +15,21 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 
 # Lady Gaga
 - *The Fame*.
+- *Mayhem*.
 
 # Marina and the Diamonds
 - *Ancient Dreams in a Modern Land*.
 - *Froot Loop*.
 
+# Minnie
+Currently of I-DLE ((G)I-DLE).
+
+- *Her*.
+
 # Miss A
 The disbanded K-pop group.
 
+- *A Class*.
 - *Independent Women, Part III*. As far as I can tell, there are no previous Parts I and II!
 
 # Soojin
