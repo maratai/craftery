@@ -31,6 +31,9 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 - *Ancient Dreams in a Modern Land*.
 - *Froot Loop*.
 
+# Mia Asano
+- *Mia Asano*. (I think?)
+
 # Minnie
 Currently of I-DLE ((G)I-DLE).
 
