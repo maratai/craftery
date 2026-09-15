@@ -10,6 +10,7 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 - *Tel Aviv 2019*.
 
 # I-DLE (formerly (G)I-DLE))
+- *2*.
 - *I Am*.
 - *I Feel*.
 - *I Never Die*.
@@ -61,6 +62,9 @@ Currently of I-DLE ((G)I-DLE).
 Formerly of (G)I-DLE (I-DLE).
 
 - *Rizz*.
+
+# Soundtracks
+- *Halo: Combat Evolved*.
 
 # Wendy
 K-pop.
