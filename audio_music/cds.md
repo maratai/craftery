@@ -8,6 +8,7 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 
 # I-DLE (formerly (G)I-DLE))
 - *I Am*.
+- *I Feel*.
 - *I Never Die*.
 - *I Sway*.
 - *We Are*.
