@@ -8,9 +8,11 @@
 - Aaron A. Reed. *50 Years of Text Games: From Oregon Trail to AI Dungeon and Everything*. Absolutely magisterial. (Full disclosure: I found out about this after a friend emailed me because a parser game I wrote 20+ years ago got briefly namechecked!) **Recommended**.
 
 # Interactive Fiction and Narrative Scripting: Ink
+- [Atrament](https://atrament.ink), a game engine for interactive fiction powered by Ink.
 - [**Inkle Studios' Ink**](https://www.inklestudios.com/ink/), a narrative scripting language. Often used in conjunction with game engines, but can be used on its owwn to generate IF/hypertext games! **Recommended**.
 - [Ink Story Template](https://remyvim.github.io/ink-if-story-template/). Third-party template by RemyVim to gussy up narrative games written primarily in Ink. Includes (e.g.) support for very basic game audio. I enjoyed using this; the documentation is quite good. **Recommended**.
 - [Ink-Tester](https://github.com/wildwinter/Ink-Tester), "[a] simple testing framework for stories written in Inkle's Ink."
+- [Visual Ink](https://visualink.mavnn.eu), "a tool for building, playing, and publishing visual novels aimed at first time writers and quick prototyping."
 
 Resources
 
