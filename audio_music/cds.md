@@ -3,6 +3,9 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 
 (More TK)
 
+# Bangles
+- *A Different Light*. Cassette tape.
+
 # CLC
 - *No. 1*.
 
