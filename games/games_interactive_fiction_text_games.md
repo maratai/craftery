@@ -14,6 +14,7 @@
 - [**Inkle Studios' Ink**](https://www.inklestudios.com/ink/), a narrative scripting language. Often used in conjunction with game engines, but can be used on its owwn to generate IF/hypertext games! **Recommended**.
 - [Ink Story Template](https://remyvim.github.io/ink-if-story-template/). Third-party template by RemyVim to gussy up narrative games written primarily in Ink. Includes (e.g.) support for very basic game audio. I enjoyed using this; the documentation is quite good. **Recommended**.
 - [Ink-Tester](https://github.com/wildwinter/Ink-Tester), "[a] simple testing framework for stories written in Inkle's Ink."
+- [Ink VN Lite](https://joshgrams.itch.io/ink-vn-lite).
 - [Visual Ink](https://visualink.mavnn.eu), "a tool for building, playing, and publishing visual novels aimed at first time writers and quick prototyping."
 
 Resources
