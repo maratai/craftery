@@ -28,6 +28,9 @@ Physical CDs (and some cassettes), on the grounds that inventorying them is an e
 - *The Fame*.
 - *Mayhem*.
 
+# Le Sserafim
+- *Hot*.
+
 # Marina and the Diamonds
 - *Ancient Dreams in a Modern Land*.
 - *Froot Loop*.
