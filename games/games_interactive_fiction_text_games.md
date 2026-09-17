@@ -9,6 +9,7 @@
 
 # Interactive Fiction and Narrative Scripting: Ink
 - [Atrament](https://atrament.ink), a game engine for interactive fiction powered by Ink.
+- [binksi](https://smwhr.github.io/binksi/), "a tool for making small lo-fi games to play in the browser."
 - [**Inkle Studios' Ink**](https://www.inklestudios.com/ink/), a narrative scripting language. Often used in conjunction with game engines, but can be used on its owwn to generate IF/hypertext games! **Recommended**.
 - [Ink Story Template](https://remyvim.github.io/ink-if-story-template/). Third-party template by RemyVim to gussy up narrative games written primarily in Ink. Includes (e.g.) support for very basic game audio. I enjoyed using this; the documentation is quite good. **Recommended**.
 - [Ink-Tester](https://github.com/wildwinter/Ink-Tester), "[a] simple testing framework for stories written in Inkle's Ink."
