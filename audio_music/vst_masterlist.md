@@ -74,7 +74,7 @@
 - Blue Cat Free Amp.
 
 # [Chocolate Audio](https://www.chocolateaudio.com) (Kontakt)
-- [Glissando Harps](https://www.chocolateaudio.com/products/glissando-harps). The other harp library I have is Spitfire Audio's Harp.
+- [Glissando Harps](https://www.chocolateaudio.com/products/glissando-harps). The other harp library I have is Spitfire Audio's Harp. I keep eyeing WeyrerTon's [Tyrolean Harp](https://www.weyrerton.com/tyrolean-harp-kontakt-library) for other use cases, though!
 
 # [Cinesamples](https://cinesamples.com)
 - Accent Pianos (Kontakt). "Percussive" orchestral pianos.
