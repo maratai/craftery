@@ -55,9 +55,9 @@ Intended for beading but can be used for tapestry-style weaving (probably others
 # Floor Looms
 
 ## [Inagaki Kiryo](https://www.inagakikiryou.com/) floor loom [R-25](https://www.inagakikiryou.com/r25.html)
-Japanese floor loom. Newly arrived (June 23, 2026), nearly done with assembly (June 25, 2026)! It took about three months of build time plus shipping - not cheap, since it's international freight, **plus customs duties** (from Japan to the USA). Communications with Inagaki Kiryou was excellent, highly recommended. (To be updated.)
+Japanese floor loom. It took about three months of build time plus shipping - not cheap, since it's international freight, **plus customs duties** (from Japan to the USA). Communications with Inagaki Kiryou was excellent, highly recommended.
 
-Here it is assembled with four harnesses tied up; I have two more harnesses, but putting heddles on the harnesses is a pain! I'l get to it eventually.
+Here it is assembled with four harnesses tied up; I have more harnesses, but putting heddles on the harnesses is a pain! I'l get to it eventually.
 
 ![Inagaki R-25](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-27-r-25.jpg?raw=true)
 
@@ -82,7 +82,7 @@ This [assembly manual](https://github.com/maratai/craftery/blob/main/fiber_arts/
 - **height:** 165 cm (about 65")
 - **depth:** 160 cm (about 63")
 - 6 harnesses, 6 treadles - counterbalance
-- reed: 100/10 cm (25 dent)
+- reeds: 100/10 cm (25 dents per inch, metal), ~100/10 cm (25 dents per inch, bamboo, purchased secondhand from eBay), 184.8/10 cm (~45 dents per inch). The loom came with one reed.
 
 ## Saori Piccolo
 I love how petite this is. A great weaving experience for plainweave simplicity and lighter weights. It's sturdy for its size/weight, given the aluminum frame, but this is not for heavy-duty weaving. I got into handweaving by way of *handspinning*, so it's a great way to showcase handspun in plainweave!
