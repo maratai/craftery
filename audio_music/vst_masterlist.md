@@ -368,6 +368,11 @@ I think it's obvious that I stan for Orchestral Tools. I saved for a couple *yea
 - **Trailer Expressions** 1 through 4.
 - **World Fury**. Hybrid.
 
+# [Samplicity](https://samplicity.com)
+- [Berlin Studio](https://samplicity.com/berlin-studio/). Orchestral convolution reverb.
+- [Berlin Studio User Manual 1.3.5](https://cdn.samplicity.com/manuals/berlin-studio/Samplicity-Berlin-Studio-User-Manual-1.3.5.pdf) (PDF). *See* also the [unofficial "manual"](https://vi-control.net/community/threads/the-unofficial-berlin-studio-manual-official-manual-now-available.145693/) on VI Control.
+- [ScoreStage](https://samplicity.com/scorestage/). Orchestral (etc) algorithmic reverb.
+
 # [Soniccouture](https://www.soniccouture.com/en/) (Kontakt)
 - Hammersmith Free. "A free verison of the most detailed sampled piano available. 21 velocity layers."
 - **Morpheus**. "...the Morpheus is a modular aluminum percussion instrument: the keys can be rearranged in any order you like, as each metal bar is attached to its own tuned resonator. The aluminum gives Morpheus one of the purest percussion sounds you will hear - add tremolo and it sounds very much like a vibraphone, but with an extra 'glass-like' quality."
