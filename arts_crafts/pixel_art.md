@@ -4,7 +4,8 @@ Note: I'm indebted to [5 Easy to Use Tools for Pixel Artists: Links](https://doc
 
 ## Asesprite
 
-- [Asesprite](https://www.aseprite.org). Animated sprite editor and pixel art tool.
+- [650+ Dithering Brushes and Patterns for Asesprite](https://sodedromme.itch.io/246-brushes-and-patterns-for-aseprite).
+- [**Asesprite**](https://www.aseprite.org). Animated sprite editor and pixel art tool.
   - *See* also the [Documentation](https://www.aseprite.org/docs/).
   - [Making Asesprite animations shorter](https://community.aseprite.org/t/i-need-to-make-my-animation-shorter/17368/2), a script. *See* [Asesprite Documentation: Scripting](https://www.aseprite.org/docs/scripting/).
 - [Asesprite Audio Sync Tool](https://pixelisland.itch.io/aseprite-audio-sync-tool). Windows only.
