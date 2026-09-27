@@ -7,6 +7,15 @@
 # CRPGs (computer roleplaying games)
 - Felipe Pepe, ed. *The CRPG Book: A Guide to Computer Role-Playing Games, Expanded Edition*. Discussions from 1975 to 2019. Delightful to browse.
 
+# Game Engines and Frameworks
+I am *not* a game dev. I just like looking around.
+
+## [Solar2D](https://solar2d.com)
+"[A] Lua based game engine with focus on ease of iterations and usage," forked from Corona SDK. Open-source, MIT license. To investigate.
+
+- [Creating a Project](https://docs.coronalabs.com/guide/programming/01/index.html#creating-a-project) starter tutorial.
+- [Introduction to Solar2D](https://docs.coronalabs.com/guide/programming/intro/index.html).
+
 # Video Game Development (General)
 
 ## [Game Devs of Color Expo](https://www.gamedevsofcolor.org)
