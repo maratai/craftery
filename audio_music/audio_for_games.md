@@ -1,5 +1,8 @@
 Game audio gets its own file because of some the specific technical requirements.
 
+# Game Audio: General
+- [Game Audio Learning](https://www.gameaudiolearning.com). To investigate.
+
 # Game Audio Programming: General
 - Guy Somberg, ed. *Game Audio Programming: Principles and Practices*. 2017.
 
