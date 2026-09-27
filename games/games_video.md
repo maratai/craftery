@@ -19,7 +19,7 @@ I am *not* a game dev. I just like looking around.
 # Video Game Development (General)
 
 ## [Game Devs of Color Expo](https://www.gamedevsofcolor.org)
-Highly recommended. Many past talks are available as recordings. I sat in on some of the 2026 talks. You don't have to be a game dev or a person of color to listen in/learn or show support! Hat-tip to Anni Movsisyan.
+Highly recommended. Many past talks are available as recordings. I registered so I could sit in on some of the 2026 talks! You don't have to be a game dev or a person of color to listen in/learn or show support! Hat-tip to Anni Movsisyan.
 
 This is a selection of recorded talks I listened to that spoke to me at a particular moment in time.
 - [Make Your Players Cry: Grief, Loss and Identity in Games](https://app.swapcard.com/event/2026-game-devs-of-color-expo/planning/UGxhbm5pbmdfMTQ2Njc2NA==) - Emily Pitcher (Sondering Studio - Writer), September 27, 2023. "Games are often used as an escape, so why do so many people gravitate towards games depicting real life struggles? Emily Pitcher's talk shines light on why we make emotional games and how to write about serious topics (grief, loss, mental health, cultural issues, etc.) with nuance and honesty. Writing about sensitive issues can be uncomfortable, so Pitcher gives tips on ensuring your game takes these hardships seriously while uplifting your players. She discusses researching, writing without cliches, and adding occasional levity in her game A Taste of the Past."
