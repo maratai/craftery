@@ -171,11 +171,17 @@ The ones that I own or have tried.
 - I hate plying :p but needs must.
 
 **Ashford Traditional**
-- Saxony wheel.
+- Saxony wheel. This is not a heavy wheel but you're probably going to park it in one location and leave it there. It's not really travel-with-able due to its footprint.
 - Scotch tension, single treadle.
 - The sliding-hook flyer will go to 17.5:1 (single drive).
-- Ashford ecosystem means that there are replacement parts for everything.
+- The orifice is the one thing I dislike about Ashford wheels. I had to improvise an orifice hook and even then threading the spin or leader through the orifice to get started is a pain. This has been the case across all three flyers so I think it's just the design.
+- Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
+- This will happily spin fine/cobweb although it doesn't have an ultra-high ratio.
+- Treadling this is so pleasant. I haven't treadled any other saxony wheels so cannot compare. There's almost a "floating" feeling to the treadle once it gets going.
 
 **Ashford Traveller**
-- Castle wheel.
+- Castle wheel. Despite the name, you can put it in a car but it's not *that* portable.
 - Scotch tension, single treadle.
+- Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
+- The orifice is the one thing I dislike about Ashford wheels. I had to improvise an orifice hook and even then threading the spin or leader through the orifice to get started is a pain. This has been the case across all three flyers so I think it's just the design.
+- This is a reliable workhorse wheel, a kind and patient teacher. I *can* spin cotton and spin fine on this wheel but I had to treadle like the wind, so it wouldn't be my first choice for cotton or cobweb.
