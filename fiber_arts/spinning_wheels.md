@@ -209,7 +209,7 @@ The ones that I own or have tried.
 - Ratios are adjusted mechanically; it's hard to explain without diagrams but very easy to figure out. It "only" goes up to 10.5 but between Scotch tension and the smooth treadling action, it's straightforward to spin fine with this.
 - Open orifice (similar-ish to a hook orifice) accommodates a wide range of yarns/spins. However, because the wheel is so small, you cannot see the bobbin filling while spinning without hunching over.
 - The light weight (8 lbs.!) and narrow base (due to the petite size) mean that this wheel may not be ergonomically great for all body types. If you want a wider treadling base or you have longer legs, this may not be the best choice.
-- One disadvantage is that this is a wheel from a one-man workshop. The waitlist goes out a couple *years*, people tend to hang on to theirs, and they're inherently scarce on the secondhand market so it's difficult to get an opportunity to try one before buying.
+- One disadvantage is that this is a wheel from a one-man workshop. The waitlist goes out a couple *years*, people tend to hang on to theirs, and they're inherently scarce on the secondhand market so it's difficult to get an opportunity to try one before buying. Instructions for the wheel are easy to find on the workshop's site and the wheel is very simple to put together and take apart once you learn how it's set up.
 - I love this wheel. Mine's on loan to a friend, but if your body mechanics support it, this is an amazing wheel with a versatile design, and for its size it's probably top of class in ultraportables.
 
 **Spinolution Mach III**
