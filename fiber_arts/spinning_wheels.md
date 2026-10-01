@@ -202,6 +202,16 @@ The ones that I own or have tried.
 - Louët parts are often still available (via Schacht) but this wheel has been out of production for a couple decades and appears to be somewhat uncommon secondhand (how I obtained mine). As a results, sourcing replacement parts or even figuring out what's compatible with the S90 can be trickier.
 - This wheel is a delight to treadle. The main disadvantage is the hilariously aggressive uptake even with the tension brake completely disengaged, which makes spinning fine or spinning short-staple fibers more challenging.
 
+**Pocket Wheel**
+- Nontraditional ultraportable wheel.
+- Scotch tension.
+- Double treadle, with whisper-light action. Also an incredibly quiet wheel.
+- Ratios are adjusted mechanically; it's hard to explain without diagrams but very easy to figure out. It "only" goes up to 10.5 but between Scotch tension and the smooth treadling action, it's straightforward to spin fine with this.
+- Open orifice (similar-ish to a hook orifice) accommodates a wide range of yarns/spins. However, because the wheel is so small, you cannot see the bobbin filling while spinning without hunching over.
+- The light weight (8 lbs.!) and narrow base (due to the petite size) mean that this wheel may not be ergonomically great for all body types. If you want a wider treadling base or you have longer legs, this may not be the best choice.
+- One disadvantage is that this is a wheel from a one-man workshop. The waitlist goes out a couple *years*, people tend to hang on to theirs, and they're inherently scarce on the secondhand market so it's difficult to get an opportunity to try one before buying.
+- I love this wheel. Mine's on loan to a friend, but if your body mechanics support it, this is an amazing wheel with a versatile design, and for its size it's probably top of class in ultraportables.
+
 **Spinolution Mach III**
 - Nontraditional castle wheel. This is a beast at 25+ lbs. You can carry it around and mine has the optional wheels to wheel it around, but I wouldn't casually transport this.
 - Nontraditional Scotch (ish) tension, double treadle. This uses an unusual toe-treadling action that's love-it-or-hate-it. I like it, but try before you buy if possible.
