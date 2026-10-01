@@ -3,6 +3,8 @@ Spinning wheels I've owned/used.
 
 I seem to be bifurcating in preference between absurdly portable travel treadle wheels (this is driven by health/mobility factors) and faster/more "advanced" spinning wheels!
 
+Comparison discussion at the end.
+
 # Charkha-style wheels
 
 ## Itoguruma
@@ -154,3 +156,26 @@ I covet an [Emily accelerated wheel](https://www.ztwist.com/) (ratios up to 40:1
 ## [Golding spinning wheel](https://dropspindle.info/product-category/spinning-wheels/)
 At this point, we're in fancy heirloom territory. Golding has incredibly beautiful [customized castle spinning wheels](https://dropspindle.info/product-category/spinning-wheels/). These *start* at $10,000+ USD but go up to 33:1 in ratio.
 
+# Spinning Wheel Comparisons
+The ones that I own or have tried.
+
+**My wheel biases**
+- I'm short (5'4").
+- I prefer treadle wheels to e-spinners at this point in time because I like treadling.
+- I naturally tend to treadle fast.
+- I prefer single treadle wheels (especially if they're the type with a very wide treadle so you can use both feet together if you feel like it). I do own and use a double treadle wheel but it's harder because I'm uncoordinated.
+- I prefer Scotch tension so I can reduce the take-up down to almost nothing for spinning fine.
+- My favorite spins are silk and ramie (or flax/similar).
+- I prefer to spin fine - the finer the better.
+- I spin wool for practice but don't pursue it beyond that.
+- I hate plying :p but needs must.
+
+**Ashford Traditional**
+- Saxony wheel.
+- Scotch tension, single treadle.
+- The sliding-hook flyer will go to 17.5:1 (single drive).
+- Ashford ecosystem means that there are replacement parts for everything.
+
+**Ashford Traveller**
+- Castle wheel.
+- Scotch tension, single treadle.
