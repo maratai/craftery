@@ -175,14 +175,14 @@ The ones that I own or have tried.
 - Scotch tension, single treadle.
 - The sliding-hook flyer will go to 17.5:1 (single drive).
 - The orifice is the one thing I dislike about Ashford wheels. I had to improvise an orifice hook and even then threading the spin or leader through the orifice to get started is a pain. This has been the case across all three flyers so I think it's just the design.
-- Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
+- The stellar Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
 - This will happily spin fine/cobweb although it doesn't have an ultra-high ratio. It'll spin bulkier too.
 - Treadling this is so pleasant. I haven't treadled any other saxony wheels so cannot compare. There's almost a "floating" feeling to the treadle once it gets going.
 
 **Ashford Traveller**
 - Castle wheel. Despite the name, you can put it in a car but it's not *that* portable.
 - Scotch tension, single treadle.
-- Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
+- The stellar Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
 - Built-in lazy kate, more useful for bobbin storage than plying. (I've tried.)
 - The orifice is the one thing I dislike about Ashford wheels. I had to improvise an orifice hook and even then threading the spin or leader through the orifice to get started is a pain. This has been the case across all three flyers so I think it's just the design.
 - This is a reliable workhorse wheel, a kind and patient teacher. I *can* spin cotton and spin fine on this wheel but I had to treadle like the wind, so it wouldn't be my first choice for cotton or cobweb.
@@ -213,7 +213,7 @@ The ones that I own or have tried.
 - I love this wheel. Mine's on loan to a friend, but if your body mechanics support it, this is an amazing wheel with a versatile design, and for its size it's probably top of class in ultraportables.
 
 **Spinolution Mach III**
-- Nontraditional castle wheel. This is a beast at 25+ lbs. You can carry it around and mine has the optional wheels to wheel it around, but I wouldn't casually transport this.
+- Nontraditional castle wheel. This is a beast at 25+ lbs. You can carry it around and mine has the optional wheels to wheel it around. I've fit it into a car for a workshop the next city over, but I wouldn't casually transport this because it's bulky and kind of a pain to travel with.
 - Nontraditional Scotch (ish) tension, double treadle. This uses an unusual toe-treadling action that's love-it-or-hate-it. I like it, but try before you buy if possible.
 - I have the 8 oz. flyer and the accelerated 4A (4 oz.) flyers. Other flyers include 16 oz. and 32 oz. but I cannot imagine *wanting* to spin that much bobbin. Spinolution's terrific modular design makes it a breeze to swap flyers in and out at need. The downside to this flexibility is that you need to read up on how the wheel works as it's rather different from "standard" wheels, but Spinolution's documentation is quite good.
 - Both delta orifice and hook orifices are available (and can be swapped in/out modularly) to accommodate different spins. I'm told hook orifices are particularly excellent if you spin bulky/art yarn.
