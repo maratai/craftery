@@ -146,7 +146,7 @@ I long for one really nice "traditional"-style Saxony wheel (a [Kromski Polonais
 
 I see that [Lendrum Wheels](https://lendrumwheels.ca/) (Canada) has risen from the ashes, so I will keep an eye out if they start producing Saxony wheels again! I've heard such good things, especially if the Very Fast Flyer becomes available again.
 
-At the local fiber guild, I recently had the opportunity to try spinning on a [Majacraft](https://www.majacraft.co.nz) [Suzie](https://www.majacraft.co.nz/?page_id=63), an absolutely beautiful treadling experience. If wishes were wheels. I'd love to try either a [Rose](https://www.majacraft.co.nz/?page_id=30) or a [Luna](https://www.majacraft.co.nz/?page_id=3371), as I also hear spinners consistently rave about how much they love Majacraft wheels.
+At the local fiber guild, I recently had the opportunity to try spinning on a [Majacraft](https://www.majacraft.co.nz) [Suzie](https://www.majacraft.co.nz/?page_id=63), an absolutely beautiful treadling experience. If wishes were wheels. I'd love to try either a [Rose](https://www.majacraft.co.nz/?page_id=30) or a [Luna](https://www.majacraft.co.nz/?page_id=3371), as I hear spinners consistently rave about how much they love Majacraft wheels.
 
 I'd absolutely try a Jensen spinning wheel if I had the opportunity.
 
@@ -201,6 +201,12 @@ The ones that I own or have tried.
 - The regular flyer goes to ???; the Irish tension bulky flyer also works. I have a WooLee winder and bobbins for this, which work well.
 - Louët parts are often still available (via Schacht) but this wheel has been out of production for a couple decades and appears to be somewhat uncommon secondhand (how I obtained mine). As a results, sourcing replacement parts or even figuring out what's compatible with the S90 can be trickier.
 - This wheel is a delight to treadle. The main disadvantage is the hilariously aggressive uptake even with the tension brake completely disengaged, which makes spinning fine or spinning short-staple fibers more challenging.
+
+**Majacraft Suzie**
+- Castle wheel.
+- Scotch tension (?).
+- Double treadle, with butter-smooth action. Very quiet in operation.
+- I used this during a fiber guild meeting as a loaner (for spinning cotton), for which I am so grateful. She's a delight to use and makes me want to try other Majacraft wheels!
 
 **Pocket Wheel**
 - Nontraditional ultraportable wheel.
