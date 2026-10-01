@@ -183,9 +183,13 @@ The ones that I own or have tried.
 - Castle wheel. Despite the name, you can put it in a car but it's not *that* portable.
 - Scotch tension, single treadle.
 - Ashford ecosystem means there are replacement parts for everything. My Ashford flyers can be used with both the Traditional and Traveller.
+- Built-in lazy kate, more useful for bobbin storage than plying. (I've tried.)
 - The orifice is the one thing I dislike about Ashford wheels. I had to improvise an orifice hook and even then threading the spin or leader through the orifice to get started is a pain. This has been the case across all three flyers so I think it's just the design.
 - This is a reliable workhorse wheel, a kind and patient teacher. I *can* spin cotton and spin fine on this wheel but I had to treadle like the wind, so it wouldn't be my first choice for cotton or cobweb.
 
 **Louët S90**
-- Nontraditional castle wheel, folds up for transport although it's a slightly awkward size.
+- Nontraditional castle wheel, folds up for transport/putting away although it's a slightly awkward size. The design takes a little getting used to but it works well.
 - Irish tension, single wide treadle.
+- Built-in lazy kate that swings out (and can be secured in that position). It's actually pretty reasonable for plying as well as bobbin storage.
+- The regular flyer goes to ???; the Irish tension bulky flyer also works. I have a WooLee winder and bobbins for this, which work well.
+- Louët parts are often still available (via Schacht) but this wheel has been out of production for a couple decades and appears to be somewhat uncommon secondhand (how I obtained mine). As a results, sourcing replacement parts or even figuring out what's compatible with the S90 can be trickier.
