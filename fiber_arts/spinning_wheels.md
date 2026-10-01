@@ -187,9 +187,26 @@ The ones that I own or have tried.
 - The orifice is the one thing I dislike about Ashford wheels. I had to improvise an orifice hook and even then threading the spin or leader through the orifice to get started is a pain. This has been the case across all three flyers so I think it's just the design.
 - This is a reliable workhorse wheel, a kind and patient teacher. I *can* spin cotton and spin fine on this wheel but I had to treadle like the wind, so it wouldn't be my first choice for cotton or cobweb.
 
+**Dreaming Robots EEW 6.1**
+- E-spinner.
+- Scotch tension.
+- Small, easily transported, terrific design. I have spun with this in the passenger seat of a car during a road trip. It's also not quite as loud as I'd thought it would be, although you can definitely hear it whirring.
+- Optionally can run off a battery although for regulatory reasons you need to buy one separately.
+- This is a terrific workhorse e-spinner at a comparatively affordable price point. I've seen a very high-end Daedalus Falcon at work and that's a *lot* of wheel; but for most hobbyist spinners, this is likely a good option. There are other e-spinners on the market for different use cases; I can't comment further on that.
+
 **Louët S90**
 - Nontraditional castle wheel, folds up for transport/putting away although it's a slightly awkward size. The design takes a little getting used to but it works well.
 - Irish tension, single wide treadle.
 - Built-in lazy kate that swings out (and can be secured in that position). It's actually pretty reasonable for plying as well as bobbin storage.
 - The regular flyer goes to ???; the Irish tension bulky flyer also works. I have a WooLee winder and bobbins for this, which work well.
 - Louët parts are often still available (via Schacht) but this wheel has been out of production for a couple decades and appears to be somewhat uncommon secondhand (how I obtained mine). As a results, sourcing replacement parts or even figuring out what's compatible with the S90 can be trickier.
+- This wheel is a delight to treadle. The main disadvantage is the hilariously aggressive uptake even with the tension brake completely disengaged, which makes spinning fine or spinning short-staple fibers more challenging.
+
+**Spinolution Mach III**
+- Nontraditional castle wheel. This is a beast at 25+ lbs. You can carry it around and mine has the optional wheels to wheel it around, but I wouldn't casually transport this.
+- Nontraditional Scotch (ish) tension, double treadle. This uses an unusual toe-treadling action that's love-it-or-hate-it. I like it, but try before you buy if possible.
+- I have the 8 oz. flyer and the accelerated 4A (4 oz.) flyers. Other flyers include 16 oz. and 32 oz. but I cannot imagine *wanting* to spin that much bobbin. Spinolution's terrific modular design makes it a breeze to swap flyers in and out at need. The downside to this flexibility is that you need to read up on how the wheel works as it's rather different from "standard" wheels, but Spinolution's documentation is quite good.
+- Both delta orifice and hook orifices are available (and can be swapped in/out modularly) to accommodate different spins. I'm told hook orifices are particularly excellent if you spin bulky/art yarn.
+- The Mach III is out of production, but Spinolution's accessories (flyer heads, etc) from the current production version of this wheel, the Monarch, are compatible with it. If you need a wheel that can in principle do EVERYTHING and you're willing to go all-in on the ecosystem, this is an AMAZING wheel.
+- The 4A flyer goes up to 73:1 (I have verified this empirically), which is delightful and absurd. I'm not sure there are many other treadle wheels offering similarly fast ratios; that said, I've spun cotton at 5:1 on an Ashford Traveller so it's not *necessary*. Delightful! But not necessary. The Mach III excels for spinning cobweb and/or silk, though.
+- This is perhaps my most capable wheel and I love her. That said, the quirkiness of the treadling mean that I wouldn't normally advise buying before trying. The other disadvantage is that because the design is nontraditional and Spinolutions are not *as* common (as far as I can tell) in the USAn handspinning community, getting advice/help can be a little trickier.
