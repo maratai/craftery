@@ -248,6 +248,7 @@ I am *not* an expert; I'm a novice weaver, mostly self-taught.
 
 **Inagaki R-25**
 - 6S 6T counterbalance. This is available in 8S 8T as well, and a larger weaving width.
+- Overhanging beater, somewhat adjustable for different reed heights.
 - Weaving width: 48 cm (~19").
 - Dimensions: 86 cm wide (~34"), 160 cm deep (~63"), 165 cm tall (~65").
 - Weight: ~70 lbs. I can slide it around on the carpeted floor to access stuff, but this isn't a loom you're going to casually move around.
@@ -257,11 +258,22 @@ I am *not* an expert; I'm a novice weaver, mostly self-taught.
 - Downside: these are built to order and made in Japan by Inagaki Kiryo, so there will be a wait. The shipping cost is substantial. I'm in the USA so I don't know what the tariff situation is going to be going forward either. That said, zero regrets. I adore this loom!
 
 **Saori Piccolo**
-- 2S 2T counterbalance. I don't believe there's an "upgrade path" to more shafts for this loom; it's all plain weave all the time.
-- Weight: 15.3 lbs (7 kg)
+- 2S 2T counterbalance. I don't believe there's an "upgrade path" to more shafts for this loom; it's all plain weave all the time. This is a quiet loom with a light treadling action and a HUGE shed.
 - Weaving width: 40 cm (~16").
+- Underslung beater.
+- Weight: 15.3 lbs (7 kg)
 - Dimensions: 22" wide, 22" deep (6" when folded), 32" tall (36" when folded). I cannot emphasize enough how *absurdly* compact this becomes when folded. You can fold it while warped although not *while* in the process of warping (or, you can, but it's a pain to make sure your warp threads don't slide out of the heddles etc, ask me how I know :p ). You can also adjust the working height (two settings), which can be handy.
-- reeds: 40/10 cm (?), 50/10 cm (12.5 dent), 70/10 cm (17.5 dent). The "standard" reed you'd ordinarily get for the Piccolo is 50/10 or 12.5 dent.
+- reeds: 40/10 cm (?), 50/10 cm (12.5 dent), 70/10 cm (17.5 dent). The "standard" reed you'd ordinarily get for the Piccolo is 50/10 or 12.5 dent. **Important**: due to the narrower channels for reeds in the beater, "standard"-thickness USAn/European reeds *will not** fit the Piccolo unless you jury-rig something.
 - Saori looms are designed to *optionally* be used with pre-wound warps on stiff cardboard warp tubes. You can *also* buy equipment to wind your own warp tubes, or warp in a traditional manner. The additional warping equipment (Saori Kenzo tabletop system) is not cheap, but from an ergonomic standpoint, it's very nice to have the option of doing warping work separately at a table, or to wind and store warps for future use without tying up the loom. I believe there's a way to "store" a WIP weaving and swap it out as well, but again, this equipment is not cheap.
 - I bought mine secondhand so it was substantially assembled, but the setup is comparatively straightforward with instructions. Careful of the direction of the warp beam as it's "opposite" in direction for tension to most looms.
 - Downsides: This is possibly the lightest and most compact loom in its size/class *if* you're fine with plain weave. Unfortunately, it went out of production a couple years ago so if you want one, it'll have to be secondhand. The accessories specific to the Piccolo are likely to become increasingly scarce as well, on top of Saori equipment generally being pricey. Saori looms don't appear to be common on the secondhand market where I am (USA, Louisiana). It also won't stand up to very high tension or a heavy beat, but since I'm not a rug weaver and what I want from this loom is its ultra-portability, ultra-compactness, and how *pleasant* it is to use, it's fine! Just be aware. I note that I'm short and the size of this loom works perfectly for me, but if you're a taller or longer-legged weaver, you may want to try before you buy if possible. I *think* there are height extenders but that adds to the expense.
+
+**Saori WX60**
+- 2S 2T counterbalance; you can buy an adapter to 4S 6T *sinking shed* jack, which is how I have mine set up right now (and the transformation is completely reversible). The treadling action is light, the loom is comparatively quiet, and you can get a HUGE shed with this.
+- Weaving width: 60 cm (~23").
+- Underslung beater.
+- Dimensions: 76 cm wide (~30"), 76 cm deep (~30") (25 cm / ~10" deep when folded), 98.5 cm tall (~39") (106 cm / ~42" when folded). This is also absurdly compact when folded up.
+- Weight: 13.5 kg (~27 lbs). I prioritized *lightweight folding looms* for my first floor looms (the Piccolo and WX60) so I can sling them into the car in case of evacuation as I live on the Gulf Coast and we get hurricanes.
+- Reeds: comes with a reed at 50/10 cm (12.5 dent) and two harnesses with approximately 400 wire heddles. You can also use compatible Texsolv heddles no problem. I added a finer reed at 100/10 cm (25 dent) and a comb reed. **Important**: due to the narrower channels for reeds in the beater, "standard"-thickness USAn/European reeds *will not** fit the Piccolo unless you jury-rig something.
+- For a loom this lightweight and this compact and this *versatile* (as 4S 6T), this is an excellent loom as long as you're aware that, like the Piccolo, it won't stand up to very high tension or a heavy beat. I'm not a rug weaver and I adore this loom.
+- Upsides/downsides: Saori looms are made in Japan, are not *as* common in the USA as other brands, and they are comparatively pricey. They are, however, some of the lightest-weight and most compact in their weight/size class. The WX60 *is* still in production (October 2026), and while also pricey, there are a staggering number of (paid) add-ons, adapters, etc that accommodate people with various disabilities or different heights. There's a Saori loom that's designed to accommodate wheelchair users (one of the non-folding CH60 models)!
