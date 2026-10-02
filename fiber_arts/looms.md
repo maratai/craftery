@@ -2,6 +2,8 @@
 
 **Nota bene:** These are not intended as examples of "good" or competent weaving, just pictures so you can get a sense of the loom in question.
 
+*See* the comparison discussion at the end for floor looms, if you're on the fence! (TK)
+
 # Band and Tape Looms
 
 Have a preliminary side-by-side comparison!
@@ -233,3 +235,23 @@ I can't claim this is more than a fidget given how tiny it is (3D printed from a
 ![Studio ITDA tiny rigid heddle loom](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-26-itda-01.jpg?raw=true)
 
 ![Studio ITDA tiny rigid heddle loom, with a BPAL perfume bottle for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-26-itda-02.jpg?raw=true)
+
+# Floor Loom Comparison
+I am *not* an expert; I'm a novice weaver, mostly self-taught.
+
+**My loom biases**
+- I am short (5'4") with stubby arms, so I prefer a smaller weaving width. I also don't mind piecing things together for sewing as e.g. traditional (ish) Japanese or Korean clothes are often designed for narrower looms/fabrics anyway.
+- I live on the Gulf Coast so I have tended to prefer smaller *and lighter* looms, especially folding looms, because that way I have a hope of evacuating one or two looms with me if there's a hurricane or flood and it'll fit in the car.
+- I'm on the fence about structure weaving; I think I'd like to explore it more but I don't know that I *love* it, yet. My biggest interests right now are satin and damask, down the line!
+- I started in handspinning so I'm definitely interested in *color*, and being able to use my handspun as *weft*.
+- My favorite fibers to weave with are cotton and silk. I don't tend to work with wool much either as a handspinner or a weaver, mainly because I live in terror of felting stuff by accident. I also live in a hot climate (Louisiana) so I don't have much need for very warm clothes or blankets!
+
+**Inagaki R-25**
+- 6S 6T counterbalance. This is available in 8S 8T as well, and a larger weaving width.
+- Weaving width: 48 cm (~19").
+- Dimensions: 86 cm wide (~34"), 160 cm deep (~63"), 165 cm tall (~65").
+- ~70 lbs.
+- Reeds: 100/10 cm (~25 dents/inch), 184.8/10 cm (~45 dents per inch). The loom comes with one (1) included reed but I bought an extra. I believe 50/10 cm (~12.5 dents/inch) is the coarsest available in metal reeds, while 39.7/10 cm (~10 dents/inch) is the coarsest available in bamboo reeds (more expensive). **Important**: One downside is that "standard" USAn/European reeds **will not** fit the beater as-is as the upper/lower channels are much narrower. You *can* jury-rig a "fit" by using zip ties or similar to hold a thicker reed in place but it's not ideal. I *believe* that Saori Piccolo reeds will fit but I can't check that until I finish the current weaving. /o\
+- Assembly was straightforward through the diagrams, even the parts where instructions were in Japanese. For an experienced weaver, I suspect assembly would have been a couple hours, tops.
+- Inagaki Kiryo offers a *lot* of options and add-ons, so you can customize your setup to taste. I bought extra shafts/harnesses (?) and I'm personally looking forward to attempting to set this up in 10S 6T with dräll pulleys (obtained secondhand, likely from Vävstuga originally).
+- Downside: these are built to order and made in Japan by Inagaki Kiryo, so there will be a wait. The shipping cost is substantial. I'm in the USA so I don't know what the tariff situation is going to be going forward either. That said, zero regrets. I adore this loom!
