@@ -3,7 +3,7 @@ Spinning wheels I've owned/used.
 
 I seem to be bifurcating in preference between absurdly portable travel treadle wheels (this is driven by health/mobility factors) and faster/more "advanced" spinning wheels!
 
-Comparison discussion at the end.
+*See* the [comparison discussion](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md#spinning-wheel-comparisons) at the end for an overview, if you're on the fence!
 
 # Charkha-style wheels
 
