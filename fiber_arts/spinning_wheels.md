@@ -174,6 +174,7 @@ The ones that I own or have tried.
 Most of these were in a spirit of inquiry/learning. I've **bolded** my personal favorites!
 
 - alpaca
+- angora
 - bamboo (viscose)
 - camel, baby
 - cashmere
@@ -185,7 +186,7 @@ Most of these were in a spirit of inquiry/learning. I've **bolded** my personal 
 - **ramie**
 - **silk, bombyx**
 - silk, eri
-- **silk, mugah**
+- **silk, muga**
 - silk, sari
 - silk, tussah
 - wool
