@@ -236,8 +236,10 @@ I can't claim this is more than a fidget given how tiny it is (3D printed from a
 
 ![Studio ITDA tiny rigid heddle loom, with a BPAL perfume bottle for scale](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-26-itda-02.jpg?raw=true)
 
-# Floor Loom Comparison
+# Floor Loom Comparisons
 I am *not* an expert; I'm a novice weaver, mostly self-taught.
+
+I'm still fixing the tie-up on my Toika Laila (8S 8T countermarche); I will report back later!
 
 **My loom biases**
 - I am short (5'4") with stubby arms, so I prefer a smaller weaving width. I also don't mind piecing things together for sewing as e.g. traditional (ish) Japanese or Korean clothes are often designed for narrower looms/fabrics anyway.
