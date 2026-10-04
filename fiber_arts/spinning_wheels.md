@@ -167,8 +167,63 @@ The ones that I own or have tried.
 - I prefer Scotch tension so I can reduce the take-up down to almost nothing for spinning fine.
 - My favorite spins are silk and ramie (or flax/similar).
 - I prefer to spin fine - the finer the better.
-- I spin wool for practice but don't pursue it beyond that.
+- I spin wool and wool blends for practice but don't pursue it beyond that.
 - I hate plying :p but needs must.
+
+**Fibers I've spun**
+Most of these were in a spirit of inquiry/learning. I've **bolded** my personal favorites!
+
+- alpaca
+- bamboo (viscose)
+- camel, baby
+- cashmere
+- cat (catten floof!)
+- cotton
+- flax, tow
+- Himalayan nettle
+- lotus silk
+- **ramie**
+- **silk, bombyx**
+- silk, eri
+- **silk, mugah**
+- silk, sari
+- silk, tussah
+- wool
+  - Bergschaf
+  - **Blue-Faced Leicester**
+  - Castlemilk Moorit
+  - Cormo
+  - Corriedale
+  - Falkland
+  - Haunui
+  - Icelandic
+  - Manx Loughtan
+  - **merino**
+  - **North Ronaldsay**
+  - Perendale
+  - Polwarth
+  - Radnor
+  - **Rambouillet**
+  - Romney
+  - Shaniko
+  - Shetland
+  - Shropshire
+  - Targhee
+
+Particular blends:
+- angora/camel/cashmere/silk
+- angora/cashmere/guanaco/muga silk
+- angora/cashmere/chitin (!)/merino
+- **bamboo (retted)/silk (bombyx)**
+- cashmere/merino/silk
+- cashmere/merino/possum (!)/silk (bombyx)
+- **cashmere/merino/silk (bombyx)/wallaby**
+- cotton/hemp/tussah silk (40/20/40 blend, this was as wild as you might imagine)
+- cotton/silk (bombyx)
+- **guanaco/merino/pygora**
+- merino/silk
+
+If you're wondering about the more unusual blends, they were probably from [Ixchel Fibre](https://ixchel.com.au)!
 
 **Ashford Traditional**
 - Saxony wheel. This is not a heavy wheel but you're probably going to park it in one location and leave it there. It's not really travel-with-able due to its footprint.
