@@ -159,7 +159,7 @@ At this point, we're in fancy heirloom territory. Golding has incredibly beautif
 # Spinning Wheel Comparisons
 The ones that I own or have tried.
 
-**My wheel biases**
+## My wheel biases
 - I'm short (5'4").
 - I prefer treadle wheels to e-spinners at this point in time because I like treadling.
 - I naturally tend to treadle fast.
@@ -170,7 +170,7 @@ The ones that I own or have tried.
 - I spin wool and wool blends for practice but don't pursue it beyond that.
 - I hate plying :p but needs must.
 
-**Fibers I've spun**
+## Fibers I've spun
 Most of these were in a spirit of inquiry/learning. I've **bolded** my personal favorites!
 
 - alpaca
