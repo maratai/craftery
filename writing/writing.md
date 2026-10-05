@@ -1,7 +1,7 @@
 # Writing
 Books and courses (etc) concern **fiction** and **prose writing** (vs. screenplays) unless otherwise specified.
 
-You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'd on reading them a couple *decades* ago and, ironically, own very few these days specific to those genres. Also perhaps a paucity of 101-level writing craft books. They're everywhere! If you prefer video/audio delivery then there is a lot of free material; find something that speaks to you and run with it. For writing *business*, **consider the source**. This is not an industry (like most creative industries, I imagine) with reliable/replicable "formulas" for success.
+You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'd on reading them a couple *decades* ago and, ironically, own very few these days specific to those genres. Also perhaps a paucity of 101-level writing craft books in this list. They're everywhere! If you prefer video/audio delivery then there is a lot of **free material**; find something that speaks to you and run with it. For writing *business*, **consider the source**. This is not an industry (like most creative industries, I imagine) with reliable/replicable "formulas" for success.
 
 # Characterization, Character Creation
 - Don Clifton. *Strengthsfinder 2.0: Discover Your CliftonStrengths*; *Strengths Leadership*. I realize this is a psychometry (?) industrial/organizational psychology tool but I use it for writing in terms of building characters. People seem (observationally, anecdotally) to aggressively vibe with CliftonStrengths as a tool *or not*, so if it isn't for you, it isn't for you.
