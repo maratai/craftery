@@ -26,3 +26,7 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 # TextEdit
 - It's built into macOS. I don't love it but it gets the job done.
 - The main drawback *for me* is that there doesn't appear to be a built-in wordcount function.
+
+# [yWriter](https://spacejock.com/yWriter.html)
+- I used this back on Windows about ~15 years ago. It's a lovely resource-light alternative to Scrivener, designed around novelist/fiction-writer workflows. It's a little quirky compared to "mainstream" apps but it's always good to have options.
+- Last time I checked, this saved projects in a proprietary format.
