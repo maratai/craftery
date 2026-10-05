@@ -17,6 +17,10 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 - I hate Word but it's industry standard.
 - I'm aware of Word alternatives but at the point of zillions of items in Track Changes, I cannot afford to lose work to a thirty-party app crashing. (This has happened in production to at least one writer I know, years back; I can't remember offhand if the culprit was Libre Office or similar.)
 
+# nano
+- Yes, nano from CLI on Linux/UNIX. This is about as bare-bones as you get.
+- A better human would be using vi or vim or emacs but nano *reminds you of major keyboard shortcuts* and I need all the help I can get.
+
 # [Scrivener](https://www.literatureandlatte.com)
 - My primary non-Word drafting workhorse app. Note that drafting-to-export is generally a one-way process unless you want to *manually* re-enter your text. I've done this on a couple occasions and it was so irritating that I gave it up.
 - This has more features than I will ever need, and some of them are a pain to set up because the app has grown complex. A power user *can* tweak this endlessly, however
