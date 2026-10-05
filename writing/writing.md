@@ -38,3 +38,8 @@ Please note that I'm not a screenwriter so I cannot comment from that standpoint
 
 # Series
 - Paul Tomlinson. *Writing a Series: How to Plan and Develop a Series of Novels*. Tomlinson is quite careful to delineate his scope, but there are useful comparisons and pointers drawn from allied forms of storytelling (e.g. televised soap operas). In case you couldn't tell, I've found Tomlinson's books to be excellent overviews from the standpoint of *commercial fiction*, but YMMV. **Recommended**.
+
+# Writing Coaches
+- [Better-Faster Academy with Becca Syme](https://betterfasteracademy.com). I've worked with Becca for the past several years (including individual coaching). Her coaching style and expertise work *for me* and helped me unfsck parts of my writing process, but this is highly individual (and she would say so too). I'd start with her [YouTube channel](https://www.youtube.com/c/BeccaSyme) (free!) to see if her approach works for you; she also has a [series of books](https://www.amazon.com/stores/author/B07N3B7QTZ?ccs_id=d447f609-dd22-4da2-a06f-4f9eee045af5) (Amazon.com). Becca uses CliftonStrengths (which make sense to me) and Enneagram (...which does not), among others; if you're allergic to both of these then maybe look elsewhere. I will say that I'm allergic to Enneagram and in individual coaching, she doesn't go there unless I specifically ask about it; she absolutely tailors her approach to the individual.
+
+# Writing Courses
