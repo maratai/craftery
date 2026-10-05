@@ -5,6 +5,7 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 - I'm a full-time novelist when not on hiatus to do a composition/orchestration MFA. I *need* my writing apps to work well and be **reliable**. At some point, everything needs to be able to be **backed up** both locally and offsite, and eventually to go into **Microsoft Word** (.doc and .docx) format for delivery. Fortunately (?), I'm willing to reformat *plain text* if that's what it takes.
 - I strongly prefer **offline apps** although I've occasionally dabbled in online/web-based apps with rigorous backups. I live on the Gulf Coast. Power and internet outages are unfortunately common *enough* that I do not want to be reliant on a completely online system.
 - I strongly prefer a **wordcount function**. I can deal with invoking it as long as it *exists*. It's irritating to have to copy-paste or export text to get a wordcount.
+- I am paranoid about proprietary formats if there's genuinely no way to extract *basic text* from save files. I prefer the *ability* to get plain text or RTF out. At this point, .doc and .docx are probably also workable for most uses. I don't usually *need* much in the way of fancy formatting. As long as I can get the plain text out, that's sufficient *for me*.
 - I nomadically NEED to switch my writing setup every couple of months (contrary to the common advice to build a routine and stick to it). (I have ADHD.)
 - Up to a point, I enjoy learning new apps.
 - My main *production* writing involves a MacBook Pro (it's also my music rig; the MBP is vastly overkill for *writing* tasks). That said, I've written on everything to old-school computer/daisy-wheel printer/typewriter word processors to Raspberry Pi builds to Windows.
@@ -19,6 +20,7 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 # Scrivener
 - My primary non-Word drafting workhorse app. Note that drafting-to-export is generally a one-way process unless you want to *manually* re-enter your text. I've done this on a couple occasions and it was so irritating that I gave it up.
 - This has more features than I will ever need, and some of them are a pain to set up because the app has grown complex. A power user *can* tweak this endlessly, however
+- Scrivener project files appear to be some kind of container; technically, you *can* get individual RTF scene files out manually if you have to.
 
 # TextEdit
 - It's built into macOS. I don't love it but it gets the job done.
