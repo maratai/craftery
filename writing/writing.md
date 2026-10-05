@@ -45,7 +45,8 @@ Please note that I'm not a screenwriter so I cannot comment from that standpoint
 # Series
 - Paul Tomlinson. *Writing a Series: How to Plan and Develop a Series of Novels*. Tomlinson is quite careful to delineate his scope, but there are useful comparisons and pointers drawn from allied forms of storytelling (e.g. televised soap operas). In case you couldn't tell, I've found Tomlinson's books to be excellent analytical overviews from the standpoint of *commercial fiction*, but YMMV. **Recommended**.
 
-# Writing Business
+# Writing Business and Related
+- Blair Enns. *The Win Without Pitching Manifesto*. This is more business philosophy and not specific to (commercial) writing, so some of this will not apply directly; but it's an excellent statement to consider as a freelancer. **Recommended**, with caveats.
 - [K-lytics](https://k-lytics.com). Ebook market intelligence (Kindle and Kindle Unlimited, mostly, last I checked). This is *specifically* geared toward writers who write to market (or take a market-aware approach) and *specifically* aimed more toward indie authors (because indies can pivot much more quickly, in the aggregate, to market trends than authors in traditional publishing). The genres skew to those that do well in ebooks as a result. The subgenre market reports are updated with some regularity and often discuss niche-but-profitable/trending subgenres in a lot of depth. If you've hit a point where this is useful intel for you, you will probably know.
 
 # Writing Coaches
