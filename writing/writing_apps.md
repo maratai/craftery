@@ -21,6 +21,7 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 - My primary non-Word drafting workhorse app. Note that drafting-to-export is generally a one-way process unless you want to *manually* re-enter your text. I've done this on a couple occasions and it was so irritating that I gave it up.
 - This has more features than I will ever need, and some of them are a pain to set up because the app has grown complex. A power user *can* tweak this endlessly, however
 - Scrivener project files appear to be some kind of container; technically, you *can* get individual RTF scene files out manually if you have to.
+- Scrivener is moderately good for *organizing* a project WIP. It's easy to rearrange chapters and scenes, handy if you are someone who (sometimes?) writes nonlinearly. (I sometimes write nonlinearly.)
 
 # TextEdit
 - It's built into macOS. I don't love it but it gets the job done.
