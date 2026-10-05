@@ -1,6 +1,7 @@
-Books concern fiction and prose writing unless otherwise specified.
+# Writing
+Books and courses (etc) concern **fiction** and **prose writing** (vs. screenplays) unless otherwise specified.
 
-You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'd on reading them a couple *decades* ago and, ironically, own very few these days specific to those genres.
+You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'd on reading them a couple *decades* ago and, ironically, own very few these days specific to those genres. Also perhaps a paucity of 101-level writing craft books. They're everywhere! If you prefer video/audio delivery then there is a lot of free material; find something that speaks to you and run with it. For writing *business*, **consider the source**. This is not an industry (like most creative industries, I imagine) with reliable/replicable "formulas" for success.
 
 # Characterization, Character Creation
 - Don Clifton. *Strengthsfinder 2.0: Discover Your CliftonStrengths*; *Strengths Leadership*. I realize this is a psychometry (?) industrial/organizational psychology tool but I use it for writing in terms of building characters. People seem (observationally, anecdotally) to aggressively vibe with CliftonStrengths as a tool *or not*, so if it isn't for you, it isn't for you.
@@ -43,3 +44,4 @@ Please note that I'm not a screenwriter so I cannot comment from that standpoint
 - [Better-Faster Academy with Becca Syme](https://betterfasteracademy.com). I've worked with Becca for the past several years (including individual coaching). Her coaching style and expertise work *for me* and helped me unfsck parts of my writing process, but this is highly individual (and she would say so too). I'd start with her [YouTube channel](https://www.youtube.com/c/BeccaSyme) (free!) to see if her approach works for you; she also has a [series of books](https://www.amazon.com/stores/author/B07N3B7QTZ?ccs_id=d447f609-dd22-4da2-a06f-4f9eee045af5) (Amazon.com). Becca uses CliftonStrengths (which make sense to me) and Enneagram (...which does not), among others; if you're allergic to both of these then maybe look elsewhere. I will say that I'm allergic to Enneagram and in individual coaching, she doesn't go there unless I specifically ask about it; she absolutely tailors her approach to the individual.
 
 # Writing Courses
+- [Learn with CeCe](https://learn-with-cece.thinkific.com). CeCelia Lyra's writing courses, which appear to run a couple times a year. I am in the midst of Writing Tension and enjoying it a lot. It's perhaps unsurprisingly rare to find much in the way of upper-level (201, 301) writing courses generally available online; this includes stellar material in a friendly, direct style.
