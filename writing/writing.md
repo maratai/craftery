@@ -29,7 +29,7 @@ You'll note a paucity of how-to books on writing sf/f here, mainly because I OD'
 - Jenna Moreci. *How to Write Romantasy*. The more general writing instruction is pretty 101 but I appreciated the romantasy-specific analysis, especially the breakdowns vs. "just" romance or "just" fantasy. (I read romantasy and romance, but I don't *write* it!)
 
 # Genre: Science Fiction and Fantasy
-I'm not getting involved in the aggressively tedious flamewar about what is "really" science fiction vs. fantasy vs. whatever subcategories lie between.
+I'm not getting involved in the aggressively tedious flamewar about what is "really" science fiction vs. fantasy vs. whatever subcategories lie between. The genres as *market categories* are sufficiently closely aligned in technique and approaches that I'm lumping them together here.
 
 - [Brandon Sanderson's 2025 lectures](https://www.youtube.com/watch?v=MEUh_y1IFZY&list=PLSH_xM-KC3ZvzkfVo_Dls0B5GiE2oMcLY) (YouTube playlist). However you feel about Sanderson's writing/prose, these are excellent foundational lectures on professional/commercial sf/f writing, with strong support for the multiplicity of approaches to the *craft* and real talk about the *business*.
 
