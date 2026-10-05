@@ -15,6 +15,8 @@ I include Freewrite devices in a spirit of completeness and enjoy my Alpha (the 
 
 A different writerdeck approach: a smaller backlit device/display that one pairs with your own keyboard, plus an optional stand for the device for better ergonomics. Mine arrived recently (Kickstarted) and I adore it. The creator is responsive and good at transparency regarding production/shipping delays due to the ongoing US situation. I'm on the lifetime (paid) version of [BYOK Studio](https://byok.io/studio), which adds extra features to syncing via the web and so on.
 
+**Update** (5 October 2026): There's now a beta free (at the moment) standalone [destkop version of BYOK Studio](https://byok.io/studio/desktop) for macOS and Windows. It looks like the paid version gets you syncing features (useful to me since I've already bought in); the claim is that you can use the standalone app free forever and back everything up yourself etc. I'm about to play with this and see if this is a helpful tool for me (and how stable it is).
+
 # Kingjim Pomera
 I don't own one but I have friends who swear by them. I've been told that the likeliest sticking point is the smaller keyboard.
 
