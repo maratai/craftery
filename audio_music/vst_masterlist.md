@@ -157,6 +157,9 @@ The "Blueprint" series is free; within that, the "Textural" series is terrific f
   - High Winds: Alto Flute, Clarinet, Alto Sax, Soprano Sax.
   - Low Winds: Bass Flute, Bass Clarinet, Bass Sax, Tenor Sax.
 
+# Full Bucket Music
+- [Fury68](https://www.fullbucket.de/music/fury68.html), a VST emulator of the KORG Poly-61 polyphonic synthesizer from 1982.
+
 # [Have Audio](https://haveaudio.com) (Kontakt)
 - Balkan Clarinet. Terrific niche; probably not the *intended* use case but nice for "jazz vibes" clarinet performance.
 - Nørdic Cello.
