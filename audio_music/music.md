@@ -37,6 +37,11 @@ Take it as read that I'm aware of the issues regarding the term/framing of "ethn
 ## MIDI-based orchestration and orchestral mockups
 - Paul Gilreath. *The Guide to MIDI Orchestration*, 4th ed. 2010. Some of the computer-based technical discussions are dated, but also, orchestration.
 
+# Music Instruction (Instruments, Performance)
+
+## Hurdy Gurdy
+- Doreen and Michael Muskett. *The Hurdy-Gurdy Method*.
+
 # Musicology
 - Brent Auerbach. *Musical Motives: A Theory and Method for Analyzing Shape in Music*.
   - Part I: The Grounds for a Discipline of Motivic Analysis
