@@ -1,6 +1,8 @@
 # Writing Apps
 These are **not endorsements** so much as notes to myself on what I've used and what's been useful to me.
 
+(more TK lolsob)
+
 ## My caveats
 - I'm a full-time novelist when not on hiatus to do a composition/orchestration MFA. I *need* my writing apps to work well and be **reliable**. At some point, everything needs to be able to be **backed up** both locally and offsite, and eventually to go into **Microsoft Word** (.doc and .docx) format for delivery. Fortunately (?), I'm willing to reformat *plain text* if that's what it takes.
 - I strongly prefer **offline apps** although I've occasionally dabbled in online/web-based apps with rigorous backups. I live on the Gulf Coast. Power and internet outages are unfortunately common *enough* that I do not want to be reliant on a completely online system.
@@ -13,6 +15,19 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 - I get rapidly overwhelmed by GUI/visual UX elements. In most apps, unless I know them very well, I'm likely to use a subset of features rather than to be a power user.
 - I touch-type at 100+ wpm and typically use a third-party keyboard launcher for regular apps because I type/process text much faster than I process GUI elements or icons. Good keyboard shortcuts, or at least not actively terrible ones, are a must.
 
+# BBEdit
+- When I had an older iBook (ca. 2002), I loved this text editor! I discontinued its use some years back when it was unstable on some update to Mac OS X and haven't used it recently.
+
+# Dreamwidth
+- Blogging platform. Not something I resorted to often, but I was once so stuck on a novelette that I resorted to drafting in comments to locked posts. (That novelette became "Extracurricular Activities.")
+
+# Mariner Write
+- I don't believe this has been supported on a modern Apple computer for over a decade, but from ca. 2000 to 2015, it was my primary word processor on "Classic" Mac OS and then Mac OS X.
+
+# Mellel
+- I did not use Mellel much, but at the time I used it a couple decades ago, it was a rare word processing app with excellent, out of the box support for right-to-left text.
+- I'm out of date but I recall that the "flows" for formatting were slightly counterintuitive coming from a "mainstream" word processor like Microsoft Word; it put me a little in mind of CSS stylesheets although I don't know if that's a "correct" comparison.
+
 # Microsoft Word
 - I hate Word but it's industry standard.
 - I'm aware of Word alternatives but at the point of zillions of items in Track Changes, I cannot afford to lose work to a thirty-party app crashing. (This has happened in production to at least one writer I know, years back; I can't remember offhand if the culprit was Libre Office or similar.)
@@ -20,6 +35,9 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 # nano
 - Yes, nano from CLI on Linux/UNIX. This is about as bare-bones as you get.
 - A better human would be using vi or vim or emacs but nano *reminds you of major keyboard shortcuts* and I need all the help I can get.
+
+# Notes
+- The iPhone app, when absolutely pressed for a way to jot down ideas.
 
 # [Scrivener](https://www.literatureandlatte.com)
 - My primary non-Word drafting workhorse app. Note that drafting-to-export is generally a one-way process unless you want to *manually* re-enter your text. I've done this on a couple occasions and it was so irritating that I gave it up.
