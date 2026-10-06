@@ -52,6 +52,9 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 # Typora
 - A beautiful Markdown (text) editor. I have not used this much (macOS), but it can be skinned for (more?) WYSIWYG display, and a number of community/user skins are readily available.
 
+# Vellum
+- macOS-only last I checked, for generating/formatting ebooks (and secondarily print-ready PDFs, but I have not experimented with that function). Not intended as a primary drafting app, but I've occasionally used it that way!
+
 # [yWriter](https://spacejock.com/yWriter.html)
 - I used this back on Windows about ~15 years ago. It's a lovely resource-light alternative to Scrivener, designed around novelist/fiction-writer workflows. It's a little quirky compared to "mainstream" apps but it's always good to have options.
 - Last time I checked, this saved projects in a proprietary format.
