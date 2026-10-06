@@ -30,7 +30,7 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 
 # Microsoft Word
 - I hate Word but it's industry standard.
-- I'm aware of Word alternatives but at the point of zillions of items in Track Changes, I cannot afford to lose work to a thirty-party app crashing. (This has happened in production to at least one writer I know, years back; I can't remember offhand if the culprit was Libre Office or similar.)
+- I'm aware of Word alternatives but at the point of zillions of items in Track Changes, I cannot afford to lose work to a thirty-party app crashing. (This has happened in production to at least one writer I know, years back; I can't remember offhand if the culprit was Libre Office or a different free/open-source office suite.)
 
 # nano
 - Yes, nano from CLI on Linux/UNIX. This is about as bare-bones as you get.
