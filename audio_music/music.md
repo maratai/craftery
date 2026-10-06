@@ -98,4 +98,5 @@ I'm including instrumentation and arrangement under this heading.
 - [IMSLP](https://imslp.org). Free PDF music sheet music for public domain works. You can disable the delay timer on downloads by paying (IMO) a very reasonable annual membership fee to support the site.
 
 # Score Analysis
-- Janet K. Halfyard. *Danny Elfman's Batman: A Film Score Guide*.
+- Janet K. Halfyard. *Danny Elfman's Batman: A Film Score Guide*. **Recommended**.
+- Vasco Hexel. *Hans Zimmer and James Newton Howard's The Dark Night: A Film Score Guide*. **Recommended**.
