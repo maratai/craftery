@@ -1,6 +1,8 @@
 # Music
 I'm indebted to Jane Conners for many of these reading suggestions, also ThinkSpace Education generally.
 
+(more TK)
+
 # Composition
 - Alan Belkin. *Musical Composition: Craft and Art*. Prerequisites: (Western) music notation, music theory (at least through harmonic progressions, Roman numeral analysis). **Recommended**.
 
