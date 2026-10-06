@@ -19,7 +19,7 @@ These are **not endorsements** so much as notes to myself on what I've used and 
 - When I had an older iBook (ca. 2002), I loved this text editor! I discontinued its use some years back when it was unstable on some update to Mac OS X and haven't used it recently.
 
 # Dreamwidth
-- Blogging platform. Not something I resorted to often, but I was once so stuck on a novelette that I resorted to drafting in comments to locked posts. (That novelette became "Extracurricular Activities.")
+- Blogging platform I used to use. Not something I resorted to often, but I was once so stuck on a novelette that I resorted to drafting in comments to locked posts. (That novelette became "Extracurricular Activities.")
 
 # Mariner Write
 - I don't believe this has been supported on a modern Apple computer for over a decade, but from ca. 2000 to 2015, it was my primary word processor on "Classic" Mac OS and then Mac OS X.
