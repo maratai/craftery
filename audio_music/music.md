@@ -32,15 +32,16 @@ Take it as read that I'm aware of the issues regarding the term/framing of "ethn
 ## Instruments: Guqin
 - Juni L. Yeung. *Standards of the Guqin: An English Language Introduction to the Chinese Seven-Stringed Zither*, 4th ed. The notation conventions alone are fascinating.
 
+## Instruments: Hurdy Gurdy
+- Doreen and Michael Muskett. *The Hurdy-Gurdy Method*.
+
+# Instruments: Lutherie
+- Brian Derber. *The Manual of Violin Making*.
+
 # MIDI production
 
 ## MIDI-based orchestration and orchestral mockups
 - Paul Gilreath. *The Guide to MIDI Orchestration*, 4th ed. 2010. Some of the computer-based technical discussions are dated, but also, orchestration.
-
-# Music Instruction (Instruments, Performance)
-
-## Hurdy Gurdy
-- Doreen and Michael Muskett. *The Hurdy-Gurdy Method*.
 
 # Musicology
 - Brent Auerbach. *Musical Motives: A Theory and Method for Analyzing Shape in Music*.
