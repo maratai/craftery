@@ -153,7 +153,8 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
-- Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding Spinolution version.
+- Glimåkra Ronja. This warping board attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25!
+- Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding Spinolution version. The Akerworks AkerKate is my favorite.
 - Nålbinding needles, various, from friends and family.
 - Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage.
 - lease and pickup sticks, various.
