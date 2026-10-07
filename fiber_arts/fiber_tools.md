@@ -1,7 +1,7 @@
 # Fiber Tools Masterlist
 
 *See* also:
-- [Looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md)
+- [Looms](https://github.com/maratai/craftery/blob/main/fiber_arts/looms.md) (especially for details on the floor looms)
 - [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md)
 
 # Hand Spindles
@@ -49,7 +49,7 @@ Also a delight! Can be ordered with a small rigid heddle or with cards/tablets (
 # Floor Looms
 
 ## [Inagaki Kiryou R-25](https://www.inagakikiryou.com/r25.html)
-6H 6T counterbalance floor loom on order. This has some requested modifications from the base setup; among others, the base version is a 4H 6T counterbalance floor loom.
+6H 6T counterbalance floor loom from Japan.
 
 ## Saori Piccolo
 Two harnesses, two treadles, counterbalance, folding floor loom. No longer in production; I bought mine secondhand.
@@ -67,7 +67,7 @@ Two harnesses, two treadles, counterbalance, folding fllor loom. I bought from [
 Not from Saori, but I use this with a Glimåkra adjustable weaving bench.
 
 ## Toika Laila
-The newest: [Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarche with two reeds [10 dent and 25 dent], a raddle, and temple). I've only tried her with 4H 4T but am hoping the next test weaving will be an 8H draft! Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
+[Toika Laila](https://shop.toika.com/product/2310/laila-loom-70-cm-weaving-width-8-shafts--8-treadles) (eight harnesses, eight treadles, countermarche with two reeds (10 dent and 25 dent), a raddle, and temple). I've only tried her with 4H 4T but am hoping the next test weaving will be an 8H draft! Nota bene: If you're in the US, you can order by contacting [WEBS Yarn](https://www.yarn.com/pages/toika-looms).
 
 # Pin and Tapestry Looms
  
@@ -90,7 +90,7 @@ Obtained off eBay.
 # Sewing Machines
 
 ## Frister and Rossmann hand-crank sewing machine
-Antique. Currently restoring (mostly elbow grease cleaning out gunk; the mechanism works).
+Antique. She's running smoothly again although I'd like to address some of the rust. The mechanism is in good working order; she just wanted a little gentle oiling!
 
 ![Frister and Rossmann hand-crank sewing machine](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-07-sewing-machine.jpg?raw=true)
 
@@ -117,7 +117,7 @@ Clover, Daedalus, Lojan, other, whatever came with the given loom. I don't love 
 *See* also [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for details.
 
 ##  [Ashford Traditional](https://www.ashford.co.nz/product/traditional-single-drive/)
-Single treadle, Saxony wheel, a 1981 example. (The link goes to an up-to-date one!) This is going to a friend - the wheel is a *delight*, but also, space, and I'd like to share the love.
+Single treadle, Saxony wheel, a 1981 example. (The link goes to an up-to-date one!)
 
 ## Ashford Traveller
 Single treadle, castle wheel. Mine's a much older model, but here's the [Ashford Traveller 3](https://www.ashford.co.nz/product/traveller-3/). Ashford wheels seem to be the Subarus of the treadle spinning wheel world - commonly available most places, rock-solid dependable. This was my first treadle wheel (secondhand), and she was a *terrific* teacher. This is likely to be my loaner for local friends as it's also the wheel I know best.
@@ -134,10 +134,10 @@ Japanese traditional hand-crank charkha-like wheel. My mom informs me that tradi
 ## [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions)
 Single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up. I have a [WooLee Winder](https://www.wooleewinderstore.com/) for this, which I already adore. It does add a bit of pull, *but* the adjustable orifice helps calibrate that, and I *like* the whirring gear sounds (and have sound design plans).
 
-Aside: having tried the WooLee Winder (various), LWS Autowinder (various), and SpinPerfect PaulyWinder (for Spinolution wheels), I have to say I enjoy *all* of them. The mechanism is very different for each one and they're all extremely clever.
+The out-of-production status means it's a little trickier to find information about replacement parts and add-ons even when they fit this wheel, but the Irish tension "bulky" flyer and bobbins *do* work with the S90!
  
 ## [Pocket Wheel](https://www.pocket-wheel.com/) -
-Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing. I hope to get a WooLee Winder for it as well as I like both winding systems for different use cases.
+Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing. I hope to get a WooLee Winder for it as well as I like both winding systems for different use cases. Mine's currently out on loan.
 
 ## [Spinolution](https://www.spinolution.com/) Mach III 
 Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials to see how to spin with it as it's different from other flyer systems I've used.
