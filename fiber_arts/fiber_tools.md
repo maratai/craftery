@@ -157,11 +157,11 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
 - Glimåkra Ronja. This warping board attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25!
-- Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding Spinolution version. The Akerworks AkerKate is my favorite.
+- Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding [Spinolution Standard Kate](https://www.spinolution.com/standard-kate) (came as an extra with the secondhand Spinolution Mach III). The [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks), available via Daedalus Spinning Wheels, is my favorite.
 - Nålbinding needles, various, from friends and family.
 - Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage.
 - lease and pickup sticks, various.
-- Saori Kenzo ready-made warp system
+- Saori Kenzo ready-made warp system for Saori Piccolo and Saori WX60.
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
 
