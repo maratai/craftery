@@ -7,11 +7,16 @@
 # Hand Spindles
 I covet a [Jenkins](https://jenkinsspindles.com/) Kuchulu or Bee Hummingbird Turkish spindle but doubt I will ever score one!
 
-## Ixchel wrist distaff and spindle support bowl
+## [IxCheL Fibre & Yarns](https://ixchel.com.au) wrist distaff and spindle support bowl
 
 ![Ixchel wrist distaff and spindle support bowl](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-02-ixchel-03.jpg?raw=true)
 
-## John Galen supported spindle
+## [Jenkins Spindles](https://jenkinsspindles.com)
+I was fortunate enough to score a couple (although not yet a Kuchulu or Bee Hummingbird, haha). These are lovely but you have to watch the site like a *hawk* for drops because they tend to sell out in *minutes*.
+
+(Pics TK)
+
+## [John Galen Designs](https://www.johngalen.com) supported spindle
   
 ![John Galen supported spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-john-galen-spindle.jpg?raw=true)
 
