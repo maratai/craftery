@@ -137,7 +137,7 @@ Double treadle, ultraportable travel wheel. US-based, with a wait of up to three
 E-spinner. One can spin with this in the passenger seat of a car if one adds a rechargeable battery!
 
 ## itoguruma
-Japanese traditional hand-crank charkha-like wheel. My mom informs me that traditional Korean spinning wheels look more like this.
+Japanese traditional-style hand-crank charkha-like wheel. My mom informs me that traditional Korean spinning wheels look more like this. Mine's a modern itoguruma imported from Japan.
 
 ## [Louët S90](https://louet.zendesk.com/hc/en-us/articles/360051416653-S90-Spinning-Wheel-Instructions)
 Single treadle, folding castle wheel. No longer in production; bought secondhand. Spins like a racehorse, with hilariously aggressive baked-in take-up. I have a [WooLee Winder](https://www.wooleewinderstore.com/) for this, which I already adore. It does add a bit of pull, *but* the adjustable orifice helps calibrate that, and I *like* the whirring gear sounds (and have sound design plans).
@@ -161,8 +161,8 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
-- Glimåkra Ronja. This warping board attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25!
-- Lazy Kates - came as an extra with the Ashford Traveller, not sure of the manufacturer. I also have a folding [Spinolution Standard Kate](https://www.spinolution.com/standard-kate) (came as an extra with the secondhand Spinolution Mach III). The [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks), available via Daedalus Spinning Wheels, is my favorite.
+- [Glimåkra Ronja Warping Frame](https://www.glimakrausa.com/ronja-warping-frame). This attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25!
+- Lazy Kates - I have a folding [Spinolution Standard Kate](https://www.spinolution.com/standard-kate) (came as an extra with the secondhand Spinolution Mach III). The [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks), available via Daedalus Spinning Wheels, is my favorite. The Ashford Traveller and Louët S90 have kates built into the wheel, although the latter works much better than the former, probably due to a design that lets the kate "arm" swing out for a bit of distance.
 - Nålbinding needles, various, from friends and family.
 - Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage.
 - lease and pickup sticks, various.
