@@ -373,7 +373,7 @@ My shuttle collection includes shuttles from:
 
 ## Looms: Table Looms
 - [Clover Sakiori](https://www.rochestertextile.com/listing/1006402159/clover-japan-sakiori-loom-40-cm) (Rochester Textile listing, but Clover is a Japanese company) ("rigid heddle"; built-in warping board).
-- Peacock Loom (2H 2T counterbalance). Obtained from my mother-in-law. Apparently these were *sixty cents* (USD) at one point in the nebulous past...
+- Peacock Loom (2H 2T counterbalance). Obtained from my mother-in-law. Apparently these were *sixty cents* (USD) at one point in the past...
 
 ## Looms: Warping
 *See* [Fiber Tools](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_tools.md) for more details.
@@ -381,6 +381,7 @@ My shuttle collection includes shuttles from:
 - [Ashford](https://www.ashford.co.nz) tabletop vertical warping mill.
 - [Blazing Shuttles](https://www.blazingshuttles.com) cross holder.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com) bobbin winder, cone holder, jumbo yarn winder, warping peg, yarn swift.
+- Glimåkra Ronja Warping Frame. I'm using this on the Inagaki R-25 with C-clamps.
 - [Saori](https://www.saoriglobal.com/) cross holder, Saori Kenzo ready-made warp system (for Saori Piccolo and WX60).
 - [Spinolution](https://www.spinolution.com) lazy kate, niddy noddy.
 - vintage skein winder.
@@ -406,9 +407,10 @@ Note that the Clover Sakiori floor loom has a built-in warping board for which y
 ## Spinning: Spinning Wheels
 *See* [Spinning Wheels](https://github.com/maratai/craftery/blob/main/fiber_arts/spinning_wheels.md) for more details.
 
+- [Ashford](https://www.ashford.co.nz) Traditional (Scotch tension, older model ca. 1981).
 - [Ashford](https://www.ashford.co.nz) Traveller (Scotch tension, built-in kate, older model; the current production version is the [Traveller 3](https://www.ashford.co.nz/product/traveller-3/).
 - [Dreaming Robots](https://www.dreamingrobots.com) [EEW 6.1](https://www.dreamingrobots.com/eew-61/) (e-spinner).
 - itoguruma (modern) from Japan (eBay).
-- [Louët](https://louet-inc.odoo.com) [S90](https://louet.zendesk.com/hc/en-us/articles/360051418773-Spinning-Wheel-S90-product-information) (Scotch tension, built-in kate; this wheel is out of production and I obtained mine secondhand) + [WooLee Winder](https://www.wooleewinderstore.com).
+- [Louët](https://louet-inc.odoo.com) [S90](https://louet.zendesk.com/hc/en-us/articles/360051418773-Spinning-Wheel-S90-product-information) (Irish tension, built-in kate; this wheel is out of production and I obtained mine secondhand) + [WooLee Winder](https://www.wooleewinderstore.com).
 - [Pocket Wheel](https://www.pocket-wheel.com) + [LWS Autowinder](https://myautowinder.com). On long-term loan to a friend.
-- [Spinolution](https://www.spinolution.com) Mach III (out of production; the new version is the [Monarch](https://www.spinolution.com/monarch); my Mach III was obtained secondhand) with 4A (2:1 to 73:1) and 8-oz (2:1 and 45:!) flyers + [SpinPerfect](https://spinperfect.com) [Paulywinders](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer).
+- [Spinolution](https://www.spinolution.com) Mach III (out of production; the new version is the [Monarch](https://www.spinolution.com/monarch); my Mach III was obtained secondhand) with 4A (2:1 to 73:1) and 8-oz (2:1 and 45:1) flyers + [SpinPerfect](https://spinperfect.com) [Paulywinders](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer).
