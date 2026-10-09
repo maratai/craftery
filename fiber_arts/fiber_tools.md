@@ -103,7 +103,7 @@ Antique. She's running smoothly again although I'd like to address some of the r
 ![Frister and Rossmann hand-crank sewing machine](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-07-sewing-machine.jpg?raw=true)
 
 ## Janome Magnolia 7318
-I believe these are no longer in production, but it's a great entry-level electric sewing machine.
+These are no longer in production, but it's a great entry-level electric (mechanical, not computerized) sewing machine. The sewing instructor I took a couple lessons with showed me how to thread it and said it was likely to last me a while as a beginner machine! Here's the [PDF manual](https://www.janome.com/wp-content/uploads/2014/10/inst-book-7318-english.pdf).
 
 ## Singer SewHandy hand-crank miniature sewing machine
 Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
