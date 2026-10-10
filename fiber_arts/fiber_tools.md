@@ -14,7 +14,7 @@ I covet a [Jenkins](https://jenkinsspindles.com/) Kuchulu or Bee Hummingbird Tur
 ## [Jenkins Spindles](https://jenkinsspindles.com)
 I was fortunate enough to score a couple (although not yet a Kuchulu or Bee Hummingbird, haha). These are lovely but you have to watch the site like a *hawk* for drops because they tend to sell out in *minutes*.
 
-(Pics TK)
+![Jenkins Spindle](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-04-jenkins-01.jpg?raw=true)
 
 ## [John Galen Designs](https://www.johngalen.com) supported spindle
   
