@@ -116,10 +116,10 @@ Antique. Originally these were "toys," but *functional* toys! Too small and ligh
 I don't know why it took me so long to realize the *shuttle* affects a weaving experience so much. I have some secondhand shuttles on order and am looking forward to them.
 
 ## boat shuttles (various)
-Handywoman, Leclerc (from my sister! - they are fabulous), Saori (a regular medium shuttle and an "open" one), some others acquired secondhand.
+Handywoman, Leclerc (from my sister! - they are fabulous), Saori (a regular medium shuttle and an "open" one), some others acquired secondhand. I have a bunch of 4" Leclerc flanged shuttle bobbins as well as Saori bobbins of various lengths.
 
 ## [Handywoman](https://www.handywomanshop.com/) shuttles
-They come in a staggering variety of types. Her specialty shuttles for band weaving are especially great but the large ones are also lovely. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
+They come in a staggering variety of types, plus a variety of bobbins for different sizes and use cases. Her specialty shuttles for band weaving are especially great but the large ones are also lovely. My favorite right now is the small Sami "sword" shuttle that came with her [Tiny Box Loom](https://www.handywomanshop.com/inkleshuttles?scrollToProduct=tiny-box-looms).
 
 ## stick shuttles
 Clover, Daedalus, Lojan, other, whatever came with the given loom. I don't love them as a weaving experience but it's dead simple to make one out of stiff cardboard.
@@ -158,11 +158,12 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 - Ashford (I think) [hand carders](https://www.ashford.co.nz/product/classic-hand-carders/)
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
-- [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
+- [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) bobbin winder (weaving shuttle bobbins), cone holder, jumbo yarn ball winder, yarn swift.
 - lease and pickup sticks, various.
 - Nålbinding needles, various, from friends and family.
 - Schacht cotton hand cards, on order.
 - Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage. That said, I've had a DIY PVC pipe version (it came "extra" with a secondhand wheel) that worked *great*. I don't need two niddy noddies so I passed that one on.
+- Spolmaskin Swedish bobbin winder. This one accommodates the smaller Japanese shuttle bobbins for the Inagaki shuttles. (The Fiber Artist Supply Co. bobbin winder is too thick for those.)
 
 ## [Ashford Warping Mill](https://www.ashford.co.nz/product/warping-mill/)
 
@@ -180,7 +181,8 @@ I have a folding [Spinolution Standard Kate](https://www.spinolution.com/standar
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
 
-## skein winder, "antique primitive" - obtained secondhand and amazingly well designed.
+## skein winder, "antique primitive"
+Obtained secondhand and amazingly well designed. You can't adjust the diameter but it does seem to work with a reasonable range of "common" skein lengths!
 
 ![antique primitive skein winder](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-31-skein-winder.jpg?raw=true)
 
