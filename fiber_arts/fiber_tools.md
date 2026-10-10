@@ -152,37 +152,41 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 
 # Other Fiber Tools
 
-- Ashford (I think) [hand carders](https://www.ashford.co.nz/product/classic-hand-carders/) and a [warping mill](https://www.ashford.co.nz/product/warping-mill/). Stupidly fun to use!
-
-- Ashford Warping Mill
-
-![Ashford warping mill](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-02-warping-mill.jpg?raw=true)
-
+- Ashford (I think) [hand carders](https://www.ashford.co.nz/product/classic-hand-carders/)
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
-- [Glimåkra Ronja Warping Frame](https://www.glimakrausa.com/ronja-warping-frame). This attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25!
-- Lazy Kates - I have a folding [Spinolution Standard Kate](https://www.spinolution.com/standard-kate) (came as an extra with the secondhand Spinolution Mach III). The [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks), available via Daedalus Spinning Wheels, is my favorite. The Ashford Traveller and Louët S90 have kates built into the wheel, although the latter works much better than the former, probably due to a design that lets the kate "arm" swing out for a bit of distance.
 - Nålbinding needles, various, from friends and family.
-- Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage.
+- Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage. That said, I've had a DIY PVC pipe version (it came "extra" with a secondhand wheel) that worked *great*. I don't need two niddy noddies so I passed that one on.
 - lease and pickup sticks, various.
-- Saori Kenzo ready-made warp system for Saori Piccolo and Saori WX60.
+
+## [Ashford Warping Mill](https://www.ashford.co.nz/product/warping-mill/)
+
+![Ashford warping mill](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-02-warping-mill.jpg?raw=true)
+
+## [Glimåkra Ronja Warping Frame](https://www.glimakrausa.com/ronja-warping-frame)
+This attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25! It's not quite optimal but it works for me.
+
+![Glimåkra Ronja C-clamped to an Inagaki R-25](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-10-ronja.jpg?raw=true)
+
+## Lazy Kates
+I have a folding [Spinolution Standard Kate](https://www.spinolution.com/standard-kate) (came as an extra with the secondhand Spinolution Mach III). The [Akerworks AkerKate](https://shop.daedalusspinningwheels.com/collections/lazy-kates-by-akerworks), available via Daedalus Spinning Wheels, is my favorite. The Ashford Traveller and Louët S90 have kates built into the wheel, although the latter works much better than the former, probably due to a design that lets the kate "arm" swing out for a bit of distance.
+
+## Saori Kenzo ready-made warp system for Saori Piccolo and Saori WX60.
 
 ![Saori Kenzo ready-made warp system](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-13-warp-system.jpg?raw=true)
 
-- skein winder, "antique primitive" - obtained secondhand and amazingly well designed.
+## skein winder, "antique primitive" - obtained secondhand and amazingly well designed.
 
 ![antique primitive skein winder](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-03-31-skein-winder.jpg?raw=true)
 
-- [Strauch](http://strauchfiber.com/index.php) drum carder
+## [Strauch](http://strauchfiber.com/index.php) drum carder
 
 ![Strauch drum carder](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-07-strauch-drum-carder.jpg?raw=true)
 
 Purchased secondhand. I run this outdoors, not next to the cheap secondhand bugle! (Sound design, don't ask.)
 
-- yarn
-
-Or more accurately, yarn organization.
+## Yarn organization
 
 ![yarn organization](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-02-21-yarn.jpg?raw=true)
 
