@@ -516,3 +516,6 @@ I've started picking up back issues of [this magazine](https://weaverscraft.com/
 # Workbench: The Do-It-Yourself Magazine
 As far as I can tell, this magazine focused on DIY projects for white people yearning toward a 1950s existence based on the marketing implications of the cover images, but the *plans* for projects often look intriguing. These projects aren't confined to fiber tools but that's my current interest.
 - March/April 1983. My specific interest is the "Spinning Wheel" (scaled-down, of course) plans and instructions by Lance R. Skidmore, which requires significant woodworking expertise. Opinions on r/Handspinning were that the plans looked quite plausible although I don't (yet) know anyone who's attempted a test build.
+
+# Stuff to Investigate
+- [Shot silk](https://www.reddit.com/r/weaving/comments/1wfo8sc/victory_at_last_the_shot_silk_finale/) on r/weaving.
