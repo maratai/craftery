@@ -95,6 +95,9 @@ Two harnesses, counterbalance. My mother-in-law passed this on; I'm restoring it
 ## Peuter Marudai
 Obtained off eBay.
 
+## Travel Marudai
+Not sure of the maker; obtained secondhand.
+
 # Sewing Machines
 
 ## Frister and Rossmann hand-crank sewing machine
@@ -156,9 +159,10 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) cone holder, yarn swift, yarn winder.
-- Nålbinding needles, various, from friends and family.
-- Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage. That said, I've had a DIY PVC pipe version (it came "extra" with a secondhand wheel) that worked *great*. I don't need two niddy noddies so I passed that one on.
 - lease and pickup sticks, various.
+- Nålbinding needles, various, from friends and family.
+- Schacht cotton hand cards, on order.
+- Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage. That said, I've had a DIY PVC pipe version (it came "extra" with a secondhand wheel) that worked *great*. I don't need two niddy noddies so I passed that one on.
 
 ## [Ashford Warping Mill](https://www.ashford.co.nz/product/warping-mill/)
 
