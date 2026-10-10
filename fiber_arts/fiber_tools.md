@@ -79,8 +79,8 @@ Not from Saori, but I use this with a Glimåkra adjustable weaving bench.
 
 # Pin and Tapestry Looms
  
-## [Hello Loom](https://helloloom.com/),
-I have the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can keep in my bag. That said, at this point you can also DIY something with cardboard (I have done that too).
+## [Hello Loom](https://helloloom.com/)
+I have the tiniest pocket-size one, as a delightful tapestry loom "fidget" I can keep in my bag. That said, you can also DIY something with cardboard (I have done that too).
 
 # Table Looms
 
