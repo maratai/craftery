@@ -519,3 +519,4 @@ As far as I can tell, this magazine focused on DIY projects for white people yea
 
 # Stuff to Investigate
 - [Shot silk](https://www.reddit.com/r/weaving/comments/1wfo8sc/victory_at_last_the_shot_silk_finale/) on r/weaving.
+- [freeform overshot resources](https://www.reddit.com/r/weaving/comments/w9536b/how_do_you_do_freeform_overshot/)
