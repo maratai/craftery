@@ -1,5 +1,8 @@
 I didn't name the marketing categories! I don't read widely in these genres so my categories are personal.
 
+# Contemporary Romance
+- Alys Murray. *A Little Buzzed*. Absolutely hilarious, with a heroine who works as a researcher for a sex toy company so you're either in for this or you're not. Possibly the single funniest first paragraph *ever*.
+
 # Historical Romance
 - Julia Quinn. *The Duke and I: Daphne's Story*. Bridgerton.
 
