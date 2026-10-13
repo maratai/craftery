@@ -226,7 +226,7 @@ I have books but they're in Hangeul/Korean!
 - Harriet Tidball. *The Double Weave: Plain and Patterned*.
 - Harriet Tidball. *Textile Structure and Analysis: A Home Study Course in Twelve Lessons*.
 - Heather Torgenrud. *Pick-Up Bandweaving Designs: 288 Charts for 13 Pattern Ends and Techniques for Arranging Color*.
-- Sara von Tresckow. *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning.
+- [Sara von Tresckow](https://www.woolgatherers.com). *When a Single Harness Simply Isn't Enough: Double-Harness Techniques to Produce Complex Patterning*.
 - [Madelyn van der Hoogt](https://www.weaversschool.com/staff.htm). *The Complete Book of Drafting for Handweavers*.
 - Elizabeth Wagner. *My Weaving Workbook*.
 - Palmy Weigle. *Double Weave*. [A review](https://nigelweaving.wordpress.com/2009/05/29/double-weave-at-last/) (Nigel's Weaving Blog).
