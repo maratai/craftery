@@ -108,6 +108,8 @@ Antique. She's running smoothly again although I'd like to address some of the r
 ## Janome Magnolia 7318
 These are no longer in production, but it's a great entry-level electric (mechanical, not computerized) sewing machine. The sewing instructor I took a couple lessons with showed me how to thread it and said it was likely to last me a while as a beginner machine! Here's the [PDF manual](https://www.janome.com/wp-content/uploads/2014/10/inst-book-7318-english.pdf).
 
+![Janome Magnolia 7318](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-13-janome.jpg?raw=true)
+
 ## Singer SewHandy hand-crank miniature sewing machine
 Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
 
