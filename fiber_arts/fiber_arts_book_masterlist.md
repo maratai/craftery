@@ -213,8 +213,9 @@ I have books but they're in Hangeul/Korean!
 - [Marcy Petrini](https://www.marcypetrini.com). *A Weaving Year of Wonder*.
 - [Janet Phillips](https://www.janetphillips-weaving.co.uk). *Exploring Woven Fabrics*; *Designing Woven Fabrics*.
 - Virginia Postrel. *The Fabric of Civilization: How Textiles Made the World*.
+- [Lisa Rayner](https://lisaraynerbooks.com). [*Freeform Overshot for Beginners*](https://lisaraynerbooks.com/freeform-overshot-for-beginners-ebook/). Excellent text with clear explanations, diagrams, photographs.
 - Thomas Roberts. *Tappet and Dobby Looms: Their Mechanism and Management*.
-- [Nadine Sanders](https://singingweaver.com). *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warpign Techniques, Warping a Second Warp Beam*.
+- [Nadine Sanders](https://singingweaver.com). *Warping on a Shoestring: Perfect Tension with Shoestrings, Other Speed Warping Techniques, Warping a Second Warp Beam*.
 - [Nadine Sanders](https://singingweaver.com) and Joyce Harter. *Theme and Variation: More Weaving That Sings*.
 - Mary Schoeser. *International Textile Design*.
 - [Deborah Silver](https://www.deborahsilverstudio.com). *The Technique of Split-Shed Weaving*. Staggeringly thorough; I had the pleasure of taking an introductory split-shed weaving workshop with her at HGA Convergence (New Orleans, 2026).
