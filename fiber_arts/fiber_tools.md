@@ -110,7 +110,8 @@ These are no longer in production, but it's a great entry-level electric (mechan
 
 ![Janome Magnolia 7318](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-13-janome.jpg?raw=true)
 
-- [Walking foot )open toe)](https://www.sewingpartsonline.com/products/janome-walking-foot-200339007) - to investigate
+- [Janome Magnolia 7318 sewing machine parts](https://www.sewingpartsonline.com/collections/janome-7318-magnolia-sewing-machine-parts?tab=products&productsPage=2) - to investigate
+- [Walking foot (open toe)](https://www.sewingpartsonline.com/products/janome-walking-foot-200339007) - to investigate
 
 ## Singer SewHandy hand-crank miniature sewing machine
 Antique. Originally these were "toys," but *functional* toys! Too small and lightweight for anything but lightweight *basting*, but ridiculously portable.
