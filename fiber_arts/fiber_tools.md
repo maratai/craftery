@@ -106,7 +106,7 @@ Antique. She's running smoothly again although I'd like to address some of the r
 ![Frister and Rossmann hand-crank sewing machine](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2025-11-07-sewing-machine.jpg?raw=true)
 
 ## Janome Magnolia 7318
-These are no longer in production, but it's a great entry-level electric (mechanical, not computerized) sewing machine. The sewing instructor I took a couple lessons with showed me how to thread it and said it was likely to last me a while as a beginner machine! Here's the [PDF manual](https://www.janome.com/wp-content/uploads/2014/10/inst-book-7318-english.pdf).
+These are no longer in production, but it's a great entry-level electric (mechanical, not computerized) sewing machine. The sewing instructor I took a couple lessons with showed me how to thread it and said it was likely to last me a while as a beginner machine! Here's the [PDF manual](https://www.janome.com/wp-content/uploads/2014/10/inst-book-7318-english.pdf) (Janome) and [my own backup of the PDF](https://github.com/maratai/craftery/blob/main/fiber_arts/Janome-Magnolia-7318-manual.pdf).
 
 ![Janome Magnolia 7318](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-13-janome.jpg?raw=true)
 
@@ -153,17 +153,17 @@ The out-of-production status means it's a little trickier to find information ab
 Double treadle, ultraportable travel wheel. US-based, with a two-year waitlist. I bought my current Pocket Wheel secondhand and love it. Mine has an [LWS Autowinder](https://myautowinder.com/products/pocket-wheel) installed (came with the wheel) and it's amazing. I hope to get a WooLee Winder for it as well as I like both winding systems for different use cases. Mine's currently out on loan.
 
 ## [Spinolution](https://www.spinolution.com/) Mach III 
-Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it alongside the "regular" flyer, both set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install and use although I did need the tutorials to see how to spin with it as it's different from other flyer systems I've used.
+Out of production; the "current" version is the [Monarch](https://www.spinolution.com/monarch). A delightful workhorse. I have the 4A accelerated flyer for it (4 oz) alongside the "regular" flyer. The "regular" 8-oz flyer is currently set up with the [SpinPerfect PaulyWinder](https://spinperfect.com/products/spinperfect-paulywinder-gearless-automatic-yarn-winding-flyer), which is easy to install (or uninstall) and use although I did need the tutorials to see how to spin with it as it's different from other flyer systems I've used.
 
 # Other Fiber Tools
 
 - Ashford (I think) [hand carders](https://www.ashford.co.nz/product/classic-hand-carders/)
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
-- [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) bobbin winder (weaving shuttle bobbins), cone holder, jumbo yarn ball winder, yarn swift.
+- [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) bobbin winder (weaving shuttle bobbins - will also, in a pinch, work to wind sewing machine bobbins by hand!), cone holder, jumbo yarn ball winder, yarn swift.
 - lease and pickup sticks, various.
 - Nålbinding needles, various, from friends and family.
-- Schacht cotton hand cards, on order.
+- Schacht cotton hand cards.
 - Spinolution niddy noddy - beautifully and thoughtfully designed, comes apart for storage. That said, I've had a DIY PVC pipe version (it came "extra" with a secondhand wheel) that worked *great*. I don't need two niddy noddies so I passed that one on.
 - Spolmaskin Swedish bobbin winder. This one accommodates the smaller Japanese shuttle bobbins for the Inagaki shuttles. (The Fiber Artist Supply Co. bobbin winder is too thick for those.)
 
