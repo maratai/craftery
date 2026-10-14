@@ -50,6 +50,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
   - Shikibuton Cover
   - Yogi (Kimono)
   - Zabuton Cover #1-3
+- [**Origami Bag**](https://www.folkwear.com/collections/ethnic/products/origami-bag) (free, PDF).
 
 # McCall's
 - M2081 **Obi: Gādo** (kimono and obi for cosplay) (paper).
