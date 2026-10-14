@@ -19,6 +19,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - To obtain: [**Kelly Anorak**I](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350).
 - To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854).
 - To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694).
+- To obtain: [**Passiflore Dress + Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/passiflore-dress-shirt-pattern?variant=40683458691206).
 - To obtain: [**Sienna Maker Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/sienna-maker-jacket-pattern?variant=39419189788806).
 - To obtain: [**Tereska Soft Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/tereska-soft-blazer?variant=44394198892678).
 
