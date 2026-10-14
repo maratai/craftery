@@ -61,7 +61,11 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - 8700A **utility jacket**
 
 # [Tiana's Closet](https://tianascloset.com)
+- [Jennie Asymmetrical Hem Leggings](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
+- [Lenka Asymmetrical Hem Tie Detail Knit Top](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
 - [Millie square neck ruffle sleeve blouse](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
+
+PDFs are available in A0 and A4/US letter.
 
 # Truly Victorian
 - LM100 **Corset** (PDF)
