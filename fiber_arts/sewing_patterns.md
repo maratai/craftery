@@ -11,17 +11,17 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - To obtain: B6338 **Curved-Hem Corsets and Skirts**.
 - B6400 **costume/historical jacket** (paper)
 
-# Closet Core
+# [Closet Core](https://closetcorepatterns.com/)
 - No. 22 **Blanca Flight Suit** (paper)
 
-# Emerald Erin
+# [Emerald Erin](https://shop.emeralderin.com)
 - **Friday French Cuts** (panties) (PDF)
 - **Jordy Bralette** (PDF)
 - **Tuesday Boyshort** (PDF)
 - **Thursday Thong** (PDF)
 - **Wednesday Cheekies** (panties) (PDF)
 
-# Folkwear
+# [Folkwear](https://www.folkwear.com)
 - 133 **Belgian Military Chef's Jacket** (paper)
 - 134 **South Asian Tops and Wraps** (*paper)
   - **Burmese Jacket**
