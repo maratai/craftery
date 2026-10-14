@@ -62,6 +62,9 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 # [Simplicity](https://simplicity.com)
 - 8700A **utility jacket**
 
+## Simplicity: Costumes
+- To obtain: 9249 **Misses' Jacket, Pants, Cropped Hooded Tabard, Mask**.
+
 ## [Simplicity: New Look](https://simplicity.com/new-look-patterns)
 - To obtain: 6545 **Misses Flight Jacket**.
 
