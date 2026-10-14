@@ -48,7 +48,8 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 
 # Mood Designer Fabrics
 - MDF108 [**Hawthorn Jacket**](https://blog.moodfabrics.com/the-hawthorn-jacket-free-sewing-pattern/) (PDF, free).
-- [**Layton Bolero**](https://blog.moodfabrics.com/the-layton-bolero-free-sewing-pattern-2/) (PDF, free).
+- MDF261 [**Kefta Cosplay**](https://blog.moodfabrics.com/the-kefta-cosplay-free-sewing-pattern/) (PDF, free).
+- MDF235 [**Layton Bolero**](https://blog.moodfabrics.com/the-layton-bolero-free-sewing-pattern-2/) (PDF, free).
 - [**Olive Jacket**](https://blog.moodfabrics.com/the-olive-jacket-free-sewing-pattern/) (PDF, free).
 - MDF425 **Ravenna Suit** (PDF).
 - MDF428 **Sorrento Set** (PDF).
