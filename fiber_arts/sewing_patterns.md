@@ -13,6 +13,12 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 **Blanca Flight Suit** (paper)
+- To obtain: [**Fowler Barn Coat Quilted Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/fowler-barn-coat-quilted-jacket-pattern?variant=42995260358790).
+- To obtain: [**Jasika Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/jasika-blazer-pattern?variant=39419166720134).
+- To obtain: [**Kelly Anorak**I](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350).
+- To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854).
+- To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694).
+- To obtain: [**Sienna Maker Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/sienna-maker-jacket-pattern?variant=39419189788806).
 - To obtain: [**Tereska Soft Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/tereska-soft-blazer?variant=44394198892678).
 
 # [Emerald Erin](https://shop.emeralderin.com)
