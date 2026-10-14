@@ -107,9 +107,9 @@ PDFs are available in A0 and A4/US letter.
 # [Twig + Tale](https://www.twigandtale.com)
 - [**Overland Cloak**](https://www.twigandtale.com/products/cloak-adult) (PDF).
 
-# Unfettered Patterns
-- #UP1005 **Loose blazer with short sleeves** (PDF)
-- #UP1009 **Slim pants with belt loops** (PDF)
+# [Unfettered Patterns](https://unfetteredpatterns.blog)
+- #UP1005 [**Loose blazer with short sleeves**](https://unfetteredpatterns.blog/up1005-free-sewing-pattern/) (PDF, free).
+- #UP1009 [**Slim pants with belt loops**](https://unfetteredpatterns.blog/up1009-free-sewing-pattern/) (PDF, free).
 - #UP1013 **Short leggings/bike shorts** (PDF)
 - #UP1018 **Sleeveless bodysuit with high neck** (PDF)
 - #UP1050 **Denim jacket with Peter Pan collar** (PDF)
@@ -118,6 +118,3 @@ PDFs are available in A0 and A4/US letter.
 - #UP1068 **Half-zip sweatshirt** (PDF)
 - #UP1069 **Two-piece jersey set** (PDF)
 - #UP1075 **Zip through jacket with collar** (PDF)
-
-# Ureshii
-- **Binder** (PDF)
