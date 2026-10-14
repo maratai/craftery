@@ -113,8 +113,8 @@ PDFs are available in A0 and A4/US letter.
 - #UP1013 [**Short leggings/bike shorts**](https://unfetteredpatterns.blog/up1013-free-sewing-pattern/) (PDF, free).
 - #UP1018 [**Sleeveless bodysuit with high neck**](https://unfetteredpatterns.blog/up1018-free-sewing-pattern/) (PDF, free).
 - #UP1050 [**Denim jacket with Peter Pan collar**](https://unfetteredpatterns.blog/up1050-free-sewing-pattern/) (PDF, free).
-- #UP1059 **Bandeau top with built-in bra** (PDF)
-- #UP1066 **Cargo shorts** (PDF)
-- #UP1068 **Half-zip sweatshirt** (PDF)
-- #UP1069 **Two-piece jersey set** (PDF)
-- #UP1075 **Zip through jacket with collar** (PDF)
+- #UP1059 [**Bandeau top with built-in bra**](https://unfetteredpatterns.blog/up1058-free-sewing-pattern-2/) (PDF, free).
+- #UP1066 [**Cargo shorts**](https://unfetteredpatterns.blog/up1066-free-sewing-pattern/) (PDF, free).
+- #UP1068 [**Half-zip sweatshirt**](https://unfetteredpatterns.blog/up1068-free-sewing-pattern/) (PDF, free). Maybe Joe would like this??
+- #UP1069 [**Two-piece jersey set**](https://unfetteredpatterns.blog/up1069-free-sewing-pattern/) (PDF, free).
+- #UP1075 [**Zip through jacket with collar**](https://unfetteredpatterns.blog/up1075-free-sewing-pattern/) (PDF, free).
