@@ -7,6 +7,8 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 (more TK)
 
 # Butterick
+- To obtain: B5926 **Misses' Petite Jacket**.
+- To obtain: B6338 **Curved-Hem Corsets and Skirts**.
 - B6400 **costume/historical jacket** (paper)
 
 # Closet Core
