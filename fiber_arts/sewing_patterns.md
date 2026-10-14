@@ -13,6 +13,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 **Blanca Flight Suit** (paper)
+- [**Core T-Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/core-t-shirt-free-pattern) (PDF, free).
 - To obtain: [**Fowler Barn Coat Quilted Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/fowler-barn-coat-quilted-jacket-pattern?variant=42995260358790).
 - To obtain: [**Jasika Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/jasika-blazer-pattern?variant=39419166720134).
 - To obtain: [**Kelly Anorak**I](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350).
