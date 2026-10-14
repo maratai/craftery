@@ -61,6 +61,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - 8700A **utility jacket**
 
 # [Tiana's Closet](https://tianascloset.com)
+- [Francis Flap Pocket Unlined Jacket](https://tianascloset.com/index.php/product/francis-flap-pocket-unlined-jacket/) (PDF).
 - [Janae Notched Neckline Blouse](https://tianascloset.com/index.php/product/janae-notched-neckline-blouse/) (PDF).
 - [Jennie Asymmetrical Hem Leggings](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
 - [Lenka Asymmetrical Hem Tie Detail Knit Top](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
