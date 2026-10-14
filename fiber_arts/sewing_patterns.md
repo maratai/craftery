@@ -73,7 +73,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - #3114 **1930s Set of Gloves** (PDF)
 
 # [Muun Archive](https://muunarchive.com)
-- **Cheoma Top** (PDF)
+- [**Cheoma Top**](https://muunarchive.com/products/cheoma-top) (PDF)
 
 # [Sew Over It](https://sewoverit.com)
 - **Dorothy Jacket** (paper)
