@@ -110,7 +110,7 @@ PDFs are available in A0 and A4/US letter.
 # [Unfettered Patterns](https://unfetteredpatterns.blog)
 - #UP1005 [**Loose blazer with short sleeves**](https://unfetteredpatterns.blog/up1005-free-sewing-pattern/) (PDF, free).
 - #UP1009 [**Slim pants with belt loops**](https://unfetteredpatterns.blog/up1009-free-sewing-pattern/) (PDF, free).
-- #UP1013 **Short leggings/bike shorts** (PDF)
+- #UP1013 [**Short leggings/bike shorts**](https://unfetteredpatterns.blog/up1013-free-sewing-pattern/) (PDF, free).
 - #UP1018 **Sleeveless bodysuit with high neck** (PDF)
 - #UP1050 **Denim jacket with Peter Pan collar** (PDF)
 - #UP1059 **Bandeau top with built-in bra** (PDF)
