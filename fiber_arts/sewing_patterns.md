@@ -1,6 +1,6 @@
 # Sewing Patterns
 
-Not reviews, just an inventory. I've only recently had time to get my sewing machine(s) working again.
+Not reviews, just an inventory **for my own reference**. I've only recently had time to get my sewing machine(s) working again.
 
 It turns out the Friends of the Library booksale sells secondhand sewing patterns! I have to check out the offerings when they next open in January. (At my library, they understandably take November and December off!)
 
@@ -111,7 +111,7 @@ PDFs are available in A0 and A4/US letter.
 - #UP1005 [**Loose blazer with short sleeves**](https://unfetteredpatterns.blog/up1005-free-sewing-pattern/) (PDF, free).
 - #UP1009 [**Slim pants with belt loops**](https://unfetteredpatterns.blog/up1009-free-sewing-pattern/) (PDF, free).
 - #UP1013 [**Short leggings/bike shorts**](https://unfetteredpatterns.blog/up1013-free-sewing-pattern/) (PDF, free).
-- #UP1018 **Sleeveless bodysuit with high neck** (PDF)
+- #UP1018 [**Sleeveless bodysuit with high neck**](https://unfetteredpatterns.blog/up1018-free-sewing-pattern/) (PDF, free).
 - #UP1050 **Denim jacket with Peter Pan collar** (PDF)
 - #UP1059 **Bandeau top with built-in bra** (PDF)
 - #UP1066 **Cargo shorts** (PDF)
