@@ -59,8 +59,11 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 # Sew Over It
 - **Dorothy Jacket** (paper)
 
-# Simplicity
+# [Simplicity](https://simplicity.com)
 - 8700A **utility jacket**
+
+## [Simplicity: New Look](https://simplicity.com/new-look-patterns)
+- To obtain: 6545 **Misses Flight Jacket**.
 
 # [Tiana's Closet](https://tianascloset.com)
 - To obtain: [**Francis Flap Pocket Unlined Jacket**](https://tianascloset.com/index.php/product/francis-flap-pocket-unlined-jacket/) (PDF).
