@@ -64,6 +64,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - **Dorothy Jacket** (paper)
 
 # [Simplicity](https://simplicity.com)
+- To obtain: 8056 **Miss and Plus Size Flared Pants or Shorts**.
 - To obtain: 8408 **Men's Shirt and Vests**.
 - 8700A **utility jacket**
 - To obtain: 8769 **Women's Costume Coats**.
