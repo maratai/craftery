@@ -43,6 +43,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 
 # Mood Designer Fabrics
 - MDF108 [**Hawthorn Jacket**](https://blog.moodfabrics.com/the-hawthorn-jacket-free-sewing-pattern/) (PDF, free).
+- [**Olive Jacket**](https://blog.moodfabrics.com/the-olive-jacket-free-sewing-pattern/) (PDF, free).
 - MDF425 **Ravenna Suit** (PDF).
 - MDF428 **Sorrento Set** (PDF).
 - MDF447 **Promenade Capris Pants** (PDF).
