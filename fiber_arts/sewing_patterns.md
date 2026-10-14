@@ -65,6 +65,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - [Jennie Asymmetrical Hem Leggings](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
 - [Lenka Asymmetrical Hem Tie Detail Knit Top](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
 - [Millie square neck ruffle sleeve blouse](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
+- [Zora V-neck tie waist blouse](https://tianascloset.com/index.php/product/zora-v-neck-tie-waist-blouse/) (PDF).
 
 PDFs are available in A0 and A4/US letter.
 
