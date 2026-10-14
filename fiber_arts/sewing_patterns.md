@@ -66,12 +66,14 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 # [Simplicity](https://simplicity.com)
 - To obtain: 8056 **Miss and Plus Size Flared Pants or Shorts**.
 - To obtain: 8408 **Men's Shirt and Vests**.
+- To obtain: 8626 **Women's Corset Belts**.
 - 8700A **utility jacket**
 - To obtain: 8769 **Women's Costume Coats**.
 - To obtain: 9087 **Men's Steampunk Corset Vests**.
 - To obtain: 9249 **Misses' Jacket, Pants, Cropped Hooded Tabard, Mask**.
 
 ## [Simplicity: New Look](https://simplicity.com/new-look-patterns)
+- To obtain: 6035 **Misses' Separates**.
 - To obtain: 6545 **Misses Flight Jacket**.
 
 # [Tiana's Closet](https://tianascloset.com)
