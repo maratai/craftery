@@ -42,9 +42,10 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - M2081 Obi: Gādo (kimono and obi for cosplay) (paper)
 
 # Mood Designer Fabrics
-- MDF425 **Ravenna Suit** (PDF)
-- MDF428 **Sorrento Set** (PDF)
-- MDF447 **Promenade Capris Pants** (PDF)
+- MDF108 [**Hawthorn Jacket**](https://blog.moodfabrics.com/the-hawthorn-jacket-free-sewing-pattern/) (PDF, free).
+- MDF425 **Ravenna Suit** (PDF).
+- MDF428 **Sorrento Set** (PDF).
+- MDF447 **Promenade Capris Pants** (PDF).
 
 # Mrs. DePew Vintage Patterns
 - #1011 **Quilted Slippers** (ballet slipper style) (PDF)
@@ -61,12 +62,12 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - 8700A **utility jacket**
 
 # [Tiana's Closet](https://tianascloset.com)
-- [Francis Flap Pocket Unlined Jacket](https://tianascloset.com/index.php/product/francis-flap-pocket-unlined-jacket/) (PDF).
-- [Janae Notched Neckline Blouse](https://tianascloset.com/index.php/product/janae-notched-neckline-blouse/) (PDF).
-- [Jennie Asymmetrical Hem Leggings](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
-- [Lenka Asymmetrical Hem Tie Detail Knit Top](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
-- [Millie square neck ruffle sleeve blouse](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
-- [Zora V-neck tie waist blouse](https://tianascloset.com/index.php/product/zora-v-neck-tie-waist-blouse/) (PDF).
+- To obtain: [**Francis Flap Pocket Unlined Jacket**](https://tianascloset.com/index.php/product/francis-flap-pocket-unlined-jacket/) (PDF).
+- [**Janae Notched Neckline Blouse**](https://tianascloset.com/index.php/product/janae-notched-neckline-blouse/) (PDF).
+- [**Jennie Asymmetrical Hem Leggings**](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
+- [**Lenka Asymmetrical Hem Tie Detail Knit Top**](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
+- [**Millie square neck ruffle sleeve blouse**](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
+- [**Zora V-neck tie waist blouse**](https://tianascloset.com/index.php/product/zora-v-neck-tie-waist-blouse/) (PDF).
 
 PDFs are available in A0 and A4/US letter.
 
