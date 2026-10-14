@@ -60,6 +60,9 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 # Simplicity
 - 8700A **utility jacket**
 
+# [Tiana's Closet](https://tianascloset.com)
+- [Millie square neck ruffle sleeve blouse](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
+
 # Truly Victorian
 - LM100 **Corset** (PDF)
 
