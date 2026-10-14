@@ -65,7 +65,8 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 # [Simplicity](https://simplicity.com)
 - 8700A **utility jacket**
 
-## Simplicity: Costumes
+## Simplicity: Costume
+- To obtain: 9087 **Men's Steampunk Corset Vests**.
 - To obtain: 9249 **Misses' Jacket, Pants, Cropped Hooded Tabard, Mask**.
 
 ## [Simplicity: New Look](https://simplicity.com/new-look-patterns)
