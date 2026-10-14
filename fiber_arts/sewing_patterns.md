@@ -2,6 +2,8 @@
 
 Not reviews, just an inventory. I've only recently had time to get my sewing machine(s) working again.
 
+It turns out the Friends of the Library booksale sells secondhand sewing patterns! I have to check out the offerings when they next open in January. (At my library, they understandably take November and December off!)
+
 (more TK)
 
 # Butterick
