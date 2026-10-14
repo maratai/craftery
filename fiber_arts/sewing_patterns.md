@@ -64,10 +64,9 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - **Dorothy Jacket** (paper)
 
 # [Simplicity](https://simplicity.com)
+- To obtain: 8408 **Men's Shirt and Vests**.
 - 8700A **utility jacket**
-
-## Simplicity: Costume
-- To obtain: 8769: **Women's Costume Coats**.
+- To obtain: 8769 **Women's Costume Coats**.
 - To obtain: 9087 **Men's Steampunk Corset Vests**.
 - To obtain: 9249 **Misses' Jacket, Pants, Cropped Hooded Tabard, Mask**.
 
