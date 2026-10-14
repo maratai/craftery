@@ -39,9 +39,8 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
   - Zabuton Cover #1-3
 
 # McCall's
-
-## McCall's: Costumes
 - M2081 **Obi: Gādo** (kimono and obi for cosplay) (paper).
+- To obtain: M7821 **Men's Costume** (lined coat and vest).
 - To obtain: M7854 **Misses' Costume** (dress and capelet).
 - To obtain: M8230 **Misses' Jacket Dress by Yaya Han**.
 
