@@ -13,6 +13,7 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 **Blanca Flight Suit** (paper)
+- To obtain: [**Tereska Soft Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/tereska-soft-blazer?variant=44394198892678).
 
 # [Emerald Erin](https://shop.emeralderin.com)
 - **Friday French Cuts** (panties) (PDF)
