@@ -191,6 +191,7 @@ I have books but they're in Hangeul/Korean!
 - Anete Karlsone. *Rakstainās Jostas: Kopīgais Kultūrslānis* (*Patterned Sashes: The Common Cultural Layer*). Latvian and English.
 - Doramay Keasbey. *Pattern Techniques for Handweavers*.
 - Susan Kesler-Simpson. *Shadow Weave Simply: Understanding the Weave Structures*.
+- Tom Knisely. *Weaving with Clasped Weft*.
 - Elsa Krogh. *The Ashford Book of Weaving Patterns from Four to Eight Shafts: A Beautiful Collection*.
 - Patricia Lambert, Barbara Staepelaere, and Mary G. Fry. *Color and Fiber*.
 - Mary Elizabeth Laughlin. *More Than Four: A Book for Multiple Harness Weavers*. Terrific in-depth discussion of satin and sateen weaves.
