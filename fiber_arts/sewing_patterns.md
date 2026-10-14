@@ -1,6 +1,8 @@
 # Sewing Patterns
 
-Not reviews, just an inventory.
+Not reviews, just an inventory. I've only recently had time to get my sewing machine(s) working again.
+
+(more TK)
 
 # Butterick
 - B6400 **costume/historical jacket** (paper)
