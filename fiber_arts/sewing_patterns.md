@@ -72,10 +72,10 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 - #2030A **1920s Bandeau Bra** (PDF)
 - #3114 **1930s Set of Gloves** (PDF)
 
-# Muun Archive
+# [Muun Archive](https://muunarchive.com)
 - **Cheoma Top** (PDF)
 
-# Sew Over It
+# [Sew Over It](https://sewoverit.com)
 - **Dorothy Jacket** (paper)
 
 # [Simplicity](https://simplicity.com)
