@@ -42,7 +42,8 @@ It turns out the Friends of the Library booksale sells secondhand sewing pattern
 
 ## McCall's: Costumes
 - M2081 **Obi: Gādo** (kimono and obi for cosplay) (paper).
-- M8230: **Misses' Jacket Dress by Yaya Han**.
+- To obtain: M7854 **Misses' Costume** (dress and capelet).
+- To obtain: M8230 **Misses' Jacket Dress by Yaya Han**.
 
 # Mood Designer Fabrics
 - MDF108 [**Hawthorn Jacket**](https://blog.moodfabrics.com/the-hawthorn-jacket-free-sewing-pattern/) (PDF, free).
