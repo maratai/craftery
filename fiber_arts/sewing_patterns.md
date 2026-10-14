@@ -92,8 +92,8 @@ PDFs are available in A0 and A4/US letter.
 # Truly Victorian
 - LM100 **Corset** (PDF)
 
-# Twig + Tale
-- **Overland Cloak** (PDF)
+# [Twig + Tale](https://www.twigandtale.com)
+- [**Overland Cloak**](https://www.twigandtale.com/products/cloak-adult) (PDF).
 
 # Unfettered Patterns
 - #UP1005 **Loose blazer with short sleeves** (PDF)
