@@ -60,15 +60,6 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - To obtain: M7854 **Misses' Costume** (dress and capelet).
 - To obtain: M8230 **Misses' Jacket Dress by Yaya Han**.
 
-# Mood Designer Fabrics
-- MDF108 [**Hawthorn Jacket**](https://blog.moodfabrics.com/the-hawthorn-jacket-free-sewing-pattern/) (PDF, free).
-- MDF193 [**Olive Jacket**](https://blog.moodfabrics.com/the-olive-jacket-free-sewing-pattern/) (PDF, free).
-- MDF235 [**Layton Bolero**](https://blog.moodfabrics.com/the-layton-bolero-free-sewing-pattern-2/) (PDF, free).
-- MDF261 [**Kefta Cosplay**](https://blog.moodfabrics.com/the-kefta-cosplay-free-sewing-pattern/) (PDF, free).
-- MDF425 **Ravenna Suit** (PDF).
-- MDF428 **Sorrento Set** (PDF).
-- MDF447 **Promenade Capris Pants** (PDF).
-
 # Mrs. DePew Vintage Patterns
 - #1011 **Quilted Slippers** (ballet slipper style) (PDF)
 - #2030A **1920s Bandeau Bra** (PDF)
