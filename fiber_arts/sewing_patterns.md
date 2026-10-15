@@ -72,6 +72,9 @@ Note: UK-based (?), currently does not ship paper patterns to the USA except for
 # [Helen's Closet Patterns](https://helensclosetpatterns.com)
 - To obtain?: [**Pona Jacket**](https://helensclosetpatterns.com/collections/jackets/products/pona-jacket). Difficulty: advanced beginner.
 
+# Maison Fauve
+- To obtain: [**Patron couture veste Sable** (Sand Jacket)](https://www.maison-fauve.com/products/patron-couture-veste-sable-pdf-a4-a3-a0-us-letter-tailles-34-a-56-cadres-calques-par-taille-videoprojection). Difficulty: intermediate. Note: the main site is in French; there's an English-language version of the site but some portions are still in French.
+
 # McCall's
 - M2081 **Obi: Gādo** (kimono and obi for cosplay) (paper).
 - To obtain: M7821 **Men's Costume** (lined coat and vest).
