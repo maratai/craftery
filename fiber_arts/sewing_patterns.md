@@ -54,6 +54,9 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
   - Zabuton Cover #1-3
 - [**Origami Bag**](https://www.folkwear.com/collections/ethnic/products/origami-bag) (free, PDF).
 
+# [Helen's Closet Patterns](https://helensclosetpatterns.com)
+- To obtain?: [**Pona Jacket**](https://helensclosetpatterns.com/collections/jackets/products/pona-jacket).
+
 # McCall's
 - M2081 **Obi: Gādo** (kimono and obi for cosplay) (paper).
 - To obtain: M7821 **Men's Costume** (lined coat and vest).
