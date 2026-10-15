@@ -10,6 +10,9 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 
 (more TK)
 
+# [Atelier Brunette](https://www.atelierbrunette.com/en)
+- To obtain: [**Patron Le Blazer**](https://www.atelierbrunette.com/en/products/le-blazer-patron-pdf).
+
 # Atelier Scämmit
 - To obtain if possible: [**Tempo Jacket**](https://thefoldline.com/products/atelier-scammit-tempo-jacket?_pos=6&_sid=cc5e18939&_ss=r) (via The Fold Line) (paper only). Difficulty: advanced [according to this review on PatternReview](https://sewing.patternreview.com/review/pattern/191892).
 
