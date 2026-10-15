@@ -37,10 +37,10 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854). Difficulty: advanced. PDF costs $18 USD.
 - To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694). Difficulty: intermediate. PDF costs $18 USD.
 - To obtain: [**Passiflore Dress + Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/passiflore-dress-shirt-pattern?variant=40683458691206). Difficulty: advanced.
-- To obtain: [**Pietra Pants and Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/pietra-pants-shorts-pattern?variant=39419178483846). Difficulty: confident beginner.
-- To obtain: [**Poppy Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/poppy-shorts-pattern?variant=44313806143622). Difficulty: intermediate.
-- To obtain: [**Sienna Maker Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/sienna-maker-jacket-pattern?variant=39419189788806). Difficulty: advanced.
-- To obtain: [**Tereska Soft Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/tereska-soft-blazer?variant=44394198892678). Difficulty: advanced.
+- To obtain: [**Pietra Pants and Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/pietra-pants-shorts-pattern?variant=39419178483846). Difficulty: confident beginner. PDF costs $22 USD.
+- To obtain: [**Poppy Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/poppy-shorts-pattern?variant=44313806143622). Difficulty: intermediate. PDF costs $18 USD.
+- To obtain: [**Sienna Maker Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/sienna-maker-jacket-pattern?variant=39419189788806). Difficulty: advanced. PDF costs $18 USD.
+- To obtain: [**Tereska Soft Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/tereska-soft-blazer?variant=44394198892678). Difficulty: advanced. PDF costs $18 USD.
 
 # [Emerald Erin](https://shop.emeralderin.com)
 - **Friday French Cuts** (panties) (PDF)
