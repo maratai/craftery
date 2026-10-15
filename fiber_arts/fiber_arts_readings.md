@@ -447,6 +447,7 @@ I'm still learning the basics so haven't explored these thoroughly.
 ## Weaving: Dobby Looms
 - [Aufrüstung eines einfachen Tischwebstuhls zum mechanischen Dobby-Webstuhl - Teil 1](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen.html), [Teil 2](https://strick17.blogspot.com/2026/03/aufrustung-eines-einfachen_29.html?fbclid=IwY2xjawQ4LztleHRuA2FlbQIxMABicmlkETFSY0hOd2ZJM2UxYnhnQ1k4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiqvJgVUX4UGxwYbizHdIhwTEF5Spu3yopPjus_ozEriuV-dBZ-lFao12wbf_aem_wCYslYPEkwv_4QBmqoXmNA), [Teil 3](https://strick17.blogspot.com/2026/04/aufrustung-eines-einfachen.html). Auf Deutsch. I can't provide a translation, sorry!
 - [Dobby upgrade for 3D printed Table Loom (FraensEngineering)](https://fraensengineering.com/dobby-upgrade-for-3d-printed-table-loom/). I don't remember seeing an attestation as to how well this works.
+- [Skye Weavers](https://www.skyeweavers.co.uk) - Isle of Skye, Scotland. They have what looks like a mechanical dobby loom set up with BICYCLE PEDALS! I hope someday to visit, but until then, I can admire the photos and videos.
 
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
