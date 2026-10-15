@@ -131,6 +131,7 @@ To investigate.
 - [**Janae Notched Neckline Blouse**](https://tianascloset.com/index.php/product/janae-notched-neckline-blouse/) (PDF).
 - [**Jennie Asymmetrical Hem Leggings**](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
 - [**Lenka Asymmetrical Hem Tie Detail Knit Top**](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
+  - Pieces cut. Gotta locate suitable muslin.
 - [**Millie square neck ruffle sleeve blouse**](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
 - [**Zora V-neck tie waist blouse**](https://tianascloset.com/index.php/product/zora-v-neck-tie-waist-blouse/) (PDF).
 
@@ -154,6 +155,7 @@ PDFs are available in A0 and A4/US letter. NOTE: I'm seeing some discussion of s
 - #UP1068 [**Half-zip sweatshirt**](https://unfetteredpatterns.blog/up1068-free-sewing-pattern/) (PDF, free). Maybe Joe would like this??
 - #UP1069 [**Two-piece jersey set**](https://unfetteredpatterns.blog/up1069-free-sewing-pattern/) (PDF, free).
 - #UP1075 [**Zip through jacket with collar**](https://unfetteredpatterns.blog/up1075-free-sewing-pattern/) (PDF, free).
+  - Pattern cut and taped.
 
 NOTE: I've seen some discussion of stolen images or AI-generated images used by this designer. I picked these up free but will look elsewhere in the future.
 
