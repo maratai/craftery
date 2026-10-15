@@ -10,6 +10,9 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 
 (more TK)
 
+# Sewing Books to Find
+- Tomoko Nakamichi's *Pattern Magic* series. [A review, part 1](https://www.theshapesoffabric.com/2018/01/31/pattern-magic-part-1/) (The Shapes of Fabric).
+
 # [Atelier Brunette](https://www.atelierbrunette.com/en)
 - To obtain: [**Patron Le Blazer**](https://www.atelierbrunette.com/en/products/le-blazer-patron-pdf).
 
