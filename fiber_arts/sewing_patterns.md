@@ -103,6 +103,11 @@ Note: UK-based (?), currently does not ship *paper* patterns to the USA except f
 # [Sew Over It](https://sewoverit.com)
 - **Dorothy Jacket** (paper).
 
+# [The Shapes of Fabric](https://www.theshapesoffabric.com)
+To investigate.
+
+- [Learn How to Draft the Basic Pants Pattern](https://www.theshapesoffabric.com/2020/08/16/learn-how-to-draft-the-basic-pants-pattern/).
+
 # [Simplicity](https://simplicity.com)
 - To obtain: 8056 **Miss and Plus Size Flared Pants or Shorts**.
 - To obtain: 8408 **Men's Shirt and Vests**.
