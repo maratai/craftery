@@ -75,6 +75,9 @@ Note: UK-based (?), currently does not ship *paper* patterns to the USA except f
 # [Helen's Closet Patterns](https://helensclosetpatterns.com)
 - To obtain?: [**Pona Jacket**](https://helensclosetpatterns.com/collections/jackets/products/pona-jacket). Difficulty: advanced beginner.
 
+# [Laughing Moon Mercantile](https://www.laughingmoonmercantile.com)
+- LM100 [**Ladies' Victorian Underwear - 2 Corset Styles, Chemise and Drawers**](https://www.laughingmoonmercantile.com/product-page/100-download-ladies-victorian-underwear) (PDF). [Discussion and tips](https://trulyvictorian.info/2019/11/07/working-with-lm100-corset-pattern/) (Truly Victorian).
+
 # Maison Fauve
 - To obtain: [**Patron couture veste Sable** (Sand Jacket)](https://www.maison-fauve.com/products/patron-couture-veste-sable-pdf-a4-a3-a0-us-letter-tailles-34-a-56-cadres-calques-par-taille-videoprojection). Difficulty: intermediate. Note: the main site is in French; there's an English-language version of the site but some portions are still in French.
 
@@ -123,9 +126,6 @@ PDFs are available in A0 and A4/US letter. NOTE: I'm seeing some discussion of s
 
 # [Tilly and the Buttons](https://tillyandthebuttons.com)
 - To obtain: [**Manon Trench Coat and Jacket**](https://tillyandthebuttons.com/products/manon-trench-jacket-sewing-pattern). Difficulty: improvers.
-
-# [Laughing Moon Mercantile](https://www.laughingmoonmercantile.com)
-- LM100 [**Ladies' Victorian Underwear - 2 Corset Styles, Chemise**](https://www.laughingmoonmercantile.com/product-page/100-download-ladies-victorian-underwear) (PDF). [Discussion and tips](https://trulyvictorian.info/2019/11/07/working-with-lm100-corset-pattern/) (Truly Victorian).
 
 # [Twig + Tale](https://www.twigandtale.com)
 - [**Overland Cloak**](https://www.twigandtale.com/products/cloak-adult) (PDF). Difficulty: adventurous beginner/intermediate.
