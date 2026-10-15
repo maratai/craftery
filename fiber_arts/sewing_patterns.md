@@ -93,7 +93,8 @@ Note: UK-based (?), currently does not ship paper patterns to the USA except for
 - [**Cheoma Top**](https://muunarchive.com/products/cheoma-top) (PDF)
 
 # [Sewing Therapy](https://sewingtherapy.net)
-- [**Hanbok Top and Jacket**](https://twooninefabric.ca/collections/sewing-therapy-pdf-patterns/products/pdf-hanbok-top-jacket-sewing-therapy). [Sew-along and tutorial](https://sewingtherapy.net/hanbok-jacket-tutorial/). Difficulty: confident beginner to intermediate.
+- To obtain: [**Hanbok Shirt and Coat**](https://twooninefabric.ca/collections/top/products/pdf-hanbok-shirt-and-coat-pattern-sewing-therapy). Difficulty: confident beginner.
+- To obtain: [**Hanbok Top and Jacket**](https://twooninefabric.ca/collections/sewing-therapy-pdf-patterns/products/pdf-hanbok-top-jacket-sewing-therapy). [Sew-along and tutorial](https://sewingtherapy.net/hanbok-jacket-tutorial/). Difficulty: confident beginner to intermediate.
 
 # [Sew Over It](https://sewoverit.com)
 - **Dorothy Jacket** (paper)
