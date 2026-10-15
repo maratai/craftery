@@ -112,7 +112,7 @@ PDFs are available in A0 and A4/US letter. NOTE: I'm seeing some discussion of s
 - LM100 **Corset** (PDF)
 
 # [Twig + Tale](https://www.twigandtale.com)
-- [**Overland Cloak**](https://www.twigandtale.com/products/cloak-adult) (PDF).
+- [**Overland Cloak**](https://www.twigandtale.com/products/cloak-adult) (PDF). Difficulty: adventurous beginner/intermediate.
 
 # [Unfettered Patterns](https://unfetteredpatterns.blog)
 - #UP1005 [**Loose blazer with short sleeves**](https://unfetteredpatterns.blog/up1005-free-sewing-pattern/) (PDF, free).
