@@ -17,7 +17,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - To find: Colette Wolff's *The Art of Manipulating Fabric*. [A review](https://www.theshapesoffabric.com/2019/05/26/fabric-manipulation-books-to-have/) (The Shapes of Fabric).
 
 # [Atelier Brunette](https://www.atelierbrunette.com/en)
-- To obtain: [**Patron Le Blazer**](https://www.atelierbrunette.com/en/products/le-blazer-patron-pdf).
+- To obtain: [**Patron Le Blazer**](https://www.atelierbrunette.com/en/products/le-blazer-patron-pdf). PDF costs 12.50 euros.
 
 # Atelier Scämmit
 - To obtain if possible: [**Tempo Jacket**](https://thefoldline.com/products/atelier-scammit-tempo-jacket?_pos=6&_sid=cc5e18939&_ss=r) (via The Fold Line) (paper only). Difficulty: advanced [according to this review on PatternReview](https://sewing.patternreview.com/review/pattern/191892).
@@ -31,11 +31,11 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 [**Blanca Flight Suit**](https://closetcorepatterns.com/products/blanca-flight-suit-pattern?_pos=1&_sid=ad1cd2b9a&_ss=r&variant=39419135950982) (paper). Difficulty: advanced.
 - [**Core T-Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/core-t-shirt-free-pattern) (PDF, free).
-- To obtain: [**Fowler Barn Coat Quilted Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/fowler-barn-coat-quilted-jacket-pattern?variant=42995260358790). Difficulty: intermediate.
-- To obtain: [**Jasika Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/jasika-blazer-pattern?variant=39419166720134). Difficulty: challenging.
-- To obtain: [**Kelly Anorak**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350). Difficulty: advanced.
-- To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854). Difficulty: advanced.
-- To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694). Difficulty: intermediate.
+- To obtain: [**Fowler Barn Coat Quilted Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/fowler-barn-coat-quilted-jacket-pattern?variant=42995260358790). Difficulty: intermediate. PDF costs $18 USD.
+- To obtain: [**Jasika Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/jasika-blazer-pattern?variant=39419166720134). Difficulty: challenging. PDF costs $18 USD.
+- To obtain: [**Kelly Anorak**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350). Difficulty: advanced. PDF costs $18 USD.
+- To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854). Difficulty: advanced. PDF costs $18 USD.
+- To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694). Difficulty: intermediate. PDF costs $18 USD.
 - To obtain: [**Passiflore Dress + Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/passiflore-dress-shirt-pattern?variant=40683458691206). Difficulty: advanced.
 - To obtain: [**Pietra Pants and Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/pietra-pants-shorts-pattern?variant=39419178483846). Difficulty: confident beginner.
 - To obtain: [**Poppy Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/poppy-shorts-pattern?variant=44313806143622). Difficulty: intermediate.
