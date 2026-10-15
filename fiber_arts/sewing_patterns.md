@@ -17,9 +17,9 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - No. 22 [**Blanca Flight Suit**](https://closetcorepatterns.com/products/blanca-flight-suit-pattern?_pos=1&_sid=ad1cd2b9a&_ss=r&variant=39419135950982) (paper). Difficulty: advanced.
 - [**Core T-Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/core-t-shirt-free-pattern) (PDF, free).
 - To obtain: [**Fowler Barn Coat Quilted Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/fowler-barn-coat-quilted-jacket-pattern?variant=42995260358790). Difficulty: intermediate.
-- To obtain: [**Jasika Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/jasika-blazer-pattern?variant=39419166720134).
-- To obtain: [**Kelly Anorak**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350).
-- To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854).
+- To obtain: [**Jasika Blazer**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/jasika-blazer-pattern?variant=39419166720134). Difficulty: challenging.
+- To obtain: [**Kelly Anorak**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350). Difficulty: advanced.
+- To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854). Difficulty: advanced.
 - To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694).
 - To obtain: [**Passiflore Dress + Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/passiflore-dress-shirt-pattern?variant=40683458691206).
 - To obtain: [**Pietra Pants and Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/pietra-pants-shorts-pattern?variant=39419178483846).
