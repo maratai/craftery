@@ -131,7 +131,7 @@ To investigate.
 - [**Janae Notched Neckline Blouse**](https://tianascloset.com/index.php/product/janae-notched-neckline-blouse/) (PDF).
 - [**Jennie Asymmetrical Hem Leggings**](https://tianascloset.com/index.php/product/jennie-asymmetrical-hem-leggings/) (PDF).
 - [**Lenka Asymmetrical Hem Tie Detail Knit Top**](https://tianascloset.com/index.php/product/lenka-asymmetrical-hem-tie-detail-knit-top/) (PDF).
-  - Pieces cut. Gotta locate suitable muslin.
+  - Pattern cut and taped. Gotta locate suitable muslin.
 - [**Millie square neck ruffle sleeve blouse**](https://tianascloset.com/index.php/product/millie-blouse/) (PDF).
 - [**Zora V-neck tie waist blouse**](https://tianascloset.com/index.php/product/zora-v-neck-tie-waist-blouse/) (PDF).
 
