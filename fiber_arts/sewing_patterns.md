@@ -13,6 +13,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 # Sewing Books
 - To find: Winifred Aldrich's *Metric Pattern Cutting for Women's Wear*. [A review](https://www.theshapesoffabric.com/2018/10/11/metric-pattern-cutting/) (The Shapes of Fabric).
 - To find: Tomoko Nakamichi's *Pattern Magic* series. [A review, part 1](https://www.theshapesoffabric.com/2018/01/31/pattern-magic-part-1/); [part 2](https://www.theshapesoffabric.com/2018/02/06/pattern-magic-as-a-source-of-inspiration-part-2/) (The Shapes of Fabric).
+- To find: Ruth Singer's *Fabric Manipulation*. [A review](https://www.theshapesoffabric.com/2019/05/26/fabric-manipulation-books-to-have/) (The Shapes of Fabric).
 - To find: Colette Wolff's *The Art of Manipulating Fabric*. [A review](https://www.theshapesoffabric.com/2019/05/26/fabric-manipulation-books-to-have/) (The Shapes of Fabric).
 
 # [Atelier Brunette](https://www.atelierbrunette.com/en)
