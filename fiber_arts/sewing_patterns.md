@@ -37,7 +37,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - **Wednesday Cheekies** (panties) (PDF)
 
 # [Fibre Mood](https://www.fibremood.com)
-Note: UK-based (?), currently does not ship patterns to the USA except for subscriptions.
+Note: UK-based (?), currently does not ship paper patterns to the USA except for subscriptions.
 
 - To obtain: [**Alya Blazer**](https://www.fibremood.com/products/alya-blazer-sewing-pattern). Difficulty: 3/5.
 - To obtain: [**Bryn Top**](https://www.fibremood.com/products/bryn-top-sewing-pattern). Asymmetrical top. Difficulty: 1/5.
@@ -111,6 +111,9 @@ Note: UK-based (?), currently does not ship patterns to the USA except for subsc
 
 PDFs are available in A0 and A4/US letter. NOTE: I'm seeing some discussion of stolen images used by this designer. I picked these up free but will look elsewhere in the future.
 
+# [Tilly and the Buttons](https://tillyandthebuttons.com)
+- To obtain: [**Manon Trench Coat and Jacket**](https://tillyandthebuttons.com/products/manon-trench-jacket-sewing-pattern). Difficulty: improvers.
+
 # Truly Victorian
 - LM100 **Corset** (PDF)
 
@@ -131,3 +134,6 @@ PDFs are available in A0 and A4/US letter. NOTE: I'm seeing some discussion of s
 - #UP1075 [**Zip through jacket with collar**](https://unfetteredpatterns.blog/up1075-free-sewing-pattern/) (PDF, free).
 
 NOTE: I've seen some discussion of stolen images or AI-generated images used by this designer. I picked these up free but will look elsewhere in the future.
+
+# Vogue
+- To obtain: #V1966 **Vintage Jacket and Trousers**. Difficulty: average.
