@@ -20,6 +20,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - To obtain: B5926 **Misses' Petite Jacket**.
 - To obtain: B6338 **Curved-Hem Corsets and Skirts**.
 - B6400 **costume/historical jacket** (paper).
+- B6965 **Misses' jacket, skirt, and pants** (paper). Difficulty: easy.
 
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 [**Blanca Flight Suit**](https://closetcorepatterns.com/products/blanca-flight-suit-pattern?_pos=1&_sid=ad1cd2b9a&_ss=r&variant=39419135950982) (paper). Difficulty: advanced.
