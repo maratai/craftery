@@ -34,6 +34,11 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - **Thursday Thong** (PDF)
 - **Wednesday Cheekies** (panties) (PDF)
 
+# [Fibre Mood](https://www.fibremood.com)
+Note: UK-based (?), currently does not ship patterns to the USA except for subscriptions.
+
+- To obtain: [**Bryn Top**](https://www.fibremood.com/products/bryn-top-sewing-pattern). Asymmetrical top.
+
 # [Folkwear](https://www.folkwear.com)
 - 133 **Belgian Military Chef's Jacket** (paper)
 - 134 **South Asian Tops and Wraps** (*paper)
