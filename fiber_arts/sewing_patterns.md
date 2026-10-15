@@ -19,7 +19,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 # Butterick
 - To obtain: B5926 **Misses' Petite Jacket**.
 - To obtain: B6338 **Curved-Hem Corsets and Skirts**.
-- B6400 **costume/historical jacket** (paper)
+- B6400 **costume/historical jacket** (paper).
 
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 [**Blanca Flight Suit**](https://closetcorepatterns.com/products/blanca-flight-suit-pattern?_pos=1&_sid=ad1cd2b9a&_ss=r&variant=39419135950982) (paper). Difficulty: advanced.
@@ -43,7 +43,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - **Wednesday Cheekies** (panties) (PDF)
 
 # [Fibre Mood](https://www.fibremood.com)
-Note: UK-based (?), currently does not ship paper patterns to the USA except for subscriptions.
+Note: UK-based (?), currently does not ship *paper* patterns to the USA except for subscriptions.
 
 - To obtain: [**Alya Blazer**](https://www.fibremood.com/products/alya-blazer-sewing-pattern). Difficulty: 3/5.
 - To obtain: [**Bryn Top**](https://www.fibremood.com/products/bryn-top-sewing-pattern). Asymmetrical top. Difficulty: 1/5.
@@ -53,14 +53,14 @@ Note: UK-based (?), currently does not ship paper patterns to the USA except for
 - To obtain: [**Scott Jacket**](https://www.fibremood.com/products/scott-jacket-pod). Difficulty: 3/5.
 
 # [Folkwear](https://www.folkwear.com)
-- 133 **Belgian Military Chef's Jacket** (paper)
-- 134 **South Asian Tops and Wraps** (*paper)
+- 133 **Belgian Military Chef's Jacket** (paper).
+- 134 **South Asian Tops and Wraps** (*paper).
   - **Burmese Jacket**
   - **Indian Choli**
   - **Thai Blouse**
-- 141 **Korean Han-bok** (paper)
-- 229 **Sailor Pants** (paper)
-- 305 **A Japanese Interior** (paper)
+- 141 **Korean Han-bok** (paper).
+- 229 **Sailor Pants** (paper).
+- 305 **A Japanese Interior** (paper).
   - Foam Mat Cover
   - Kakebuton Cover Bottom Fabric
   - Kakebuton Cover Top Fabric
@@ -85,25 +85,25 @@ Note: UK-based (?), currently does not ship paper patterns to the USA except for
 - To obtain: M8230 **Misses' Jacket Dress by Yaya Han**.
 
 # Mrs. DePew Vintage Patterns
-- #1011 **Quilted Slippers** (ballet slipper style) (PDF)
-- #2030A **1920s Bandeau Bra** (PDF)
-- #3114 **1930s Set of Gloves** (PDF)
+- #1011 **Quilted Slippers** (ballet slipper style) (PDF).
+- #2030A **1920s Bandeau Bra** (PDF).
+- #3114 **1930s Set of Gloves** (PDF).
 
 # [Muun Archive](https://muunarchive.com)
-- [**Cheoma Top**](https://muunarchive.com/products/cheoma-top) (PDF)
+- [**Cheoma Top**](https://muunarchive.com/products/cheoma-top) (PDF).
 
 # [Sewing Therapy](https://sewingtherapy.net)
 - To obtain: [**Hanbok Shirt and Coat**](https://twooninefabric.ca/collections/top/products/pdf-hanbok-shirt-and-coat-pattern-sewing-therapy). Difficulty: confident beginner.
 - To obtain: [**Hanbok Top and Jacket**](https://twooninefabric.ca/collections/sewing-therapy-pdf-patterns/products/pdf-hanbok-top-jacket-sewing-therapy). [Sew-along and tutorial](https://sewingtherapy.net/hanbok-jacket-tutorial/). Difficulty: confident beginner to intermediate.
 
 # [Sew Over It](https://sewoverit.com)
-- **Dorothy Jacket** (paper)
+- **Dorothy Jacket** (paper).
 
 # [Simplicity](https://simplicity.com)
 - To obtain: 8056 **Miss and Plus Size Flared Pants or Shorts**.
 - To obtain: 8408 **Men's Shirt and Vests**.
 - To obtain: 8626 **Women's Corset Belts**.
-- 8700A **utility jacket**
+- 8700A **utility jacket** (paper).
 - To obtain: 8769 **Women's Costume Coats**.
 - To obtain: 9087 **Men's Steampunk Corset Vests**.
 - To obtain: 9249 **Misses' Jacket, Pants, Cropped Hooded Tabard, Mask**.
@@ -124,8 +124,8 @@ PDFs are available in A0 and A4/US letter. NOTE: I'm seeing some discussion of s
 # [Tilly and the Buttons](https://tillyandthebuttons.com)
 - To obtain: [**Manon Trench Coat and Jacket**](https://tillyandthebuttons.com/products/manon-trench-jacket-sewing-pattern). Difficulty: improvers.
 
-# Truly Victorian
-- LM100 **Corset** (PDF)
+# [Laughing Moon Mercantile](https://www.laughingmoonmercantile.com)
+- LM100 [**Ladies' Victorian Underwear - 2 Corset Styles, Chemise**](https://www.laughingmoonmercantile.com/product-page/100-download-ladies-victorian-underwear) (PDF). [Discussion and tips](https://trulyvictorian.info/2019/11/07/working-with-lm100-corset-pattern/) (Truly Victorian).
 
 # [Twig + Tale](https://www.twigandtale.com)
 - [**Overland Cloak**](https://www.twigandtale.com/products/cloak-adult) (PDF). Difficulty: adventurous beginner/intermediate.
