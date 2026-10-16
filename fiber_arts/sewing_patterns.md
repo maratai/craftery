@@ -113,9 +113,10 @@ Note: UK-based (?), currently does not ship *paper* patterns to the USA except f
 To investigate.
 
 - [Learn How to Draft the Basic Pants Pattern](https://www.theshapesoffabric.com/2020/08/16/learn-how-to-draft-the-basic-pants-pattern/). Blog post, free.
-- [**Patternmaking Guide: Kimono Sleeve Dresses and Cardigans**](https://www.theshapesoffabric.com/product/patternmaking-guide-kimono-sleeve-dresses-cardigans/). Difficulty: newbies. E-guide is $13.30 USD.
+- [**Patternmaking Guide: Kimono Sleeve Dresses and Cardigans**](https://www.theshapesoffabric.com/product/patternmaking-guide-kimono-sleeve-dresses-cardigans/). Pattern block: dartless bodice. Difficulty: newbies. E-guide is $13.30 USD.
 - [**Patternmaking Guide: Simple Vests**](https://www.theshapesoffabric.com/product/patternmaking-guide-simple-vests/). Difficulty: newbies. E-guide is $11.40 USD.
-- [**Patternmaking Guide: T-Shirt, Hoodie and Sweater**](https://www.theshapesoffabric.com/product/patternmaking-guide-t-shirt-hoodie-sweater/). Difficulty: newbies. E-guide is $13.30 USD.
+- [**Patternmaking Guide: T-Shirt, Hoodie and Sweater**](https://www.theshapesoffabric.com/product/patternmaking-guide-t-shirt-hoodie-sweater/). Pattern block: dartless bodice. Difficulty: newbies. E-guide is $13.30 USD.
+- [**Patternmaking  Guide: Winter Coats**](https://www.theshapesoffabric.com/product/patternmaking-guide-winter-coats/). Pattern block: dartless bodice for coats. Difficulty: advanced. E-guide is $19.80.
 - [**Patternmaking Guide: Women's Fitted Jackets**](https://www.theshapesoffabric.com/product/patternmaking-guide-womens-fitted-jackets/). Difficulty: advanced. E-guide is $19.90.
 - [**Patternmaking Guide: Women's Pants**](https://www.theshapesoffabric.com/product/patternmaking-guide-womens-pants/). Difficulty: intermediate. E-guide is $15.80 USD.
 
