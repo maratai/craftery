@@ -82,12 +82,12 @@ I have books but they're in Hangeul/Korean!
 - Ulrike Claßen-Büttner. *Nalbinding: What in the World Is That?: History and Technique of an Almost Forgotten Handicraft*.
 
 # Sewing, Tailoring
-**NOTE:** Some books on sewing/tailoring specifically with handwoven are under Weaving.
+**NOTE:** Some books on sewing/tailoring specifically with handwoven are under Weaving. Ones I'm looking at more immediately are probably listed under [Sewing Patterns](https://github.com/maratai/craftery/blob/main/fiber_arts/sewing_patterns.md).
 
 - Shirley Adams. *The Sewing Connection VI*. Refabrication, darts, lace, matching irregular/unbalanced plaids, handling sequined fabrics, outdoor furnishing repair, fringes, pattern alternations, linings, exposed zipper pockets, patternless coat, creative solutions to mistakes, "dressy" denims.
 - Shirley Adams. *The Sewing Connection 8*. Quilted silk jackets, cutout jackets, under-fabric supports, altering shoulders, set-in sleeves and sleeve plackets, decorative seams, platter purses, upholstering chair seats, twin needle stitching, mixing/manipulating fabrics in bomber jackets, machine cutwork embroider, recycling scarves into jackets.
 - Shirley Adams. *The Sewing Connection 10*. altering patterns, interrupted piping (loops and frogs), shaped waistband, sewing with handwovens, combining smaller fabric pieces, compartmentalized purse, wrinkling/crinkling/texturizing fabrics, cutting/fitting/finishing pants, hems according to fabric and finish, weather-resistant sewing, beach/pool cover-ups, a cotton adaptation of a wool jacket.
-- Helen Joseph Armstrong. *Patternmaking for Fashion Design*, 5th ed.
+- Helen Joseph-Armstrong. *Patternmaking for Fashion Design*, 5th ed.
 - Jo Barnfield and Andrew Richards. *The Pattern Making Primer: All you need to know about designing, adapting and customizing sewing patterns*.
 - Peggy Bendel. *Vogue Sewing for the Home: Dozens of Easy and Elegant Decorating Projects for Every Room in Your Home*.
 - Bunka Fashion Series Garment Design Textbook. #1 *Fundamentals of Garment Design*, #2 *Skirts and Pants*, #3 *Blouses and Dresses*, #4 *Jackets and Vests*, #5 *Coats abnd Capes*.
