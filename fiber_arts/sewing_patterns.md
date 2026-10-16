@@ -13,15 +13,14 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 # Sewing Books
 I do own some books on sewing but haven't worked through them (or have enough expertise) in enough detail to "review" them. I'm just noting that they exist in my collection (alongside the wishlist of recs to investigate).
 
-To investigate:
 - [My Top 5 Patternmaking Books for Home Sewists](https://sewpomona.com/my-top-5-patternmaking-books-for-home-sewists/) (SewPomona).
-
 - To obtain: Carol Ahles' *Fine Machine Sewing*. I have this out from the library and it looks excellent, but also the kind of excellent where one wants to reach for it regularly...
 - Sharon D. Alderman and Kathryn Wertenberger. *Handwoven, Tailormade: A Tandem Guide to Fabric Designing, Weaving, Sewing and Tailoring*. This focuses on the fabric design and weaving side, with a more brief overview of sewing/tailoring techniques. (This is what I *want* out of this book - I have other resources for the sewing/tailoring side.)
 - To find: Winifred Aldrich's *Metric Pattern Cutting for Women's Wear*. [A review](https://www.theshapesoffabric.com/2018/10/11/metric-pattern-cutting/) (The Shapes of Fabric).
 - Jo Barnfield and Andrew Richards. *The Pattern Making Primer*.
 - Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*. Discusses double weave as well. The patterns are mostly the "here's how to arrange/drape rectangles/triangles or other simple geometric shapes for garments" type - nothing wrong with that, noting informationally.
 - J. François-Campbell. *Simple Tailoring and Alterations*. Focuses on alterations, hemming etc; this will not teach e.g. pattern drafting.
+- On order: Suzy Furrer. *Building Patterns: The Architecture of Clothing*, 2nd ed.
 - Vick Roling Hines. *How to Make Your Owhn Lightweight Camping and Hiking Gear*. Excellent pattern drafts and guidance on fabric selection; the latter has dated in that there are more modern options. Includes a rundown of relevant sewing techniques, closures, etc. specific to the use case(s).
 - Helen Joseph-Armstrong. *Patternmaking for Fashion Design*, 5th ed. Currently attempting to work through this (at a hobbyist home sewist level...).
 - Maddie Kulig. *Sew Lingerie: Make Size-Inclusive Bras, Panties, Swimwear and More*. Includes QR codes for links to the patterns.
