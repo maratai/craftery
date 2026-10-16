@@ -1,12 +1,10 @@
 # Sewing Patterns
 
-Not reviews, just an inventory and wishlist **for my own reference**. I've only recently had time to get my sewing machine(s) working again.
+Not reviews, just an inventory, wishlist, notes **for my own reference**. I've only recently had time to get my sewing machine(s) working again.
 
 **Difficulty ratings** are from the designer/seller's description.
 
 It turns out the Friends of the Library booksale sells secondhand sewing patterns! I have to check out the offerings when they next open in January. (At my library, they understandably take November and December off!)
-
-Note to self: add some of the ones Of Interest To Me that are embedded in books. Some of them are Japanese- or Korean-language pattern books, though, which is going to make typing hard since I'm not really fluent in Korean and not at all fluent in Japanese...
 
 (more TK)
 
