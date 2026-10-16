@@ -113,7 +113,10 @@ Note: UK-based (?), currently does not ship *paper* patterns to the USA except f
 To investigate.
 
 - [Learn How to Draft the Basic Pants Pattern](https://www.theshapesoffabric.com/2020/08/16/learn-how-to-draft-the-basic-pants-pattern/). Blog post, free.
-- [**Patternmaking Guide: Simple Vests**](https://www.theshapesoffabric.com/product/patternmaking-guide-simple-vests/). E-guide is $11.40 USD.
+- [**Patternmaking Guide: Kimono Sleeve Dresses and Cardigans**](https://www.theshapesoffabric.com/product/patternmaking-guide-kimono-sleeve-dresses-cardigans/). Difficulty: newbies. E-guide is $13.30 USD.
+- [**Patternmaking Guide: Simple Vests**](https://www.theshapesoffabric.com/product/patternmaking-guide-simple-vests/). Difficulty: newbies. E-guide is $11.40 USD.
+- [**Patternmaking Guide: T-Shirt, Hoodie and Sweater**]. Difficulty: newbies. E-guide is $13.30 USD.
+- 
 
 # [Simplicity](https://simplicity.com)
 - To obtain: 8056 **Miss and Plus Size Flared Pants or Shorts**.
