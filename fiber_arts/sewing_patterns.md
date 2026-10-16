@@ -64,6 +64,8 @@ I do own some books on sewing but haven't worked through them (or have enough ex
 # [Emerald Erin](https://shop.emeralderin.com)
 - **Friday French Cuts** (panties) (PDF)
 - **Jordy Bralette** (PDF)
+  - Pattern pieces cut, fabric + lace pieces cut.
+  - To do: start sewing!
 - **Tuesday Boyshort** (PDF)
 - **Thursday Thong** (PDF)
 - **Wednesday Cheekies** (panties) (PDF)
