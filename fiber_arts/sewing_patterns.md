@@ -13,6 +13,9 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 # Sewing Books
 I do own some books on sewing but haven't worked through them (or have enough expertise) in enough detail to "review" them. I'm just noting that they exist in my collection (alongside the wishlist of recs to investigate).
 
+To investigate:
+- [My Top 5 Patternmaking Books for Home Sewists](https://sewpomona.com/my-top-5-patternmaking-books-for-home-sewists/) (SewPomona).
+
 - To obtain: Carol Ahles' *Fine Machine Sewing*. I have this out from the library and it looks excellent, but also the kind of excellent where one wants to reach for it regularly...
 - Sharon D. Alderman and Kathryn Wertenberger. *Handwoven, Tailormade: A Tandem Guide to Fabric Designing, Weaving, Sewing and Tailoring*. This focuses on the fabric design and weaving side, with a more brief overview of sewing/tailoring techniques. (This is what I *want* out of this book - I have other resources for the sewing/tailoring side.)
 - To find: Winifred Aldrich's *Metric Pattern Cutting for Women's Wear*. [A review](https://www.theshapesoffabric.com/2018/10/11/metric-pattern-cutting/) (The Shapes of Fabric).
