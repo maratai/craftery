@@ -36,7 +36,7 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 - To obtain: [**Kelly Anorak**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/kelly-anorak-jacket-pattern?variant=39419171209350). Difficulty: advanced. PDF costs $18 USD.
 - To obtain: [**Luzerne Trench Coat**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/luzerne-trench-coat-pattern?variant=40683447582854). Difficulty: advanced. PDF costs $18 USD.
 - To obtain: [**Nénuphar Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/nenuphar-jacket-pattern?variant=40683455938694). Difficulty: intermediate. PDF costs $18 USD.
-- To obtain: [**Passiflore Dress + Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/passiflore-dress-shirt-pattern?variant=40683458691206). Difficulty: advanced.
+- To obtain: [**Passiflore Dress + Shirt**](https://closetcorepatterns.com/collections/shirt-top-patterns/products/passiflore-dress-shirt-pattern?variant=40683458691206). Difficulty: advanced. PDF costs $18 USD.
 - To obtain: [**Pietra Pants and Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/pietra-pants-shorts-pattern?variant=39419178483846). Difficulty: confident beginner. PDF costs $22 USD.
 - To obtain: [**Poppy Shorts**](https://closetcorepatterns.com/collections/trouser-shorts-pants-patterns/products/poppy-shorts-pattern?variant=44313806143622). Difficulty: intermediate. PDF costs $18 USD.
 - To obtain: [**Sienna Maker Jacket**](https://closetcorepatterns.com/collections/coat-patterns-jacket-patterns/products/sienna-maker-jacket-pattern?variant=39419189788806). Difficulty: advanced. PDF costs $18 USD.
