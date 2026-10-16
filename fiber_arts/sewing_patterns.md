@@ -52,12 +52,12 @@ Note to self: add some of the ones Of Interest To Me that are embedded in books.
 # [Fibre Mood](https://www.fibremood.com)
 Note: UK-based (?), currently does not ship *paper* patterns to the USA except for subscriptions.
 
-- To obtain: [**Alya Blazer**](https://www.fibremood.com/products/alya-blazer-sewing-pattern). Difficulty: 3/5.
-- To obtain: [**Bryn Top**](https://www.fibremood.com/products/bryn-top-sewing-pattern). Asymmetrical top. Difficulty: 1/5.
-- To obtain: [**Carly Jacket**](https://www.fibremood.com/products/carly-jacket-pod). Difficulty: 4/5.
-- To obtain: [**Leo Jacket**](https://www.fibremood.com/products/leo-jacket-pod). Difficulty: 3/5.
-- To obtain: [**Nori Jacket**](https://www.fibremood.com/products/nori-jacket-sewing-pattern). Difficulty: 3/5.
-- To obtain: [**Scott Jacket**](https://www.fibremood.com/products/scott-jacket-pod). Difficulty: 3/5.
+- To obtain: [**Alya Blazer**](https://www.fibremood.com/products/alya-blazer-sewing-pattern). Difficulty: 3/5. PDF is 12,45 euros.
+- To obtain: [**Bryn Top**](https://www.fibremood.com/products/bryn-top-sewing-pattern). Asymmetrical top. Difficulty: 1/5. PDF is 12,45 euros.
+- To obtain: [**Carly Jacket**](https://www.fibremood.com/products/carly-jacket-pod). Difficulty: 4/5. PDF is 12,45 euros.
+- To obtain: [**Leo Jacket**](https://www.fibremood.com/products/leo-jacket-pod). Difficulty: 3/5. PDF is 12,45 euros.
+- To obtain: [**Nori Jacket**](https://www.fibremood.com/products/nori-jacket-sewing-pattern). Difficulty: 3/5. PDF is 12,45 euros.
+- To obtain: [**Scott Jacket**](https://www.fibremood.com/products/scott-jacket-pod). Difficulty: 3/5. PDF is 12,45 euros.
 
 # [Folkwear](https://www.folkwear.com)
 - 133 **Belgian Military Chef's Jacket** (paper).
