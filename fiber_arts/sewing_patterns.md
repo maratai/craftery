@@ -116,6 +116,7 @@ To investigate.
 - [**Patternmaking Guide: Kimono Sleeve Dresses and Cardigans**](https://www.theshapesoffabric.com/product/patternmaking-guide-kimono-sleeve-dresses-cardigans/). Difficulty: newbies. E-guide is $13.30 USD.
 - [**Patternmaking Guide: Simple Vests**](https://www.theshapesoffabric.com/product/patternmaking-guide-simple-vests/). Difficulty: newbies. E-guide is $11.40 USD.
 - [**Patternmaking Guide: T-Shirt, Hoodie and Sweater**](https://www.theshapesoffabric.com/product/patternmaking-guide-t-shirt-hoodie-sweater/). Difficulty: newbies. E-guide is $13.30 USD.
+- [**Patternmaking Guide: Women's Fitted Jackets**](https://www.theshapesoffabric.com/product/patternmaking-guide-womens-fitted-jackets/). Difficulty: advanced. E-guide is $19.90.
 - [**Patternmaking Guide: Women's Pants**](https://www.theshapesoffabric.com/product/patternmaking-guide-womens-pants/). Difficulty: intermediate. E-guide is $15.80 USD.
 
 # [Simplicity](https://simplicity.com)
