@@ -23,6 +23,7 @@ To investigate:
 - Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*. Discusses double weave as well. The patterns are mostly the "here's how to arrange/drape rectangles/triangles or other simple geometric shapes for garments" type - nothing wrong with that, noting informationally.
 - J. François-Campbell. *Simple Tailoring and Alterations*. Focuses on alterations, hemming etc; this will not teach e.g. pattern drafting.
 - Vick Roling Hines. *How to Make Your Owhn Lightweight Camping and Hiking Gear*. Excellent pattern drafts and guidance on fabric selection; the latter has dated in that there are more modern options. Includes a rundown of relevant sewing techniques, closures, etc. specific to the use case(s).
+- Helen Joseph-Armstrong. *Patternmaking for Fashion Design*, 5th ed. Currently attempting to work through this (at a hobbyist home sewist level...).
 - Maddie Kulig. *Sew Lingerie: Make Size-Inclusive Bras, Panties, Swimwear and More*. Includes QR codes for links to the patterns.
 - To investigate: [**Daryl Lancaster**](https://www.weaversew.com/shop/) on sewing with handwoven (hat-tip to [Laura Fry](https://laurafry.com)).
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. This gives you the formulae to draft your own patterns. I'm not the one to ask about how "authentic" this is but the formulae work (as long as you understand that these are not fitted garments nor designed for a wider range of body types).
