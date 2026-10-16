@@ -112,7 +112,8 @@ Note: UK-based (?), currently does not ship *paper* patterns to the USA except f
 # [The Shapes of Fabric](https://www.theshapesoffabric.com)
 To investigate.
 
-- [Learn How to Draft the Basic Pants Pattern](https://www.theshapesoffabric.com/2020/08/16/learn-how-to-draft-the-basic-pants-pattern/).
+- [Learn How to Draft the Basic Pants Pattern](https://www.theshapesoffabric.com/2020/08/16/learn-how-to-draft-the-basic-pants-pattern/). Blog post, free.
+- [**Patternmaking Guide: Simple Vests**](https://www.theshapesoffabric.com/product/patternmaking-guide-simple-vests/). E-guide is $11.40 USD.
 
 # [Simplicity](https://simplicity.com)
 - To obtain: 8056 **Miss and Plus Size Flared Pants or Shorts**.
