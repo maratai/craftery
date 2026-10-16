@@ -18,6 +18,7 @@ I do own some books on sewing but haven't worked through them (or have enough ex
 - To find: Winifred Aldrich's *Metric Pattern Cutting for Women's Wear*. [A review](https://www.theshapesoffabric.com/2018/10/11/metric-pattern-cutting/) (The Shapes of Fabric).
 - Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*. Discusses double weave as well. The patterns are mostly the "here's how to arrange/drape rectangles/triangles or other simple geometric shapes for garments" type - nothing wrong with that, noting informationally.
 - J. François-Campbell. *Simple Tailoring and Alterations*. Focuses on alterations, hemming etc; this will not teach e.g. pattern drafting.
+- Vick Roling Hines. *How to Make Your Owhn Lightweight Camping and Hiking Gear*. Excellent pattern drafts and guidance on fabric selection; the latter has dated in that there are more modern options. Includes a rundown of relevant sewing techniques, closures, etc. specific to the use case(s).
 - Maddie Kulig. *Sew Lingerie: Make Size-Inclusive Bras, Panties, Swimwear and More*. Includes QR codes for links to the patterns.
 - To investigate: [**Daryl Lancaster**](https://www.weaversew.com/shop/) on sewing with handwoven (hat-tip to [Laura Fry](https://laurafry.com)).
 - Amy Miller. *Dressed to Kill: British Naval Uniform, Masculinity and Contemporary Fashions, 1748-1857*, 2nd ed. Includes some *very* scaled-down drafts and diagrams alongside all the photos. Vouched for by a tailor friend who's familiar with the subject area.
