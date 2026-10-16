@@ -45,6 +45,7 @@ I do own some books on sewing but haven't worked through them (or have enough ex
 - B6965 **Misses' jacket, skirt, and pants** (paper). Difficulty: easy.
   - pattern pieces cut.
   - I need to locate the full-size iron so I can iron my muslin! The tiny travel iron isn't gonna cut it.
+  - Full-size iron located! This weekend I'll iron the muslin and see about laying out and cutting pieces?
 
 # [Closet Core](https://closetcorepatterns.com/)
 - No. 22 [**Blanca Flight Suit**](https://closetcorepatterns.com/products/blanca-flight-suit-pattern?_pos=1&_sid=ad1cd2b9a&_ss=r&variant=39419135950982) (paper). Difficulty: advanced.
