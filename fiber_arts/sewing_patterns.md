@@ -18,7 +18,7 @@ I do own some books on sewing but haven't worked through them (or have enough ex
 - Jo Barnfield and Andrew Richards. *The Pattern Making Primer*.
 - Betty J. Beard. *Fashions from the Loom: Handwoven Clothing Made Easy*. Discusses double weave as well. The patterns are mostly the "here's how to arrange/drape rectangles/triangles or other simple geometric shapes for garments" type - nothing wrong with that, noting informationally.
 - J. François-Campbell. *Simple Tailoring and Alterations*. Focuses on alterations, hemming etc; this will not teach e.g. pattern drafting.
-- On order: Suzy Furrer. *Building Patterns: The Architecture of Clothing*, 2nd ed.
+- Suzanne Furrer. *Building Patterns: The Architecture of Clothing*, 2nd ed. Newly arrived, plan on taking a look and then *committing to a book* (or a couple books, more likely) and working through basics!
 - Vick Roling Hines. *How to Make Your Owhn Lightweight Camping and Hiking Gear*. Excellent pattern drafts and guidance on fabric selection; the latter has dated in that there are more modern options. Includes a rundown of relevant sewing techniques, closures, etc. specific to the use case(s).
 - Helen Joseph-Armstrong. *Patternmaking for Fashion Design*, 5th ed. Currently attempting to work through this (at a hobbyist home sewist level...).
 - Maddie Kulig. *Sew Lingerie: Make Size-Inclusive Bras, Panties, Swimwear and More*. Includes QR codes for links to the patterns.
