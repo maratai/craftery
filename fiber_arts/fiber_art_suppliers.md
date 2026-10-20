@@ -39,7 +39,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Manufaktur Weiden](https://manufaktur-weiden.de/michi/) - Germany-based, with the Reisespinnrad Michi. I don't believe they ship internationally but the design is extremely neat to look at.
 - [MMWaiteWeaves](https://www.mmwaiteweaves.com) - US-based. Beautiful hand-dyed yarns and warps.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - US-based small workshop maker of Pocket Wheel travel spinning wheels. I have a secondhand one and it's amazing. (Mine's out on loan to a friend.) The wait list is two years long but the wheel is *fantastic*, especially if you want an ultraportable wheel. Check the ergonomics; I'm 5'4" and suspect this would be less comfortable for people with longer legs or greater height due to the sitting position required to operate the wheel.
-- [Prairie Coast Weaves](https://www.prairiecoastweaves.com). US-based. Offers Öxabäck Lilla looms and Öxabäck Ulla Cyrus Looms imported from Sweden. I don't have one of these looms but I was at one point considering a Lilla. They're well spoken of; I went with a different loom mainly because I prefer looms that *weigh* less in case of evacuation.
+- [Prairie Coast Weaves](https://www.prairiecoastweaves.com). US-based. Offers Öxabäck Lilla looms and Öxabäck Ulla Cyrus Looms imported from Sweden. I don't have one of these looms but I was at one point considering a Lilla. They're well spoken of; I went with a different loom because I prefer looms that *weigh* less in case of evacuation.
 - [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - US-based (Saori looms are imported from Japan). No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
 - [Saori Studio Los Angeles](https://saoristudiola.com/) - US-based (Saori looms are imported from Japan). No affiliation, a very happy repeat customer. Laura is terrific to work with.
 - [Schacht Spindle](https://schachtspindle.com). Also now the home of Louët products. They carry parts for some discontinued products (like my Louët S90 spinning wheel!).
@@ -63,5 +63,5 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [The Woolery](https://woolery.com/) - US-based retailer. A staggering variety of offerings.
 - [The Woolgatherers](https://www.woolgatherers.com/ONLINECATALOG.htm) - US-based. Terrifically informative, especially regarding looms.
 - [Yarn Barn of Kansas](https://www.yarnbarn-ks.com) - US-based. Terrific source of weaving, spinning, and other supplies, including books. Great selecton of weaving yarns. Carries the *Weaver's Craft* magazine.
-- [Z-Twist](https://www.ztwist.com) - US-based. Carson Cooper's spinning wheels and tools.
+- [Z-Twist](https://www.ztwist.com) - US-based. Carson Cooper's spinning wheels and tools. Out of my price range but fun to look at.
 - [Z-Twist Dye Works](https://www.ztwistdyeworks.com) - US-based. Silk yarns and fiber, sumptuously dyed. I bought some at HGA Convergence recently, am looking forward!
