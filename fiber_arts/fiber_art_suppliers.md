@@ -56,6 +56,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving). Sweden-based.
 - [TheDancingGoats](https://www.etsy.com/shop/TheDancingGoats) - Etsy, US-based. A terrific variety of tools; I've used the rigid heddles.
 - [Theodora's Pearls](https://www.theodoraspearls.com) - US-based. Gorgeous hand-dyed yarns; I'm particularly taken with the bamboo yarns.
+- [Thomas Victor Studio](https://www.thomasvictor.com) - US-based. Not a supplier as such but look at that handwoven, some of that made with exquisite handspun!
 - [Toika](https://shop.toika.com/) - Finland-based. Looms and other tools. From contacting them, I learned that in the USA they distribute via [WEBS Yarn](https://www.yarn.com/) so contact WEBS to place an order. I have a Toika Laila (8H 8T) and adore her; I did have to ask Toika directly for an updated [Toika Laila assembly manual PDF](https://github.com/maratai/craftery/blob/main/fiber_arts/LAILA_LOOM.pdf), which I've uploaded here, but if it doesn't match *your* Laila, best to email Toika asking for the correct one.
 - [Treenway Silks](https://www.treenwaysilks.com/) - US-based supplier, fantastic mulberry and tussah silk for spinning. The sample cards are absolutely worthwhile. Also other varieties and blends I haven't tried yet.
 - [Vävstuga Weaving School](https://vavstuga.com) - US-based. They specialize in Swedish weaving looms and equipment, with a terrific selection of books.
