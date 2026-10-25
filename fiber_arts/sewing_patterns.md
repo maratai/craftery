@@ -24,6 +24,7 @@ I do own some books on sewing but haven't worked through them (or have enough ex
 - Maddie Kulig. *Sew Lingerie: Make Size-Inclusive Bras, Panties, Swimwear and More*. Includes QR codes for links to the patterns.
 - To investigate: [**Daryl Lancaster**](https://www.weaversew.com/shop/) on sewing with handwoven (hat-tip to [Laura Fry](https://laurafry.com)).
 - John Marshall. *Make Your Own Japanese Clothes: Patterns and Ideas for Modern Wear*. This gives you the formulae to draft your own patterns. I'm not the one to ask about how "authentic" this is but the formulae work (as long as you understand that these are not fitted garments nor designed for a wider range of body types).
+- Merchant & Mills. *Workwear: Timeless Sewing Patterns for a Practical Wardrobe*. Aspirationally hoping to try this after a couple simpler projects!
 - Amy Miller. *Dressed to Kill: British Naval Uniform, Masculinity and Contemporary Fashions, 1748-1857*, 2nd ed. Includes some *very* scaled-down drafts and diagrams alongside all the photos. Vouched for by a tailor friend who's familiar with the subject area.
 - To find: Tomoko Nakamichi's *Pattern Magic* series. [A review, part 1](https://www.theshapesoffabric.com/2018/01/31/pattern-magic-part-1/); [part 2](https://www.theshapesoffabric.com/2018/02/06/pattern-magic-as-a-source-of-inspiration-part-2/) (The Shapes of Fabric).
 - To find: Ruth Singer's *Fabric Manipulation*. [A review](https://www.theshapesoffabric.com/2019/05/26/fabric-manipulation-books-to-have/) (The Shapes of Fabric).
