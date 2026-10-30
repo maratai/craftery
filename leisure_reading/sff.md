@@ -77,6 +77,9 @@ Note that I've placed Parke Godwin's Arthuriana under **Historical Fiction**.
 - Tanya Huff. *A Confederation of Valor*. Omnibus of *Valor's Choice* and the *Better Part of Valor*.
 - Timothy Zahn. *Heir to the Empire*. **to-read**
 
+# Romantasy
+- Bel Banta. *The Court of Venus*. **Currently reading.**
+
 # Science Fantasy
 - Tamsyn Muir. *Gideon the Ninth*. **Recommended**.
 - Roger Zelazny. Chronicles of Amber. #1 *Nine Princes in Amber*. **Recommended**.
