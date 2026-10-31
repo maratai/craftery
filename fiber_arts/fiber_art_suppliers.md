@@ -24,6 +24,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) - US-based. More affordable tools beautifully and thoughtfully made. I have the yarn swift, bobbin winder, and cone holder. Check out the [Build-A-Board Warping Board](https://www.fiberartistsupply.com/build-a-board-warping-board/) for a much more affordable modular "warping board" solution of warping pegs you can set up (and put away) to your liking.
 - [Flying Fibers](https://www.flyingfibers.com) - US-based? To investigate.
 - [Forsyth Wool Combs](https://www.woolcombs.com) - Canada-based. They may be out of my price range for processing fleece/etc but they have a great reputation.
+- [Fox Farm Homestead](https://foxfarmhomestead.com/shop/page/3/) - US-based. Noted for future reference.
 - [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - US-based. Beautiful art batts, also semi-local to me (they're in Texas).
 - [Gist Yarn](https://www.gistyarn.com) - US-based. Lovely weaving yarns and patterns/kits; I've used the Beam cotton in 3/2 and am looking forward to trying others.
 - [Golding Fiber Tools](https://dropspindle.info) - US-based. I love looking but I will likely never be able to afford any of these beautiful heirloom wheels.
@@ -58,6 +59,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Spinnrad - HENKYS](https://spinnrad-henkys.de) - Germany-based spinning wheels. I'm unlikely ever to get to see one in person but I like to dream!
 - [Spinolution](https://www.spinolution.com/) - US-based. Fantastic spinning wheels although the "toe treadling" requires some practice. The thorough manuals and videos are particularly helpful for some of the more "modern" designs. They're designed modularly and mine is fantastic in use, but "traditional" spinning wheel experience is less helpful. I have a secondhand Mach III with an 8-oz flyer and the 4A accelerated flyer, and it's probably my Forever Wheel as the 4A makes spinning silk easier. (Ratios up to 73:1 on the Monarch and Mach III with a current 4A.) The toe-treadling action on the Mach III is ls pleasantly light, but may not suit everyone.
 - [SpinPerfect](https://spinperfect.com/) - US-based. I haven't tried their 3D-printed spinning wheel, but they make accessories and bobbins for Spinolution spinning wheels. I have a Mach III with the SpinPerfect PaulyWinder installed on the Spinolution flyers and it's great. The PaulyWinder will work with the bobbins you already have, but these flyers are *only* made for the Spinolution and SpinPerfect wheels.
+- [Steitzhof Merinos](https://steitzhof.com) - US-based. Noted for future reference.
 - [Texsolv](https://texsolv.se/) of Texsolv heddle fame (weaving). Sweden-based.
 - [TheDancingGoats](https://www.etsy.com/shop/TheDancingGoats) - Etsy, US-based. A terrific variety of tools; I've used the rigid heddles.
 - [Theodora's Pearls](https://www.theodoraspearls.com) - US-based. Gorgeous hand-dyed yarns; I'm particularly taken with the bamboo yarns.
