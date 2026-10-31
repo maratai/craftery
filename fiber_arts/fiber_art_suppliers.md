@@ -22,7 +22,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Fancy Kitty](https://www.fancy-kitty.com) - US-based. Great fiber processing (and other) tools. I have the smaller bench-top wool picker and it's sturdy and very well designed, including a safety lock; if I didn't have a Strauch drum carder already (secondhand) I would be looking at them for one of those!
 - [Feral Scene](https://feralscene.com/) - US-based supplier, semi-local to me. Their art batts for spinning are great. Also carries [Spinolution](https://www.spinolution.com/) spinning wheels and accessories. I have a secondhand Mach III, but obtained some accessories for it from Feral Scene.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) - US-based. More affordable tools beautifully and thoughtfully made. I have the yarn swift, bobbin winder, and cone holder. Check out the [Build-A-Board Warping Board](https://www.fiberartistsupply.com/build-a-board-warping-board/) for a much more affordable modular "warping board" solution of warping pegs you can set up (and put away) to your liking.
-- [A Fiber Life](https://afiberlife.com) - US-based. Dreamy guanaco spinning fiber and yarn.
+- [A Fiber Life](https://afiberlife.com) - US-based. Dreamy guanaco spinning fiber and yarn. Get on the mailing list because they sell out fast!
 - [Flying Fibers](https://www.flyingfibers.com) - US-based? To investigate.
 - [Forsyth Wool Combs](https://www.woolcombs.com) - Canada-based. They may be out of my price range for processing fleece/etc but they have a great reputation.
 - [Fox Farm Homestead](https://foxfarmhomestead.com/shop/page/3/) - US-based. Noted for future reference.
