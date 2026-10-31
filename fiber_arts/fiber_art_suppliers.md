@@ -3,6 +3,7 @@ Not a comprehensive list!
 
 I'm US-based, so for availability reasons in a cursed polity, I'm noting *location*; some non-US-based suppliers (e.g.) may not ship physical items to the USA at any given point in time.
 
+- [Apple Creek Merinos](https://www.applecreekmerinos.com) - US-based. Noted for future reference.
 - [Ashford Wheels and Looms](https://www.ashford.co.nz) - New Zealand-based. Ashford's wheels are ubiquitous in the USA and carried by many retailers, as well as being relatively common on the secondhand market (although this is regional). I own and have used a secondhand Ashford Traveller and Ashford Traditional. They're great wheels; I think of them as the Honda Civics of the spinning wheel world, not "flashy" but absolutely reliable. Even for older examples (folks on Ravelry dated my Traditional as being from 1981!), you can readily obtain replacement parts, which is great for those of us buying secondhand.
 - [Atelier Rodier](https://www.atelier-rodier.fr) - France-based. Consider this a bookmark; understandably, they don't ship to the USA, but some of the spinning wheel designs are so intriguing!
 - [AVL Looms](https://avllooms.com) - US-based. I don't expect these ever to be within my reach, but I like poring over the pages!
@@ -45,7 +46,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [MMWaiteWeaves](https://www.mmwaiteweaves.com) - US-based. Beautiful hand-dyed yarns and warps.
 - [Pocket Wheel](https://www.pocket-wheel.com/) - US-based small workshop maker of Pocket Wheel travel spinning wheels. I have a secondhand one and it's amazing. (Mine's out on loan to a friend.) The wait list is two years long but the wheel is *fantastic*, especially if you want an ultraportable wheel. Check the ergonomics; I'm 5'4" and suspect this would be less comfortable for people with longer legs or greater height due to the sitting position required to operate the wheel.
 - [Prairie Coast Weaves](https://www.prairiecoastweaves.com). US-based. Offers Öxabäck Lilla looms and Öxabäck Ulla Cyrus Looms imported from Sweden. I don't have one of these looms but I was at one point considering a Lilla. They're well spoken of; I went with a different loom because I prefer looms that *weigh* less in case of evacuation.
-- [The Quarter Stitch](https://www.quarterstitch.com) - New Orleans knitting and needlepoint boutique, semi-local to me. I am hoping to stop by at some point; besides yarn, I'm hoping to pick up some spinning fiber!
+- [The Quarter Stitch](https://www.quarterstitch.com) - New Orleans knitting and needlepoint boutique, semi-local to me. I was fortunate enough to stop by in person and pick up a lovely skein of yarn! Staggering variety - it makes me wish I were a knitter.
 - [Saori Santa Cruz (Etsy)](https://www.etsy.com/shop/saorisantacruz) - US-based (Saori looms are imported from Japan). No affiliation, but I am a very happy repeat customer. Jill has her own tutorials for Saori looms and tools that I found invaluable.
 - [Saori Studio Los Angeles](https://saoristudiola.com/) - US-based (Saori looms are imported from Japan). No affiliation, a very happy repeat customer. Laura is terrific to work with.
 - [Schacht Spindle](https://schachtspindle.com). Also now the home of Louët products. They carry parts for some discontinued products (like my Louët S90 spinning wheel!).
