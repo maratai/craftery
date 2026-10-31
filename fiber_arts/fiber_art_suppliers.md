@@ -54,6 +54,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [School of SweetGeorgia](https://www.sweetgeorgia.co/) - Canada-based. Video lessons in fiber arts (rigid heddle and multi-shaft weaving, spinning, dyeing, also knitting and crochet); they also sell supplies.
 - [Séguin Looms](https://seguinlooms.com/?lang=en) - Canada-based. Site is in English and français. I have not had much chance to explore Fiberworks yet. I'd love to hear from someone who has used a Séguin computerized dobby loom as they appear to be scarce in the USA.
 - [Selvedge Magazine](https://www.selvedge.org/) - UK-based, I *think*. I was fortunate enough to purchase a number of back issues from someone who was destashing, which have made for tremendous reading; I hope someday I can justify splurging on a subscription!
+- [Silver Cloud Alpacas](https://silvercloudalpacas.com) - US-based. Noted for future reference.
 - [Snyder Spindles](https://www.etsy.com/shop/SnyderSpindles) - US-based. Terrifically reliable Turkish spindles. (I haven't tried the others. I *really* like Turkish spindles!)
 - [The Spanish Peacock](https://spanishpeacock.com) - US-based. Hand spindles, tools, fiber. Noted to investigate.
 - [Spinnrad - HENKYS](https://spinnrad-henkys.de) - Germany-based spinning wheels. I'm unlikely ever to get to see one in person but I like to dream!
