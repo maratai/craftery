@@ -26,6 +26,11 @@ Computer mouse for scale.
 
 Close-up of wraps-per-inch assessment using the [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com) wraps-per-inch tool.
 
+# Silk Dyeing
+These are commercial silk yarns. They took the dye beautifully!
+
+![dyed silk yarns](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-27-yarns.jpg?raw=true)
+
 # Silk Dyeing and Spinning: Cobweb
 
 ![spinning silk](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-09-11-silk.jpg?raw=true)
