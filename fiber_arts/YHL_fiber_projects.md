@@ -6,6 +6,16 @@ Rather cursed double weave - cursed in that I hadn't resolved the shed on this p
 
 ![cotton placemats WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-06-loom-weaving.jpg?raw=true)
 
+# Silk and Tencel Weaving WIP
+
+![measuring warp](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-10-ronja.jpg?raw=true)
+
+Measuring silk and tencel warp on a [Glimåkra Ronja](https://www.glimakrausa.com/ronja-warping-frame) warping frame C-clamped off-label to my [Inagaki R-25](https://inagakikiryo-weaving.com/products/handloom-r25) floor loom.
+
+![warp close-up](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-09-warp-01.jpg?raw=true)
+
+Close-up of a segment of the warp.
+
 # Tencel Dyeing and Handspinning
 Beautiful colors can be achieved using fiber-reactive dyes; I like spinning fine.
 
