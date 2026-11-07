@@ -10,6 +10,10 @@ Catten "helped" tension my warp...
 
 ![cat on weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-11-loom-02.jpg?raw=true)
 
+# Silk Dyeing and Spinning: Cobweb
+
+![spinning silk](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-09-11-silk.jpg?raw=true)
+
 # Silk and Tencel Weaving WIP
 
 ![measuring warp](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-10-ronja.jpg?raw=true)
@@ -19,6 +23,14 @@ Measuring silk and tencel warp on a [Glimåkra Ronja](https://www.glimakrausa.co
 ![warp close-up](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-09-warp-01.jpg?raw=true)
 
 Close-up of a segment of the warp.
+
+# Split Shed Weaving
+
+Split shed weaving on a Saori WX60 during a Convergence 2026 workshop with weaver [Deborah Silver](https://www.deborahsilverstudio.com)! Her book *The Technique of Split Shed Weaving* goes into incredible detail on this technique.
+
+![split shed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-08-25-split-shed-01.jpg?raw=true)
+
+![split shed](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-08-25-split-shed-02.jpg?raw=true)
 
 # Tencel Dyeing and Handspinning
 Beautiful colors can be achieved using fiber-reactive dyes; I like spinning fine.
