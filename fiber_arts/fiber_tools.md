@@ -160,7 +160,8 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 
 # Other Fiber Tools
 
-- Ashford (I think) [hand carders](https://www.ashford.co.nz/product/classic-hand-carders/)
+- Ashford (I think) [hand cards](https://www.ashford.co.nz/product/classic-hand-carders/).
+- [BAM Fiber Works](https://www.bamfiberworks.com) [extra-fine mini wool combs with magnetic comb covers and holder](https://www.bamfiberworks.com/collections/combs-and-hackles/products/mini-wool-combs-w-holder-single-or-double-row-fine-or-extra-fine).
 - [Fancy Kitty](https://fancy-kitty.com/) Blending Board
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) bobbin winder (weaving shuttle bobbins - will also, in a pinch, work to wind sewing machine bobbins by hand!), cone holder, jumbo yarn ball winder, yarn swift.
