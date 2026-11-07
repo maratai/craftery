@@ -1,6 +1,13 @@
 # Fiber Projects
 Various projects as I learn! (more TK)
 
+# Alpaca/Silk Blend: Dyeing and Spinning
+An experiment dyeing some alpaca (processed from raw) and tussah silk that I'd carded together on cotton hand cards. I think I'd rather try combing next, but interesting to see the results! Spun on an Ashford Traditional.
+
+![alpaca silk blend](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-alpaca-01.jpg?raw=true)
+
+![alpaca silk blend dyed fiber](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-alpaca-02.jpg?raw=true)
+
 # Camel Cashmere Silk blend: Spinning
 Camel Cashmere Silk blend from [IxCheL Fibre and Yarns](https://ixchel.com.au), spun on an Ashford Traditional.
 
