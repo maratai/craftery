@@ -2,7 +2,9 @@
 Various projects as I learn! (more TK)
 
 # Cotton Placemats
-Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom.
+Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom. They were not intended to "match."
+
+![cotton placemats](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-placemats.jpg?raw=true)
 
 ![cotton placemats WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-06-loom-weaving.jpg?raw=true)
 
