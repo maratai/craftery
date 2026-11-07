@@ -85,4 +85,4 @@ Tiny pocket-sized weaving on a DIY cardboard "pin loom" with my handspun.
 
 I ended up accidentally a double-width weave. Fun experience!
 
-![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02.jpg?raw=true)
+![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02-1-sm.jpg?raw=true)
