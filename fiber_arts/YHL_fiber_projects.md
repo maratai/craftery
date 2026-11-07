@@ -6,7 +6,7 @@ Camel Cashmere Silk blend from [IxCheL Fibre and Yarns](https://ixchel.com.au), 
 
 ![IxChel spinning](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-ixchel.jpg?raw=true)
 
-# Cotton Placemats
+# Cotton Placemats: Weaving
 Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom. They were not intended to "match."
 
 ![cotton placemats](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-placemats.jpg?raw=true)
@@ -21,6 +21,13 @@ Catten "helped" tension my warp...
 I couldn't obtain the amber colorway I wanted to I took some Malabrigo Silky Alpaca in Natural and dyed it myself.
 
 ![dyed Malabrigo Silky Alpaca](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-08-20-malabrigo-silky-alpaca-amber.jpg?raw=true)
+
+# Polwarth/Ramie/Tussah Silk blend: Spinning
+Polwarth/ramie/tussah silk blend in "Never Let You Go" from [HipStrings](https://hipstrings.com). Spun on an Ashford Traditional.
+
+![spinning](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-hipstrings-01.jpg)
+
+![fiber](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-hipstrings-02.jpg?raw=true)
 
 # Ramie-Silk Spinning: Cobweb
 Spinning a 50-50 ramie/silk blend experimentally. Great for spinning cobweb!
