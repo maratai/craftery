@@ -72,3 +72,12 @@ Experimenting with variegated tencels in "phoenix" colors. Catten for scale?!
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-01.jpg?raw=true)
 
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-02.jpg?raw=true)
+
+# Tiny Weaving
+Tiny pocket-sized weaving on a DIY cardboard "pin loom" with my handspun.
+
+![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-12-diy-loom.jpg?raw=true)
+
+I ended up accidentally a double-width weave. Fun experience!
+
+![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02.jpg?raw=true)
