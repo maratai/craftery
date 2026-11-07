@@ -20,7 +20,7 @@ Camel Cashmere Silk blend from [IxCheL Fibre and Yarns](https://ixchel.com.au), 
 
 ![IxChel spinning](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-ixchel.jpg?raw=true)
 
-# Cotton Placemats: Weaving
+# Cotton Double Weave Placemats: Weaving
 Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom. They were not intended to "match."
 
 ![cotton placemats](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-placemats.jpg?raw=true)
