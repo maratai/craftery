@@ -6,6 +6,10 @@ Rather cursed double weave - cursed in that I hadn't resolved the shed on this p
 
 ![cotton placemats WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-06-loom-weaving.jpg?raw=true)
 
+Catten "helped" tension my warp...
+
+![cat on weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-11-loom-02.jpg?raw=true)
+
 # Silk and Tencel Weaving WIP
 
 ![measuring warp](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-10-ronja.jpg?raw=true)
