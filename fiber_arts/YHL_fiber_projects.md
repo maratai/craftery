@@ -15,6 +15,17 @@ I couldn't obtain the amber colorway I wanted to I took some Malabrigo Silky Alp
 
 ![dyed Malabrigo Silky Alpaca](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-08-20-malabrigo-silky-alpaca-amber.jpg?raw=true)
 
+# Ramie-Silk Spinning: Cobweb
+Spinning a 50-50 ramie/silk blend experimentally. Great for spinning cobweb!
+
+![ramie-silk blend handspun](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-19-ramie-silk-02.jpg?raw=true)
+
+Computer mouse for scale.
+
+![ramie-silk blend](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-19-ramie-silk-01.jpg?raw=true)
+
+Close-up of wraps-per-inch assessment using the [Daedalus Spinning Wheels](https://www.daedalusspinningwheels.com) wraps-per-inch tool.
+
 # Silk Dyeing and Spinning: Cobweb
 
 ![spinning silk](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-09-11-silk.jpg?raw=true)
