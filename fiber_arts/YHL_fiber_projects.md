@@ -67,6 +67,11 @@ Handspun on a Spinolution Mach III with the 4A accelerated flyer. Fountain pen f
 Assessing how fine I'm able to spin this with a wraps-per-inch tool from [Eugene Textile Center](https://www.eugenetextilecenter.com). (I think it was a freebie with one of my orders but I can't remember for sure.)
 
 # Tencel Weaving
+My first project on the [Toika Laila](https://www.toika.com/en/product/laila-loom/). Warp and weft by [Blazing Shuttles](https://www.blazingshuttles.com).
+
+![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-01-laila-weaving-sm.jpg)
+
+# Tencel Weaving
 Experimenting with variegated tencels in "phoenix" colors. Catten for scale?!
 
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-01.jpg?raw=true)
