@@ -1,6 +1,13 @@
 # Fiber Projects
 Various projects as I learn! (more TK)
 
+# Alpaca: processing raw
+Hoping to spin this; fleece obtained from a semi-local farmer.
+
+![alpaca](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-alpaca.jpg?raw=true)
+
+Here it's been washed and carded (cotton cards).
+
 # Alpaca/Silk Blend: Dyeing and Spinning
 An experiment dyeing some alpaca (processed from raw) and tussah silk that I'd carded together on cotton hand cards. I think I'd rather try combing next, but interesting to see the results! Spun on an Ashford Traditional.
 
