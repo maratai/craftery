@@ -31,6 +31,17 @@ Catten "helped" tension my warp...
 
 ![cat on weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-11-loom-02.jpg?raw=true)
 
+# Malabrigo Nube and Wool Blend: Spinning
+People weren't kidding when they said Malabrigo Nube roving ("Whales' Road") was slightly annoying to work with. Here, it's plied with a wool blend art batt.
+
+![blue yarn](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-blue-yarn-01.jpg?raw=true)
+
+The yarn's very uneven, unfortunately: I was practicing spinning woolen, which I find wildly uncomfortable; I usually spin worsted or semi-worsted.
+
+![blue yarn drying](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-blue-yarn-02.jpg?raw=true)
+
+Here it's drying outside after being thwacked.
+
 # Malabrigo Silky Alpaca: Dyeing
 I couldn't obtain the amber colorway I wanted to I took some Malabrigo Silky Alpaca in Natural and dyed it myself.
 
