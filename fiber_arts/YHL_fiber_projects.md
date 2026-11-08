@@ -81,7 +81,18 @@ These are commercial silk yarns. They took the dye beautifully! [Dharma Trading 
 
 ![dyed silk yarns](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-yarns-1.jpg?raw=true)
 
-# Silk Dyeing and Spinning: Cobweb
+# Silk fiber dyeing
+Procion MX dyes using the "vinegar" method. Now that I have some acid dyes, I'd like to try that too.
+
+![dyed silk fiber](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-dyed-silk-01.jpg?raw=true)
+
+![dyed silk fiber: blues](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-dyed-silk-02.jpg)
+
+![dyed silk fiber: reds and purples](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-dyed-silk-03.jpg?raw=true)
+
+![dyed silk fiber: blues, close-up](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-dyed-silk-04.jpg?raw=true)
+
+# Silk fiber dyeing and spinning: Cobweb
 
 ![spinning silk](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-09-11-silk.jpg?raw=true)
 
