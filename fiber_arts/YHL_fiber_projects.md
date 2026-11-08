@@ -114,3 +114,20 @@ Tiny pocket-sized weaving on a DIY cardboard "pin loom" with my handspun.
 I ended up accidentally a double-width weave. Fun experience!
 
 ![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02-1-sm.jpg?raw=true)
+
+# Wensleydale: fiber prep and spinning
+Test spin of some "imperfect" Wensleydale I've been preparing from fleece. Clemes and Clemes cited "tenderness" and sold the fleece skirted and scoured.
+
+![Wensleydale test spin](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-wensleydale-01.jpg?raw=true)
+
+Look at that sheen! I don't spin a ton of wool by itself and not a lot of wool blends either, so this is educational.
+
+![Wensleydale locks](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-wensleydale-03.jpg?raw=true)
+
+Some of the locks before I begin.
+
+![Wensleydale combing](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-wensleydale-02.jpg?raw=true)
+
+Beginning to comb this using extra-fine mini wool combs from [BAM Fiber Works](https://www.bamfiberworks.com).
+
+![Wensleydale floof](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-wensleydale-04.jpg?raw=true)
