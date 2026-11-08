@@ -115,6 +115,17 @@ I ended up accidentally a double-width weave. Fun experience!
 
 ![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02-1-sm.jpg?raw=true)
 
+# Twill Gamp in cotton
+Draft from [School of SweetGeorgia](https://www.sweetgeorgia.co/)'s twill course!
+
+![Twill gamp WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-twill-01.jpg?raw=true)
+
+I need to fix the tension; this was a ~header as proof of concept.
+
+![Twill gamp: loom warped](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-twill-02.jpg?raw=true)
+
+Set up on my Saori WX60.
+
 # Wensleydale: fiber prep and spinning
 Test spin of some "imperfect" Wensleydale I've been preparing from fleece. Clemes and Clemes cited "tenderness" and sold the fleece skirted and scoured.
 
