@@ -20,8 +20,8 @@ Camel Cashmere Silk blend from [IxCheL Fibre and Yarns](https://ixchel.com.au), 
 
 ![IxChel spinning](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-ixchel.jpg?raw=true)
 
-# Cotton Double Weave Placemats: Weaving
-Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom, the Inagaki R-25. The placemats were not intended to "match" pattern-wise.
+# Double Weave Placemats: Weaving
+Rather cursed double weave in 3/2 cotton - cursed in that I hadn't resolved the shed on this particular counterbalance loom, the Inagaki R-25. The placemats were not intended to "match" pattern-wise.
 
 ![cotton placemats](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-placemats.jpg?raw=true)
 
@@ -30,6 +30,17 @@ Rather cursed double weave - cursed in that I hadn't resolved the shed on this p
 Catten "helped" tension my warp...
 
 ![cat on weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-11-loom-02.jpg?raw=true)
+
+# Lakeview Placemats: Weaving
+[Lakeview Placemats](https://www.gistyarn.com/products/lakeview-placemats-weaving-pattern) weaving pattern by Kristine Nichols (Gist Yarn), woven in 3/2 Beam cotton on a Saori WX60. I've got to try this in something closer to the sample colors!
+
+![nachos](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-05-27-catten-placemat.jpg?raw=true)
+
+This is a somewhat cursed nachos colorway - woven for a friend to harmonize with living room colors. (We're both from Texas.) Catten for scale?
+
+![blues](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-04-20-loom-lakeview-blue-01.jpg?raw=true)
+
+Earlier sample in a lower-contrast blues.
 
 # Malabrigo Nube and Wool Blend: Spinning
 People weren't kidding when they said Malabrigo Nube roving ("Whales' Road") was slightly annoying to work with. Here, it's plied with a wool blend art batt. Spun on a Spinolution Mach III with the 4A accelerated flyer.
