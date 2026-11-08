@@ -118,17 +118,29 @@ Spun on a Spinolution Mach III with the 4A accelerated flyer. Fountain pen for s
 
 Assessing how fine I'm able to spin this with a wraps-per-inch tool from [Eugene Textile Center](https://www.eugenetextilecenter.com). (I think it was a freebie with one of my orders but I can't remember for sure.)
 
+You can see how it looks as weft in this tencel plain weave project - it's the yellowy lighter stripe WIP.
+
+![tencel weave](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-tencel-weave.jpg?raw=true)
+
 # Tencel Weaving
 My first project on the [Toika Laila](https://www.toika.com/en/product/laila-loom/). Warp and weft by [Blazing Shuttles](https://www.blazingshuttles.com).
 
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-06-01-laila-weaving-sm.jpg)
 
 # Tencel Weaving
-Experimenting with variegated tencels in "phoenix" colors. Catten for scale?!
+Experimenting with variegated tencels in "phoenix" colors. Catten for scale?! Mostly plain weave, modulo threading errors and other bloopers.
 
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-01.jpg?raw=true)
 
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-02.jpg?raw=true)
+
+![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-tencel-weave.jpg?raw=true)
+
+The yellowy weft stripe is my hand-dyed, handspun tencel! Woven on a Saori Piccolo.
+
+![tencel weaving: clasped weft](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-tencel-clasped-weft.jpg?raw=true)
+
+A brief experiment/sample section in clasped weft.
 
 # Tiny Weaving
 Tiny pocket-sized weaving on a DIY cardboard "pin loom" with my handspun.
@@ -138,6 +150,11 @@ Tiny pocket-sized weaving on a DIY cardboard "pin loom" with my handspun.
 I ended up accidentally a double-width weave. Fun experience!
 
 ![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02-1-sm.jpg?raw=true)
+
+# Tussah silk: spinning (WIP)
+Spinning cobweb on a Spinolution Mach III with the 4A accelerated flyer.
+
+![tussah](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-tussah.jpg?raw=true)
 
 # Twill Gamp in cotton (WIP)
 Draft from [School of SweetGeorgia](https://www.sweetgeorgia.co/)'s twill course! This is set up so a local friend can try weaving on a floor loom.
