@@ -9,7 +9,7 @@ Hoping to spin this; fleece obtained from a semi-local farmer.
 Here it's been washed and carded (cotton cards).
 
 # Alpaca/Silk Blend: Dyeing and Spinning
-An experiment dyeing some alpaca (processed from raw) and tussah silk that I'd carded together on cotton hand cards. Procion MX (fiber-reactive) using the "vinegar" method. I think I'd rather try combing next, but interesting to see the results! Spun on an Ashford Traditional.
+An experiment dyeing some alpaca (processed from raw) and tussah silk that I'd carded together on cotton hand cards. [Dharma Trading Co.](https://www.dharmatrading.com) Procion MX (fiber-reactive) using the "vinegar" method. I think I'd rather try combing next, and acid dyes actually intended for use on protein fibers, but interesting results! Spun on an Ashford Traditional.
 
 ![alpaca silk blend](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-alpaca-01.jpg?raw=true)
 
@@ -21,7 +21,7 @@ Camel Cashmere Silk blend from [IxCheL Fibre and Yarns](https://ixchel.com.au), 
 ![IxChel spinning](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-ixchel.jpg?raw=true)
 
 # Cotton Double Weave Placemats: Weaving
-Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom. They were not intended to "match."
+Rather cursed double weave - cursed in that I hadn't resolved the shed on this particular counterbalance loom, the Inagaki R-25. The placemats were not intended to "match" pattern-wise.
 
 ![cotton placemats](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-placemats.jpg?raw=true)
 
@@ -32,7 +32,7 @@ Catten "helped" tension my warp...
 ![cat on weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-11-loom-02.jpg?raw=true)
 
 # Malabrigo Nube and Wool Blend: Spinning
-People weren't kidding when they said Malabrigo Nube roving ("Whales' Road") was slightly annoying to work with. Here, it's plied with a wool blend art batt.
+People weren't kidding when they said Malabrigo Nube roving ("Whales' Road") was slightly annoying to work with. Here, it's plied with a wool blend art batt. Spun on a Spinolution Mach III with the 4A accelerated flyer.
 
 ![blue yarn](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-blue-yarn-01.jpg?raw=true)
 
@@ -55,7 +55,7 @@ Polwarth/ramie/tussah silk blend in "Never Let You Go" from [HipStrings](https:/
 ![fiber](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-hipstrings-02.jpg?raw=true)
 
 # Ramie-Silk Spinning: Cobweb
-Spinning a 50-50 ramie/silk blend experimentally. Great for spinning cobweb!
+Spinning a 50-50 ramie/silk blend experimentally. Great for cobweb! Spun on a Spinolution Mach III with the 4A accelerated flyer.
 
 ![ramie-silk blend handspun](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-07-19-ramie-silk-02.jpg?raw=true)
 
@@ -73,6 +73,8 @@ These are commercial silk yarns. They took the dye beautifully! [Dharma Trading 
 # Silk Dyeing and Spinning: Cobweb
 
 ![spinning silk](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-09-11-silk.jpg?raw=true)
+
+Spun on a Spinolution Mach III with the 4A accelerated flyer.
 
 # Silk and Tencel Weaving WIP
 
@@ -99,7 +101,7 @@ Beautiful colors can be achieved using fiber-reactive dyes; I like spinning fine
 
 ![handspun dyed tencel top](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-15-tencel-02.jpg?raw=true)
 
-Handspun on a Spinolution Mach III with the 4A accelerated flyer. Fountain pen for scale.
+Spun on a Spinolution Mach III with the 4A accelerated flyer. Fountain pen for scale.
 
 ![wraps per inch](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-10-15-tencel-03.jpg?raw=true)
 
@@ -126,8 +128,8 @@ I ended up accidentally a double-width weave. Fun experience!
 
 ![tiny weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-01-13-diy-loom-02-1-sm.jpg?raw=true)
 
-# Twill Gamp in cotton
-Draft from [School of SweetGeorgia](https://www.sweetgeorgia.co/)'s twill course!
+# Twill Gamp in cotton (WIP)
+Draft from [School of SweetGeorgia](https://www.sweetgeorgia.co/)'s twill course! This is set up so a local friend can try weaving on a floor loom.
 
 ![Twill gamp WIP](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-twill-01.jpg?raw=true)
 
@@ -138,7 +140,7 @@ I need to fix the tension; this was a ~header as proof of concept.
 Set up on my Saori WX60.
 
 # Wensleydale: fiber prep and spinning
-Test spin of some "imperfect" Wensleydale I've been preparing from fleece. Clemes and Clemes cited "tenderness" and sold the fleece skirted and scoured.
+Test spin of some "imperfect" Wensleydale I've been preparing from fleece. Clemes and Clemes cited "tenderness" and sold the fleece skirted and scoured. Spun on an Ashford Traditional.
 
 ![Wensleydale test spin](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-08-wensleydale-01.jpg?raw=true)
 
