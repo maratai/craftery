@@ -141,6 +141,10 @@ My first project on the [Toika Laila](https://www.toika.com/en/product/laila-loo
 # Tencel Weaving
 Experimenting with variegated tencels in "phoenix" colors. Catten for scale?! Mostly plain weave, modulo threading errors and other bloopers.
 
+![tencel scarf](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-10-scarf.jpg?raw=true)
+
+The middle section became this scarf, which is on its way to a friend as a gift!
+
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-01.jpg?raw=true)
 
 ![tencel weaving](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-03-catten-carpet-02.jpg?raw=true)
