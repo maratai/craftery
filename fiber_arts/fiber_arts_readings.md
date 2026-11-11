@@ -349,7 +349,7 @@ There's not a ton of information specifically on supported spindles in dedicated
 - TheGossamerWeb. [Fleegle Spins Supported](https://www.etsy.com/listing/1832122249/fleegle-spins-supported-hard-cover) (Etsy). This is the hardcover book, which I have on order; there's also a less pricey [downloadable ebook edition](https://www.etsy.com/listing/1057083417/direct-download-of-fleegle-spins) for sale.
 
 ## Spinning Wool and Fleece Preparataion
-- [Wool Comb](https://www.youtube.com/watch?v=IyOGsQvXmJg) (YouTube). Extremely informative video by Soulful Spinning. Specifically discusses Valkyrie two-pitch combs (great all-purpose combs), Riley Wood and Fiber Arts combs (very sharp, ergonomic handles), Louët double-row fine combs (lighter weight and easier on the wrists), Benjamin Green Studio (thickest tines), English combs (heavy-duty, often four-pitch). (more TK)
+- [Wool Comb](https://www.youtube.com/watch?v=IyOGsQvXmJg) (YouTube). Extremely informative video by Soulful Spinning. Specifically discusses Valkyrie two-pitch combs (great all-purpose combs), Riley Wood and Fiber Arts combs (very sharp, ergonomic handles), Louët double-row fine combs (lighter weight and easier on the wrists), Benjamin Green Studio (thickest tines), English combs (heavy-duty, often four-pitch), Pat Russo combs (peasant combs, similar to Valkyrie or St. Blaise combs?). (more TK)
 
 ## Spinning Wheel Construction and Design
 - Carson Cooper. *Guide to Making Spinning WHeels: Plans and Instructions for Building Saxony, Irish Castle and Accelerator Wheels*, *Guide to Making Spinning Wheel Flyers and Wheels*, and *Guide to Restoring an Antique Spinning Wheel*. Wonderful discussions of the physics/engineering considerations. **Recommended**.
