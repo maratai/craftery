@@ -454,6 +454,13 @@ I'm still learning the basics so haven't explored these thoroughly.
 - [How I Adjust My AVL (Mechanical) Dobby Loom](https://fiber.hassel.net/Dobby/).
 - [Skye Weavers](https://www.skyeweavers.co.uk) - Isle of Skye, Scotland. They have what looks like a mechanical dobby loom set up with BICYCLE PEDALS! I hope someday to visit, but until then, I can admire the photos and videos.
 
+## Weaving (etc): Hitomezashi, Sashiko-Ori
+- [Hitomezashi Pattern Generator](https://hitomezashi.com).
+- [Hitomezashi Sashiko Design Generator](https://www.forresto.com/sashiko).
+- [Sashiko Maker](https://evoluteur.github.io/sashiko-maker/#p=asanoha&u=60&s=9&g=55&c=indigo).
+- [Sashiko Pattern Designer](https://sashiko.design).
+
+
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
 - Cay Garrett. *Warping All by Yourself*. Recommended by Mara Stolurow during an exchange on School of SweetGeorgia. Interlibrary loan. A clear, well-illustrated guide to **warping front-to-back**. Primarily discusses rising shed jack looms and counterbalance looms, with en passant mentions of sinking shed looms. There is not specific guidance on countermarche looms. I prefer warping back-to-front but I enjoyed perusing this!
