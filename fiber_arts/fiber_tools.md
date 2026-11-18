@@ -161,9 +161,10 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 # Other Fiber Tools
 
 - Ashford (I think) [hand cards](https://www.ashford.co.nz/product/classic-hand-carders/).
-- [Fancy Kitty](https://fancy-kitty.com/) Blending Board
+- [Fancy Kitty](https://fancy-kitty.com/) Blending Board.
 - [Fancy Kitty](https://fancy-kitty.com/) Wool Picker - works a treat, with a clever and thoughtful safety lock.
 - [Fiber Artist Supply Co.](https://www.fiberartistsupply.com/) bobbin winder (weaving shuttle bobbins - will also, in a pinch, work to wind sewing machine bobbins by hand!), cone holder, jumbo yarn ball winder, yarn swift.
+- Indigo Hound English-style combs, five-pitch.
 - lease and pickup sticks, various.
 - Nålbinding needles, various, from friends and family.
 - Schacht cotton hand cards.
@@ -177,6 +178,8 @@ Out of production; the "current" version is the [Monarch](https://www.spinolutio
 ## [BAM Fiber Works](https://www.bamfiberworks.com) [extra-fine mini wool combs with magnetic comb covers and holder](https://www.bamfiberworks.com/collections/combs-and-hackles/products/mini-wool-combs-w-holder-single-or-double-row-fine-or-extra-fine)
 
 ![BAM Fiber Works extra-fine mini wool combs with magnetic comb covers and holder](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-11-07-wool-combs.jpg?raw=true)
+
+These are a delight to work with. I'm saving toward the super-fine wool combs as well for the unhingedly fine alpaca I need to process. It's doable on the extra-fine but I suspect the task will go faster with super-fine. 
 
 ## [Glimåkra Ronja Warping Frame](https://www.glimakrausa.com/ronja-warping-frame)
 This attachment is designed to fit their looms but with creative use of C-clamps, will also fit my Inagaki R-25! It's not quite optimal but it works for me.
