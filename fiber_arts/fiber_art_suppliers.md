@@ -31,6 +31,7 @@ I'm US-based, so for availability reasons in a cursed polity, I'm noting *locati
 - [Fox Farm Homestead](https://foxfarmhomestead.com/shop/page/3/) - US-based. Noted for future reference.
 - [Gargoylelover (Etsy)](https://www.etsy.com/shop/gargoylelover) - US-based. Beautiful art batts, also semi-local to me (they're in Texas).
 - [Gist Yarn](https://www.gistyarn.com) - US-based. Lovely weaving yarns and patterns/kits; I've used the Beam cotton in 3/2 and am looking forward to trying others.
+- [Golden Warp Yarn Co.](https://goldenwarpyarnco.com) - US-based. Specialty silk supplier. Noted to investigate!
 - [Golding Fiber Tools](https://dropspindle.info) - US-based. I love looking but I will likely never be able to afford any of these beautiful heirloom wheels.
 - [Greenwood Fiberworks](https://greenwoodfiberworks.com) - US-based. To investigate. I keep being tempted by their glorious hand-dyed spinning fiber.
 - [Handywoman](https://www.handywomanshop.com/) - US-based. Gorgeous handmade weaving tools, including looms, shuttles, and more. The shuttles are to die for, and she has some terrific ultra-slim ones as well as specialty shuttles for band looms etc. If you're an embroiderer or sewist, check out the wooden embroidery cards!
