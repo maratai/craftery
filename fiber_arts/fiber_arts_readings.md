@@ -460,6 +460,8 @@ I'm still learning the basics so haven't explored these thoroughly.
 - [Sashiko Maker](https://evoluteur.github.io/sashiko-maker/#p=asanoha&u=60&s=9&g=55&c=indigo).
 - [Sashiko Pattern Designer](https://sashiko.design).
 
+## Weaving: Inlay Techniques
+- [Exploring Inlay Weaving Techniques](https://www.gistyarn.com/blogs/how-to-weave/exploring-inlay-weaving-techniques) (Gist Yarn). Detailed discussion of plain weave inlay, Theo Moorman inlay, overshot inlay.
 
 ## Weaving: Multishaft Looms
 - Betty Briand. *The Art of Weaving: Master the Techniques, Understand the Weave Structures, Create Your Own Designs*. This is the single "modern"/recent introductory book for multishaft weaving that I've found the most useful as a reference.
