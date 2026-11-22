@@ -39,6 +39,7 @@ My main interest is needle lace because of the low supply/tool requirement (fabr
 - DMC Library. *Needle-Made Laces: 1st Series*. I own this in hardcopy, but it's in the public domain and readily available online. **Recommended**.
 - *Needlecraft* No. 16. *Point Lace Work*. I own this in hardcopy, but it's in the public domain and readily available online.
 
+Online:
 - [Needle Lace: First Steps](https://www.taixtile.com/needle-lace-first-steps/). Tutorial for a sampler.
 - [Needle Lace: How to Make Real Lace With a Needle and Thread](https://www.needlework-tips-and-techniques.com/needle-lace.html). Includes a [heart tutorial](https://www.needlework-tips-and-techniques.com/needle-lace-heart-tutorial.html) and a [daffodil project](https://www.needlework-tips-and-techniques.com/needle-lace-daffodil-project.html) for beginners.
 - [Needle Lace Instruction](https://pysankigirl.wixsite.com/graceslace/instruction) - Includes downloadable PDF reference.
