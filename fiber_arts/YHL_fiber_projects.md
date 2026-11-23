@@ -58,6 +58,11 @@ I couldn't obtain the amber colorway I wanted to I took some Malabrigo Silky Alp
 
 ![dyed Malabrigo Silky Alpaca](https://github.com/maratai/craftery/blob/main/fiber_arts/fiber_arts_images/2026-08-20-malabrigo-silky-alpaca-amber.jpg?raw=true)
 
+# Needle Lace: every sky is full of stars
+Current WIP. I'm couching the cordonnet, which is reeled silk (plied into a fine cord) I hand-dyed a while back.
+
+(more TK)
+
 # Polwarth/Ramie/Tussah Silk blend: Spinning
 Polwarth/ramie/tussah silk blend in "Never Let You Go" from [HipStrings](https://hipstrings.com). Spun on an Ashford Traditional.
 
